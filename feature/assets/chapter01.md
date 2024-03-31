@@ -46,10 +46,11 @@ Bussiness Assumptions
 * 
 * 
 - #### 1.2.2.3. Lean UX Hypothesis Statements
-    * ""
-    * ""
-    * ""
-    * ""
+    * Creemos que al brindar nuevas formas de movilizarse a las personas, estas reducirán su huella de carbono, esto lo comprobaremos después de un análisis comparando despues de la salida de la página. 
+    * Creemos que ayudaremos al medio ambiente, esto debido a que las personas podrán optar por una medio de transporte que no contamina, esto hará que seamos una opción viable y seamos recomendados 
+    * Creemos que al ofrecer distintos medios de transporte más sostenibles, fomentaremos un estilo de vida más socioamigable.
+    * Creemos que al proporcionar distintos tipos de vehículos, ampliaremos nuestra base de clientes potenciales
+    * Creemos que al ofrecer una interfaz amigable y simple, lograremos captar la atencion de usuarios potenciales.
 - #### 1.2.2.4. Lean UX Canvas
 
 | Business problem<br>What business have you identified that needs help?                                                                                                                                                                                                                                                                                                                                                                               | Solution ideas<br>List product/feature/enhancement ideas that help your target audience achieve the benefits they are seeking.                                                                                                                                  | Business outcomes<br>What changes in customer behavior will indicate you have solved a real problem in a way that adds value to your customers?                                                                                                                                                                                        |
