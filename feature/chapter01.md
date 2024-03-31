@@ -30,14 +30,23 @@ Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los
 ### 1.2.2 Lean UX Process
 - #### 1.2.2.1. Lean UX Problem Statements
   - El usuario no tiene dinero para la suscripción de la app.
-      Es posible que el usuario quiera rentar un vehículo pero no tiene el dinero para pagar la suscripción.
+      - Es posible que el usuario quiera rentar un vehículo pero no tiene el dinero para pagar la suscripción.
   - El usuario ha olvidado su contraseña.
-      El usuario puede olvidar su contraseña y no podrá ingresar a la app,
+      - El usuario puede olvidar su contraseña y no podrá ingresar a la app,
   - La tarjeta del usuario ha expirado.
-      Es posible que la tarjeta del usuario haya expirado al momento de suscribirse  o durante una suscripción.
+      - Es posible que la tarjeta del usuario haya expirado al momento de suscribirse  o durante una suscripción.
   - No se encuentra disponible el vehículo que el usuario desea rentar.
-      También es posible que el usuario quiera rentar un vehículo que no se encuentra disponible.
+      - También es posible que el usuario quiera rentar un vehículo que no se encuentra disponible.
 - #### 1.2.2.2. Lean UX Assumptions
+  - Los usuarios prefieren tener varios métodos de pago al rentar su vehículo.
+      - Los usuarios quieren tener varias alternativas de pago para poder realizar la suscripción.
+  - Los usuarios confían que los vehículos se encuentren en buen estado siempre.
+      - Como un usuario queriendo rentar un vehículo, espero que este en buen estado.
+  - Los que rentan los vehículos confían en que los usuarios devuelvan el vehículo en buen estado y con combustible.
+      - Como rentador uno confía en que los usuarios devuelvan el vehículo en buen estado y con gasolina.
+  - Los que rentan los vehículos prefieren que los usuarios sean regulares.
+      - Como rentador me da más confianza que los clientes / usuarios habituales regresen a la app.
+
 Bussiness Assumptions
 * **Pienso que mis clientes necesitan** 
 * **Estas demandas pueden ser satisfechas mediante** 
