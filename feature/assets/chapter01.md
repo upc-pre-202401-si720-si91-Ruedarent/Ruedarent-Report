@@ -29,7 +29,9 @@ Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los
 | How Much?   | ¿Cuál es la cantidad, duración o intensidad del evento? | |
 ### 1.2.2 Lean UX Process
 - #### 1.2.2.1. Lean UX Problem Statements
+  .
 - #### 1.2.2.2. Lean UX Assumptions
+  .
 Bussiness Assumptions
 * **Pienso que mis clientes necesitan** 
 * **Estas demandas pueden ser satisfechas mediante** 
