@@ -29,6 +29,14 @@ Presentación del modelo de las preguntas 5Ws y 2Hs con la que se analizaron los
 | How Much?   | ¿Cuál es la cantidad, duración o intensidad del evento? | |
 ### 1.2.2 Lean UX Process
 - #### 1.2.2.1. Lean UX Problem Statements
+  - El usuario no tiene dinero para la suscripción de la app.
+      Es posible que el usuario quiera rentar un vehículo pero no tiene el dinero para pagar la suscripción.
+  - El usuario ha olvidado su contraseña.
+      El usuario puede olvidar su contraseña y no podrá ingresar a la app,
+  - La tarjeta del usuario ha expirado.
+      Es posible que la tarjeta del usuario haya expirado al momento de suscribirse  o durante una suscripción.
+  - No se encuentra disponible el vehículo que el usuario desea rentar.
+      También es posible que el usuario quiera rentar un vehículo que no se encuentra disponible.
 - #### 1.2.2.2. Lean UX Assumptions
 Bussiness Assumptions
 * **Pienso que mis clientes necesitan** 
