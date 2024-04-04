@@ -25,7 +25,13 @@ Resumen De Entrevista: Según las respuestas proporcionadas, la entrevistada com
 ### 2.2.2. Registro de entrevistas.
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
+El Needfinding es una metodología cualitativa la cual se enfoca en las opiniones y sentimientos de los usuarios. El objetivo de este método como se indica en el mismo nombre es identificar, buscar, analizar, conseguir, rescatar, valorar, o términos sencillos, buscar las necesidades que puedan guiar y orientar el desarrollo y diseño de cualquier proyecto.
+Para este proyecto en particular decidimos interactuar con potenciales usuarios mediante entrevistas y preguntas. A continuación se presentan diversos análisis de entrevistas en los siguientes artefactos.
 ### 2.3.1. User Personas.
+## 2.3.1.1. Segmento Propietario:
+![Img_segmento1](assets/photo_SE01.png)
+## 2.3.1.2. Segmento Persona que alquila:
+![Img_segmento2](assets/photo_SE02.png)
 ### 2.3.2. User Task Matrix.
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping.
