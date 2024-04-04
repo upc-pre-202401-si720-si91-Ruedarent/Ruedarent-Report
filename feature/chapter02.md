@@ -9,9 +9,6 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
 ### Entrevista para Usuarios que desean brindar alquiler:
 
 ### Entrevista para Usuarios que desean alquilar:
-- **Taxistas Experimentados:**
-
-- **Conductores Jóvenes:**<br>
 **Entrevista #1** <br>
 Nombre y apellidos: Daniela Chavez <br>
 Edad: 21 años <br>
