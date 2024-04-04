@@ -30,6 +30,16 @@ Para este proyecto en particular decidimos interactuar con potenciales usuarios 
 ## 2.3.1.2. Segmento Persona que alquila:
 ![Img_segmento2](assets/photo_SE02.png)
 ### 2.3.2. User Task Matrix.
+| User task                                   | Propietario                                 | Alquilador                                   |
+|-----------------------------------------|---------------------------------------------|----------------------------------------------|
+| Publicar vehículo                       | Frecuencia: Alta<br>Importancia: Alta       | -                                            |
+| Gestionar reservas                      | Frecuencia: Alta<br>Importancia: Alta       | Frecuencia: Alta<br>Importancia: Alta       |
+| Responder consultas                     | Frecuencia: Media<br>Importancia: Alta      | Frecuencia: Alta<br>Importancia: Media      |
+| Actualizar disponibilidad del vehículo  | Frecuencia: Alta<br>Importancia: Media     | -                                            |
+| Revisar perfil del alquilador           | Frecuencia: Media<br>Importancia: Baja      | -                                            |
+| Puntuar alquilador                     | Frecuencia: Baja<br>Importancia: Baja       | Frecuencia: Media<br>Importancia: Media     |
+
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping.
 ### 2.3.5. As-is Scenario Mapping.
