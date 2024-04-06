@@ -2,10 +2,11 @@
 ## Ingeniería de Software
 ### Aplicaciones Web - Trabajo Final
 - **Sección:** SI91
-- **Docente:** Mori Paiva, Hugo Allan
 - **Ciclo:** 2024-01
 - **Nombre de la Startup:** Ruedarent
 - **Nombre del producto:** Ruedarent
+
+## Grupo: N°1
 
 ## Integrantes
 | Alumno  | Código    |
@@ -16,4 +17,5 @@
 | Juan Jesús Calisaya Sánchez       | U202121935 |
 | Niurka Lucero Huarcaya Quispe     | U20221b226 |
 
-### 2023
+- **Docente:** Mori Paiva, Hugo Allan
+### UPC, abril de 2024-01
