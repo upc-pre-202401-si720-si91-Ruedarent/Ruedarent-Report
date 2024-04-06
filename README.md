@@ -1,20 +1,20 @@
 <div>
 <p style = 'text-align:center;'>
-<img src="https://i.ibb.co/Rggky7F/UPC-logo-transparente.png" alt="JuveYell" width="100px">
+<img src="https://i.ibb.co/Rggky7F/UPC-logo-transparente.png" alt="JuveYell" width="170px">
 </p>
   
-### UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+## UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
-#### FACULTAD DE INGENIERÍA - QUINTO CICLO
+### FACULTAD DE INGENIERÍA - QUINTO CICLO
 
-#### CURSO: SI91 - Aplicaciones Web
+### CURSO: SI91 - Aplicaciones Web
 
-#### "INFORME DE TRABAJO FINAL"
+### "INFORME DE TRABAJO FINAL"
 
 **Nombre de la Startup y el Producto:** 
 RUEDARENT  
 
-#### Grupo: N°1
+### Grupo: N°1
 
 | INTEGRANTES                     | Código      | CARRERA          |
 |---------------------------------|-------------|------------------|
@@ -24,9 +24,9 @@ RUEDARENT
 | Juan Jesús Calisaya Sánchez     | U202121935  | Ing. de Software |
 | Niurka Lucero Huarcaya Quispe   | U20221b226  | Ing. de Software |
 
-##### DOCENTE: 
+#### DOCENTE: 
 Mori Paiva, Hugo Allan
 
-##### UPC, abril de 2024
+#### UPC, abril de 2024
 
 </div>
