@@ -2,6 +2,7 @@
 <p style = 'text-align:center;'>
 <img src="https://i.ibb.co/Rggky7F/UPC-logo-transparente.png" alt="JuveYell" width="100px">
 </p>
+  
 ### UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 #### FACULTAD DE INGENIERÍA - QUINTO CICLO
