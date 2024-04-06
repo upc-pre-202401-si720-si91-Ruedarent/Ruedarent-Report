@@ -18,11 +18,11 @@ RUEDARENT
 
 | INTEGRANTES                     | Código      | CARRERA          |
 |---------------------------------|-------------|------------------|
-| Alejandro La Rosa Rodriguez     | U201911361  | Ing. de Software |
-| Beth Shantal Oneglio De Paz     | U202213423  | Ing. de Software |
-| David Ivanoff Gallo Quintana    | U20201e475  | Ing. de Software |
-| Juan Jesús Calisaya Sánchez     | U202121935  | Ing. de Software |
-| Niurka Lucero Huarcaya Quispe   | U20221b226  | Ing. de Software |
+| Alejandro La Rosa Rodriguez     | U201911361  | Ingeniería de Software |
+| Beth Shantal Oneglio De Paz     | U202213423  | Ingeniería de Software |
+| David Ivanoff Gallo Quintana    | U20201e475  | Ingeniería de Software |
+| Juan Jesús Calisaya Sánchez     | U202121935  | Ingeniería de Software |
+| Niurka Lucero Huarcaya Quispe   | U20221b226  | Ingeniería de Software |
 
 #### DOCENTE: 
 Mori Paiva, Hugo Allan
