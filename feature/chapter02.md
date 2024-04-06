@@ -30,23 +30,52 @@
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
-El objetivo de las entrevistas es obtener una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestra meta es recopilar información valiosa que nos permita entender mejor a nuestro público objetivo y mejorar nuestra comprensión de los usuarios. Estas conversaciones nos proporcionarán una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requisitos.
-### 2.2.1. Diseño de entrevistas.
-* ** **
-### Entrevista para Usuarios que desean brindar alquiler:
 
-### Entrevista para Usuarios que desean alquilar:
-**Entrevista #1** <br>
-Nombre y apellidos: Daniela Chavez <br>
-Edad: 21 años <br>
-Distrito: Magdalena del Mar<br>
-![Entrevista_Seg02_DanielaChavez](assets/Registro_Entrevista_Seg02_DanielaChavez.png) <br>
-Inicio De Entrevista: 0:01 <br>
-[URL_De_Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
-Resumen De Entrevista: Según las respuestas proporcionadas, la entrevistada comenta que usualmente se manifiesta por medio de transporte público, pero que estaba considerando ir en bicicleta o scooter eléctrico, este último debido a su velocidad. Comenta que cada vez en Lima, ve que cada vez más gente se moviliza por scooters y a su vez ve más gente usando ciclovías, lo cual considera que ayuda al medio ambiente además de que lo bueno de usar bicicletas sería el ejercicio. Además logras evitar el tráfico, asi como evitas pasarla mal en combi. Considera que si los precios son accesibles y favorecen a los usuarios podria ayudar a la obtención de nuevos hábitos.
-**Entrevista #2** <br>
+El objetivo de las entrevistas es obtener una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestra meta es recopilar información valiosa que nos permita entender mejor a nuestro público objetivo y mejorar nuestra comprensión de los usuarios. Estas conversaciones nos proporcionarán una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requisitos.
+
+### 2.2.1. Diseño de entrevistas.
 
 ### 2.2.2. Registro de entrevistas.
+
+### Entrevista para el "Propietario de los vehículos":
+
+Entrevista N°1:
+**Sexo:** Femenino
+**Edad:** 18 años
+**Ubicación:** San Martín de Porres
+**Entrevistada:** Ariana del Carpio Flores
+**Inicio de la Entrevista:** 0:03
+
+![Entrevista_Seg01_ArianadelCarpio](https://i.ibb.co/tqbTdcp/image.png")
+
+**Resumen de la Entrevista**: La entrevistada menciona que normalmente no utiliza su scooter eléctrico, pero le gustaría encontrar una plataforma que le permita darle un uso óptimo en lugar de dejarlo en desuso. Considera que esta herramienta podría ser una oportunidad para contribuir a la reducción de la contaminación, especialmente porque se dirige regularmente a la universidad y no encuentra tiempo para utilizarlo.
+
+**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EQh3NNNYUeROu-IXmUgcD_UBhGheSxjDGKPq25GKPsPARw?e=cCbJ49&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EQh3NNNYUeROu-IXmUgcD_UBhGheSxjDGKPq25GKPsPARw?e=cCbJ49&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+
+Entrevista N°2:
+
+Entrevista N°3:
+
+### Entrevista para los "Usuarios que desean alquilar":
+
+Entrevista N°1:
+
+**Sexo:** Femenino
+**Edad:** 21 años
+**Ubicación:** Magdalena del Mar
+**Entrevistada:** Daniela Chavez
+**Inicio de la Entrevista:** 0:01
+
+![Entrevista_Seg02_DanielaChavez](assets/Registro_Entrevista_Seg02_DanielaChavez.png)<br>
+
+**Resumen De Entrevista:** Según las respuestas proporcionadas, la entrevistada comenta que usualmente se manifiesta por medio de transporte público, pero que estaba considerando ir en bicicleta o scooter eléctrico, este último debido a su velocidad. Comenta que cada vez en Lima, ve que cada vez más gente se moviliza por scooters y a su vez ve más gente usando ciclovías, lo cual considera que ayuda al medio ambiente además de que lo bueno de usar bicicletas sería el ejercicio. Además logras evitar el tráfico, asi como evitas pasarla mal en combi. Considera que si los precios son accesibles y favorecen a los usuarios podria ayudar a la obtención de nuevos hábitos.
+
+**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+
+Entrevista N°2:
+
+Entrevista N°3:
+
 ### 2.2.3. Análisis de entrevistas.
 ## 2.3. Needfinding.
 El Needfinding es una metodología cualitativa la cual se enfoca en las opiniones y sentimientos de los usuarios. El objetivo de este método como se indica en el mismo nombre es identificar, buscar, analizar, conseguir, rescatar, valorar, o términos sencillos, buscar las necesidades que puedan guiar y orientar el desarrollo y diseño de cualquier proyecto.
