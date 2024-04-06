@@ -77,24 +77,36 @@ Entrevista N°2:
 Entrevista N°3:
 
 ### 2.2.3. Análisis de entrevistas.
+
+**Propietario del vehículo:** Nuestro principal público objetivo son aquellos propietarios que desean ofrecer sus vehículos, como bicicletas, scooters y otros medios de transporte menores, con el objetivo de mantenerlos en uso y permitir a los usuarios probar nuestro servicio, generando confianza en él. Priorizamos la reducción del tráfico y contribuir al medio ambiente al promover el uso de medios de transporte más sostenibles. Además, buscamos facilitar una gestión eficiente y una colaboración mutua entre ambos segmentos de usuarios.
+
+**Usuario que desea alquilar:** Nuestra principal audiencia son aquellos interesados en alquilar vehículos con propósitos recreativos o para probar nuestro servicio, destacando la importancia de la formalidad, la reducción del tráfico y la sostenibilidad al elegir opciones libres de gasolina, en consonancia con nuestro compromiso medioambiental.
+
 ## 2.3. Needfinding.
+
 El Needfinding es una metodología cualitativa la cual se enfoca en las opiniones y sentimientos de los usuarios. El objetivo de este método como se indica en el mismo nombre es identificar, buscar, analizar, conseguir, rescatar, valorar, o términos sencillos, buscar las necesidades que puedan guiar y orientar el desarrollo y diseño de cualquier proyecto.
 Para este proyecto en particular decidimos interactuar con potenciales usuarios mediante entrevistas y preguntas. A continuación se presentan diversos análisis de entrevistas en los siguientes artefactos.
+
 ### 2.3.1. User Personas.
-## 2.3.1.1. Segmento Propietario:
+
+#### 2.3.1.1. Segmento Propietario del Vehículo.
+
 ![Img_segmento1](assets/photo_SE01.png)
-## 2.3.1.2. Segmento Persona que alquila:
+
+#### 2.3.1.2. Segmento Persona que alquila.
+
 ![Img_segmento2](assets/photo_SE02.png)
+
 ### 2.3.2. User Task Matrix.
-| User task                                   | Propietario                                 | Alquilador                                   |
-|-----------------------------------------|---------------------------------------------|----------------------------------------------|
+
+| User task                                 | Propietario                                 | Alquilador                                  |
+|-------------------------------------------|--------------------------------------------|--------------------------------------------|
 | Publicar vehículo                       | Frecuencia: Alta<br>Importancia: Alta       | -                                            |
 | Gestionar reservas                      | Frecuencia: Alta<br>Importancia: Alta       | Frecuencia: Alta<br>Importancia: Alta       |
 | Responder consultas                     | Frecuencia: Media<br>Importancia: Alta      | Frecuencia: Alta<br>Importancia: Media      |
 | Actualizar disponibilidad del vehículo  | Frecuencia: Alta<br>Importancia: Media     | -                                            |
 | Revisar perfil del alquilador           | Frecuencia: Media<br>Importancia: Baja      | -                                            |
 | Puntuar alquilador                     | Frecuencia: Baja<br>Importancia: Baja       | Frecuencia: Media<br>Importancia: Media     |
-
 
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping.
