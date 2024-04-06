@@ -110,6 +110,18 @@ Entrevista N°1:
 
 Entrevista N°2:
 
+**Sexo:** Femenino
+**Edad:** 22 años
+**Ubicación:** Magdalena
+**Entrevistada:** Francesca Frassinelli
+**Inicio de la Entrevista:** 0:03
+
+![Entrevista_Seg01_FrancescaFrassinelli](https://i.ibb.co/1rrRv8H/Screenshot-2024-04-06-at-08-36-12.png")
+
+**Resumen de la Entrevista**: La entrevistada menciona que el único vehículo electrico que ha usado han sido los scooters pero estaria dispuesta a probar una bicicleta o una moto ya que menciona que le da más seguridad. Para ella el costo es lo que es más importante a la hora de alquilar un vehículo.
+
+**Enlace:** <a href="https://youtu.be/qCatPH2mMvU">https://youtu.be/qCatPH2mMvU</a>
+
 Entrevista N°3:
 
 ### Entrevista para los "Usuarios que desean alquilar":
