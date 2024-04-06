@@ -178,5 +178,7 @@ Para este proyecto en particular decidimos interactuar con potenciales usuarios 
 
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping.
+![Img_emphaty1](assets/emphaty1.png)
+![Img_emphaty2](assets/emphaty2.png)
 ### 2.3.5. As-is Scenario Mapping.
 ## 2.4. Ubiquitous Language
