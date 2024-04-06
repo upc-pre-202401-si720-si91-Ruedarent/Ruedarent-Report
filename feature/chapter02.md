@@ -62,6 +62,35 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
 
 ### 2.2.1. Diseño de entrevistas.
 
+**Preguntas Generales:**
+
+- ¿Cuál es tu nombre?
+- ¿Cuántos años tienes?
+- ¿En qué distrito vives?
+- ¿Cuál es tu ocupación?
+
+**Preguntas para los “Usuarios que Alquilan”:**
+- ¿Qué tipo de vehículo eléctrico te interesaría alquilar con mayor frecuencia? (Por ejemplo, bicicletas, scooters, monopatines, motos eléctricas, etc.)
+- ¿Qué características consideras más importantes al buscar un servicio de alquiler de vehículos eléctricos o mecánicos? (Por ejemplo, facilidad de reserva, variedad de vehículos disponibles, precios transparentes, etc.)
+- ¿Qué te motiva a utilizar servicios de alquiler de vehículos eléctricos en lugar de otras opciones de movilidad urbana?
+- ¿Tienes alguna preocupación o reserva específica sobre el alquiler de vehículos eléctricos que te gustaría que la plataforma abordara?
+- ¿Qué funcionalidades o características adicionales te gustaría ver en una plataforma de alquiler de vehículos eléctricos o mecánicos como la nuestra para mejorar tu experiencia de usuario?
+- ¿Que tecnologias usas?
+
+**Preguntas para los “Propietarios de los Vehículos”:**
+- ¿Qué tipo de vehículos posees actualmente?
+- ¿Has considerado alguna vez la posibilidad de alquilar tus vehículos?
+Si has pensado en alquilarlos, ¿qué factores te han impedido hacerlo hasta ahora?
+- ¿Qué tipo de vehículos estarías dispuesto/a a alquilar a través de una aplicación web?
+- ¿Qué te gustaría ver en una plataforma de alquiler de vehículos para sentirte cómodo/a al alquilar tus vehículos?
+- ¿Qué beneficios crees que podrías obtener al alquilar tus vehículos a través de una aplicación web en comparación con otros métodos?
+- ¿Tienes alguna preferencia o requisito específico en cuanto al proceso de alquiler de tus vehículos?
+- ¿Qué te motiva a considerar la idea de ofrecer tus vehículos para alquilar a través de una aplicación web?
+- ¿Qué expectativas tienes con respecto a cómo una plataforma como la nuestra puede simplificar el proceso de alquiler y aumentar la visibilidad de tus vehículos?
+- ¿Tienes alguna preocupación o reserva específica sobre el proceso de alquiler de tus vehículos que te gustaría que la plataforma abordara?
+- ¿Que tecnologias usas?
+
+
 ### 2.2.2. Registro de entrevistas.
 
 ### Entrevista para el "Propietario de los vehículos":
