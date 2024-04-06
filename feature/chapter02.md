@@ -1,6 +1,33 @@
 # **Capítulo II:  Requirements Elicitation & Analysis**
 ## 2.1. Competidores.
+
+<table>
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Descripción</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan align="center">WHOOSH<img src="https://i.ibb.co/zfYky3B/image-removebg-preview-3.png"</td>
+            <td>El enfoque de Whoosh es ofrecer una alternativa de transporte ecológica y eficiente mediante el alquiler de bicicletas eléctricas compartidas, contribuyendo así a la mejora de la movilidad urbana en las ciudades donde opera.<br>
+            Página web:<a href="https://whoosh.bike/es_la/pe"> https://whoosh.bike/es_la/pe</a>
+        </tr>
+        <tr>
+            <td align="center">Airbnb<img src="https://i.ibb.co/BzbnJ7z/image.png"</td>
+            <td>El enfoque principal de Airbnb es proporcionar una plataforma digital que conecta a personas que buscan alojamiento temporal con anfitriones que ofrecen una variedad de opciones de hospedaje. La empresa se centra en ofrecer una experiencia de viaje única y personalizada para sus usuarios, permitiéndoles explorar alojamientos únicos y sumergirse en la cultura local durante sus viajes.<br>
+            Página web:<a href="https://www.airbnb.com.pe/"> https://www.airbnb.com.pe/</a>
+        </tr>
+        <tr>
+           <td rowspan align="center">CityBikeLima<img src="https://i.ibb.co/py5jTXP/image-removebg-preview-4.png"</td> 
+           <td>El enfoque de CityBike Lima se centra en fomentar la movilidad sostenible mediante el alquiler de bicicletas compartidas, con el objetivo de mejorar la calidad de vida en la ciudad de Lima y promover un entorno urbano más saludable y habitable.<br>
+           Página web:<a href="https://www.citybikelima.com/"> https://www.citybikelima.com/</a>
+    </tbody>
+</table> 
+
 ### 2.1.1. Análisis competitivo.
+
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 ## 2.2. Entrevistas.
 El objetivo de las entrevistas es obtener una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestra meta es recopilar información valiosa que nos permita entender mejor a nuestro público objetivo y mejorar nuestra comprensión de los usuarios. Estas conversaciones nos proporcionarán una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requisitos.
