@@ -58,23 +58,17 @@ La aplicación web contará con un modelo de suscripciones los cuales serán el 
 
 ### 1.2.2. Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
-  - El usuario no tiene dinero para la suscripción de la app.
-    - Es posible que el usuario quiera rentar un vehículo pero no tiene el dinero para pagar la suscripción.
-  - El usuario ha olvidado su contraseña.
-    - El usuario puede olvidar su contraseña y no podrá ingresar a la app,
-  - La tarjeta del usuario ha expirado.
-    - Es posible que la tarjeta del usuario haya expirado al momento de suscribirse  o durante una suscripción.
-  - No se encuentra disponible el vehículo que el usuario desea rentar.
-    - También es posible que el usuario quiera rentar un vehículo que no se encuentra disponible.
+  Situación: En el contexto actual, nos encontramos con un grupo de usuarios que se enfrentan a dificultades financieras significativas, lo que les impide realizar pagos inmediatos para acceder a la suscripción de nuestra aplicación.
+  Problema: La situación financiera desfavorable de estos usuarios está generando una barrera para que puedan aprovechar los beneficios y servicios que nuestra aplicación ofrece. Esta falta de acceso a la suscripción completa está limitando su capacidad para utilizar funcionalidades clave, como el alquiler de vehículos, lo que a su vez les está privando de una experiencia óptima con nuestra plataforma.
+  Propuesta de Solución en Pregunta: Nos enfrentamos al desafío de diseñar e implementar un modelo de pago flexible que se adapte a las necesidades y circunstancias financieras de estos usuarios. ¿Cómo podemos desarrollar un sistema que les permita acceder a nuestra aplicación y disfrutar de sus servicios, incluso si no pueden realizar el pago completo de la suscripción de manera inmediata?
 #### 1.2.2.2. Lean UX Assumptions
   - Los usuarios prefieren tener varios métodos de pago al rentar su vehículo.
-    - Los usuarios quieren tener varias alternativas de pago para poder realizar la suscripción.
-  - Los usuarios confían que los vehículos se encuentren en buen estado siempre.
-    - Como un usuario queriendo rentar un vehículo, espero que este en buen estado.
-  - Los que rentan los vehículos confían en que los usuarios devuelvan el vehículo en buen estado y con combustible.
-    - Como rentador uno confía en que los usuarios devuelvan el vehículo en buen estado y con gasolina.
-  - Los que rentan los vehículos prefieren que los usuarios sean regulares.
-    - Como rentador me da más confianza que los clientes/usuarios habituales regresen a la app.
+  Business Outcome 1: Aumento de la satisfacción del usuario a través de múltiples opciones de pago
+  Implementar varios métodos de pago para alquilar vehículos para satisfacer las necesidades y preferencias de los usuarios, lo que debería resultar en una mayor satisfacción del cliente.
+  Business Outcome 2: Incremento de la conversión de suscripciones mediante alternativas de pago variadas
+  Ofrecer diversas alternativas de pago para las suscripciones de manera que aumente la probabilidad de conversión de usuarios interesados en suscribirse al servicio.
+  Business Outcome 3: Mejora de la reputación de la marca a través del mantenimiento óptimo de los vehículos
+  Garantizar que los vehículos estén siempre en buen estado y bien mantenidos para generar confianza en la marca y mejorar la percepción de los usuarios sobre la calidad del servicio.
 
 Bussiness Assumptions:
 
