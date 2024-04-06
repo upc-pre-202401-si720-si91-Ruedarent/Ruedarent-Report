@@ -1,19 +1,32 @@
-# Universidad Peruana de Ciencias Aplicadas
-## Ingeniería de Software
-### Aplicaciones Web - Trabajo Final
-- **Sección:** SI91
-- **Docente:** Mori Paiva, Hugo Allan
-- **Ciclo:** 2024-01
-- **Nombre de la Startup:** Ruedarent
-- **Nombre del producto:** Ruedarent
+<div>
+<p style = 'text-align:center;'>
+<img src="https://i.ibb.co/Rggky7F/UPC-logo-transparente.png" alt="JuveYell" width="170px">
+</p>
+  
+## UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
-## Integrantes
-| Alumno  | Código    |
-|----------|----------|
-| Alejandro La Rosa Rodriguez       | U201911361 |
-| Beth Shantal Oneglio De Paz       | U202213423 |
-| David Ivanoff Gallo Quintana      | u20201e475 |
-| Juan Jesús Calisaya Sánchez       | U202121935 |
-| Niurka Lucero Huarcaya Quispe     | U20221b226 |
+### FACULTAD DE INGENIERÍA - QUINTO CICLO
 
-### 2023
+### CURSO: SI91 - Aplicaciones Web
+
+### "INFORME DE TRABAJO FINAL"
+
+**Nombre de la Startup y el Producto:** 
+RUEDARENT  
+
+### Grupo: N°1
+
+| INTEGRANTES                     | Código      | CARRERA          |
+|---------------------------------|-------------|------------------|
+| Alejandro La Rosa Rodriguez     | U201911361  | Ingeniería de Software |
+| Beth Shantal Oneglio De Paz     | U202213423  | Ingeniería de Software |
+| David Ivanoff Gallo Quintana    | U20201e475  | Ingeniería de Software |
+| Juan Jesús Calisaya Sánchez     | U202121935  | Ingeniería de Software |
+| Niurka Lucero Huarcaya Quispe   | U20221b226  | Ingeniería de Software |
+
+#### DOCENTE: 
+Mori Paiva, Hugo Allan
+
+#### UPC, abril de 2024
+
+</div>
