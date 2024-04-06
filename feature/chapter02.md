@@ -181,4 +181,5 @@ Para este proyecto en particular decidimos interactuar con potenciales usuarios 
 ![Img_emphaty1](assets/emphaty1.png)
 ![Img_emphaty2](assets/emphaty2.png)
 ### 2.3.5. As-is Scenario Mapping.
+![Img_asis](assets/scn.jpg)
 ## 2.4. Ubiquitous Language
