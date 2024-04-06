@@ -1,4 +1,5 @@
-# Universidad Peruana de Ciencias Aplicadas
+![UPC logo](https://i.ibb.co/Rggky7F/UPC-logo-transparente.png)
+# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 ## Ingeniería de Software
 ### Aplicaciones Web - Trabajo Final
 - **Sección:** SI91
