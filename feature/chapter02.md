@@ -29,6 +29,33 @@
 ### 2.1.1. Análisis competitivo.
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
+
+<table>
+    <thead>
+        <tr>
+            <th rowspan=2 colspan=2 align="center">MATRIZ FODA</th>
+            <th colspan=2 align="center">EXTERNO</th>
+        </tr>
+        <tr>
+            <td>Oportunidades:<br>- Expansión de la flota de vehículos eléctricos para satisfacer la creciente demanda.<br>- Colaboración con empresas locales para promover la movilidad sostenible.<br>- Expansión a nuevos mercados geográficos con alta demanda de movilidad urbana.</td>
+            <td>Amenazas:<br>- Cambios regulatorios que afecten la operación de servicios de alquiler de vehículos eléctricos.<br>- Competencia de otras aplicaciones de movilidad urbana con servicios similares.<br>- Riesgo de accidentes o vandalismo que afecten la disponibilidad y seguridad de los vehículos.</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th rowspan=2 align="center">INTERNO</th>
+            <td>Fortalezas: <br> - Variedad de vehículos eléctricos disponibles para alquilar.<br>- Plataforma intuitiva para emprendedores que facilita la gestión de reservas y control de inventario.<br>- Experiencia de usuario fluida y atractiva en la aplicación web.</td>
+            <td>Estrategias FO:<br>- Diversificación y ampliación de la flota de vehículos eléctricos.<br>- Desarrollo de alianzas estratégicas con empresas locales.<br>- Expansión a nuevos mercados geográficos.</td>
+            <td>Estrategias FA:<br>- Promoción de la movilidad eléctrica y sostenible<br>- Plataforma intuitiva y la experiencia de usuario fluida y atractiva<br>- Implementación de GPS en los vehículos</td>
+        </tr>
+        <tr>
+            <td>Debilidades:<br>- Dependencia de la disponibilidad y mantenimiento de los vehículos eléctricos.<br>- Posible limitación en la infraestructura de carga en ciertas áreas.<br>- Competencia con empresas de alquiler de vehículos tradicionales.</td>
+            <td>Estrategias DO:<br>- Desarrollo de alianzas estratégicas para mejorar la disponibilidad y el mantenimiento de vehículos eléctricos<br>- Diferenciación del servicio para competir con empresas de alquiler de vehículos tradicionales.</td>
+            <td>Estrategias DA:<br>- Ofrecer servicios de transporte compartido<br> - Posible colaboración con empresas de turismo local.</td>
+        </tr>
+    </tbody>
+</table>
+
 ## 2.2. Entrevistas.
 
 El objetivo de las entrevistas es obtener una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestra meta es recopilar información valiosa que nos permita entender mejor a nuestro público objetivo y mejorar nuestra comprensión de los usuarios. Estas conversaciones nos proporcionarán una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requisitos.
