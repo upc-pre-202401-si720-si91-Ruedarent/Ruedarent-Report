@@ -69,7 +69,9 @@ Para el sistema de mensajes de error y ayuda, se utilizará un método de resalt
 ![label](/feature/assets/label.png)<br>
 ![error](/feature/assets/correction.png)<br>
 #### 4.2.3. SEO Tags and Meta Tags
-##FALTA
+En este caso se manejarán diversas páginas, como podrían ser Inicio, Inscripción de vehículo, Alquiler, Consejos.
+1. Landing Page
+- Title Tag: <title>Bienvenida | RuedaRent 
 #### 4.2.4. Searching Systems.
 
 #### 4.2.5. Navigation Systems.
@@ -87,7 +89,15 @@ Asimismo se usará la barra de búsqueda para que las personas busquen sus neces
 ![Wireframe4](/feature/assets/wireframe4.png)
 ![Wireframe5](/feature/assets/wireframe5.png)
 ![Wireframe6](/feature/assets/wireframe6.png)
+figma: https://www.figma.com/file/MYUgkXCBBiPkPT98q6F072/Untitled-(Copy)?type=design&node-id=28%3A910&mode=design&t=dwN8VALw3i3zrJ2y-1
 #### 4.3.2. Landing Page Mock-up.
+![Landingpage1](/feature/assets/land1.png)
+![Landingpage2](/feature/assets/land2.png)
+![Landingpage3](/feature/assets/land3.png)
+![Landingpage4](/feature/assets/land4.png)
+![Landingpage5](/feature/assets/land5.png)
+![Landingpage6](/feature/assets/land6.png)
+figma: https://www.figma.com/file/MYUgkXCBBiPkPT98q6F072/Untitled-(Copy)?type=design&node-id=28%3A910&mode=design&t=dwN8VALw3i3zrJ2y-1
 ### 4.4. Web Applications UX/UI Design.
 #### 4.4.1. Web Applications Wireframes.
 #### 4.4.2. Web Applications Wireflow Diagrams.
