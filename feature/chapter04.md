@@ -122,6 +122,9 @@ Asimismo se usará la barra de búsqueda para que las personas busquen sus neces
 ![hambmenu](/feature/assets/hambmenu.png)
 
 ### 4.3. Landing Page UI Design.
+En este caso se diseño de esta debido a su simplicidad, con colores claros como el verde, debido a que representa bien nuestra búsqueda de ayudar al medio ambiente.
+Tambien esta diseñada de esta forma para que los usuarios esten cómodos usandola leyendo en F.
+Asimismo tambien es web responsive para que pueda ser abierta en cualquier dispositivo en dimensiones adecuadas.
 #### 4.3.1. Landing Page Wireframe.
 ![Wireframe1](/feature/assets/wireframe1.png)
 ![Wireframe2](/feature/assets/wireframe2.png)
