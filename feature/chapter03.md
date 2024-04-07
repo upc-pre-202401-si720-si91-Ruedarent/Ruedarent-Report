@@ -15,217 +15,129 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
 ## 3.2. User Stories.
 
 <style>
-    table { 
-    font-weight: bold;
+    .red {
+    color: red;
+    }
+    span {
+    color: blue;
     }
 </style>
 <table>
     <thead>
         <tr>
-            <th>Epic/Story ID</th>
-            <th>HU01</th>
-            <th>Relacionado con (Epic ID)</th>
-            <th>EP1</th>
+            <th class= "red">Epic/Story ID</th>
+            <th class= "red">HU01</th>
+            <th class= "red">Relacionado con (Epic ID)</th>
+            <th class= "red">EP1</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Título</td>
-            <th></th>
-            <th></th>
-            <th></th>
+            <td class= "red">Título</td>
+            <th colspan=3 align= "justify">Registro de cuenta</th>
         </tr>
         <tr>
-            <td>Descripción</td>
-            <th></th>
-            <th></th>
-            <th></th>
+            <td class= "red">Descripción</td>
+            <th colspan=3 align= "justify">Como usuario quiero registrarme rápidamente para empezar a usar la aplicación al instante.</th>
         </tr>
-        <tr>
-            <td>Criterios de Aceptación<br>Scenario:<br>Dado que<br>Y<br>Cuando<br>Entonces</td>
-            <td></td>
-            <td></td>
-            <td></td>
+        <tr> 
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b><br><b><span>Scenario:</span></b> El usuario se va a registrar en la aplicación ingresando sus datos.<br><b><span>Dado que</b></span> el usuario se encuentra en la pantalla de Registro.<br><b><span>Y</b></span> presiona el botón “Registrarme usando mis datos”<br><b><span>Cuando</b></span> presione el botón “Enviar datos”<br><b><span>Entonces</b></span> se guardarán los datos del usuario y se le mostrará la pantalla principal de la aplicación.</td>
         </tr>
     </tbody>
 </table>
 
 <style>
-    table { 
-    font-weight: bold;
+    .red {
+    color: red;
+    }
+    span {
+    color: blue;
     }
 </style>
 <table>
     <thead>
         <tr>
-            <th>Epic/Story ID</th>
-            <th>HU01</th>
-            <th>Relacionado con (Epic ID)</th>
-            <th>EP1</th>
+            <th class= "red">Epic/Story ID</th>
+            <th class= "red">HU02</th>
+            <th class= "red">Relacionado con (Epic ID)</th>
+            <th class= "red">EP1</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Título</td>
-            <th></th>
-            <th></th>
-            <th></th>
+            <td class= "red">Título</td>
+            <th colspan=3 align= "justify">El usuario se va a registrar usando su cuenta de Google.</th>
         </tr>
         <tr>
-            <td>Descripción</td>
-            <th></th>
-            <th></th>
-            <th></th>
+            <td class= "red">Descripción</td>
+            <th colspan=3 align= "justify">Como usuario quiero registrarme en la aplicación usando mi cuenta Google para empezar a usar la aplicación al instante.</th>
         </tr>
         <tr>
-            <td>Criterios de Aceptación<br>Scenario:<br>Dado que<br>Y<br>Cuando<br>Entonces</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b><br><b><span>Scenario:</b></span> El usuario se va a registrar en la aplicación usando su cuenta Google.<br><b><span>Dado que</b></span> el usuario se encuentra en la pantalla de Registro.<br><b><span>Y</b></span> presiona el botón<br><b><span>Cuando</b></span> presione el botón "Registrarse con Google"<br><b><span>Entonces</b></span> se le permitirá registrarse rápidamente usando su cuenta de Google y en el registro se mostrará la pantalla principal de la aplicación.</td>
         </tr>
     </tbody>
 </table>
 
 <style>
-    table { 
-    font-weight: bold;
+    .red {
+    color: red;
+    }
+    span {
+    color: blue;
     }
 </style>
 <table>
     <thead>
         <tr>
-            <th>Epic/Story ID</th>
-            <th>HU01</th>
-            <th>Relacionado con (Epic ID)</th>
-            <th>EP1</th>
+            <th class= "red">Epic/Story ID</th>
+            <th class= "red">HU03</th>
+            <th class= "red">Relacionado con (Epic ID)</th>
+            <th class= "red">EP1</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Título</td>
-            <th></th>
-            <th></th>
-            <th></th>
+            <td class= "red">Título</td>
+            <th colspan=3 align= "justify">Inicio de sesión</th>
         </tr>
         <tr>
-            <td>Descripción</td>
-            <th></th>
-            <th></th>
-            <th></th>
+            <td class= "red">Descripción</td>
+            <th colspan=3 align= "justify"><b>Como</b> usuario <b>quiero</b> poder iniciar sesión <b>para</b> usar la aplicación.</th>
         </tr>
         <tr>
-            <td>Criterios de Aceptación<br>Scenario:<br>Dado que<br>Y<br>Cuando<br>Entonces</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b><br><b><span>Scenario:</b></span> El usuario va a iniciar sesión en la aplicación con sus datos.<br><b><span>Dado que</b></span> el usuario se encuentra en la pantalla "Inicio de sesión"<br><b><span>Y</b></span> presiona el botón<br><b><span>Cuando</b></span> presione el botón "Iniciar sesión"<br><b><span>Entonces</b></span> se le permitirá ingresar sus datos y después de validarlos se le mostrará la pantalla principal de la aplicación.</td>
         </tr>
     </tbody>
 </table>
 
 <style>
-    table { 
-    font-weight: bold;
+    .red {
+    color: red;
+    }
+    span {
+    color: blue;
     }
 </style>
 <table>
     <thead>
         <tr>
-            <th>Epic/Story ID</th>
-            <th>HU01</th>
-            <th>Relacionado con (Epic ID)</th>
-            <th>EP1</th>
+            <th class= "red">Epic/Story ID</th>
+            <th class= "red">HU04</th>
+            <th class= "red">Relacionado con (Epic ID)</th>
+            <th class= "red">EP1</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>Título</td>
-            <th></th>
-            <th></th>
-            <th></th>
+            <td class= "red">Título</td>
+            <th colspan=3 align= "justify">Escogiendo un vehículo</th>
         </tr>
         <tr>
-            <td>Descripción</td>
-            <th></th>
-            <th></th>
-            <th></th>
+            <td class= "red">Descripción</td>
+            <th colspan=3 align= "justify"><b>Como</b> usuario <b>quiero </b>escoger un vehículo <b>para</b> poder alquilarlo.</th>
         </tr>
         <tr>
-            <td>Criterios de Aceptación<br>Scenario:<br>Dado que<br>Y<br>Cuando<br>Entonces</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-<style>
-    table { 
-    font-weight: bold;
-    }
-</style>
-<table>
-    <thead>
-        <tr>
-            <th>Epic/Story ID</th>
-            <th>HU01</th>
-            <th>Relacionado con (Epic ID)</th>
-            <th>EP1</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Título</td>
-            <th></th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <td>Descripción</td>
-            <th></th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <td>Criterios de Aceptación<br>Scenario:<br>Dado que<br>Y<br>Cuando<br>Entonces</td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>
-
-<style>
-    table { 
-    font-weight: bold;
-    }
-</style>
-<table>
-    <thead>
-        <tr>
-            <th>Epic/Story ID</th>
-            <th>HU01</th>
-            <th>Relacionado con (Epic ID)</th>
-            <th>EP1</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Título</td>
-            <th></th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <td>Descripción</td>
-            <th></th>
-            <th></th>
-            <th></th>
-        </tr>
-        <tr>
-            <td>Criterios de Aceptación<br>Scenario:<br>Dado que<br>Y<br>Cuando<br>Entonces</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b><br><b><span>Scenario:</b></span> El usuario usa la aplicación y escoge un vehículo.<br><b><span>Dado que</b></span> el usuario se encuentra en la pantalla principal de la aplicación.<br><b><span>Y</b></span> presiona el botón<br><b><span>Cuando</b></span> presione el icono "Vehículos"<br><b><span>Entonces</b></span> se le mostrará los vehículos en curso dentro de la zona.</td>
         </tr>
     </tbody>
 </table>
