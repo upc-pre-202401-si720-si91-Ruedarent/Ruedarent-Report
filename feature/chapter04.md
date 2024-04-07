@@ -22,19 +22,71 @@ En este caso se escogió el color verde, esto debido a que creemos que represent
 En este caso el tono de comunicación elegido, por la naturaleza de la aplicación, será serio, formal y sereno.
 
 #### 4.1.2. Web Style Guidelines.
-Responsive Web Interface
+Responsive Web Interface<br>
 ![WebStyle](/feature/assets/WebStle.png)<br>
 
+El contenido que se prioriza son inscríbase, vehículos, y beneficios, ya que, la prevención es nuestro objetivo principal.
+
+Los valores de espaciado son múltiplos de 4px, además, el contraste de colores, el tamaño del texto y alineación elegida permiten una lectura legible del texto. La tipografía permite una clara diferenciación del título, a su vez del estilo anteriormente descrito, siendo sereno y serio.
+
+Las imágenes usadas son de licencia libre y guardan relación con el objetivo de la aplicación. Se escogió un degradado como fondo de pantalla por su simplicidad y estética.
+
+La tendencia web escogida fue de degradado y se optó por el patrón de diseño F, estas decisiones fueron tomadas con el objetivo de generar la mayor cantidad de interés en el espectador para así lograr que se interesen en nuestra aplicación.
 
 
 ### 4.2. Information Architecture.
 #### 4.2.1. Organization Systems.
+
+El propósito del sistema de organización de la página es establecer la estructura visual del contenido y la navegación en la misma. En el caso de RuedaRent , el esquema de organización de contenido se divide en módulos y se enfoca en los siguientes temas:
+
+**HOMEPAGE**
+Esta se divide en distintas secciones las cuales son: Página principal, Acerca de nosotros, Inscríbase, Vehículos, Beneficios y Contacto.
+
+![SeccionArriba](/feature/assets/UpSection.png)<br>
+
+En la parte superior de la página principal se encuentran las opciones que conducen a otras secciones, ya que al seguir un patrón de diseño F, se busca enfatizar la importancia de que el usuario conozca la empresa y todo lo que la página tiene para ofrecer, para finalmente poder registrarse o iniciar sesión, lo cual se encuentra representado por los botones en el extremo derecho. Además se muestra un botón de modo oscuro y finalmente se puede visualizar en la esquina derecha "Español/English" que tiene como función cambiar el idioma de la página.
+
+**INSCRIPCIÓN**
+
+La función de esta sección es llamar la atención principalmente de las personas propietarias para que renten sus vehículos, y puedan ganar una retribución económica así como ayudar al medio ambiente.
+
+**VEHÍCULOS**
+
+La función de esta sección es mostrar a los usuarios, los distintos medios de transporte que se pueden alquilar por medio de la plataforma.
+
+**BENEFICIOS**
+
+En esta sección mostramos algunos de los beneficios de tanto el uso como el alquiler de este tipo de vehículos, algunos de estos beneficios son: Reducir la huella carbono, el poder evitar el tráfico, llevar una vida más saludable.
+
+
+**Registro usuario**
+Se han tomado en cuenta dos pantallas para el módulo de registro de usuario: Landing page y Registro. En la pantalla de Registro, se priorizarán los datos esenciales para crear una cuenta, como nombres, apellidos, correo electrónico y contraseña. La organización visual de contenido se realizará de manera jerárquica, colocando estos datos prioritarios en la parte superior de la pantalla. 
+
+
+
 #### 4.2.2. Labeling Systems.
+Para el sistema de mensajes de error y ayuda, se utilizará un método de resaltado del cuadro de texto en rojo cuando se ingrese un carácter no permitido. Si se envía la información sin corregir el error, aparecerá una ventana emergente que indicará el error cometido y se proporcionará la opción "listo" para volver al formulario. En la página web o aplicación, se indicará el error cometido y se señalará lo que debe corregirse (como ingresar un carácter no permitido o proporcionar información faltante). <br>
+![label](/feature/assets/label.png)<br>
+![error](/feature/assets/correction.png)<br>
 #### 4.2.3. SEO Tags and Meta Tags
+##FALTA
 #### 4.2.4. Searching Systems.
+
 #### 4.2.5. Navigation Systems.
+
+Utilizaremos un sistema de navegación conocido como "Hamburger Menu" que consiste en un panel izquierdo de navegación. Este panel nos permitirá aplicar filtros y subfiltros durante la búsqueda, lo que nos ayudará a organizar y presentar varias opciones de navegación de forma clara y concisa, manteniendo así la aplicación ordenada y fácil de usar.
+Asimismo se usará la barra de búsqueda para que las personas busquen sus necesidades.<br>
+![dropdown](/feature/assets/dropdown.png)
+![hambmenu](/feature/assets/hambmenu.png)
+
 ### 4.3. Landing Page UI Design.
 #### 4.3.1. Landing Page Wireframe.
+![Wireframe1](/feature/assets/wireframe1.png)
+![Wireframe2](/feature/assets/wireframe2.png)
+![Wireframe3](/feature/assets/wireframe3.png)
+![Wireframe4](/feature/assets/wireframe4.png)
+![Wireframe5](/feature/assets/wireframe5.png)
+![Wireframe6](/feature/assets/wireframe6.png)
 #### 4.3.2. Landing Page Mock-up.
 ### 4.4. Web Applications UX/UI Design.
 #### 4.4.1. Web Applications Wireframes.
