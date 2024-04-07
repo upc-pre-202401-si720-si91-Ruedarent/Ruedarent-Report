@@ -2,26 +2,31 @@
 ### 4.1. Style Guidelines.
 #### 4.1.1. General Style Guidelines.
 **Branding**<br>
-En este caso se decidio que el icono de la aplicación tenga un diseño sencillo. El fondo es de color lila, con una línea de un tono más claro que atraviesa el fondo, seguida por una tonalidad gradualmente más oscura de lila. Además se usó un logo representativo, un auto dentro de un escudo que se da a entender que buscamos proteger la seguridad del coche.<br>
+En este caso se decidio que el icono de la aplicación tenga un diseño sencillo. El fondo es de color verde, con un circulo en medio. Además se usó un logo con la letra R que representa RuedaRent.<br>
 
 ![Logo](/feature/assets/logo.png)<br>
 
-**Typography**
+**Typography**<br>
 Se escogió esta tipografía debido a que proyecta simplicidad, y un toque moderno el cual creemos que encaja con nuestro proyecto.
 
-![Typography](/feature/assets/text.png)<br>
+![Typography](/feature/assets/type.png)<br>
 
-**Colors**
-
-![Colors](/feature/assets/colours.png)<br>
+**Colors**<br>
+En este caso se escogió el color verde, esto debido a que creemos que representa el ideal de nuestra empresa que es promover ayuda al medio ambiente.
+![Colors](/feature/assets/colors.png)<br>
 
 **Spacing**
-
-![Spacing](/feature/assets/spacing.png)<br>
+<br>En este caso se escogió un espacio de 4px.<br>
+![Spacing](/feature/assets/Scale.png)<br>
 
 En este caso el tono de comunicación elegido, por la naturaleza de la aplicación, será serio, formal y sereno.
 
 #### 4.1.2. Web Style Guidelines.
+Responsive Web Interface
+![WebStyle](/feature/assets/WebStle.png)<br>
+
+
+
 ### 4.2. Information Architecture.
 #### 4.2.1. Organization Systems.
 #### 4.2.2. Labeling Systems.
