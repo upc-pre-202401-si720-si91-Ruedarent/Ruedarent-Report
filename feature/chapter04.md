@@ -71,8 +71,48 @@ Para el sistema de mensajes de error y ayuda, se utilizará un método de resalt
 #### 4.2.3. SEO Tags and Meta Tags
 En este caso se manejarán diversas páginas, como podrían ser Inicio, Inscripción de vehículo, Alquiler, Consejos.
 1. Landing Page
-- Title Tag: <title>Bienvenida | RuedaRent 
+- Title Tag: Bienvenida | RuedaRent 
+- Meta Description Tag: Content: "Pagina de inicio de RuedaRent"
+- Meta Keyword Tag: Content: RuedaRenta, Alquiler, Pagina principal
+- Author: RuedaRent Group
+2. Home
+- Title Tag: Inicio | RuedaRent
+- Meta Description Tag: Content: "Pagina principal de RuedaRent"
+- Meta Keyword Tag: Content: RuedaRent, Pagina Principal, Alquiler Bicicletas
+- Author: RuedaRent Group
+3. Inscripcion de Vehículo
+- Title Tag: Incripción de Vehículo | RuedaRent
+- Meta Description Tag: Content: "Registre el vehículo que ya no use"
+- Meta Keyword Tag: Content: RuedaRent, Inscripcion de Vehiculo
+- Author: RuedaRent Group
+4. Alquiler
+- Title Tag: Alquiler de Vehículo | RuedaRent
+- Meta Description Tag: Content: "Alquile el vehículo de su preferencia"
+- Meta Keyword Tag: Content: RuedaRent, Alquiler de bicicleta, Consejos, Alquiler Skate, Alquiler Scooter
+- Author: RuedaRent Group
+5. Consejos
+- Title Tag: Consejos | RuedaRent
+- Meta Description Tag: Content: "Reciba consejos para mantener una vida saludable"
+- Meta Keyword Tag: Content: RuedaRent, Consejos RuedaRent
+- Author: RuedaRent Group
 #### 4.2.4. Searching Systems.
+Dividido en puntos:
+1. Barra de Navegación Principal:
+En la parte superior de la página se encuentra una barra de navegación que incluye enlaces a las secciones principales del sitio.
+Los enlaces principales son: "Página Principal", "Acerca de Nosotros", "Inscríbase", "Vehículos", "Beneficios" y "Contacto".
+
+2. Navegación Jerárquica:
+La página principal sigue un patrón de diseño F, lo que enfatiza la importancia de que el usuario conozca la empresa y lo que ofrece.
+Las opciones de navegación están jerárquicamente organizadas, con las secciones más importantes y relevantes en la parte superior.
+
+3. Enlaces Contextuales:
+Dentro de cada sección, se incluyen botones que guían al usuario a contenido relacionado o información relevante. Un ejemplo de esto se puede dar en la sección "Inscríbase" en la cual al presionar el botón "More" se abrira una ventana en la cual se explique a mayor detalle información relevante para el usuario.
+
+4. Navegación secuencial
+En el proceso de registro de usuario, se utiliza una navegación secuencial donde se guía al usuario paso a paso a través del proceso de creación de cuenta.
+
+5. Sección Inferior:
+En la parte inferior de la página, se incluye una navegación adicional que proporciona acceso rápido a información importante y complementaria, como "Contáctanos.
 
 #### 4.2.5. Navigation Systems.
 
