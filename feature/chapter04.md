@@ -21,6 +21,11 @@ En este caso se escogió el color verde, esto debido a que creemos que represent
 
 En este caso el tono de comunicación elegido, por la naturaleza de la aplicación, será serio, formal y sereno.
 
+**Components**
+Ademas los anteriores decidimos agregar algunos componentes que nos ayudarán a la elaboración del landing page.
+
+![Components](/feature/assets/components.png)<br>
+
 #### 4.1.2. Web Style Guidelines.
 Responsive Web Interface<br>
 ![WebStyle](/feature/assets/WebStle.png)<br>
