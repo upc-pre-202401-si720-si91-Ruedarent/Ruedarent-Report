@@ -30,7 +30,7 @@ Ademas los anteriores decidimos agregar algunos componentes que nos ayudarán a 
 Responsive Web Interface<br>
 ![WebStyle](/feature/assets/WebStle.png)<br>
 
-El contenido que se prioriza son inscríbase, vehículos, y beneficios, ya que, la prevención es nuestro objetivo principal.
+El contenido que se prioriza son inscríbase, vehículos, y beneficios, ya que, en este caso nuestro objetivo principal es llegar a las personas de manera rapida ofreciendo información accesible. 
 
 Los valores de espaciado son múltiplos de 4px, además, el contraste de colores, el tamaño del texto y alineación elegida permiten una lectura legible del texto. La tipografía permite una clara diferenciación del título, a su vez del estilo anteriormente descrito, siendo sereno y serio.
 
