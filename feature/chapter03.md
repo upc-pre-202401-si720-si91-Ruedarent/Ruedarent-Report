@@ -143,4 +143,10 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
 </table>
 
 ## 3.3. Impact Mapping.
+
+En esta seccion se debe identifico un **"Business Goals"** para nuestra aplicacion web donde se encuantra a las personas que quieren rentar un veiculo y a los propietarios que desean dar sus veiculos, esto **usuarios** nos ayudara a complir esta meta. Hemos identificado cuales serian el **Impact** o impacto para luego tener los **Deliverables** que nos premite saber como es que llegaremos nosotros, como negocio digital, para provocar estos Impacts. Y por ultimo se incluira los **User Stories** para obtener los features o caracteristicas que ayudaran a producir los Deliverables.
+
+![Impact-map](https://i.ibb.co/chkvBQD/Impact-map-1.png)
+
+
 ## 3.4. Product Backlog.
