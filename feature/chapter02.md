@@ -165,9 +165,21 @@ Entrevista N°2:
 
 **Resumen de la Entrevista**: La entrevistada menciona que el único vehículo electrico que ha usado han sido los scooters pero estaria dispuesta a probar una bicicleta o una moto ya que menciona que le da más seguridad. Para ella el costo es lo que es más importante a la hora de alquilar un vehículo.
 
-**Enlace:** <a href="https://upcedupe-my.sharepoint.com/personal/u201911361_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201911361%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20%20Aplicaciones%20Web%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpControl%2Eview">https://upcedupe-my.sharepoint.com/personal/u201911361_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201911361%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%20%20Aplicaciones%20Web%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpControl%2Eview</a>
+**Enlace:** <a href="https://upcedupe-my.sharepoint.com/personal/u202121935_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121935%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%20a%20rentador%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpControl%2Eview">https://upcedupe-my.sharepoint.com/personal/u202121935_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121935%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%20a%20rentador%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpControl%2Eview</a>
 
 Entrevista N°3:
+
+**Sexo:** Masculino
+**Edad:** 19 años
+**Ubicación:** Lurigancho, Chosica
+**Entrevistada:** Favian Roman
+**Inicio de la Entrevista:** 0:03
+
+![Entrevista_Seg01_FavianRoman](https://i.ibb.co/fkfPjP8/fabian.png)<br>
+
+**Resumen De Entrevista:** El entrevistado nos menciona que por tendencia le gustaría utilizar monopatines, y seria una alternativa a para ya no usar auto y cuidar el medio ambiente. Tambien que lo primero que busca son los precios, para ver que si esta más acomodado a su presupuesto. Segundo, vería la facilidad para reservar estos vehículos y la garantía, seguridad de recibirlos, también que estén en buen estado para no tener problemas con el uso. Por último, que haya variedad. Lo que le motiva es el hecho de que pueda llegar más rápido a la universidad o salir con amigos o movilizarse por lugares donde el auto se le dificulta. Nos comenta que tiene licencia, pero solo usa el auto de su padre a veces y esta propuesta le resulta atractiva. Tambien nos dice, que quizás le preocupa el método de pago o que no se transaccione bien o que haga una transacción y no funcione o que no le den el servicio por algún fallo en la aplicación web. Le gustaría que la pagina sea fácil de utilizar, que sea accesible, la rapidez a la hora de escoger un vehículo, quizás a través de un filtro, tambien el diseño de la pagina como los colores, ya que sufre de la vista y que no tenga tantos colores.
+
+**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
 ### Entrevista para los "Usuarios que desean alquilar":
 
