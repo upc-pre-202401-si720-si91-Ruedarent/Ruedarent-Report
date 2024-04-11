@@ -385,14 +385,13 @@ En esta seccion se debe identifico un **"Business Goals"** para nuestra aplicaci
 | 1      | HU01          | Barra de navegación en la Landing Page | Como usuario quiero poder visualizar una página para saber los servicios de la aplicación. | 8 |
 | 2      | HU02          | Sección de beneficios | Como usuario quiero saber los servicios que ofrece la aplicacion web para optar por las caracteristicas que ofrece. | 8 |
 | 3      | HU03          | Sección de nosotros |Como usuario quiero saber quienes son y que ofrece la aplicacion para optar por lo que ofrece. | 8 |
-| 4      | * HU04        | Visualización de las redes sociales/Footer del Landing Page | Como usuario quiero visualizar, en una seccion, las redes sociales de la aplicación.    | 8 |
+| 4      | HU04        | Visualización de las redes sociales/Footer del Landing Page | Como usuario quiero visualizar, en una seccion, las redes sociales de la aplicación.    | 8 |
 | 5      | HU05          | Seccion de contactos en la Landing Page | Como usuario quiero contactar alguna persona para resolver dudas o problemas. | 8 |
 | 6      | HU06          | Registro de cuenta | Como usuario quiero registrarme rápidamente para empezar a usar la aplicación al instante. | 3 |
 | 7      | HU07 | El usuario se va a registrar usando su cuenta de Google o Outlook. | Como usuario quiero registrarme en la aplicación usando mi cuenta Google para empezar a usar la aplicación al instante.  | 3 |
-| 8      | HU08 | Inicio de sesión | Como usuario quiero poder iniciar sesión para usar la aplicación.
-.  | 3 |
+| 8      | HU08 | Inicio de sesión | Como usuario quiero poder iniciar sesión para usar la aplicación. | 3 |
 | 9      | HU09 | Ver vehículo disponibles | Como persona interesada en alquilar un vehículo quiero poder visualizar los vehículos para poder elegir. | 2 |
 | 10     | HU10 | Filtro de busqueda de vehículos | Como persona que desa alquilar quiero poder visualizar un filtro para poder encontrar el vehículo adecuado. | 3 |
 | 11     | HU11 | Beneficios por influenciar la movilidad sostenible |Como la persona que desea alquilar, deseo recibir beneficios al compartir contenido de la relacionado con Ruedarent en mis redes sociales, para sentirme motivado y valorado al contribuir a la concientización sobre la importancia de la movilidad sostenible. | 2 |
-| 12     | * HU12 | Beneficios por influenciar la movilidad sostenible | Como la persona que desea alquilar, deseo recibir beneficios al compartir contenido de la relacionado con Ruedarent en mis redes sociales, para sentirme motivado y valorado al contribuir a la concientización sobre la importancia de la movilidad eléctrica. | 2 |
-| 13     | * HU13 | Seccion de testimonios | CComo la persona que desea alquilar, deseo leer testimonios de otros usuarios que han experimentado beneficios al utilizar la plataforma, como su estidlo de vida, para sentirme inspirado y tomar decisiones informadas.  | 3 |
+| 12     | HU12 | Beneficios por influenciar la movilidad sostenible | Como la persona que desea alquilar, deseo recibir beneficios al compartir contenido de la relacionado con Ruedarent en mis redes sociales, para sentirme motivado y valorado al contribuir a la concientización sobre la importancia de la movilidad eléctrica. | 2 |
+| 13     | HU13 | Seccion de testimonios | CComo la persona que desea alquilar, deseo leer testimonios de otros usuarios que han experimentado beneficios al utilizar la plataforma, como su estidlo de vida, para sentirme inspirado y tomar decisiones informadas.  | 3 |
