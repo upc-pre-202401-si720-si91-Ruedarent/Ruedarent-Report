@@ -158,6 +158,12 @@ figma: https://www.figma.com/file/MYUgkXCBBiPkPT98q6F072/Untitled-(Copy)?type=de
 #### 4.6.3. Software Architecture Components Diagrams.
 ### 4.7. Software Object-Oriented Design.
 #### 4.7.1. Class Diagrams.
+![ClassDiagram](/feature/assets/ddd.jpeg)
 #### 4.7.2. Class Dictionary.
+  - Buyer: Es un agregado que se refiere a un comprador.
+  - Purchase: Es una entidad que se refiere a una compra.
+  - Product: Es una entidad que se refiere a un producto.
+  - Seller: Es un agregado que se refiere a un vendedor.
+  - Sale: Es una entidad que se refiere a una venta.
 ### 4.8. Database Design.
 #### 4.8.1. Database Diagram.
