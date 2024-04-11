@@ -153,9 +153,18 @@ figma: https://www.figma.com/file/MYUgkXCBBiPkPT98q6F072/Untitled-(Copy)?type=de
 #### 4.4.4. Web Applications User Flow Diagrams.
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
+En esta sección, se mostrarán los distintos diagramas elaborados que representan la arquitectura de software que se utilizará para el proyecto.
 #### 4.6.1. Software Architecture Context Diagram.
+![ContextDiagram](/assets/dd1.png)
 #### 4.6.2. Software Architecture Container Diagrams.
+![ContainerDiagram](/assets/dd2.png)
 #### 4.6.3. Software Architecture Components Diagrams.
+1. En este primer caso se muestran las funcionalidades que tendra nuestra aplicación web.
+![Component1](/assets/dd3.png)
+2. En este segundo caso se mostrarán los componentes necesarios para la seguridad.
+![Component2](/assets/dd4.png)
+3. En este tercer caso se muestran los componentes necesarios para los comentarios.
+![Component3](/assets/dd5.png)
 ### 4.7. Software Object-Oriented Design.
 #### 4.7.1. Class Diagrams.
 ![ClassDiagram](/feature/assets/ddd.jpeg)
