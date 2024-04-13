@@ -18,10 +18,29 @@ Nuestra visión es ser una plataforma líder de movilidad urbana en Lima y otras
 | ![Alejandro](https://i.ibb.co/0YLPj6H/mepg.jpg) | Mi nombre es Alejandro La Rosa, U201911361 y estoy actualmente estudiando la carrera de Ingeniería de Software. Actualmente me estoy enfocando más en el lado de fullstack. Tengo habilidades como Javascript, Typescript, Node JS, Express JS, SQL, Swift, MongoDB, React JS, Next JS.                                                                                                                                 |
 | ![Beth](https://i.ibb.co/MhBTbqr/imagen-png.jpg) |Hola, soy Beth Oneglio, estudiante de Ingeniería de Software (código U202213423). Poseo experiencia en C++, HTML, CSS, Python y SQL. Mi reputación se basa en mi fiabilidad y dedicación para enfrentar desafíos. Durante el confinamiento, he profundizado en mi pasión por la tecnología y he descubierto una conexión aún más fuerte con este campo. |
 
-| ![image] (assets/)         | Nombres y apellidos, código de estudiante y descripción de carrera, junto con párrafo de resumen indicando principales conocimientos técnicos y habilidades que puede aportar en el equipo.      |
+| ![Niurka] (https://i.ibb.co/XYMgnW2/foto.jpg) | Mi nombre es Niurka Huarcaya, U20221B226 y estoy en la carrera de ingeniería de Software. Tengo conocimientos del lenguajes de programación C++, python, html y base de datos como MongoDB.      |
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
+
+Problemática
+En los últimos años, el aumento del parque automotor, combinado con el incremento de la población en las principales ciudades del Perú ha producido un caos vehicular evidente, reflejado en los congestionamientos habituales en las vías. Esta situación no solo provoca más emisiones de gases contaminantes y prolonga el tiempo de desplazamiento, sino que también atrapa a los ciudadanos en el tráfico, lo que resulta en una pérdida de tiempo y productividad. Además, este escenario favorece el comportamiento sedentario, impactando negativamente en la vida diaria, la salud y el rendimiento de los habitantes que usan el transporte urbano.
+
+Aspectos a solucionar
+Abordar la problemática requiere promover el uso de medios de transporte alternativos como bicicletas, scooters, entre otros, así como fomentar un estilo de vida activo mediante la adopción de hábitos saludables. Igualmente, se debe mejorar la infraestructura vial y concientizar a las personas de la importancia de reducir la cantidad de uso de automóviles.
+
+Solución innovadora
+La propuesta de Ruedarent a la problemática de la contaminación ambiental, caos vehicular y falta de actividad en la vida diaria de los ciudadanos, es ofrecer una alternativa de movilidad urbana más ágil y flexible, a través de una aplicación web que estará disponible en los navegadores más usados como Chrome, Firefox y Edge. Esta aplicación web proporcionará una forma conveniente y accesible para que los usuarios puedan encontrar y alquilar los vehículos que prefieran de forma sencilla y contará con un modelo de suscripciones que brindará beneficios adicionales a los usuarios como descuentos en el alquiler y bloqueo de anuncios.
+La implementación de esta solución aspira a reducir la dependencia a los autos personales y fomentar el uso de medios de transporte sostenibles y activos para que se adopte un estilo de vida más saludable entre los usuarios. Asimismo, se busca contribuir a la disminución de emisión de gases contaminantes y a la mejora de la calidad de aire en las zonas urbanas.
+El modelo de negocio se basa en la obtención de ganancias a través de las comisiones de los alquileres que se realizan en la plataforma, así como de los ingresos generados por publicidad y los precios de las suscripciones.
+
+Objetivos
+Aumentar el número de usuarios que hacen uso de transportes sostenibles como bicicletas, scooters y skateboards, mediante el alquiler ofrecido por la aplicación web.
+Mejorar la accesibilidad al transporte urbano, proporcionando una alternativa ágil y flexible de movilización a los usuarios.
+Desarrollar una aplicación web atractiva e intuitiva para que todos los usuarios puedan comprender rápidamente el funcionamiento y propósito de nuestra aplicación. 
+
+Restricciones
+Ruedarent propone una solución prometedora para transformar la movilidad urbana, sin embargo pueden presentarse algunos desafíos como la seguridad y resistencia al cambio por parte de los ciudadanos, así como la baja disposición de recursos y financiamiento necesarios para el desarrollo completo del proyecto.
 
 What (¿Cuál es el problema?):
 El caos vehicular es un problema que perjudica la vida diaria de las personas y tiene a la congestión vehicular como característica más resaltante, la cual genera un tránsito lento, convirtiendo los viajes en una experiencia frustrante, provoca más emisiones contaminantes, lo cual afecta la salud pública. Además, contribuye a la inseguridad vial y ciudadana. (Bianchi et al., 2022)
