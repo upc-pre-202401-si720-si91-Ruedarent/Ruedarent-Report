@@ -234,9 +234,14 @@ Para este proyecto en particular decidimos interactuar con potenciales usuarios 
 | Puntuar alquilador                     | Frecuencia: Baja<br>Importancia: Baja       | Frecuencia: Media<br>Importancia: Media     |
 
 ### 2.3.3. User Journey Mapping
+## Primer segmento: Usuario que alquila
+![Img_jorneymapping1](https://i.ibb.co/TT9bMkf/customer-journey-map.png)
+## Segundo segmento: Propietario de vehiculo
+![Img_jorneymapping1](https://i.ibb.co/6BCdVL5/Propietario-CJM.png)
 ### 2.3.4. Empathy Mapping.
 ![Img_emphaty1](assets/emphaty1.png)
 ![Img_emphaty2](assets/emphaty2.png)
 ### 2.3.5. As-is Scenario Mapping.
 ![Img_asis](assets/scn.jpg)
 ## 2.4. Ubiquitous Language
+
