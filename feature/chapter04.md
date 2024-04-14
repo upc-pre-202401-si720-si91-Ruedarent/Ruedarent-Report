@@ -229,21 +229,21 @@ User Goal: Como usuario que alquila, quiero acceder a "Alquilar vehículo" para 
 Enlace: https://www.figma.com/file/XDy8vGTBGd3DL1JC70g3tB/Web-Applications-UX%2FUI-Design-(RUEDARENT)?type=design&node-id=0%3A1&mode=design&t=tpiOdHEYpH5ImO24-1
 
 #### 4.4.3. Web Applications Mock-ups.
-En esta sección, se aplicaron los sistemas de búsqueda como la barra de navegación principal que conecta las secciones principales, en cuanto a la arquitectura de información y se utilizó el sistema de organización de contenido mediante modulos, para poder clasificar la información de manera más efectiva. Además, se tuvieron en cuenta los principios y elementos de diseño.
+En esta sección, se aplicaron los sistemas de búsqueda como la barra de navegación principal que conecta las secciones principales, en cuanto a la arquitectura de información y se utilizó el sistema de organización de contenido mediante modulos, para poder clasificar la información de manera más efectiva. Además, se tuvieron en cuenta los principios y elementos de diseño. <br>
 ![mockups](https://i.ibb.co/k2wyfbK/mockups.png)
 
 Principales mock-ups
 
--Registro
+-Registro <br>
 ![registro](https://i.ibb.co/HDf9r0h/registro.png)
 
--Inicio de sesión
+-Inicio de sesión <br>
 ![inicios](https://i.ibb.co/Xs0Mm0P/inicios.png)
 
--Perfil
+-Perfil <br>
 ![perfil](https://i.ibb.co/FxGjBfW/perfil.png)
 
--Búsqueda de vehículos
+-Búsqueda de vehículos <br>
 ![busqueda](https://i.ibb.co/WxrLWP7/busqueda.png)
 
 Enlace: [mock-ups](https://www.figma.com/file/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=0%3A1&mode=design&t=oV4ZYw2Es2V34LBK-1)
