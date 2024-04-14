@@ -199,7 +199,31 @@ Entrevista N°1:
 
 Entrevista N°2:
 
+**Sexo:** Femenino
+**Edad:** 25 años
+**Ubicación:** Surco
+**Entrevistada:** Nataly Huarcaya
+**Inicio de la Entrevista:** 0:17
+
+![Entrevista_Seg02_Nataly](https://i.ibb.co/ySQpzb7/entrevista1.png)<br>
+
+**Resumen De Entrevista:** La entrevistada indica que estaría interesada en alquilar su vehículo en una plataforma, ya que no lo usa constantemente y eso le daría más visibilidad, pero la plataforma de alquiler tendría que asegurar que los usuarios sean confiables para no arriesgar su vehículo y que la entrega o devolución no sea una experiencia frustrante.
+
+**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EWhk4QtlBRtKrgwSuZ3xJXgBXqli_N4swEgt0B76K0I-MA?e=76cjaN">
+
 Entrevista N°3:
+
+**Sexo:** Femenino
+**Edad:** 19 años
+**Ubicación:** Surco
+**Entrevistada:** Astrid Boronda
+**Inicio de la Entrevista:** 0:05
+
+![Entrevista_Seg02_Astrid](https://i.ibb.co/PYjDWND/foto-ent2.png)<br>
+
+**Resumen De Entrevista:** La entrevistada menciona que consideraría alquilar uno de sus dos vehículos (scooter), porque no estaría muy segura de cómo resultaría el alquiler de una bicicleta. Asimismo, resalta que la seguridad es un factor muy importante para tomar la decisión de alquilar su vehículo.
+
+**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EXvE1_J-d_1KgTYSLpbwIIMB08uuWq-4JsMMNuejlKNK4g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n3UdsN">
 
 ### 2.2.3. Análisis de entrevistas.
 
