@@ -229,7 +229,7 @@ User Goal: Como usuario que alquila, quiero acceder a "Alquilar vehículo" para 
 Enlace: https://www.figma.com/file/XDy8vGTBGd3DL1JC70g3tB/Web-Applications-UX%2FUI-Design-(RUEDARENT)?type=design&node-id=0%3A1&mode=design&t=tpiOdHEYpH5ImO24-1
 
 #### 4.4.3. Web Applications Mock-ups.
-En esta sección, se aplicaron los sistemas de búsqueda como la barra de navegación principal que conecta las secciones principales, en cuanto a la arquitectura de información y se utilizó el sistema de organización de contenido mediante modulos, para poder clasificar la información de manera más efectiva. Además, se tuvieron en cuenta los principios y elementos de diseño. <br>
+En esta sección, se aplicaron los sistemas de búsqueda como la barra de navegación principal que conecta las secciones principales, en cuanto a la arquitectura de información se utilizó el sistema de organización de contenido mediante modulos, para poder clasificar la información de manera más efectiva. Además, se tuvieron en cuenta los principios y elementos de diseño adecuados para la aplicación web. <br>
 ![mockups](https://i.ibb.co/k2wyfbK/mockups.png)
 
 Principales mock-ups
@@ -249,6 +249,66 @@ Principales mock-ups
 Enlace: [mock-ups](https://www.figma.com/file/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=0%3A1&mode=design&t=oV4ZYw2Es2V34LBK-1)
 
 #### 4.4.4. Web Applications User Flow Diagrams.
+A continuación, se muestra de manera visual los pasos que los segmentos objetivos siguen al interactuar con la aplicación web Ruedarent.
+
+- Primer segmento: propietarios de vehículos <br>
+
+User Goal: Como propietario de vehículos, quiero poder registrarme en la aplicación web para visualizar "Mi Perfil".
+El user flow permite al propietario poder registrarse en la aplicación con diferentes métodos (gmail, outlook, correo y contraseña) para poder acceder a la sección de su perfil. <br>
+![registrop](https://i.ibb.co/Vq8r2Ms/registro-perfil.png) <br>
+![registromu](https://i.ibb.co/F0q9YPc/registro-perfil-mu.png)<br>
+
+User Goal: Como propietario de vehículos, deseo iniciar sesión en la aplicación para acceder a la plataforma web para visualizar "Mi Perfil". <br>
+El user flow permite al propietario poder iniciar sesión en la aplicación por tres métodos (gmail, outlook, correo y contraseña) para poder acceder a la sección de su perfil. <br>
+![iniciop](https://i.ibb.co/xzLDMzW/inicio-perfil.png) <br>
+![iniciopmu](https://i.ibb.co/DDGSzPv/inicio-perfil-mu.png) <br>
+
+User Goal: Como propietario de vehículos, deseo registrar mi vehículo. Posteriormente, quiero poder visualizar sus características en el perfil del vehículo desde la sección "Mis Vehículos". <br>
+El user flow permite al propietario registrar su vehículo, completando la información que luego se podrán visualizar cuando ingrese al perfil del vehículo mediante la sección de "Mis Vehículos". <br>
+![registrov](https://i.ibb.co/FbWgz8t/registro-vehiculos.png) <br>
+![registrovmu](https://i.ibb.co/tcZS6nw/registro-vehiculos-solo-mu.png) <br>
+
+User Goal: Como propietario de vehículos, quiero registrar mi vehículo. Luego, deseo poder visualizar todos mis vehículos, cada uno con sus características, en la sección "Mis Vehículos". <br>
+El user flow permite registrar su vehículo, para que luego se puedan visualizar todos los vehículos ya registrados en la sección Mis Vehículos. <br>
+![registrovp](https://i.ibb.co/586g2XX/registro-vehiculos-perfil.png) <br>
+![registrovpmu](https://i.ibb.co/CbRy0Kv/registro-vehiculos-mu.png) <br>
+
+User Goal: Como propietario de vehículos, deseo acceder a la sección "Planes" para poder alquilar mi vehículo seleccionando uno de ellos <br>
+Este user flow permite que el propietario acceda a la sección de planes, vea la información de cada uno y elija uno de ellos. <br>
+![planes](https://i.ibb.co/QF6HkzH/selec-plan.png) <br>
+![planesmu](https://i.ibb.co/4RyYfbV/selec-plan-mu.png) <br>
+
+User Goal: Como propietario de vehículos, deseo pagar mi plan seleccionado en "Planes", ver las características de mi pedido y pagar con PayPal. <br>
+Este user flow permite que el propietario acceda a la sección de planes, vea los detalles de cada uno y elija uno de ellos. Después, se pagará mediante Paypal. <br>
+![pago](https://i.ibb.co/y4pMGhf/selec-plan-pago.png) <br>
+![pagomu](https://i.ibb.co/M92g8h0/selec-plan-pago-mu.png) <br>
+
+- Segundo Segmento: Usuario que alquila <br>
+User Goal: Como usuario que alquila, quiero poder registrarme en la aplicación web para ingresar a la plataforma web.
+Este user flow permite que el usuario se registre en la aplicación con gmail, outlook o correo y contraseña. <br>
+![registrou](https://i.ibb.co/1Rc2ZzF/inicio-recom.png) <br>
+![registroumu](https://i.ibb.co/3c8pVRY/inicio-recom-mu.png) <br>
+
+User Goal: Como usuario que alquila, deseo iniciar sesión en la aplicación para acceder a la plataforma web. <br>
+Este user flow permite que el usuario inicie sesión en la aplicación con gmail, outlook o correo y contraseña. <br>
+![iniciou](https://i.ibb.co/71sXS15/inicio-s-recom.png) <br>
+![inicioumu](https://i.ibb.co/0KBMCg9/inicio-s-recom-mu.png) <br>
+
+User Goal: Como usuario que alquila, quiero visualizar lo más destacado y luego acceder a "Ver vehículos" para encontrar más vehículos de mi interés. <br>
+Este user flow permite que el usuario pueda ver vehículos de interés en la sección de ver vehículos desde la sección de recomendaciones. <br>
+![recomu](https://i.ibb.co/tb6LTZh/ver-vehic.png) <br>
+![recomumu](https://i.ibb.co/r6qfbct/ver-vehic-mu.png) <br>
+
+User Goal: Como usuario que alquila, deseo acceder a "Filtro" para ver las características de los vehículos y encontrar más opciones disponibles. <br>
+Este user flow permite que el usuario pueda buscar los vehículos de su preferencia aplicando las etiquetas de filtro. <br>
+![filtrou](https://i.ibb.co/8mQvfRZ/filtro.png) <br>
+![filtroumu](https://i.ibb.co/bmsvvmH/filtro-mu.png) <br>
+
+User Goal: Como usuario que alquila, quiero acceder a "Alquilar vehículo" para ver las características del transporte seleccionado y poder contactar al propietario a través de su información de contacto. <br>
+Este user flow permite que el usuario pueda alquilar un vehículo, desde la búsqueda con filtros como la selección del vehículo recomendado para ver su información detallada y finalmente, contactarse con el propietario para coordinar la entrega. <br>
+![alquileru](https://i.ibb.co/tJxpBM3/alquiler-contacto.png) <br>
+![alquilerumu](https://i.ibb.co/gJ14LDz/alquiler-contacto-mu.png) <br>
+
 ### 4.5. Web Applications Prototyping.
 ### 4.6. Domain-Driven Software Architecture.
 En esta sección, se mostrarán los distintos diagramas elaborados que representan la arquitectura de software que se utilizará para el proyecto.
