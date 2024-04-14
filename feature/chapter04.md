@@ -146,8 +146,44 @@ figma: https://www.figma.com/file/MYUgkXCBBiPkPT98q6F072/Untitled-(Copy)?type=de
 ![Landingpage5](/feature/assets/land5.png)
 ![Landingpage6](/feature/assets/land6.png)
 figma: https://www.figma.com/file/MYUgkXCBBiPkPT98q6F072/Untitled-(Copy)?type=design&node-id=28%3A910&mode=design&t=dwN8VALw3i3zrJ2y-1
+
 ### 4.4. Web Applications UX/UI Design.
 #### 4.4.1. Web Applications Wireframes.
+
+##### - Primer Segmento: Propietario de vehículos
+
+Los wireframes presentan la interfaz para los usuarios, incluyendo las pantallas de carga, inicio de sesión y registro, diseñadas siguiendo las pautas de tipografía y tamaño detalladas en la documentación:
+![Propietario](https://i.ibb.co/y0fv8cM/Uno.png)
+![Propietario](https://i.ibb.co/12ghGCc/Dos.png)
+
+A continuación, se mostrará el esquema visual de la sección "Mis Vehículos" y del perfil del propietario:
+![Propietario](https://i.ibb.co/PZ4JT3v/Tres.png)
+
+En este espacio, los usuarios podrán visualizar las características que el propietario ha asignado a su vehículo:
+![Propietario](https://i.ibb.co/KbKFYLW/Cuatro.png)
+
+Aquí encontrará sus vehículos registrados en "Mis vehículos". Luego, podrá explorar nuestros planes para poder alquilarlo:
+![Propietario](https://i.ibb.co/wWcBkh7/Cinco.png)
+
+Finalmente, llegó el momento de pagar el plan que escogió mediante la plataforma "PayPal", y en "Tu Pedido" estarán los detalles correspondientes:
+![Propietario](https://i.ibb.co/W6Dmzgg/Seis.png)
+<br>
+
+##### - Segundo Segmento: Usuario que alquila
+
+Los wireframes presentan la interfaz para los usuarios, incluyendo las pantallas de carga, inicio de sesión y registro, diseñadas siguiendo las pautas de tipografía y tamaño detalladas en la documentación:
+![Usuario](https://i.ibb.co/wgxSpnL/Uno.png)
+![Usuario](https://i.ibb.co/99jCkVp/Dos.png)
+
+A continuación, el usuario encontrará lo más destacado en "Recomendaciones", que podría interesarle, y en el otro wireframe encontrará información del usuario en "Mi Perfil":
+![Usuario](https://i.ibb.co/q9sxmtZ/Tres.png)
+
+Aquí podrá observar los vehículos que podrían interesarle y acceder a más de ellos con el botón "Ver más...":
+![Usuario](https://i.ibb.co/9Yj7Y4G/Cuatro.png)
+
+Al hacer clic en "Ver más...", accederá a un "Filtro" con diferentes vehículos, cada uno con sus características e imagen. Al seleccionar el vehículo que prefiera, encontrará sus detalles en "Alquilar Vehículo" y podrá ponerse en contacto con el propietario utilizando la información de contacto proporcionada:
+![Usuario](https://i.ibb.co/PWXF6Np/Cinco.png)
+
 #### 4.4.2. Web Applications Wireflow Diagrams.
 #### 4.4.3. Web Applications Mock-ups.
 #### 4.4.4. Web Applications User Flow Diagrams.
