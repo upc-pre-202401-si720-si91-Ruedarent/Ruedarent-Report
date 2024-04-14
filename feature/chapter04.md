@@ -314,8 +314,8 @@ Este user flow permite que el usuario pueda alquilar un vehículo, desde la bús
 
 ### 4.5. Web Applications Prototyping.
 En la creación de los dos flujos de acción de los prototipos, se consideraron las posibles formas en que los usuarios interactúan con la aplicación web. Además, se generó el prototipo de manera interactiva para que gran parte de las secciones puedan garantizar que nuestros usuarios disfruten de una experiencia intuitiva y funcional. También, se tomaron en cuenta los Diagramas de Flujo de Usuario y los Wireflow Diagrams para mejorar la comprensión de cada funcionalidad de la aplicación web. <br>
-[Prototype-design](https://i.ibb.co/nLShLJ2/prototype.png) <br>
-[Prototype](https://www.figma.com/proto/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=1-118&t=W71qi8qX5mMOQsLE-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A32&show-proto-sidebar=1&mode=design) <br>
+![Prototype-design](https://i.ibb.co/nLShLJ2/prototype.png) <br>
+[Prototype](https://www.figma.com/proto/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=1-32&t=7qjDnHX0VVyGVsSJ-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A32&show-proto-sidebar=1&mode=design) <br>
 
 ### 4.6. Domain-Driven Software Architecture.
 En esta sección, se mostrarán los distintos diagramas elaborados que representan la arquitectura de software que se utilizará para el proyecto.
