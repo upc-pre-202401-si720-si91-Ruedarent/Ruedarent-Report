@@ -46,11 +46,11 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
             <br><b><span>Scenario 1:</span></b> El usuario necesita el menu para visualizar las secciones de la Landing page.
             <br><b><span>Dado que</b></span> el usuario en la landing page
             <br><b><span>Cuando</b></span> visualice la barra de navegación
-            <br><b><span>Entonces</b></span> podra interactuar con los diferentes secciones y botones de la página</td>
-            br><b><span>Scenario 2:</span></b> El usuario necesita navegar por la Landing page.
+            <br><b><span>Entonces</b></span> podra interactuar con los diferentes secciones y botones de la página.
+            <br><b><span>Scenario 2:</span></b> El usuario necesita navegar por la Landing page.
             <br><b><span>Dado que</b></span> el usuario esta en la landing page
             <br><b><span>Cuando</b></span> de click algun boton o seccion
-            <br><b><span>Entonces</b></span> podra ser redirigido a la cierta seccion de la página</td>
+            <br><b><span>Entonces</b></span> podra ser redirigido a la cierta seccion de la página.</td>
         </tr>
     </tbody>
 </table>
