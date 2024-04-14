@@ -65,15 +65,48 @@ En nuestro proyecto, emplearemos el lenguaje Gherkin para definir y comprender n
 ### 5.2. Landing Page, Services & Applications Implementation.
 #### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
+En este sección, están las reuniones que se realizaron para llevar a cabo la landing page.<br>
+
+| Sprint # | Sprint #1 |
+| -------- | --------|
+| Sprint Planning Background |
+| Date | 2024-04-10 |
+| Time | 05:25 PM |
+| Location | Google Meet (virtual) |
+| Prepared by | Gallo Quintana, David Ivanoff |
+| Attendes (to planning meeting) | Gallo Quintana, David Ivanoff / La Rosa, Alejandro / Calisaya Sánchez, Juan Jesús  / Oneglio, Beth / Huarcaya Niurka |
+| Sprint Goal & User Stories |    |
+| Sprint 1 Goal | Realizar la Landing Page |
+| Sprint 1 Velocity | 45|
+| Sum of Story Points | 40 |
+
 #### 5.2.1.2. Sprint Backlog 1.
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| HU01 | Barra de navegación de la landing page     | TS01 |Header and NavBar responsivos (Desarrollado en HTML, CSS y JS).          | Implementación del header y la barra de navegación, siguiendo los estándares “Responsive”  | 8                  | David | Done                                   |
+| HU02 | Sección de beneficios    | TS02 | Sección de Beneficios (Desarrollado en HTML, CSS y JS).       | Implementación de la sección de Beneficios en la Landing Page, siguiendo los estándares “Responsive”  | 8                 | Alejandro | Done                                   |
+| HU03 | Sección de nosotros           | TS03 | Sección de nosotros (Desarrollado en HTML, CSS y JS).                              | Implementación de la sección nosotros en la Landing Page, siguiendo los estándares “Responsive”.           | 8                  | Beth   | Done                                   |
+| H04 | Visualización de las redes sociales/Footer del Landing Page | TS04 | Seccion de footer (Desarrollado en hTML, CSS y JS). | Implementación de visualización de redes | 8 | Niurka | Done
+|H05 | Seccion de contactos en la Landing Page | TS05 | Sección footer (Desarrollado en HTML , CSS y JS) | Implementación de footer | 8 | Juan |Done
+
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+En esta entrega, nos enfocamos en Landing page, por lo que no fue necesario ningún servicio adicional.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+En este caso se uso GitHub Pages, para desplegar la Landing page, el cual nos sirvio para, a partir de un código en un repositorio poder desplegar la página. Enlace de la landing page: [Link de Landing Page](https://upc-pre-202401-si720-si91-ruedarent.github.io/Ruedarent-Landing-Page/)
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-## Concluciones
+Para llevar a cabo este proyecto se usaron distintas herramientas como Visual Studio Code, Webstorm; junto con manejo de versiones en Git. En este caso se dividio la landing page mostrada anteriormente en sectores, a partir de esto cada uno presentó su parte y luego un miembro juntó las partes para finalmente tener el resultado deseado.
+![Pruebas](/feature/assets/commits.png)
+## Conclusiones
+- Para tener éxito durante la elaboración del proyecto es necesario que todos los integrantes participen y colaboren de manera equitativa, para que el proyecto pueda ser finalizado de manera rápida.
+
+- Es bastante importante la realización de User stories junto con product backlog para definir las necesidades de los usuarios asi como clasificarlos por su importancia, esto con el objetivo de realizar las necesidades más importantes primero.
+
+- Para tener éxito, es esencial abordar el riesgo de errores funcionales mediante pruebas y mejoras continuas.
 ## Bibliografía
 ## Anexos
