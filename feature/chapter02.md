@@ -244,4 +244,14 @@ Para este proyecto en particular decidimos interactuar con potenciales usuarios 
 ### 2.3.5. As-is Scenario Mapping.
 ![Img_asis](assets/scn.jpg)
 ## 2.4. Ubiquitous Language
+- User (Usuario): Persona que usa la aplicación para alquilar o buscar vehículos eléctricos. Se divide en dos categorías:
+    - Owner (Propietario): Usuario que ofrece sus vehículos para alquilar a otros usuarios.
+    - Renting user (Usuario que alquila): Usuario que busca alquilar un vehículo a través de la aplicación.
+- Vehicle (Vehículo): Cualquier medio de transporte eléctrico, como bicicletas, scooters, patinetas, motos, etc.
+- Vehicle profile (Perfil del vehículo): Información detallada sobre el vehículo, incluyendo marca, modelo, tamaño, color y estado de mantenimiento.
+- Vehicle delivery/return (Entrega/devolución del vehículo): Proceso de transferencia física del vehículo entre el propietario y el cliente al inicio y al final del alquiler.
+- Rental fee (Tarifa de alquiler): Precio que cobra el propietario al cliente por el uso del vehículo durante un período específico.
+- Plans (Planes): Modelo de negocio que se usa para dar un servicio por una cuota, en este caso, habrán tres planes para los propietarios.
+- Pay (Pago): Método que el cliente emplea para pagar el alquiler del vehículo y los planes.
+
 
