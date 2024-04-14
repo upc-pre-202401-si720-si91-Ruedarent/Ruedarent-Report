@@ -167,7 +167,7 @@ Aquí encontrará sus vehículos registrados en "Mis vehículos". Luego, podrá 
 
 Finalmente, llegó el momento de pagar el plan que escogió mediante la plataforma "PayPal", y en "Tu Pedido" estarán los detalles correspondientes:
 ![Propietario](https://i.ibb.co/W6Dmzgg/Seis.png)
-<br>
+Enlace: https://www.figma.com/file/XDy8vGTBGd3DL1JC70g3tB/Web-Applications-UX%2FUI-Design-(RUEDARENT)?type=design&node-id=0%3A1&mode=design&t=tpiOdHEYpH5ImO24-1
 
 ##### - Segundo Segmento: Usuario que alquila
 
@@ -183,8 +183,51 @@ Aquí podrá observar los vehículos que podrían interesarle y acceder a más d
 
 Al hacer clic en "Ver más...", accederá a un "Filtro" con diferentes vehículos, cada uno con sus características e imagen. Al seleccionar el vehículo que prefiera, encontrará sus detalles en "Alquilar Vehículo" y podrá ponerse en contacto con el propietario utilizando la información de contacto proporcionada:
 ![Usuario](https://i.ibb.co/PWXF6Np/Cinco.png)
+Enlace: https://www.figma.com/file/XDy8vGTBGd3DL1JC70g3tB/Web-Applications-UX%2FUI-Design-(RUEDARENT)?type=design&node-id=0%3A1&mode=design&t=tpiOdHEYpH5ImO24-1
 
 #### 4.4.2. Web Applications Wireflow Diagrams.
+
+##### - Primer Segmento: Propietario de vehículos
+En el siguiente apartado se muestra el proceso en el cual aparecerán los diferentes estados de la aplicación por medio de los Wireflows Diagrams.
+
+User Goal: Como propietario de vehículos, quiero poder registrarme en la aplicación web para visualizar "Mi Perfil".
+![Propietario](https://i.ibb.co/DbW2v27/Uno.png)
+
+User Goal: Como propietario de vehículos, deseo iniciar sesión en la aplicación para acceder a la plataforma web para vizualizar "Mi Perfil".
+![Propietario](https://i.ibb.co/jhrXxFR/Dos.png)
+
+User Goal: Como propietario de vehículos, deseo registrar mi vehículo. Posteriormente, quiero poder visualizar sus características en la sección "Mi Vehículo" dentro de la opción "Ver vehículos".
+![Propietario](https://i.ibb.co/ChyY0hM/Tres.png)
+
+User Goal: Como propietario de vehículos, quiero registrar mi vehículo. Luego, deseo poder visualizar todos mis vehículos, cada uno con sus características, en la sección "Mis Vehículos".
+![Propietario](https://i.ibb.co/HPxWpRm/Cuatro.png)
+
+User Goal: Como propietario de vehículos, deseo acceder a la sección "Planes" para poder alquilar mi vehículo seleccionando uno de ellos.
+![Propietario](https://i.ibb.co/ZMZ1RxT/Cinco.png)
+
+User Goal: Como propietario de vehículos, deseo pagar mi plan seleccionado en "Planes", ver las características de mi pedido y pagar con PayPal.
+![Propietario](https://i.ibb.co/ZVFPkLj/Seis.png)
+Enlace: https://www.figma.com/file/XDy8vGTBGd3DL1JC70g3tB/Web-Applications-UX%2FUI-Design-(RUEDARENT)?type=design&node-id=0%3A1&mode=design&t=tpiOdHEYpH5ImO24-1
+
+##### - Segundo Segmento: Usuario que alquila
+En el siguiente apartado se muestra el proceso en el cual aparecerán los diferentes estados de la aplicación por medio de los Wireflows Diagrams.
+
+User Goal: Como usuario que alquila, quiero poder registrarme en la aplicación web para ingresar a la plataforma web.
+![Usuario](https://i.ibb.co/cxVSxJJ/Uno.png)
+
+User Goal: Como usuario que alquila, deseo iniciar sesión en la aplicación para acceder a la plataforma web.
+![Usuario](https://i.ibb.co/WHzzN6Y/Dos.png)
+
+User Goal: Como usuario que alquila, quiero visualizar lo más destacado y luego acceder a "Ver vehículos" para encontrar más vehículos de mi interés.
+![Usuario](https://i.ibb.co/DrKC6vC/Tres.png)
+
+User Goal: Como usuario que alquila, deseo acceder a "Filtro" para ver las características de los vehículos y encontrar más opciones disponibles.
+![Usuario](https://i.ibb.co/Kh4p7Zs/Cuatro.png)
+
+User Goal: Como usuario que alquila, quiero acceder a "Alquilar vehículo" para ver las características del transporte seleccionado y poder contactar al propietario a través de su información de contacto.
+![Usuario](https://i.ibb.co/bRVXP3V/Cinco.png)
+Enlace: https://www.figma.com/file/XDy8vGTBGd3DL1JC70g3tB/Web-Applications-UX%2FUI-Design-(RUEDARENT)?type=design&node-id=0%3A1&mode=design&t=tpiOdHEYpH5ImO24-1
+
 #### 4.4.3. Web Applications Mock-ups.
 #### 4.4.4. Web Applications User Flow Diagrams.
 ### 4.5. Web Applications Prototyping.
