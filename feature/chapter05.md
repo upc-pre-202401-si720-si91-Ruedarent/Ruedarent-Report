@@ -91,9 +91,53 @@ En este sección, están las reuniones que se realizaron para llevar a cabo la l
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| [Ruedarent <br>Landing Page](https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Landing-Page) | main | 878eb379530bba34ba873c65bd1910058b1a443e | Initial commit |  | 30/03/2024 |
+|  | feat/section-vehicles | 04043ab2c41e879a1395a62d32e81746de41bb5e | feat: added/section-vehicles |  | 12/04/2024 |
+|  | feat/section-vehicles | 87ae681f43e7832d266ccaf06d5b59ce40495ea4 | feat: added Section vehicles |  | 12/04/2024 |
+|  | feat/section-benefits | 33c1fdd6a89424db5ef9e429383daf02934dc0d8 | feat: added section benefits |  | 12/04/2024 |
+|  | feat/section-alertas | 8e00870b2827fa0be585af6e162d2bf5c2d3d568 | Add: Alert section |  | 13/04/2024 |
+|  | feat/section-us | e6d0b79d5946afc4a1c93e31e76dcf0843435738 | feat: added us index.html |  | 13/04/2024 |
+|  | feat/section-us  | 0b339e0a7775226891d44434ae18e753b4e910a4 | feat: added us style.css |  | 13/04/2024 |
+|  | feat/section-alertas | 42929bb5d7ba742ed1fa44a54e9e4953c3f0f291 | Merge branch 'feat/section-benefits' into feat/section-alertas |  | 14/04/2024 |
+|  | releases | 833e5f8391bedb6dea5e81c17ba3736486e57e4e | feat: merged sections |  | 14/04/2024 |
+
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aqui: [Ruedarent <br> Acceptance Tests](https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Acceptance-Tests).
+
+| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
+|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
+| [Ruedarent <br> Acceptance Tests](https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Acceptance-Tests) | main | f188729754140b486ecc985eacccb62a60b52b2b | Initial commit |  | 14/04/2024 |
+|  | main | d2382ffd3319c3b7f5bcf2292d1a743f489f918d | feat: added acceptance tests epic01 |  | 15/04/2024 |
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
+En esta entrega, el equipo Ruedarent ha logrado completar con éxito la creación de la Landing Page. Esta proporcionará detalles precisos sobre nuestra misión como startup, además de ofrecer información sobre los servicios que proporcionamos en nuestra aplicación web.
+Enlace del deploy de la landing page de Ruedarent en GitHub Pages: https://upc-pre-202401-si720-si91-ruedarent.github.io/Ruedarent-Landing-Page/
+
+Sección de header donde se encuentra el menu de navegación principal y el Banner donde  se muestra un mensaje con una imagen acerca de Ruedarent.
+![Execution Evidence](https://i.ibb.co/5kMr3qt/page1.png)
+
+Sección de inscribirce para que los usuarios den su apoyo e informacion basica.
+![inscribase](https://i.ibb.co/ym2RzSk/inscribase.png)
+
+Sección de vehículos para visualizar que tipo ofrecemos. 
+![vehículos](https://i.ibb.co/XtdW49h/vehiculos.png)
+
+Sección de beneficios para  mostrar a los usuarios lo que se obtiene al elegir a nosotros.
+![beneficios](https://i.ibb.co/JnWZDB1/beneficios.png)
+
+Sección de nosotros, donde se muestra información relevante sobre la startup y sus valores.
+![nosotros](https://i.ibb.co/gM9J3j3/nosotros.png)
+
+Sección de contacto y footer con enlaces a redes sociales y un formulario de contacto.
+![contacto y footer](https://i.ibb.co/fqGymMs/contactoyfooter.png)
+
+Link de video explicativo del landing page de Ruedarent: //falta
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 En esta entrega, nos enfocamos en Landing page, por lo que no fue necesario ningún servicio adicional.
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
