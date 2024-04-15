@@ -154,6 +154,49 @@ Entrevista N°1:
 **Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EQh3NNNYUeROu-IXmUgcD_UBhGheSxjDGKPq25GKPsPARw?e=cCbJ49&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EQh3NNNYUeROu-IXmUgcD_UBhGheSxjDGKPq25GKPsPARw?e=cCbJ49&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
 Entrevista N°2:
+**Sexo:** Femenino
+**Edad:** 25 años
+**Ubicación:** Surco
+**Entrevistada:** Nataly Huarcaya
+**Inicio de la Entrevista:** 0:17
+
+![Entrevista_Seg02_Nataly](https://i.ibb.co/ySQpzb7/entrevista1.png)<br>
+
+**Resumen De Entrevista:** La entrevistada indica que estaría interesada en alquilar su vehículo en una plataforma, ya que no lo usa constantemente y eso le daría más visibilidad, pero la plataforma de alquiler tendría que asegurar que los usuarios sean confiables para no arriesgar su vehículo y que la entrega o devolución no sea una experiencia frustrante.
+
+**Enlace:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EWhk4QtlBRtKrgwSuZ3xJXgBXqli_N4swEgt0B76K0I-MA?e=76cjaN> <br>
+
+Entrevista N°3:
+
+**Sexo:** Femenino
+**Edad:** 19 años
+**Ubicación:** Surco
+**Entrevistada:** Astrid Boronda
+**Inicio de la Entrevista:** 0:05
+
+![Entrevista_Seg02_Astrid](https://i.ibb.co/PYjDWND/foto-ent2.png)<br>
+
+**Resumen De Entrevista:** La entrevistada menciona que consideraría alquilar uno de sus dos vehículos (scooter), porque no estaría muy segura de cómo resultaría el alquiler de una bicicleta. Asimismo, resalta que la seguridad es un factor muy importante para tomar la decisión de alquilar su vehículo.
+
+**Enlace:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EXvE1_J-d_1KgTYSLpbwIIMB08uuWq-4JsMMNuejlKNK4g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n3UdsN> <br>
+
+### Entrevista para los "Usuarios que desean alquilar":
+
+Entrevista N°1:
+
+**Sexo:** Femenino
+**Edad:** 21 años
+**Ubicación:** Magdalena del Mar
+**Entrevistada:** Daniela Chavez
+**Inicio de la Entrevista:** 0:01
+
+![Entrevista_Seg02_DanielaChavez](assets/Registro_Entrevista_Seg02_DanielaChavez.png)<br>
+
+**Resumen De Entrevista:** Según las respuestas proporcionadas, la entrevistada comenta que usualmente se manifiesta por medio de transporte público, pero que estaba considerando ir en bicicleta o scooter eléctrico, este último debido a su velocidad. Comenta que cada vez en Lima, ve que cada vez más gente se moviliza por scooters y a su vez ve más gente usando ciclovías, lo cual considera que ayuda al medio ambiente además de que lo bueno de usar bicicletas sería el ejercicio. Además logras evitar el tráfico, asi como evitas pasarla mal en combi. Considera que si los precios son accesibles y favorecen a los usuarios podria ayudar a la obtención de nuevos hábitos.
+
+**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+
+Entrevista N°2:
 
 **Sexo:** Femenino
 **Edad:** 22 años
@@ -180,50 +223,6 @@ Entrevista N°3:
 **Resumen De Entrevista:** El entrevistado nos menciona que por tendencia le gustaría utilizar monopatines, y seria una alternativa a para ya no usar auto y cuidar el medio ambiente. Tambien que lo primero que busca son los precios, para ver que si esta más acomodado a su presupuesto. Segundo, vería la facilidad para reservar estos vehículos y la garantía, seguridad de recibirlos, también que estén en buen estado para no tener problemas con el uso. Por último, que haya variedad. Lo que le motiva es el hecho de que pueda llegar más rápido a la universidad o salir con amigos o movilizarse por lugares donde el auto se le dificulta. Nos comenta que tiene licencia, pero solo usa el auto de su padre a veces y esta propuesta le resulta atractiva. Tambien nos dice, que quizás le preocupa el método de pago o que no se transaccione bien o que haga una transacción y no funcione o que no le den el servicio por algún fallo en la aplicación web. Le gustaría que la pagina sea fácil de utilizar, que sea accesible, la rapidez a la hora de escoger un vehículo, quizás a través de un filtro, tambien el diseño de la pagina como los colores, ya que sufre de la vista y que no tenga tantos colores.
 
 **Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
-
-### Entrevista para los "Usuarios que desean alquilar":
-
-Entrevista N°1:
-
-**Sexo:** Femenino
-**Edad:** 21 años
-**Ubicación:** Magdalena del Mar
-**Entrevistada:** Daniela Chavez
-**Inicio de la Entrevista:** 0:01
-
-![Entrevista_Seg02_DanielaChavez](assets/Registro_Entrevista_Seg02_DanielaChavez.png)<br>
-
-**Resumen De Entrevista:** Según las respuestas proporcionadas, la entrevistada comenta que usualmente se manifiesta por medio de transporte público, pero que estaba considerando ir en bicicleta o scooter eléctrico, este último debido a su velocidad. Comenta que cada vez en Lima, ve que cada vez más gente se moviliza por scooters y a su vez ve más gente usando ciclovías, lo cual considera que ayuda al medio ambiente además de que lo bueno de usar bicicletas sería el ejercicio. Además logras evitar el tráfico, asi como evitas pasarla mal en combi. Considera que si los precios son accesibles y favorecen a los usuarios podria ayudar a la obtención de nuevos hábitos.
-
-**Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
-
-Entrevista N°2:
-
-**Sexo:** Femenino
-**Edad:** 25 años
-**Ubicación:** Surco
-**Entrevistada:** Nataly Huarcaya
-**Inicio de la Entrevista:** 0:17
-
-![Entrevista_Seg02_Nataly](https://i.ibb.co/ySQpzb7/entrevista1.png)<br>
-
-**Resumen De Entrevista:** La entrevistada indica que estaría interesada en alquilar su vehículo en una plataforma, ya que no lo usa constantemente y eso le daría más visibilidad, pero la plataforma de alquiler tendría que asegurar que los usuarios sean confiables para no arriesgar su vehículo y que la entrega o devolución no sea una experiencia frustrante.
-
-**Enlace:** [Entrevista2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EWhk4QtlBRtKrgwSuZ3xJXgBXqli_N4swEgt0B76K0I-MA?e=76cjaN)<br>
-
-Entrevista N°3:
-
-**Sexo:** Femenino
-**Edad:** 19 años
-**Ubicación:** Surco
-**Entrevistada:** Astrid Boronda
-**Inicio de la Entrevista:** 0:05
-
-![Entrevista_Seg02_Astrid](https://i.ibb.co/PYjDWND/foto-ent2.png)<br>
-
-**Resumen De Entrevista:** La entrevistada menciona que consideraría alquilar uno de sus dos vehículos (scooter), porque no estaría muy segura de cómo resultaría el alquiler de una bicicleta. Asimismo, resalta que la seguridad es un factor muy importante para tomar la decisión de alquilar su vehículo.
-
-**Enlace:** [Entrevista3](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EXvE1_J-d_1KgTYSLpbwIIMB08uuWq-4JsMMNuejlKNK4g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n3UdsN)<br>
 
 ### 2.2.3. Análisis de entrevistas.
 
