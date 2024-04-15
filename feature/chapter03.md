@@ -27,7 +27,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <thead>
         <tr>
             <th class= "red">Epic/Story ID</th>
-            <th class= "red">HU01</th>
+            <th class= "red">US01</th>
             <th class= "red">Relacionado con (Epic ID)</th>
             <th class= "red">EP1</th>
         </tr>
@@ -58,7 +58,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <thead>
         <tr>
             <th class= "red">Epic/Story ID</th>
-            <th class= "red">HU02</th>
+            <th class= "red">US02</th>
             <th class= "red">Relacionado con (Epic ID)</th>
             <th class= "red">EP1</th>
         </tr>
@@ -86,7 +86,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <thead>
         <tr>
             <th class= "red">Epic/Story ID</th>
-            <th class= "red">HU03</th>
+            <th class= "red">US03</th>
             <th class= "red">Relacionado con (Epic ID)</th>
             <th class= "red">EP1</th>
         </tr>
@@ -114,7 +114,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <thead>
         <tr>
             <th class= "red">Epic/Story ID</th>
-            <th class= "red">HU04</th>
+            <th class= "red">US04</th>
             <th class= "red">Relacionado con (Epic ID)</th>
             <th class= "red">EP1</th>
         </tr>
@@ -142,7 +142,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <thead>
         <tr>
             <th class= "red">Epic/Story ID</th>
-            <th class= "red">HU05</th>
+            <th class= "red">US05</th>
             <th class= "red">Relacionado con (Epic ID)</th>
             <th class= "red">EP1</th>
         </tr>
@@ -170,7 +170,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <thead>
         <tr>
             <th class= "red">Epic/Story ID</th>
-            <th class= "red">HU06</th>
+            <th class= "red">US06</th>
             <th class= "red">Relacionado con (Epic ID)</th>
             <th class= "red">EP2</th>
         </tr>
@@ -194,7 +194,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <thead>
         <tr>
             <th class= "red">Epic/Story ID</th>
-            <th class= "red">HU07</th>
+            <th class= "red">US07</th>
             <th class= "red">Relacionado con (Epic ID)</th>
             <th class= "red">EP2</th>
         </tr>
@@ -220,7 +220,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <thead>
         <tr>
             <th class= "red">Epic/Story ID</th>
-            <th class= "red">HU08</th>
+            <th class= "red">US08</th>
             <th class= "red">Relacionado con (Epic ID)</th>
             <th class= "red">EP2</th>
         </tr>
@@ -246,7 +246,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <thead>
         <tr>
             <th class= "red">Epic/Story ID</th>
-            <th class= "red">HU09</th>
+            <th class= "red">US09</th>
             <th class= "red">Relacionado con (Epic ID)</th>
             <th class= "red">EP3</th>
         </tr>
@@ -273,7 +273,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <thead>
         <tr>
             <th class= "red">Epic/Story ID</th>
-            <th class= "red">HU10</th>
+            <th class= "red">US10</th>
             <th class= "red">Relacionado con (Epic ID)</th>
             <th class= "red">EP3</th>
         </tr>
@@ -301,7 +301,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <thead>
         <tr>
             <th class= "red">Epic/Story ID</th>
-            <th class= "red">HU11</th>
+            <th class= "red">US11</th>
             <th class= "red">Relacionado con (Epic ID)</th>
             <th class= "red">EP4</th>
         </tr>
@@ -326,7 +326,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <thead>
         <tr>
             <th class= "red">Epic/Story ID</th>
-            <th class= "red">HU12</th>
+            <th class= "red">US12</th>
             <th class= "red">Relacionado con (Epic ID)</th>
             <th class= "red">EP4</th>
         </tr>
@@ -350,7 +350,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <thead>
         <tr>
             <th class= "red">Epic/Story ID</th>
-            <th class= "red">HU13</th>
+            <th class= "red">US13</th>
             <th class= "red">Relacionado con (Epic ID)</th>
             <th class= "red">EP4</th>
         </tr>
@@ -382,16 +382,16 @@ En esta seccion se debe identifico un **"Business Goals"** para nuestra aplicaci
 
 | #Orden | User Story ID | Titulo     | Descripción | Story Points (1/2/3/5/8) |
 |--------|---------------|------------|-------------|--------------------------|
-| 1      | HU01          | Barra de navegación en la Landing Page | Como usuario quiero un menú para ver las secciones de la aplicación. | 8 |
-| 2      | HU02          | Sección de beneficios del Landing Page | Como usuario quiero saber los servicios que ofrece la aplicacion web para optar por las caracteristicas que ofrece. | 8 |
-| 3      | HU03          | Sección de nosotros del Landing Page |Como usuario quiero saber quienes son y que ofrece la aplicacion para optar por ellos. | 8 |
-| 4      | HU04        | Seccion de las redes sociales/Footer del Landing Page | Como usuario quiero visualizar, en una seccion, las redes sociales de la aplicación. | 8 |
-| 5      | HU05          | Seccion de contactos en la Landing Page | Como usuario quiero contactar alguna persona para resolver dudas o problemas. | 8 |
-| 6      | HU06          | Registro de cuenta | Como usuario quiero registrarme rápidamente para empezar a usar la aplicación al instante. | 3 |
-| 7      | HU07 | El usuario va a registrar y vincular su cuenta usando Google o Outlook. | Como usuario quiero registrarme y vincular mi cuenta en la aplicación Google o Outlook para empezar a usar la aplicación al instante.  | 3 |
-| 8      | HU08 | Inicio de sesión | Como usuario quiero poder iniciar sesión para usar la aplicación. | 3 |
-| 9      | HU09 | Ver vehículo disponibles | Como persona que desa alquilar quiero poder visualizar un filtro para poder encontrar el vehículo adecuado. | 3 |
-| 10     | HU10 | Filtro de busqueda de vehículos | Como persona que desa alquilar quiero poder visualizar un filtro para poder encontrar el vehículo adecuado. | 3 |
-| 11     | HU11 | Beneficios por influenciar la movilidad sostenible |Como la persona que desea alquilar, deseo recibir beneficios al compartir contenido de la relacionado con Ruedarent en mis redes sociales, para sentirme motivado y valorado al contribuir a la concientización sobre la importancia de la movilidad sostenible. | 2 |
-| 12     | HU12 | Beneficios por influenciar la movilidad sostenible | Como la persona que desea alquilar, deseo recibir beneficios al compartir contenido de la relacionado con Ruedarent en mis redes sociales, para sentirme motivado y valorado al contribuir a la concientización sobre la importancia de la movilidad eléctrica. | 2 |
-| 13     | HU13 | Seccion de testimonios | CComo la persona que desea alquilar, deseo leer testimonios de otros usuarios que han experimentado beneficios al utilizar la plataforma, como su estidlo de vida, para sentirme inspirado y tomar decisiones informadas.  | 3 |
+| 1      | US01          | Barra de navegación en la Landing Page | Como usuario quiero un menú para ver las secciones de la aplicación. | 8 |
+| 2      | US02          | Sección de beneficios del Landing Page | Como usuario quiero saber los servicios que ofrece la aplicacion web para optar por las caracteristicas que ofrece. | 8 |
+| 3      | US03          | Sección de nosotros del Landing Page |Como usuario quiero saber quienes son y que ofrece la aplicacion para optar por ellos. | 8 |
+| 4      | US04        | Seccion de las redes sociales/Footer del Landing Page | Como usuario quiero visualizar, en una seccion, las redes sociales de la aplicación. | 8 |
+| 5      | US05          | Seccion de contactos en la Landing Page | Como usuario quiero contactar alguna persona para resolver dudas o problemas. | 8 |
+| 6      | US06          | Registro de cuenta | Como usuario quiero registrarme rápidamente para empezar a usar la aplicación al instante. | 3 |
+| 7      | US07 | El usuario va a registrar y vincular su cuenta usando Google o Outlook. | Como usuario quiero registrarme y vincular mi cuenta en la aplicación Google o Outlook para empezar a usar la aplicación al instante.  | 3 |
+| 8      | US08 | Inicio de sesión | Como usuario quiero poder iniciar sesión para usar la aplicación. | 3 |
+| 9      | US09 | Ver vehículo disponibles | Como persona que desa alquilar quiero poder visualizar un filtro para poder encontrar el vehículo adecuado. | 3 |
+| 10     | US10 | Filtro de busqueda de vehículos | Como persona que desa alquilar quiero poder visualizar un filtro para poder encontrar el vehículo adecuado. | 3 |
+| 11     | US11 | Beneficios por influenciar la movilidad sostenible |Como la persona que desea alquilar, deseo recibir beneficios al compartir contenido de la relacionado con Ruedarent en mis redes sociales, para sentirme motivado y valorado al contribuir a la concientización sobre la importancia de la movilidad sostenible. | 2 |
+| 12     | US12 | Beneficios por influenciar la movilidad sostenible | Como la persona que desea alquilar, deseo recibir beneficios al compartir contenido de la relacionado con Ruedarent en mis redes sociales, para sentirme motivado y valorado al contribuir a la concientización sobre la importancia de la movilidad eléctrica. | 2 |
+| 13     | US13 | Seccion de testimonios | CComo la persona que desea alquilar, deseo leer testimonios de otros usuarios que han experimentado beneficios al utilizar la plataforma, como su estidlo de vida, para sentirme inspirado y tomar decisiones informadas.  | 3 |
