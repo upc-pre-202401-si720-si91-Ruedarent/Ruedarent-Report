@@ -39,18 +39,18 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como usuario quiero poder visualizar una página para saber los servicios de la aplicación</th>
+            <th colspan=3 align= "justify">Como usuario quiero un menú para ver las secciones de la aplicación.</th>
         </tr>
         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
             <br><b><span>Scenario 1:</span></b> El usuario necesita el menu para visualizar las secciones de la Landing page.
-            <br><b><span>Dado que</b></span> el usuario en la landing page
+            <br><b><span>Dado que</b></span> el usuario se encuentra en la Landing Page
             <br><b><span>Cuando</b></span> visualice la barra de navegación
             <br><b><span>Entonces</b></span> podra interactuar con los diferentes secciones y botones de la página.
             <br><b><span>Scenario 2:</span></b> El usuario necesita navegar por la Landing page.
-            <br><b><span>Dado que</b></span> el usuario esta en la landing page
-            <br><b><span>Cuando</b></span> de click algun boton o seccion
-            <br><b><span>Entonces</b></span> podra ser redirigido a la cierta seccion de la página.</td>
+            <br><b><span>Dado que</b></span> el usuario se encuentra en la Landing Page
+            <br><b><span>Cuando</b></span> de click algun boton o seccion de la barra de navegación
+            <br><b><span>Entonces</b></span> podra ser redirigido a esa seccion de la página.</td>
         </tr>
     </tbody>
 </table>
@@ -66,16 +66,16 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Sección de beneficios</th>
+            <th colspan=3 align= "justify">Sección de beneficios del Landing Page</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como usuario quiero saber los servicios que ofrece la aplicacion web para optar por las caracteristicas que ofrece</th>
+            <th colspan=3 align= "justify">Como usuario quiero saber los servicios que ofrece la aplicacion web para optar por las caracteristicas que ofrece.</th>
         </tr>
         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario 1:</span></b> El usuario necesita una seccion de beneficios para mostrarle nuestro servicio.
-            <br><b><span>Dado que</b></span> el usuario en la landing page
+            <br><b><span>Scenario 1:</span></b> El usuario quiere ver la seccion de beneficios.
+            <br><b><span>Dado que</b></span> el usuario se encuentra en la Landing Page
             <br><b><span>Cuando</b></span> se encuentre en la seccion de Beneficios
             <br><b><span>Entonces</b></span> podra visualizar sobre nuestros servicios de movilidad sostenible.</td>
         </tr>
@@ -94,18 +94,18 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Sección de nosotros</th>
+            <th colspan=3 align= "justify">Sección de nosotros del Landing Page</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como usuario quiero saber quienes son y que ofrece la aplicacion para optar por lo que ofrece</th>
+            <th colspan=3 align= "justify">Como usuario quiero saber quienes son y que ofrece la aplicacion para optar por ellos.</th>
         </tr>
         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
-            <br><b><span>Scenario 1:</span></b> El usuario necesita una seccion de nosotros para mostrarle nuestro servicio.
-            <br><b><span>Dado que</b></span> el usuario en la landing page
+            <br><b><span>Scenario 1:</span></b> El usuario quiere ver la seccion de nosotros
+            <br><b><span>Dado que</b></span> el usuario se encuentra en la Landing Page
             <br><b><span>Cuando</b></span> se encuentre en la seccion de Nosotros
-            <br><b><span>Entonces</b></span> podra visualizar las las personas detras de esta aplicación y saber sobre nuestros servicios de movilidad sostenible.</td>
+            <br><b><span>Entonces</b></span> podra visualizar las personas detras de la aplicación y saber sobre nuestros servicios de movilidad sostenible.</td>
         </tr>
     </tbody>
 </table>
@@ -122,7 +122,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">Visualización de las redes sociales/Footer del Landing Page</th>
+            <th colspan=3 align= "justify">Seccion de las redes sociales/Footer del Landing Page</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
@@ -131,9 +131,9 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
             <br><b><span>Scenario 1:</span></b> El usuario necesita una seccion de redes sociales de Ruedarent para que pueda seguirnos.
-            <br><b><span>Dado que</b></span> el usuario en la landing page
+            <br><b><span>Dado que</b></span> el usuario se encuentra en la Landing Page
             <br><b><span>Cuando</b></span> se encuentre con el footer
-            <br><b><span>Entonces</b></span> podrá visualizar diversas redes sociales del startup.</td>
+            <br><b><span>Entonces</b></span> podrá visualizar diversas redes sociales del Ruedarent</td>
         </tr>
     </tbody>
 </table>
@@ -154,12 +154,12 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como usuario quiero contactar alguna persona para resolver dudas o problemas</th>
+            <th colspan=3 align= "justify">Como usuario quiero contactar alguna persona para resolver dudas o problemas.</th>
         </tr>
         <tr> 
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
             <br><b><span>Scenario 1:</span></b> El usuario necesita una seccion de contacto
-            <br><b><span>Dado que</b></span> el usuario en la landing page
+            <br><b><span>Dado que</b></span> el usuario se encuentra en la Landing Page
             <br><b><span>Cuando</b></span> se encuentre con el contacto
             <br><b><span>Entonces</b></span> podrá darnos sus datos y posteriormente darle solución</td>
         </tr>
@@ -185,7 +185,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
             <th colspan=3 align= "justify">Como usuario quiero registrarme rápidamente para empezar a usar la aplicación al instante.</th>
         </tr>
         <tr> 
-            <td colspan=4><b class= "red">Criterios de Aceptación:</b><br><b><span>Scenario:</span></b> El usuario se va a registrar en la aplicación ingresando sus datos.<br><b><span>Dado que</b></span> el usuario se encuentra en la pantalla de Registro.<br><b><span>Y </b>coloque sus datos personales.</span><br><b><span>Cuando</b></span> presione el botón “Enviar datos”<br><b><span>Entonces</b></span> se validad y guardarán los datos del usuario, y se le mostrará la pantalla principal de la aplicación</td>
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b><br><b><span>Scenario:</span></b>El usuario se va a registrar en la aplicación ingresando sus datos.<br><b><span>Dado que</b></span> el usuario se encuentra en la pantalla de Registro.<br><b><span>Y </b>coloque sus datos personales.</span><br><b><span>Cuando</b></span> presione el botón “Enviar datos”<br><b><span>Entonces</b></span> se validad y guardarán los datos del usuario, y se le mostrará la pantalla principal de la aplicación con un mensaje</td>
         </tr>
     </tbody>
 </table>
@@ -202,17 +202,17 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
     <tbody>
         <tr>
             <td class= "red">Título</td>
-            <th colspan=3 align= "justify">El usuario se va a registrar usando su cuenta de Google o Outlook.</th>
+            <th colspan=3 align= "justify">El usuario va a registrar y vincular su cuenta usando Google o Outlook.</th>
         </tr>
         <tr>
             <td class= "red">Descripción</td>
-            <th colspan=3 align= "justify">Como usuario quiero registrarme en la aplicación usando mi cuenta Google para empezar a usar la aplicación al instante.</th>
+            <th colspan=3 align= "justify">Como usuario quiero registrarme y vincular mi cuenta en la aplicación Google o Outlook para empezar a usar la aplicación al instante.</th>
         </tr>
         <tr>
             <td colspan=4><b class= "red">Criterios de Aceptación:</b><br>
-            <b><span>Scenario:</span></b> El usuario se va a registrar en la aplicación usando su cuenta Google o Outlook.<br>
+            <b><span>Scenario:</span></b> Registro y vinculacion de cuenta usando Google o Outlook.<br>
             <b><span>Dado que</span></b> el usuario se encuentra en la pantalla de Registro.<br>
-            <b><span>Y</b></span> presiona el botón<br><b><span>Cuando</b></span> presione el botón "Registrarse con Google o Outlook"<br><b><span>Entonces</b></span> se le permitirá registrarse rápidamente usando su cuenta de Google o Outlook. Tambien, se validad y guardarán los datos del usuario, y se le mostrará un mensaje "Registrado" en la pantalla principal de la aplicación.</td>
+            <b><span>Cuando</b></span> presione el botón "Registrarse con Google o Outlook"<br><b><span>Entonces</b></span> se le permitirá registrarse rápidamente usando su cuenta de Google o Outlook. Tambien, se validad y guardarán los datos del usuario, y se le mostrará un mensaje "Registrado" en la pantalla principal de la aplicación.</td>
         </tr>
     </tbody>
 </table>
@@ -237,7 +237,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
         <tr>
             <td colspan=4><b class= "red">Criterios de Aceptación:</b><br>
             <b><span>Scenario:</b></span> El usuario va a iniciar sesión en la aplicación con sus datos.
-            <br><b><span>Dado que</b></span> el usuario se encuentra en la pantalla "Inicio de sesión"<br><b><span>Y</b></span> coloque sus cedenciales.<br><b><span>Cuando</b></span> presione el botón "Iniciar sesión"<br><b><span>Entonces</b></span> se validara sus datos se le mostrará la pantalla principal de la aplicación.</td>
+            <br><b><span>Dado que</b></span> el usuario se encuentra en la pantalla "Inicio de sesión"<br><b><span>Y</b></span> coloque sus cedenciales.<br><b><span>Cuando</b></span> presione el botón "Iniciar sesión"<br><b><span>Entonces</b></span> se validara sus datos se le mostrará la pantalla principal de la aplicación y se mostrara un mensaje.</td>
         </tr>
     </tbody>
 </table>
@@ -264,7 +264,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
             <td colspan=4><b class= "red">Criterios de Aceptación:</b>
             <br><b><span>Scenario:</b></span> El usuario usa la aplicación y visualiza el catalogo de vehículos.
             <br><b><span>Dado que</b></span> la persona que desea alquilar, a iniciado sesion en la aplicación
-            <br><b><span>Cuando</b></span> presione el icono "Vehículos"<br><b><span>Entonces</b></span> se le mostrará los vehículos en curso dentro de la zona.</td>
+            <br><b><span>Cuando</b></span> presione el icono "Vehículos"<br><b><span>Entonces</b></span> se muestra los vehiculos registrados en el sistema y sus respectivas características</td>
         </tr>
     </tbody>
 </table>
@@ -292,7 +292,7 @@ Enlace del Miro: <a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE
             <br><b><span>Scenario:</b></span> el usuario desea filtrar los vehiculos
             <br><b><span>Dado que</b></span> la persona que desea alquilar, a iniciado sesion en la aplicación
             <br><b><span>Y</b></span> este en la seccion de vehículos.
-            <br><b><span>Cuando</b></span> presione el filtro<br><b><span>Entonces</b></span> desplegara los distintas etiquetas para filtrar sus vehiculos</td>
+            <br><b><span>Cuando</b></span>presione el filtro se desplegara los distintos filtros,  entre ellos "tipo vehiculo", "marca" y "modelo"<br><b><span>Entonces</b></span> podra ver sus vehiculos filtrados</td>
         </tr>
     </tbody>
 </table>
@@ -382,15 +382,15 @@ En esta seccion se debe identifico un **"Business Goals"** para nuestra aplicaci
 
 | #Orden | User Story ID | Titulo     | Descripción | Story Points (1/2/3/5/8) |
 |--------|---------------|------------|-------------|--------------------------|
-| 1      | HU01          | Barra de navegación en la Landing Page | Como usuario quiero poder visualizar una página para saber los servicios de la aplicación. | 8 |
-| 2      | HU02          | Sección de beneficios | Como usuario quiero saber los servicios que ofrece la aplicacion web para optar por las caracteristicas que ofrece. | 8 |
-| 3      | HU03          | Sección de nosotros |Como usuario quiero saber quienes son y que ofrece la aplicacion para optar por lo que ofrece. | 8 |
-| 4      | HU04        | Visualización de las redes sociales/Footer del Landing Page | Como usuario quiero visualizar, en una seccion, las redes sociales de la aplicación.    | 8 |
+| 1      | HU01          | Barra de navegación en la Landing Page | Como usuario quiero un menú para ver las secciones de la aplicación. | 8 |
+| 2      | HU02          | Sección de beneficios del Landing Page | Como usuario quiero saber los servicios que ofrece la aplicacion web para optar por las caracteristicas que ofrece. | 8 |
+| 3      | HU03          | Sección de nosotros del Landing Page |Como usuario quiero saber quienes son y que ofrece la aplicacion para optar por ellos. | 8 |
+| 4      | HU04        | Seccion de las redes sociales/Footer del Landing Page | Como usuario quiero visualizar, en una seccion, las redes sociales de la aplicación. | 8 |
 | 5      | HU05          | Seccion de contactos en la Landing Page | Como usuario quiero contactar alguna persona para resolver dudas o problemas. | 8 |
 | 6      | HU06          | Registro de cuenta | Como usuario quiero registrarme rápidamente para empezar a usar la aplicación al instante. | 3 |
-| 7      | HU07 | El usuario se va a registrar usando su cuenta de Google o Outlook. | Como usuario quiero registrarme en la aplicación usando mi cuenta Google para empezar a usar la aplicación al instante.  | 3 |
+| 7      | HU07 | El usuario va a registrar y vincular su cuenta usando Google o Outlook. | Como usuario quiero registrarme y vincular mi cuenta en la aplicación Google o Outlook para empezar a usar la aplicación al instante.  | 3 |
 | 8      | HU08 | Inicio de sesión | Como usuario quiero poder iniciar sesión para usar la aplicación. | 3 |
-| 9      | HU09 | Ver vehículo disponibles | Como persona interesada en alquilar un vehículo quiero poder visualizar los vehículos para poder elegir. | 2 |
+| 9      | HU09 | Ver vehículo disponibles | Como persona que desa alquilar quiero poder visualizar un filtro para poder encontrar el vehículo adecuado. | 3 |
 | 10     | HU10 | Filtro de busqueda de vehículos | Como persona que desa alquilar quiero poder visualizar un filtro para poder encontrar el vehículo adecuado. | 3 |
 | 11     | HU11 | Beneficios por influenciar la movilidad sostenible |Como la persona que desea alquilar, deseo recibir beneficios al compartir contenido de la relacionado con Ruedarent en mis redes sociales, para sentirme motivado y valorado al contribuir a la concientización sobre la importancia de la movilidad sostenible. | 2 |
 | 12     | HU12 | Beneficios por influenciar la movilidad sostenible | Como la persona que desea alquilar, deseo recibir beneficios al compartir contenido de la relacionado con Ruedarent en mis redes sociales, para sentirme motivado y valorado al contribuir a la concientización sobre la importancia de la movilidad eléctrica. | 2 |
