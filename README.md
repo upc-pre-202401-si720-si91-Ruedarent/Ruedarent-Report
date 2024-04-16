@@ -30,7 +30,7 @@
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 |----------|----------|----------|----------|
-| TB1   | 14/04/2024  | David Ivanoff Gallo Quintana Beth Shantal Oneglio De Paz Alejandro La Rosa Rodriguez Juan Jesús Calisaya Sánchez Niurka Lucero Huarcaya Quispe   | Adición de los Capitulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
+| TB1   | 14/04/2024  | - David Ivanoff Gallo Quintana<br> - Beth Shantal Oneglio De Paz<br> - Alejandro La Rosa Rodriguez<br> - Juan Jesús Calisaya Sánchez<br> - Niurka Lucero Huarcaya Quispe   | Adición de los Capitulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
 
 # Project Report Collaboration
 
