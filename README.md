@@ -15,11 +15,11 @@
 ## Integrantes
 | Alumno  | Código    |
 |---------|-----------|
-| Alejandro La Rosa Rodriguez       | U201911361 |
-| Beth Shantal Oneglio De Paz       | U202213423 |
-| David Ivanoff Gallo Quintana      | u20201e475 |
-| Juan Jesús Calisaya Sánchez       | U202121935 |
-| Niurka Lucero Huarcaya Quispe     | U20221b226 |
+| Calisaya Sánchez, Juan Jesús      | U202121935 |
+| Gallo Quintana, David Ivanoff     | U20201e475 |
+| Huarcaya Quispe, Niurka Lucero    | U20221b226 |
+| La Rosa Rodríguez, Alejandro      | U201911361 |
+| Oneglio De Paz, Beth Shantal      | U202213423 |
 
 <p align="center"> <strong>Abril 2024</strong></p>
 <br>
@@ -30,7 +30,7 @@
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 |----------|----------|----------|----------|
-| TB1   | 14/04/2024  | - David Ivanoff Gallo Quintana<br> - Beth Shantal Oneglio De Paz<br> - Alejandro La Rosa Rodriguez<br> - Juan Jesús Calisaya Sánchez<br> - Niurka Lucero Huarcaya Quispe   | Adición de los Capitulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
+| TB1   | 14/04/2024  | - Calisaya Sánchez, Juan Jesús<br> - Gallo Quintana, David Ivanoff<br> - Huarcaya Quispe, Niurka Lucero<br> - La Rosa Rodríguez, Alejandro<br> - Oneglio De Paz, Beth Shantal | Adición de los Capitulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
 
 # Project Report Collaboration
 
