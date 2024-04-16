@@ -42,11 +42,16 @@ Durante la fase de elaboración del informe, se realizaron las siguientes activi
 - Se generaron los recursos necesarios empleando las herramientas recomendadas y se obtuvieron enlaces de imagen de la aplicación "imgbb" y desde la carpeta "assets" en cada rama del informe.
 - Se programaron reuniones para coordinar el avance de los componentes del informe y para informar sobre los progresos del Sprint 1, centrado en la creación de la Landing Page.
 
+![overview](https://i.ibb.co/9hXhGy1/image.png)
+
 ![contributors](https://i.ibb.co/4fh4jhJ/contributors.png)
 
 ![Commit1](https://i.ibb.co/QbLdLqC/commits1.png)
+
 ![network](https://i.ibb.co/WgxKswV/network.png)
+
 ![people](https://i.ibb.co/5kwrmNJ/people.png)
+
 # Contenido
 ## Tabla de contenidos
 
