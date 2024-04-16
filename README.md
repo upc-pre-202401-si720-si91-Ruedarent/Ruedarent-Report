@@ -30,16 +30,16 @@
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 |----------|----------|----------|----------|
-| TB1   | 14/04/2024  | - Calisaya Sánchez, Juan Jesús<br> - Gallo Quintana, David Ivanoff<br> - Huarcaya Quispe, Niurka Lucero<br> - La Rosa Rodríguez, Alejandro<br> - Oneglio De Paz, Beth Shantal | Adición de los Capitulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
+| TB1   | 14/04/2024  | - Calisaya Sánchez, Juan Jesús<br> - Gallo Quintana, David Ivanoff<br> - Huarcaya Quispe, Niurka Lucero<br> - La Rosa Rodríguez, Alejandro<br> - Oneglio De Paz, Beth Shantal | Adición de los Capítulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
 
-# Project Report Collaboration
+# Project Report Collaboration Insights
 
 Las actividades designadas para la TB1 han sido finalizadas y están debidamente registradas en el repositorio de GitHub de Ruedarent-Report. El siguiente enlace lleva al URL del repositorio que se encuentra en nuestra organización pública: [Ruedarent-Report](https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Report.git)
 
 Durante la fase de elaboración del informe, se realizaron las siguientes actividades:
 
 - Se redactaron y diseñaron los contenidos asignados a cada miembro utilizando el formato Markdown, seguido de la realización de "Conventional Commits" para mantener un seguimiento del progreso en el repositorio.
-- Se generaron los recursos necesarios empleando las herramientas recomendadas y se obtuvieron enlaces de imagen de la aplicacione "imgbb" y desde la carpeta "assets" en cada rama del informe.
+- Se generaron los recursos necesarios empleando las herramientas recomendadas y se obtuvieron enlaces de imagen de la aplicación "imgbb" y desde la carpeta "assets" en cada rama del informe.
 - Se programaron reuniones para coordinar el avance de los componentes del informe y para informar sobre los progresos del Sprint 1, centrado en la creación de la Landing Page.
 
 ![contributors](https://i.ibb.co/4fh4jhJ/contributors.png)
