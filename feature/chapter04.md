@@ -309,13 +309,13 @@ Este user flow permite que el usuario pueda alquilar un vehículo, desde la bús
 ![alquileru](https://i.ibb.co/tJxpBM3/alquiler-contacto.png) <br>
 ![alquilerumu](https://i.ibb.co/gJ14LDz/alquiler-contacto-mu.png) <br>
 
-[user-flow-diagrams](https://lucid.app/lucidchart/a0dc8ccb-ef3b-4c25-8f79-2efc89ef8625/edit?viewport_loc=-983%2C-866%2C9408%2C4170%2C0_0&invitationId=inv_f85cdc16-2676-47f1-9345-823708b345ff) <br>
-[user-flow-diagrams-mock-ups](https://www.figma.com/file/nfXqgNf4Eizwfp65Yiv3ba/user-flow?type=design&node-id=0%3A1&mode=design&t=XCduDDTARssNA94K-1) <br>
+Enlace: [user-flow-diagrams](https://lucid.app/lucidchart/a0dc8ccb-ef3b-4c25-8f79-2efc89ef8625/edit?viewport_loc=-983%2C-866%2C9408%2C4170%2C0_0&invitationId=inv_f85cdc16-2676-47f1-9345-823708b345ff) <br>
+Enlace: [user-flow-diagrams-mock-ups](https://www.figma.com/file/nfXqgNf4Eizwfp65Yiv3ba/user-flow?type=design&node-id=0%3A1&mode=design&t=XCduDDTARssNA94K-1) <br>
 
 ### 4.5. Web Applications Prototyping.
 En la creación de los dos flujos de acción de los prototipos, se consideraron las posibles formas en que los usuarios interactúan con la aplicación web. Además, se generó el prototipo de manera interactiva para que gran parte de las secciones puedan garantizar que nuestros usuarios disfruten de una experiencia intuitiva y funcional. También, se tomaron en cuenta los Diagramas de Flujo de Usuario y los Wireflow Diagrams para mejorar la comprensión de cada funcionalidad de la aplicación web. <br>
-![Prototype-design](https://i.ibb.co/nLShLJ2/prototype.png) <br>
-[Prototype](https://www.figma.com/proto/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=1-32&t=7qjDnHX0VVyGVsSJ-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A32&show-proto-sidebar=1&mode=design) <br>
+Enlace: ![Prototype-design](https://i.ibb.co/nLShLJ2/prototype.png) <br>
+Enlace: [Prototype](https://www.figma.com/proto/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=1-32&t=7qjDnHX0VVyGVsSJ-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A32&show-proto-sidebar=1&mode=design) <br>
 
 ### 4.6. Domain-Driven Software Architecture.
 En esta sección, se mostrarán los distintos diagramas elaborados que representan la arquitectura de software que se utilizará para el proyecto.
@@ -341,3 +341,4 @@ En esta sección, se mostrarán los distintos diagramas elaborados que represent
   - Sale: Es una entidad que se refiere a una venta.
 ### 4.8. Database Design.
 #### 4.8.1. Database Diagram.
+![database](https://i.ibb.co/GdSqmPr/database.png)
