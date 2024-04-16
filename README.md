@@ -14,7 +14,7 @@
 
 ## Integrantes
 | Alumno  | Código    |
-|----------|----------|
+|---------|-----------|
 | Alejandro La Rosa Rodriguez       | U201911361 |
 | Beth Shantal Oneglio De Paz       | U202213423 |
 | David Ivanoff Gallo Quintana      | u20201e475 |
@@ -1385,21 +1385,26 @@ https://git-scm.com/downloads
 
 #### 5.1.2. Source Code Management.
 
+
 ##### Gestión del Código Fuente: 
 En esta sección, explicaremos cómo gestionamos y seguimos el desarrollo del código en Ruedarent. Utilizamos GitHub como plataforma y Git como sistema de control de versiones.
 
-Repositorio en GitHub para el Landing Page: https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Landing-Page
+- Repositorio en GitHub para el Landing Page: https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Landing-Page
 
-##### Repositorio en GitHub para el registro de acceptance test files:
-##### Metodología de Ramas:
-En Ruedarent, implementamos el flujo de trabajo GitFlow para el control de versiones. Este flujo consta de varias ramas clave:
-- Rama Principal (Main): Es la rama principal y raíz de nuestro desarrollo. Aquí se refleja el estado actual del código fuente y se redirige a producción. Cada vez que finalizamos tareas en otras ramas, se incorporan al producto final a través de esta rama.
-- Rama de Desarrollo (Develop): Esta rama contiene el código fuente más reciente en desarrollo. Todos los cambios que están listos para publicarse se fusionan en la rama principal (Main) con una etiqueta de versión. Los cambios en esta rama se vuelven a fusionar en la rama principal para reflejar una nueva versión del producto.
-- Ramas de Funcionalidad (Feature Branches): Utilizamos estas ramas para desarrollar nuevas características para las próximas versiones de TeachAid. Se ramifican desde la rama de desarrollo (Develop) y, una vez que el desarrollo está completo, se fusionan nuevamente en la rama de desarrollo o se descartan si la función no es exitosa.
-- Ramas de Lanzamiento (Release Branches): Estas ramas nos permiten preparar el proyecto final para pruebas finales y correcciones de errores. Se ramifican desde la rama de desarrollo (Develop) y se fusionan nuevamente en esta para reflejar la "próxima versión". Seguimos convenciones específicas para nombrar nuestras ramas de lanzamiento.
-- Ramas de Corrección Urgente (Hotfix Branches): Estas ramas se utilizan para resolver errores críticos de manera inmediata y preparar nuevas versiones del producto. Se ramifican desde la rama principal (Main) y se fusionan nuevamente en esta.
+Se ha implementado el flujo de trabajo GitFlow para una gestión efectiva de los cambios en el código de la aplicación y la administración de las ramas en cada repositorio. Este flujo de trabajo implica la creación de dos ramas principales:
 
-##### - Commits Convencionales:
+- **main:** También conocida como "master", esta rama alberga la versión más estable y lista del proyecto que está lista para ser lanzada a producción.
+- **develop:** Esta rama es donde se integra el contenido de las nuevas características (features). Se desarrolla de forma paralela a la rama main.
+
+Además de estas ramas principales, se utilizan ramas auxiliares para diferentes propósitos:
+
+- **feature:** Estas son ramas donde se desarrollan las funcionalidades del proyecto de forma independiente. Una vez completadas, se fusionan con la rama develop.
+- **release:** Estas ramas se utilizan para preparar la próxima versión del programa. Aquí se realizan las pruebas finales y se corrigen errores menores antes del lanzamiento oficial. Una vez completado este proceso, los cambios se fusionan primero con la rama develop y luego con la rama main.
+- **hotfix:** Estas ramas se utilizan para corregir errores críticos que surgen en producción y requieren una solución urgente. Se derivan de la rama main y se fusionan tanto con esta como con la rama develop.
+
+El formato de nomenclatura utilizado para las ramas sigue una convención específica, donde las ramas feature tienen el formato "feature/feature-name" y las ramas release siguen el formato "release/x.y.z", siguiendo las pautas de Semantic Versioning 2.0.0. En este formato, X, Y y Z son números enteros positivos que indican la versión mayor, menor y de parche, respectivamente. Cada incremento en estas versiones sigue reglas específicas para garantizar la compatibilidad y la comprensión de los cambios realizados.
+
+##### - Commits Conventions:
 En Ruedarent, seguimos la convención de commits convencionales para nuestros mensajes de confirmación. Estos mensajes siguen una estructura específica: 
 
 - `<tipo>[ámbito opcional]: <descripción>` con opciones para el cuerpo y el pie del mensaje.
@@ -1407,24 +1412,87 @@ En Ruedarent, seguimos la convención de commits convencionales para nuestros me
 - Tipo "feat": Utilizamos este tipo de commit cuando se agrega una nueva característica para los usuarios.
 - "BREAKING CHANGE": Utilizamos esta etiqueta en el pie del mensaje para comunicar cambios significativos en la API.
 
-También se permiten otros tipos de commits, como "perf" (rendimiento), "build" (cambios en la 
-compilación), "docs" (cambios en la documentación), "refactor" (refactorización), "style" (cambios de
+También se permiten otros tipos de commits, como "perf" (rendimiento), "build" (cambios en la compilación), "docs" (cambios en la documentación), "refactor" (refactorización), "style" (cambios de
 formato), "test" (agregar o refactorizar pruebas), entre otros.<br>
 
-Estas prácticas nos ayudan a mantener un control efectivo del desarrollo de Ruedarent y a comunicar 
-claramente los cambios en nuestro código fuente.
+Estas prácticas nos ayudan a mantener un control efectivo del desarrollo de Ruedarent y a comunicar claramente los cambios en nuestro código fuente.
 
 #### 5.1.3. Source Code Style Guide & Conventions.
+En Ruedarent se han adoptado varias convenciones de estilo para el desarrollo de código en diferentes lenguajes y tecnologías:
 
-##### Archivos Feature:
-En nuestro proyecto, emplearemos el lenguaje Gherkin para definir y comprender nuestras historias de usuario. Utilizaremos la estructura proporcionada que incluye los elementos: "Feature, Scenario, Given, When, Then y Examples".
+##### HTML y CSS (Google HTML/CSS Style Guide):
+- Se declara el tipo de documento al principio del archivo con `<!DOCTYPE html>`.
+- Se incluyen los meta tags pertinentes.
+- El elemento `<title>` se coloca dentro de las etiquetas `<head>`.
+- Se utiliza una indentación de dos espacios.
+- Se emplean minúsculas para los elementos HTML, atributos, propiedades, valores y selectores CSS.
+- Los atributos de los elementos HTML se encierran entre comillas.
+- Cada elemento HTML debe tener su etiqueta de cierre.
+- Se evitan líneas de código excesivamente largas.
+- Se especifica el ancho y alto de las imágenes, junto con un texto alternativo (alt).
 
-- US01: 
+##### JavaScript (Google Java Style Guide):
+- Cada línea de código debe terminar con un punto y coma (`;`).
+- Tanto las variables como las funciones deben seguir la convención CamelCase.
+- Los valores de strings se encierran entre comillas simples.
+- La indentación del contenido es de +2 espacios.
+- Se prefiere el uso de `let` y `const` en lugar de `var` para definir variables.
+
+##### Gherkin (Gherkin Conventions for Readable Specifications):
+- Se emplean las palabras "Given", "When", "Then" y "And" para describir los pasos del escenario.
+- Los pasos que comienzan con "And" se indentan.
+- Se añaden líneas en blanco entre pasos.
+- Los parámetros se encierran entre comillas simples.
+- Se utiliza un comentario separador y dos líneas en blanco entre cada escenario.
+
+##### C# (Microsoft C# Coding Conventions):
+- Los nombres de los paquetes se escriben en minúsculas, las clases en UpperCamelCase y los métodos en lowerCamelCase.
+- La indentación se realiza con 2 o 4 espacios, sin utilizar tabulaciones.
+- Se dividen las líneas de código que excedan los 100 caracteres.
+- Los archivos C# deben tener el mismo nombre que la clase que contienen, y esta debe ser única y pública.
+- Después de cada declaración, se agrega un salto de línea.
+
+Estas convenciones ayudan a mantener un código limpio, legible y consistente a lo largo de todo el proyecto.
+
+- US01:
+
+![image.png](https://i.ibb.co/rx4Ls53/image.png)
+
 - US02:
+
+![image.png](https://i.ibb.co/5FvNxDR/image.png)
+
 - US03:
+
+![image.png](https://i.ibb.co/sPGSf36/image.png)
+
 - US04:
+
+![image.png](https://i.ibb.co/b2CgqQS/image.png)
+
 - US05:
+
+![image.png](https://i.ibb.co/SsxVHm4/image.png)
+
 #### 5.1.4. Software Deployment Configuration.
+En esta sección, abordaremos el despliegue de nuestra Landing Page mediante el servicio automatizado en la nube de GitHub Pages. A continuación, se describirán los pasos para lograr este objetivo.
+
+- Es crucial asegurarnos de que el repositorio esté configurado correctamente, ya que posteriormente lo desplegaremos con GitHub Pages:
+
+![image.png](https://i.ibb.co/3WgXRTv/Desplegar-Git.png)
+
+- Accedemos al GitHub Pages:
+
+![image.png](https://i.ibb.co/P12sv1T/Git-Hub-Page.png)
+
+- Después de haber establecido nuestro repositorio, procedemos a asignar las diversas "User Stories" entre los miembros del equipo para llevar a cabo el desarrollo de nuestra Landing Page. Además, creamos ramas individuales según sea necesario. Esto permitió que cada miembro trabajara de manera eficiente sin conflictos.
+
+![image.png](https://i.ibb.co/bzXgWHb/image.png)
+
+- Una vez que hayamos guardado la configuración, GitHub Pages iniciará el proceso de despliegue de nuestra Landing Page. Aquí podremos seguir el proceso de despliegue y, una vez que se complete con éxito, se generará un enlace que nos permitirá acceder a nuestra Landing Page.
+
+![landingpage.png](https://i.ibb.co/qdvJgTR/image.png)
+
 ### 5.2. Landing Page, Services & Applications Implementation.
 #### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1.
