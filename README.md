@@ -28,7 +28,7 @@
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción modificación |
+| Versión | Fecha | Autor | Descripción de la modificación |
 |----------|----------|----------|----------|
 | TB1   | 14/04/2024  | David Ivanoff Gallo Quintana Beth Shantal Oneglio De Paz Alejandro La Rosa Rodriguez Juan Jesús Calisaya Sánchez Niurka Lucero Huarcaya Quispe   | Adición de los Capitulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
 
