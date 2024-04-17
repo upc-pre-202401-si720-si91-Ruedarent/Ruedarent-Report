@@ -211,7 +211,7 @@ Durante la fase de elaboración del informe, se realizaron las siguientes activi
 | Criterio Específico | Acciones realizadas | Conclusiones |
 |--------|---------|--------|
 | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Calisaya Sánchez, Juan Jesús**<br>TB1<br>Se llevo acabo, con la validadción del grupo, los siguientes puntos las estrategias frente a competidores, el diseño de entrevistas, entrevista, user stories, el impact mapping, product backlog, Apoyar en Wireframes, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review y Execution Evidence for Sprint Review. Todo esto se llevo a cabo gracias al trabajo en equipo.<br></br>**Gallo Quintana, David Ivanoff**<br>TB1<br>Se dividió en trabajo de manera equitativa, pero todos participando en cada decisión, para realizar el trabajo de la mejor manera posible y que sea cohesionado, asimismo, en cada parte nos ayudamos para poder entender el trabajo en cada parte del informe.<br></br>**Huarcaya Quispe, Niurka Lucero**<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>**La Rosa Rodríguez, Alejandro**<br>TB1<br>A lo largo del desarrollo de este proyecto, cada miembro del equipo ha trabajado en ramas separadas dentro del repositorio, siguiendo la división acordada previamente. Además, hemos coordinado nuestros progresos en el grupo y colaborado como equipo para implementar las correcciones sugeridas por nuestro profesor.<br></br>**Oneglio De Paz, Beth Shantal**<br>TB1<br>A lo largo del proyecto, he mantenido una comunicación continua con los miembros del equipo mediante reuniones semanales. Colaborativamente, hemos trabajado en cada sección del informe utilizando branches y GitHub para asegurar la organización y el control de versiones del trabajo. | TB1: Elegimos el tema del proyecto, se realizaron asimismo varias reuniones para conocer los puntos de vista de cada integrante y para que ninguno tenga ninguna duda. |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | **Calisaya Sánchez, Juan Jesús**<br>TB1<br>Durante el desarrollo del proyecto, empleamos una variedad de técnicas para identificar y comprender todas las necesidades, aspectos, usuarios y características del negocio al que nos enfocamos. Utilizamos GitHub para registrar la información recolectada y los métodos implementados, asegurando que las versiones se guarden de forma ordenada. Llevamos a cabo entrevistas, diagramas, needfinding, user stories, entre otros métodos para obtener una visión completa y detallada.<br></br>**Gallo Quintana, David Ivanoff**<br>TB1<br>En este avance del trabajo, empleamos el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los bounded contexts y las entidades que se implementarán en el backend. Además, elaboramos diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente, utilizando diversos patrones de diseño.<br></br>**Huarcaya Quispe, Niurka Lucero**<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>**La Rosa Rodríguez, Alejandro**<br>TB1<br>ASe ha llevado a cabo la implementación del modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará más adelante en el backend. Además, se ha documentado todo el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles, específicamente Scrum.<br></br>**Oneglio De Paz, Beth Shantal**<br>TB1<br>En esta entrega, se llevaron a cabo entrevistas para analizar las preferencias de los segmentos de escritores, ilustradores y lectores. Además, se implementó un diseño UX/UI apropiado que se adapta a las necesidades de los usuarios. | TB1: En esta etapa del proyecto, se realizaron análisis exhaustivos de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, y se elaboraron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario, y se llevó a cabo el modelado de la base de datos. Finalmente, se documentó todo el trabajo realizado utilizando metodologías ágiles para garantizar un proceso transparente y colaborativo. |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **Calisaya Sánchez, Juan Jesús**<br>TB1<br>Durante el desarrollo del proyecto, empleamos una variedad de técnicas para identificar y comprender todas las necesidades, aspectos, usuarios y características del negocio al que nos enfocamos. Utilizamos GitHub para registrar la información recolectada y los métodos implementados, asegurando que las versiones se guarden de forma ordenada. Llevamos a cabo entrevistas, diagramas, needfinding, user stories, entre otros métodos para obtener una visión completa y detallada.<br></br>**Gallo Quintana, David Ivanoff**<br>TB1<br>En este avance del trabajo, empleamos el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los bounded contexts y las entidades que se implementarán en el backend. Además, elaboramos diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente, utilizando diversos patrones de diseño.<br></br>**Huarcaya Quispe, Niurka Lucero**<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>**La Rosa Rodríguez, Alejandro**<br>TB1<br>ASe ha llevado a cabo la implementación del modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará más adelante en el backend. Además, se ha documentado todo el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles, específicamente Scrum.<br></br>**Oneglio De Paz, Beth Shantal**<br>TB1<br>En esta entrega, se llevaron a cabo entrevistas para analizar las preferencias de los segmentos de escritores, ilustradores y lectores. Además, se implementó un diseño UX/UI apropiado que se adapta a las necesidades de los usuarios. | TB1: En esta etapa del proyecto, se realizaron análisis exhaustivos de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, y se elaboraron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario, y se llevó a cabo el modelado de la base de datos. Finalmente, se documentó todo el trabajo realizado utilizando metodologías ágiles para garantizar un proceso transparente y colaborativo. |
 
 # **Capítulo I: Introducción**
 
@@ -243,66 +243,129 @@ Ruedarent es una startup conformada por estudiantes de la Universidad Peruana de
 
 ### 1.2.1. Antecedentes y problemática
 
-**Problemática**<br>En los últimos años, el aumento del parque automotor, combinado con el incremento de la población en las principales ciudades del Perú ha producido un caos vehicular evidente, reflejado en los congestionamientos habituales en las vías. Esta situación no solo provoca más emisiones de gases contaminantes y prolonga el tiempo de desplazamiento, sino que también atrapa a los ciudadanos en el tráfico, lo que resulta en una pérdida de tiempo y productividad. Además, este escenario favorece el comportamiento sedentario, impactando negativamente en la vida diaria, la salud y el rendimiento de los habitantes que usan el transporte urbano.<br></br>**Aspectos a solucionar**<br>Abordar la problemática requiere promover el uso de medios de transporte alternativos como bicicletas, scooters, entre otros, así como fomentar un estilo de vida activo mediante la adopción de hábitos saludables. Igualmente, se debe mejorar la infraestructura vial y concientizar a las personas de la importancia de reducir la cantidad de uso de automóviles.<br></br>**Solución innovadora**<br>- La propuesta de Ruedarent a la problemática de la contaminación ambiental, caos vehicular y falta de actividad en la vida diaria de los ciudadanos, es ofrecer una alternativa de movilidad urbana más ágil y flexible, a través de una aplicación web que estará disponible en los navegadores más usados como Chrome, Firefox y Edge.<br>- Esta aplicación web proporcionará una forma conveniente y accesible para que los usuarios puedan encontrar y alquilar los vehículos que prefieran de forma sencilla y contará con un modelo de suscripciones que brindará beneficios adicionales a los usuarios como descuentos en el alquiler y bloqueo de anuncios.<br>- La implementación de esta solución aspira a reducir la dependencia a los autos personales y fomentar el uso de medios de transporte sostenibles y activos para que se adopte un estilo de vida más saludable entre los usuarios. Asimismo, se busca contribuir a la disminución de emisión de gases contaminantes y a la mejora de la calidad de aire en las zonas urbanas.<br>- El modelo de negocio se basa en la obtención de ganancias a través de las comisiones de los alquileres que se realizan en la plataforma, así como de los ingresos generados por publicidad y los precios de las suscripciones.
-
-**Objetivos**
-Aumentar el número de usuarios que hacen uso de transportes sostenibles como bicicletas, scooters y skateboards, mediante el alquiler ofrecido por la aplicación web.
-Mejorar la accesibilidad al transporte urbano, proporcionando una alternativa ágil y flexible de movilización a los usuarios.
-Desarrollar una aplicación web atractiva e intuitiva para que todos los usuarios puedan comprender rápidamente el funcionamiento y propósito de nuestra aplicación. 
-
-**Restricciones**
-Ruedarent propone una solución prometedora para transformar la movilidad urbana, sin embargo pueden presentarse algunos desafíos como la seguridad y resistencia al cambio por parte de los ciudadanos, así como la baja disposición de recursos y financiamiento necesarios para el desarrollo completo del proyecto.
+**Problemática**<br>En los últimos años, el aumento del parque automotor, combinado con el incremento de la población en las principales ciudades del Perú ha producido un caos vehicular evidente, reflejado en los congestionamientos habituales en las vías. Esta situación no solo provoca más emisiones de gases contaminantes y prolonga el tiempo de desplazamiento, sino que también atrapa a los ciudadanos en el tráfico, lo que resulta en una pérdida de tiempo y productividad. Además, este escenario favorece el comportamiento sedentario, impactando negativamente en la vida diaria, la salud y el rendimiento de los habitantes que usan el transporte urbano.<br></br>**Aspectos a solucionar**<br>Abordar la problemática requiere promover el uso de medios de transporte alternativos como bicicletas, scooters, entre otros, así como fomentar un estilo de vida activo mediante la adopción de hábitos saludables. Igualmente, se debe mejorar la infraestructura vial y concientizar a las personas de la importancia de reducir la cantidad de uso de automóviles.<br></br>**Solución innovadora**<br>- La propuesta de Ruedarent a la problemática de la contaminación ambiental, caos vehicular y falta de actividad en la vida diaria de los ciudadanos, es ofrecer una alternativa de movilidad urbana más ágil y flexible, a través de una aplicación web que estará disponible en los navegadores más usados como Chrome, Firefox y Edge.<br>- Esta aplicación web proporcionará una forma conveniente y accesible para que los usuarios puedan encontrar y alquilar los vehículos que prefieran de forma sencilla y contará con un modelo de suscripciones que brindará beneficios adicionales a los usuarios como descuentos en el alquiler y bloqueo de anuncios.<br>- La implementación de esta solución aspira a reducir la dependencia a los autos personales y fomentar el uso de medios de transporte sostenibles y activos para que se adopte un estilo de vida más saludable entre los usuarios. Asimismo, se busca contribuir a la disminución de emisión de gases contaminantes y a la mejora de la calidad de aire en las zonas urbanas.<br>- El modelo de negocio se basa en la obtención de ganancias a través de las comisiones de los alquileres que se realizan en la plataforma, así como de los ingresos generados por publicidad y los precios de las suscripciones.<br></br>**Objetivos**<br>Aumentar el número de usuarios que hacen uso de transportes sostenibles como bicicletas, scooters y skateboards, mediante el alquiler ofrecido por la aplicación web.<br>Mejorar la accesibilidad al transporte urbano, proporcionando una alternativa ágil y flexible de movilización a los usuarios.<br>Desarrollar una aplicación web atractiva e intuitiva para que todos los usuarios puedan comprender rápidamente el funcionamiento y propósito de nuestra aplicación.<br></br>**Restricciones**<br>Ruedarent propone una solución prometedora para transformar la movilidad urbana, sin embargo pueden presentarse algunos desafíos como la seguridad y resistencia al cambio por parte de los ciudadanos, así como la baja disposición de recursos y financiamiento necesarios para el desarrollo completo del proyecto.
 
 #### Uso de la técnica  The 5'W's w Y 2'H's
 
 | LAS 5W y 2H | Pregunta | Descripción |
 |-------------|----------|-------------|
-| Who? (¿Quién es afectado?)      | ¿Quién es afectado? | El caos vehicular es un problema que perjudica la vida diaria de las personas y tiene a la congestión vehicular como característica más resaltante, la cual genera un tránsito lento, convirtiendo los viajes en una experiencia frustrante, provoca más emisiones contaminantes, lo cual afecta la salud pública. Además, contribuye a la inseguridad vial y ciudadana. (Bianchi et al., 2022) |
-| What? (¿Cuál es el problema?)      | ¿Cuál es el problema? | Los principales afectados por este problema son los residentes de las ciudades más grandes del país. |
-| When? (¿Cuándo sucede el problema?)      | ¿Cuándo sucede el problema? | En los últimos años se incrementaron las migraciones, lo cual intensificó el crecimiento urbano y el uso de autos particulares. Por tanto, ahora es un problema cotidiano. |
-| Where? (¿Dónde surge el problema?)     | ¿Dónde surge el problema? | Esta problemática se concentra principalmente en la capital, Lima, y en las capitales de departamento. | 
-| Why? (¿Cuál es la causa del problema?)       | ¿Cuál es la causa del problema? | Se experimentó un aumento descontrolado del parque automotor, ya que hubo un incremento de población en las ciudades y se difundió el uso de autos particulares como herramientas de trabajo. Por otro lado, la organización e infraestructura para el transporte público es ineficiente. Existen varias líneas de transporte público que se superponen o que recorren las mismas rutas. Asimismo, predomina la falta de capacitación vial en un alto número de choferes y la informalidad en el transporte público. |
-| How? (¿Cómo?)       | ¿Qué llevó a la persona a esta situación? | Ruedarent propone disminuir los efectos de la congestión vehicular al impulsar el alquiler de vehículos menores como scooters, bicicletas, skateboards, motos eléctricas, etc. como alternativas de movilidad más flexible y sostenible. Así, se disminuiría la cantidad de vehículos que circulan y contribuyen al caos vehicular. |
-| How Much? (¿Cuánto?)  | ¿Cuál es la cantidad, duración o intensidad del evento? | La aplicación web contará con un modelo de suscripciones los cuales serán el básico, con el cual se podrá alquilar el vehículo que se desea, pero no tendrá beneficios adicionales; y el plus, que incluirá descuentos en el alquiler, bloqueo de anuncios y seguro contra daños. Se obtendrán ganancias mediante las comisiones de las transacciones que se realicen, los precios de las suscripciones y la publicidad. |
+| Who?     | ¿Quién es afectado? | El caos vehicular es un problema que perjudica la vida diaria de las personas y tiene a la congestión vehicular como característica más resaltante, la cual genera un tránsito lento, convirtiendo los viajes en una experiencia frustrante, provoca más emisiones contaminantes, lo cual afecta la salud pública. Además, contribuye a la inseguridad vial y ciudadana. (Bianchi et al., 2022) |
+| What?      | ¿Cuál es el problema? | Los principales afectados por este problema son los residentes de las ciudades más grandes del país. |
+| When?      | ¿Cuándo sucede el problema? | En los últimos años se incrementaron las migraciones, lo cual intensificó el crecimiento urbano y el uso de autos particulares. Por tanto, ahora es un problema cotidiano. |
+| Where?    | ¿Dónde surge el problema? | Esta problemática se concentra principalmente en la capital, Lima, y en las capitales de departamento. | 
+| Why?      | ¿Cuál es la causa del problema? | Se experimentó un aumento descontrolado del parque automotor, ya que hubo un incremento de población en las ciudades y se difundió el uso de autos particulares como herramientas de trabajo. Por otro lado, la organización e infraestructura para el transporte público es ineficiente. Existen varias líneas de transporte público que se superponen o que recorren las mismas rutas. Asimismo, predomina la falta de capacitación vial en un alto número de choferes y la informalidad en el transporte público. |
+| How?       | ¿Qué llevó a la persona a esta situación? | Ruedarent propone disminuir los efectos de la congestión vehicular al impulsar el alquiler de vehículos menores como scooters, bicicletas, skateboards, motos eléctricas, etc. como alternativas de movilidad más flexible y sostenible. Así, se disminuiría la cantidad de vehículos que circulan y contribuyen al caos vehicular. |
+| How Much?  | ¿Cuál es la cantidad, duración o intensidad del evento? | La aplicación web contará con un modelo de suscripciones los cuales serán el básico, con el cual se podrá alquilar el vehículo que se desea, pero no tendrá beneficios adicionales; y el plus, que incluirá descuentos en el alquiler, bloqueo de anuncios y seguro contra daños. Se obtendrán ganancias mediante las comisiones de las transacciones que se realicen, los precios de las suscripciones y la publicidad. |
 
 ### 1.2.2. Lean UX Process
+
 #### 1.2.2.1. Lean UX Problem Statements
-  Situación: En el contexto actual, nos encontramos con un grupo de usuarios que se enfrentan a dificultades financieras significativas, lo que les impide realizar pagos inmediatos para acceder a la suscripción de nuestra aplicación.
-  Problema: La situación financiera desfavorable de estos usuarios está generando una barrera para que puedan aprovechar los beneficios y servicios que nuestra aplicación ofrece. Esta falta de acceso a la suscripción completa está limitando su capacidad para utilizar funcionalidades clave, como el alquiler de vehículos, lo que a su vez les está privando de una experiencia óptima con nuestra plataforma.
-  Propuesta de Solución en Pregunta: Nos enfrentamos al desafío de diseñar e implementar un modelo de pago flexible que se adapte a las necesidades y circunstancias financieras de estos usuarios. ¿Cómo podemos desarrollar un sistema que les permita acceder a nuestra aplicación y disfrutar de sus servicios, incluso si no pueden realizar el pago completo de la suscripción de manera inmediata?
+
+Situación:<br>En el contexto actual, nos encontramos con un grupo de usuarios que se enfrentan a dificultades financieras significativas, lo que les impide realizar pagos inmediatos para acceder a la suscripción de nuestra aplicación.
+
+Problema:<br>La situación financiera desfavorable de estos usuarios está generando una barrera para que puedan aprovechar los beneficios y servicios que nuestra aplicación ofrece. Esta falta de acceso a la suscripción completa está limitando su capacidad para utilizar funcionalidades clave, como el alquiler de vehículos, lo que a su vez les está privando de una experiencia óptima con nuestra plataforma.
+
+Propuesta de Solución en Pregunta:<br>Nos enfrentamos al desafío de diseñar e implementar un modelo de pago flexible que se adapte a las necesidades y circunstancias financieras de estos usuarios. ¿Cómo podemos desarrollar un sistema que les permita acceder a nuestra aplicación y disfrutar de sus servicios, incluso si no pueden realizar el pago completo de la suscripción de manera inmediata?
+
 #### 1.2.2.2. Lean UX Assumptions
-  - Los usuarios prefieren tener varios métodos de pago al rentar su vehículo.
-  Business Outcome 1: Aumento de la satisfacción del usuario a través de múltiples opciones de pago
-  Implementar varios métodos de pago para alquilar vehículos para satisfacer las necesidades y preferencias de los usuarios, lo que debería resultar en una mayor satisfacción del cliente.
-  Business Outcome 2: Incremento de la conversión de suscripciones mediante alternativas de pago variadas
-  Ofrecer diversas alternativas de pago para las suscripciones de manera que aumente la probabilidad de conversión de usuarios interesados en suscribirse al servicio.
-  Business Outcome 3: Mejora de la reputación de la marca a través del mantenimiento óptimo de los vehículos
-  Garantizar que los vehículos estén siempre en buen estado y bien mantenidos para generar confianza en la marca y mejorar la percepción de los usuarios sobre la calidad del servicio.
 
-Bussiness Assumptions:
+ Los usuarios prefieren tener varios métodos de pago al rentar su vehículo.
 
-* **Pienso que mis clientes necesitan** 
-* **Estas demandas pueden ser satisfechas mediante** 
-* **Los primeros clientes serán** 
-* **La principal necesidad que los clientes tienen de mi servicio es** 
-* **Obtendré la mayor parte de mis clientes mediante** 
-* **Generaré ingresos mediante** 
-* **El principal problema que puede afectar a mi producto es** 
-* **Abordaremos esta situación mediante**  <br><br>
+**Features**
 
-User Assumptions:
-* 
-* 
-* 
-* 
-* 
+- **Facilitar la monetización de los vehículos:** Proporcionar a los propietarios una plataforma fácil de usar para alquilar sus vehículos, permitiendo así la generación de ingresos adicionales a través del alquiler.
+
+- **Mejorar la experiencia del propietario:** Simplificar el proceso de gestión de alquiler de vehículos para los propietarios, brindándoles herramientas intuitivas y eficientes para administrar sus listados.
+
+- **Aumentar la oferta de vehículos disponibles:** Alentar a más propietarios a listar sus vehículos en la plataforma, ampliando así la variedad de opciones disponibles para los potenciales arrendatarios y mejorando la competitividad del servicio.
+
+- **Oportunidad de ingresos adicionales:** Los propietarios pueden aprovechar sus vehículos para generar ingresos pasivos a través del alquiler.
+
+- **Mayor diversidad de vehículos:** La inclusión de más vehículos en la plataforma ofrece a los usuarios una amplia gama de opciones para satisfacer sus necesidades de alquiler.
+
+- **Mejora de la satisfacción del usuario:** Al proporcionar una amplia selección de vehículos y una experiencia de alquiler sin problemas, se mejora la satisfacción general del usuario.
+
+**Business Outcomes**
+
+- Aumento de la satisfacción del usuario a través de múltiples opciones de pago.
+
+- Implementar varios métodos de pago para alquilar vehículos para satisfacer las necesidades y preferencias de los usuarios, lo que debería resultar en una mayor satisfacción del cliente.
+
+- Incremento de la conversión de suscripciones mediante alternativas de pago variadas.
+
+- Ofrecer diversas alternativas de pago para las suscripciones de manera que aumente la probabilidad de conversión de usuarios interesados en suscribirse al servicio.
+
+- Mejora de la reputación de la marca a través del mantenimiento óptimo de los vehículos.
+
+- Garantizar que los vehículos estén siempre en buen estado y bien mantenidos para generar confianza en la marca y mejorar la percepción de los usuarios sobre la calidad del servicio.
+
+**Users**<br>Los principales usuarios de la plataforma serán principalmente aquellos que poseen vehículos y aquellos que desean alquilarlos, ya sea para su propio uso o para generar ingresos. Además de encontrar vehículos para alquilar o utilizar, estos usuarios estarán interesados en explorar una nueva plataforma y disfrutar de la experiencia de descubrimiento.
+
+**User Outcomes & Benefits**
+
+- **Propietarios de Vehículos:** 
+Posibilidad de utilizar plataformas de alquiler de vehículos para gestionar fácilmente las transacciones y garantizar la seguridad del proceso.
+
+- **Usuario que Alquila:**
+Flexibilidad para alquilar vehículos por períodos cortos o largos, según sus necesidades.
+
+**User Assumptions:**
+
+- **¿Quién es el usuario?**<br>El usuario de nuestro producto es tanto el propietario de vehículos como el usuario que alquila.
+
+- **¿Dónde encaja nuestro producto en sus trabajos o vidas?**<br>Nuestro producto encaja proporcionando una solución para satisfacer necesidades de transporte de manera temporal y flexible.
+
+- **¿Qué problema resuelve nuestro producto?**<br>Resuelve la necesidad de acceso a vehículos en momentos específicos sin la carga financiera y logística de la propiedad permanente de un automóvil.
+
+- **¿Cuándo y cómo es usado nuestro producto?**<br>Nuestro producto es usado cuando los usuarios necesitan un vehículo para desplazarse temporalmente, a través de una plataforma en línea o una aplicación móvil.
+
+- **¿Qué características son importantes?**<br>Características importantes incluyen un proceso de reserva fácil y seguro, una amplia variedad de vehículos para elegir, flexibilidad en los términos de alquiler y precios, sistema de calificación y reseñas, y soporte al cliente accesible.
+
+- **¿Cómo debería verse y comportarse nuestro producto?**<br>Debería tener una interfaz intuitiva y fácil de usar, presentar información clara sobre los vehículos disponibles, tarifas, disponibilidad y condiciones de alquiler, ser seguro y confiable con medidas de verificación de identidad y pagos seguros, y tener un aspecto visual atractivo, moderno y profesional.
+
+**Bussiness Assumptions:**
+
+- **La principal necesidad que los clientes tienen de mi servicio es:**
+Acceder a una opción de transporte flexible y conveniente sin la necesidad de poseer un vehículo permanentemente.
+
+- **Obtendré la mayor parte de mis clientes mediante:**
+Estrategias de marketing digital dirigidas a propietarios de vehículos interesados en generar ingresos adicionales y a usuarios que buscan alternativas de transporte temporal.
+
+- **Generaré ingresos mediante:**
+Comisiones por transacciones de alquiler de vehículos realizadas a través de la plataforma.
+Posiblemente, mediante membresías premium con beneficios adicionales para propietarios y usuarios.
+
+- **El principal problema que puede afectar a mi producto es:**
+La falta de confianza de los usuarios en la seguridad y calidad de los vehículos disponibles para alquilar.
+Problemas técnicos o de seguridad en la plataforma que puedan afectar la experiencia del usuario.
+
+- **Abordaremos esta situación mediante:**
+Implementando un riguroso proceso de verificación y evaluación de vehículos y propietarios.
+Manteniendo una atención al cliente receptiva y resolutiva para abordar rápidamente cualquier problema técnico o de seguridad.
+Ofreciendo garantías y seguros para tranquilizar a los usuarios sobre la seguridad de sus transacciones.
 
 - #### 1.2.2.3. Lean UX Hypothesis Statements
-    * **Creemos que** al brindar nuevas formas de movilizarse a las personas, estas reducirán su huella de carbono,<br> **Sabremos** que hemos tenido exito, <br> **Cuando** notemos que más usuarios están prefiriendo optar por ese medio de transporte frente a otros que contaminan.  <br>
-    * **Creemos que** ayudaremos al medio ambiente <br>**Sabremos** que hemos tenido exito <br>**Cuando** la base de usuarios se amplie, y comiencen a recomendarse el uso de otro tipo de vehículos distinto a los tradicionales.<br>
-    * **Creemos que** al ofrecer distintos medios de transporte más sostenibles, fomentaremos un estilo de vida más ecoamigable, <br>**Sabremos** que hemos tenido exito <br>**Cuando** en distintos distritos de Lima se tomen más en cuenta los carriles para vehículos como bicicletas, monopatínes, entre otros.<br>
-    * **Creemos que** al proporcionar distintos tipos de vehículos más gente usará nuestra página <br>**Sabremos** que hemos tenido exito <br>**Cuando** nuestra base de clientes se amplie después de esta adición.<br>
-    * **Creemos que** al ofrecer una interfaz amigable y simple, más gente tendrá en cuenta la página, <br>**Sabremos** que hemos tenido exito, <br>**Cuando** lograremos captar la atencion de usuarios potenciales.
+  
+* **Creemos que** al brindar nuevas formas de movilizarse a las personas, estas reducirán su huella de carbono.
+  * **Sabremos** que hemos tenido éxito,
+  * **Cuando** notemos que más usuarios están prefiriendo optar por ese medio de transporte frente a otros que contaminan.
+
+* **Creemos que** ayudaremos al medio ambiente.
+  * **Sabremos** que hemos tenido éxito,
+  * **Cuando** la base de usuarios se amplíe, y comiencen a recomendarse el uso de otro tipo de vehículos distinto a los tradicionales.
+
+* **Creemos que** al ofrecer distintos medios de transporte más sostenibles, fomentaremos un estilo de vida más ecoamigable.
+  * **Sabremos** que hemos tenido éxito,
+  * **Cuando** en distintos distritos de Lima se tomen más en cuenta los carriles para vehículos como bicicletas, monopatines, entre otros.
+
+* **Creemos que** al proporcionar distintos tipos de vehículos más gente usará nuestra página.
+  * **Sabremos** que hemos tenido éxito,
+  * **Cuando** nuestra base de clientes se amplíe después de esta adición.
+
+* **Creemos que** al ofrecer una interfaz amigable y simple, más gente tendrá en cuenta la página.
+  * **Sabremos** que hemos tenido éxito,
+  * **Cuando** logremos captar la atención de usuarios potenciales.
+      
 - #### 1.2.2.4. Lean UX Canvas
 
 | Business problem<br>Nuestro grupo enfrenta el reto de crear una página web que conecte personas con medios de transporte que ya no usen con usuarios que desean movilizarse sin altos gastos y reduciendo su huella de carbono, los cuales a su vez buscan tener una vida más saludable.                                                                                                                                                                                                                                                                                                                                                          | Solution ideas<br>-Pagina web que permita conectar usuarios que ya no usen sus medios de transporte con usuarios con necesidad de transportarse.<br>-Pagina web que brinde seguridad a los usuarios que desean alquilar sus transportes, por medio de seguros anti robos.<br>-Añadir funciones que brinden calificaciones de usuarios así como un sistema de recomendaciones.                                                                                                                                  | Business outcomes<br>-Que los usuarios declaren que la página funciona correctamente<br>-Promover una vida saludable a los usuarios.<br>-Reducir la huella de carbono de los usuarios que alquilen.<br>-Reducir el gasto en vehiculos de transporte, promoviendo el uso compartido de aquellos que ya no se usen.                                                                                                                                                                                        |
@@ -551,6 +614,8 @@ Entrevista N°3:
 
 **Usuario que desea alquilar:** Nuestra principal audiencia son aquellos interesados en alquilar vehículos con propósitos recreativos o para probar nuestro servicio, destacando la importancia de la formalidad, la reducción del tráfico y la sostenibilidad al elegir opciones libres de gasolina, en consonancia con nuestro compromiso medioambiental.
 
+**Recepción positiva de la plataforma (40%):** Este resultado sugiere que una parte significativa de los entrevistados tiene una percepción favorable de la plataforma. Esto podría indicar que la plataforma satisface algunas de las necesidades o expectativas de los usuarios potenciales en términos de facilidad de uso, funcionalidad, diseño, o beneficios ofrecidos.<br></br>**Alta disposición de los propietarios para alquilar sus vehículos (60%):** El hecho de que el 60% de los entrevistados esté dispuesto a alquilar sus vehículos es un indicador clave de la viabilidad del modelo de negocio. Muestra que existe un interés significativo entre los propietarios de vehículos en participar en la plataforma como proveedores de servicios. Esto puede ser atribuible a varios factores, como la oportunidad de generar ingresos adicionales, la facilidad de uso de la plataforma, la confianza en la seguridad del proceso de alquiler, entre otros.<br></br>**Correlación entre la percepción positiva y la disposición para alquilar:** Es importante notar que existe una posible correlación entre la percepción positiva de la plataforma y la disposición de los propietarios para alquilar sus vehículos. Es decir, es probable que aquellos que ven la plataforma de manera favorable sean más propensos a participar como propietarios de vehículos en la plataforma. Esta relación positiva entre la percepción y la participación puede ser un factor clave para el crecimiento y la adopción exitosa de la plataforma.
+
 ## 2.3. Needfinding.
 
 El Needfinding es una metodología cualitativa la cual se enfoca en las opiniones y sentimientos de los usuarios. El objetivo de este método como se indica en el mismo nombre es identificar, buscar, analizar, conseguir, rescatar, valorar, o términos sencillos, buscar las necesidades que puedan guiar y orientar el desarrollo y diseño de cualquier proyecto.
@@ -578,35 +643,54 @@ Para este proyecto en particular decidimos interactuar con potenciales usuarios 
 | Puntuar alquilador                     | Frecuencia: Baja<br>Importancia: Baja       | Frecuencia: Media<br>Importancia: Media     |
 
 ### 2.3.3. User Journey Mapping
+
 ## Primer segmento: Usuario que alquila
+
 ![Img_jorneymapping1](https://i.ibb.co/TT9bMkf/customer-journey-map.png)
+
 ## Segundo segmento: Propietario de vehiculo
+
 ![Img_jorneymapping1](https://i.ibb.co/6BCdVL5/Propietario-CJM.png)
+
 ### 2.3.4. Empathy Mapping.
+
 ![Img_emphaty1](/Ruedarent-Report/feature/assets/emphaty1.png)
+
 ![Img_emphaty2](/Ruedarent-Report/feature/assets/emphaty2.png)
+
 ### 2.3.5. As-is Scenario Mapping.
+
 ![Img_asis](/Ruedarent-Report/feature/assets/scn.jpg)
+
 ## 2.4. Ubiquitous Language
-- User (Usuario): Persona que usa la aplicación para alquilar o buscar vehículos eléctricos. Se divide en dos categorías:
-    - Owner (Propietario): Usuario que ofrece sus vehículos para alquilar a otros usuarios.
-    - Renting user (Usuario que alquila): Usuario que busca alquilar un vehículo a través de la aplicación.
-- Vehicle (Vehículo): Cualquier medio de transporte eléctrico, como bicicletas, scooters, patinetas, motos, etc.
-- Vehicle profile (Perfil del vehículo): Información detallada sobre el vehículo, incluyendo marca, modelo, tamaño, color y estado de mantenimiento.
-- Vehicle delivery/return (Entrega/devolución del vehículo): Proceso de transferencia física del vehículo entre el propietario y el cliente al inicio y al final del alquiler.
-- Rental fee (Tarifa de alquiler): Precio que cobra el propietario al cliente por el uso del vehículo durante un período específico.
-- Plans (Planes): Modelo de negocio que se usa para dar un servicio por una cuota, en este caso, habrán tres planes para los propietarios.
-- Pay (Pago): Método que el cliente emplea para pagar el alquiler del vehículo y los planes.
+
+- **Usuario (User):** Persona que utiliza la aplicación para alquilar o buscar vehículos eléctricos. Se divide en dos categorías:
+    - **Propietario (Owner):** Usuario que ofrece sus vehículos para alquilar a otros usuarios.
+    - **Usuario que alquila (Renting user):** Usuario que busca alquilar un vehículo a través de la aplicación.
+  
+- **Vehículo (Vehicle):** Cualquier medio de transporte eléctrico, como bicicletas, scooters, patinetas, motos, etc.
+
+- **Perfil del vehículo (Vehicle profile):** Información detallada sobre el vehículo, incluyendo marca, modelo, tamaño, color y estado de mantenimiento.
+
+- **Entrega/devolución del vehículo (Vehicle delivery/return):** Proceso de transferencia física del vehículo entre el propietario y el cliente al inicio y al final del alquiler.
+
+- **Tarifa de alquiler (Rental fee):** Precio que cobra el propietario al cliente por el uso del vehículo durante un período específico.
+
+- **Planes (Plans):** Modelo de negocio que se utiliza para proporcionar un servicio por una cuota. En este caso, habrá tres planes para los propietarios.
+
+- **Pago (Payment):** Método que el cliente emplea para pagar el alquiler del vehículo y los planes.
 
 # Capítulo III: Requirements Specifications
+
 ## 3.1. To-Be Scenario Mapping.
+
 ##### Propietario del Vehículo:
 
 <a href="https://ibb.co/C7F17Xk"><img src="https://i.ibb.co/swrmwD0/image.png" alt="image" border="0"></a>
 
 Enlace del Miro:<a href="https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE91YmhJVzhGUmNOTFpOdkJIU3U2dDZKczU1R2Ric0UySzl1a3pBREVSQnlDa3F3RHwzMDc0NDU3MzQ5NjI2ODA0NjMyfDI=?share_link_id=614086001722"> https://miro.com/welcomeonboard/ZHFQaldhUlNqOFF3SWRoSE91YmhJVzhGUmNOTFpOdkJIU3U2dDZKczU1R2Ric0UySzl1a3pBREVSQnlDa3F3RHwzMDc0NDU3MzQ5NjI2ODA0NjMyfDI=?share_link_id=614086001722</a>
 
-##### Usuario que desea alquilar:
+##### Usuario que Alquila:
 
 <a href="https://ibb.co/wWHHSVv"><img src="https://i.ibb.co/QNBBPL5/image.png" alt="image" border="0"></a>
 
