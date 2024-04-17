@@ -53,21 +53,22 @@ Durante la fase de elaboración del informe, se realizaron las siguientes activi
 ![people](https://i.ibb.co/5kwrmNJ/people.png)
 
 # Contenido
+
 ## Tabla de contenidos
 
 ## Capítulo I: Introducción
 
-1.1. Startup Profile
+1.1. Startup Profile.
 
 1.1.1. [Descripción de la Startup](/Ruedarent-Report/feature/chapter01.md#111-descripción-de-la-startup)
 
 1.1.2. [Perfiles de integrantes del equipo](/Ruedarent-Report/feature/chapter01.md#112-perfiles-de-integrantes-del-equipo)
 
-1.2. Solution Profile
+1.2. Solution Profile.
 
 1.2.1 [Antecedentes y problemática](/Ruedarent-Report/feature/chapter01.md#121-antecedentes-y-problemática)
 
-1.2.2 Lean UX Process
+1.2.2 Lean UX Process.
 
 1.2.2.1. [Lean UX Problem Statements](/Ruedarent-Report/feature/chapter01.md#1221-lean-ux-problem-statements)
 
@@ -163,7 +164,7 @@ Durante la fase de elaboración del informe, se realizaron las siguientes activi
 
 4.6.3. [Software Architecture Components Diagrams](/Ruedarent-Report/feature/chapter04.md)
 
-4.7. Software Object-Oriented Design.
+4.7. Software Object-Oriented Design
 
 4.7.1. [Class Diagrams](/Ruedarent-Report/feature/chapter04.md)
 
@@ -185,7 +186,7 @@ Durante la fase de elaboración del informe, se realizaron las siguientes activi
 
 5.1.4. [Software Deployment Configuration](/Ruedarent-Report/feature/chapter05.md)
 
-5.2. Landing Page, Services & Applications Implementation.
+5.2. Landing Page, Services & Applications Implementation
 
 5.2.1. [Sprint 1](/Ruedarent-Report/feature/chapter05.md)
 
@@ -205,13 +206,14 @@ Durante la fase de elaboración del informe, se realizaron las siguientes activi
 
 5.2.1.8. [Team Collaboration Insights during Sprint](/Ruedarent-Report/feature/chapter05.md)
 
-
 # Student Outcome
+
 | Criterio Específico | Acciones realizadas | Conclusiones |
 |--------|---------|--------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | ***------------TB1----------*** <br><br/>   **David Ivanoff gallo Quintana** - TB1<br>Se dividió en trabajo de manera equitativa, pero todos participando en cada decisión, para realizar el trabajo de la mejor manera posible y que sea cohesionado, asimismo, en cada parte nos ayudamos para poder entender el trabajo en cada parte del informe.  <br><br> **Juan Jesús Calisaya Sánchez** - TB1 Se llevo acabo, con la validadción del grupo, los siguientes puntos las estrategias frente a competidores, el diseño de entrevistas, entrevista, user stories, el impact mapping, product backlog, Apoyar en Wireframes, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review y Execution Evidence for Sprint Review. Todo esto se llevo a cabo gracias al trabajo en equipo. | **TB1** Elegimos el tema del proyecto, se realizaron asimismo varias reuniones para conocer los puntos de vista de cada integrante y para que ninguno tenga ninguna duda. |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | ***------------TB1----------*** <br><br/> **David Ivanoff gallo Quintana** - TB1<br> Durante el trabajo se pudo conocer mejores maneras de llevar un proyecto a cabo en un tiempo corto, asimismo cada uno tuvo que poner de su parte para poder concretar esta primera parte del proyecto de mejor manera, lo que nos llevo a conocer mejor lo que podría ser trabajar en equipo. <br><br> **Juan Jesús Calisaya Sánchez** - TB1 En transcurso del informe se pudo conocer mucho mejor el lenguaje Markdown que es importante para la documentacion de la aplicacion web |  |
-
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Calisaya Sánchez, Juan Jesús**<br>TB1<br>Se llevo acabo, con la validadción del grupo, los siguientes puntos las estrategias frente a competidores, el diseño de entrevistas, entrevista, user stories, el impact mapping, product backlog, Apoyar en Wireframes, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review y Execution Evidence for Sprint Review. Todo esto se llevo a cabo gracias al trabajo en equipo.<br></br>**Gallo Quintana, David Ivanoff**<br>TB1<br>Se dividió en trabajo de manera equitativa, pero todos participando en cada decisión, para realizar el trabajo de la mejor manera posible y que sea cohesionado, asimismo, en cada parte nos ayudamos para poder entender el trabajo en cada parte del informe.<br></br>**Huarcaya Quispe, Niurka Lucero**<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>**La Rosa Rodríguez, Alejandro**<br>TB1<br>A lo largo del desarrollo de este proyecto, cada miembro del equipo ha trabajado en ramas separadas dentro del repositorio, siguiendo la división acordada previamente. Además, hemos coordinado nuestros progresos en el grupo y colaborado como equipo para implementar las correcciones sugeridas por nuestro profesor.
+<br></br>**Oneglio De Paz, Beth Shantal**<br>TB1<br>A lo largo del proyecto, he mantenido una comunicación continua con los miembros del equipo mediante reuniones semanales. Colaborativamente, hemos trabajado en cada sección del informe utilizando branches y GitHub para asegurar la organización y el control de versiones del trabajo. | **TB1** Elegimos el tema del proyecto, se realizaron asimismo varias reuniones para conocer los puntos de vista de cada integrante y para que ninguno tenga ninguna duda. |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software | **Calisaya Sánchez, Juan Jesús**<br>TB1<br>Durante el desarrollo del proyecto, empleamos una variedad de técnicas para identificar y comprender todas las necesidades, aspectos, usuarios y características del negocio al que nos enfocamos. Utilizamos GitHub para registrar la información recolectada y los métodos implementados, asegurando que las versiones se guarden de forma ordenada. Llevamos a cabo entrevistas, diagramas, needfinding, user stories, entre otros métodos para obtener una visión completa y detallada.<br></br>**Gallo Quintana, David Ivanoff**<br>TB1<br>En este avance del trabajo, empleamos el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los bounded contexts y las entidades que se implementarán en el backend. Además, elaboramos diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente, utilizando diversos patrones de diseño.<br></br>**Huarcaya Quispe, Niurka Lucero**<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>**La Rosa Rodríguez, Alejandro**<br>TB1<br>ASe ha llevado a cabo la implementación del modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará más adelante en el backend. Además, se ha documentado todo el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles, específicamente Scrum.
+<br></br>**Oneglio De Paz, Beth Shantal**<br>TB1<br>En esta entrega, se llevaron a cabo entrevistas para analizar las preferencias de los segmentos de escritores, ilustradores y lectores. Además, se implementó un diseño UX/UI apropiado que se adapta a las necesidades de los usuarios. | TB1: En esta etapa del proyecto, se realizaron análisis exhaustivos de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, y se elaboraron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario, y se llevó a cabo el modelado de la base de datos. Finalmente, se documentó todo el trabajo realizado utilizando metodologías ágiles para garantizar un proceso transparente y colaborativo. |
 
 # **Capítulo I: Introducción**
 ## 1.1. Startup Profile
