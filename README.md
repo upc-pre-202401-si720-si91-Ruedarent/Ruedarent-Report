@@ -1650,3 +1650,14 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 - Para tener éxito, es esencial abordar el riesgo de errores funcionales mediante pruebas y mejoras continuas.
 ## Bibliografía
 ## Anexos
+Anexo 1: 
+Presentación de proyecto
+https://www.canva.com/design/DAGCVM1sXj4/VNYTMKRbAUu-4MwGJqEtBA/edit?utm_content=DAGCVM1sXj4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Anexo 2:
+Landing page:
+https://upc-pre-202401-si720-si91-ruedarent.github.io/Ruedarent-Landing-Page/
+
+Anexo 3:
+Web Applications Mock-ups.
+https://www.figma.com/file/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=0%3A1&mode=design&t=oV4ZYw2Es2V34LBK-1 
