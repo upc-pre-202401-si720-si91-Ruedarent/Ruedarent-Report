@@ -1632,7 +1632,7 @@ Sección de nosotros, donde se muestra información relevante sobre la startup y
 Sección de contacto y footer con enlaces a redes sociales y un formulario de contacto.
 ![contacto y footer](https://i.ibb.co/fqGymMs/contactoyfooter.png)
 
-Link de video explicativo del landing page de Ruedarent: //falta
+Link de video explicativo del landing page de Ruedarent: [Video](https://upcedupe-my.sharepoint.com/personal/u202121935_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121935%5Fupc%5Fedu%5Fpe%2FDocuments%2FDetalle%20del%20landing%20page%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 En esta entrega, nos enfocamos en Landing page, por lo que no fue necesario ningún servicio adicional.
