@@ -1,30 +1,59 @@
+# COURSE PROJECT
+----
+
 <p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas (UPC)</strong><br>    
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
-    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <strong>Ingeniería de Software</strong><br>
+    <strong>Carrera de Ingeniería de Software</strong><br>
     <strong>Aplicaciones Web - SI91</strong><br>
-    <strong>Profesor: Mori Paiva, Hugo Allan</strong><br>
-    <br><strong>"INFORME - TB1"</strong>
+    <br><strong>Profesor: Mori Paiva, Hugo Allan</strong><br>
+    <br><strong><b>INFORME</strong></b><br>
 </p>
 
 <p align="center">
-    <strong>Startup: Ruedarent </strong><br>
-    <strong>Producto: Ruedarent </strong>
+    <strong>Startup del Proyecto: Ruedarent</strong><br>
+    <strong>Producto: Ruedarent</strong><br>
 </p>
 
-## Integrantes
-| Alumno  | Código    |
-|---------|-----------|
-| Calisaya Sánchez, Juan Jesús      | U202121935 |
-| Gallo Quintana, David Ivanoff     | U20201e475 |
-| Huarcaya Quispe, Niurka Lucero    | U20221b226 |
-| La Rosa Rodríguez, Alejandro      | U201911361 |
-| Oneglio De Paz, Beth Shantal      | U202213423 |
+<div>
+    <h3 align="center">Team Members:</h3>
+</div>
 
-<p align="center"> <strong>Abril 2024</strong></p>
+<div>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Calisaya Sánchez, Juan Jesús</td>
+            <td>U202121935</td>
+        </tr>
+        <tr>
+            <td>Gallo Quintana, David Ivanoff</td>
+            <td>U20201e475</td>
+        </tr>
+        <tr>
+            <td>Huarcaya Quispe, Niurka Lucero</td>
+            <td>U20221b226</td>
+        </tr>
+        <tr>
+            <td>La Rosa Rodríguez, Alejandro</td>
+            <td>U201911361</td>
+        </tr>
+        <tr>
+            <td>Oneglio De Paz, Beth Shantal</td>
+            <td>U202213423</td>
+        </tr>
+    </table>
+    </div>
+</body>
+
+<p align="center">
+<br><strong>2024-01</strong></p>
 <br>
 
----
+----
 
 # Registro de Versiones del Informe
 
@@ -32,9 +61,11 @@
 |----------|----------|----------|----------|
 | TB1   | 14/04/2024  | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición de los Capítulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
 
+----
 # Project Report Collaboration Insights
+----
 
-Las actividades designadas para la TB1 han sido finalizadas y están debidamente registradas en el repositorio de GitHub de Ruedarent-Report. El siguiente enlace lleva al URL del repositorio que se encuentra en nuestra organización pública: [Ruedarent-Report](https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Report.git)
+Las actividades designadas para la TB1 han sido finalizadas y están debidamente registradas en el repositorio de GitHub de Ruedarent-Report. El siguiente enlace lleva al URL del repositorio que se encuentra en nuestra organización pública: [https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Report.git](https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Report.git)
 
 Durante la fase de elaboración del informe, se realizaron las siguientes actividades:
 
@@ -43,191 +74,126 @@ Durante la fase de elaboración del informe, se realizaron las siguientes activi
 - Se programaron reuniones para coordinar el avance de los componentes del informe y para informar sobre los progresos del Sprint 1, centrado en la creación de la Landing Page.
 
 ![overview](https://i.ibb.co/9hXhGy1/image.png)
-
 ![contributors](https://i.ibb.co/4fh4jhJ/contributors.png)
-
 ![Commit1](https://i.ibb.co/QbLdLqC/commits1.png)
-
 ![network](https://i.ibb.co/WgxKswV/network.png)
-
 ![people](https://i.ibb.co/5kwrmNJ/people.png)
 
-# Contenido
+----
+## Contenido
 
-## Tabla de contenidos
+### Tabla de contenidos
 
-## Capítulo I: Introducción
-
-1.1. Startup Profile.
-
+### Capítulo I: Introducción
+*1.1. Startup Profile*
 1.1.1. [Descripción de la Startup](/Ruedarent-Report/feature/chapter01.md#111-descripción-de-la-startup)
-
 1.1.2. [Perfiles de integrantes del equipo](/Ruedarent-Report/feature/chapter01.md#112-perfiles-de-integrantes-del-equipo)
-
-1.2. Solution Profile.
-
+1.2. Solution Profile
 1.2.1 [Antecedentes y problemática](/Ruedarent-Report/feature/chapter01.md#121-antecedentes-y-problemática)
-
 1.2.2 Lean UX Process.
+1.2.2.1. [Lean UX Problem Statements.](/Ruedarent-Report/feature/chapter01.md#1221-lean-ux-problem-statements)
+1.2.2.2. [Lean UX Assumptions.](/Ruedarent-Report/feature/chapter01.md#1222-lean-ux-assumptions)
+1.2.2.3. [Lean UX Hypothesis Statements.](/Ruedarent-Report/feature/chapter01.md#1223-lean-ux-hypothesis-statements)
+1.2.2.4. [Lean UX Canvas.](/Ruedarent-Report/feature/chapter01.md#1224-lean-ux-canvas)
+1.3. [Segmentos objetivo.](/Ruedarent-Report/feature/chapter01.md#13-segmentos-objetivo)
 
-1.2.2.1. [Lean UX Problem Statements](/Ruedarent-Report/feature/chapter01.md#1221-lean-ux-problem-statements)
-
-1.2.2.2. [Lean UX Assumptions](/Ruedarent-Report/feature/chapter01.md#1222-lean-ux-assumptions)
-
-1.2.2.3. [Lean UX Hypothesis Statements](/Ruedarent-Report/feature/chapter01.md#1223-lean-ux-hypothesis-statements)
-
-1.2.2.4. [Lean UX Canvas](/Ruedarent-Report/feature/chapter01.md#1224-lean-ux-canvas)
-
-1.3. [Segmentos objetivo](/Ruedarent-Report/feature/chapter01.md#13-segmentos-objetivo)
-
-## Capítulo II: Requirements Elicitation & Analysis
-
-2.1. [Competidores](/Ruedarent-Report/feature/chapter02.md#21-competidores)
-
-2.1.1. [Análisis competitivo](/Ruedarent-Report/feature/chapter02.md#211-análisis-competitivo)
-
-2.1.2. [Estrategias y tácticas frente a competidores](/Ruedarent-Report/feature/chapter02.md#212-estrategias-y-tácticas-frente-a-competidores)
-
+### Capítulo II: Requirements Elicitation & Analysis
+2.1. [Competidores.](/Ruedarent-Report/feature/chapter02.md#21-competidores)
+2.1.1. [Análisis competitivo.](/Ruedarent-Report/feature/chapter02.md#211-análisis-competitivo)
+2.1.2. [Estrategias y tácticas frente a competidores.](/Ruedarent-Report/feature/chapter02.md#212-estrategias-y-tácticas-frente-a-competidores)
 2.2. Entrevistas.
+2.2.1. [Diseño de entrevistas.](/Ruedarent-Report/feature/chapter02.md#221-diseño-de-entrevistas)
+2.2.2. [Registro de entrevistas.](/Ruedarent-Report/feature/chapter02.md#222-registro-de-entrevistas)
+2.2.3. [Análisis de entrevistas.](/Ruedarent-Report/feature/chapter02.md#223-análisis-de-entrevistas)
+2.3. Needfinding.
+2.3.1. [User Personas.](/Ruedarent-Report/feature/chapter02.md#231-user-personas)
+2.3.2. [User Task Matrix.](/Ruedarent-Report/feature/chapter02.md#232-user-task-matrix)
+2.3.3. [User Journey Mapping.](/Ruedarent-Report/feature/chapter02.md#233-user-journey-mapping)
+2.3.4. [Empathy Mapping.](/Ruedarent-Report/feature/chapter02.md#234-empathy-mapping)
+2.3.5. [As-is Scenario Mapping.](//Ruedarent-Report/feature/chapter02.md#235-as-is-scenario-mapping)
+2.4. Ubiquitous Language.
 
-2.2.1. [Diseño de entrevistas](/Ruedarent-Report/feature/chapter02.md#221-diseño-de-entrevistas)
+### Capítulo III: Requirements Specification
+3.1. [To-Be Scenario Mapping.](/Ruedarent-Report/feature/chapter03.md#31-to-be-scenario-mapping)
+3.2. [User Stories.](/Ruedarent-Report/feature/chapter03.md#32-user-stories)
+3.3. [Impact Mapping.](/Ruedarent-Report/feature/chapter03.md#33-impact-mapping)
+3.4. [Product Backlog.](/Ruedarent-Report/feature/chapter03.md#34-product-backlog)
 
-2.2.2. [Registro de entrevistas](/Ruedarent-Report/feature/chapter02.md#222-registro-de-entrevistas)
-
-2.2.3. [Análisis de entrevistas](/Ruedarent-Report/feature/chapter02.md#223-análisis-de-entrevistas)
-
-2.3. Needfinding
-
-2.3.1. [User Personas](/Ruedarent-Report/feature/chapter02.md#231-user-personas)
-
-2.3.2. [User Task Matrix](/Ruedarent-Report/feature/chapter02.md#232-user-task-matrix)
-
-2.3.3. [User Journey Mapping](/Ruedarent-Report/feature/chapter02.md#233-user-journey-mapping)
-
-2.3.4. [Empathy Mapping](/Ruedarent-Report/feature/chapter02.md#234-empathy-mapping)
-
-2.3.5. [As-is Scenario Mapping](//Ruedarent-Report/feature/chapter02.md#235-as-is-scenario-mapping)
-
-## Capítulo III: Requirements Specification
-
-3.1. [To-Be Scenario Mapping](/Ruedarent-Report/feature/chapter03.md#31-to-be-scenario-mapping)
-
-3.2. [User Stories](/Ruedarent-Report/feature/chapter03.md#32-user-stories)
-
-3.3. [Impact Mapping](/Ruedarent-Report/feature/chapter03.md#33-impact-mapping)
-
-3.4. [Product Backlog](/Ruedarent-Report/feature/chapter03.md#34-product-backlog)
-
-## Capítulo IV: Product Design
-
-4.1. [Style Guidelines](/Ruedarent-Report/feature/chapter04.md)
-
-4.1.1. [General Style Guidelines](/Ruedarent-Report/feature/chapter04.md)
-
-4.1.2. [Web Style Guidelines](/Ruedarent-Report/feature/chapter04.md)
-
-4.2. [Information Architecture](/Ruedarent-Report/feature/chapter04.md)
-
-4.2.1. [Organization Systems](/Ruedarent-Report/feature/chapter04.md)
-
-4.2.2. [Labeling Systems](/Ruedarent-Report/feature/chapter04.md)
-
-4.2.3. [SEO Tags and Meta Tags](/Ruedarent-Report/feature/chapter04.md)
-
-4.2.4. [Searching Systems](/Ruedarent-Report/feature/chapter04.md)
-
-4.2.5. [Navigation Systems](/Ruedarent-Report/feature/chapter04.md)
-
-4.3. Landing Page UI Design
-
-4.3.1. [Landing Page Wireframe](/Ruedarent-Report/feature/chapter04.md)
-
-4.3.2. [Landing Page Mock-up](/Ruedarent-Report/feature/chapter04.md)
-
-4.4. [Web Applications UX/UI Design](/Ruedarent-Report/feature/chapter04.md)
-
-4.4.1. [Web Applications Wireframes](/Ruedarent-Report/feature/chapter04.md)
-
-4.4.2. [Web Applications Wireflow Diagrams](/Ruedarent-Report/feature/chapter04.md)
-
-4.4.2. [Web Applications Mock-ups](/Ruedarent-Report/feature/chapter04.md)
-
-4.4.3. [Web Applications User Flow Diagrams](/Ruedarent-Report/feature/chapter04.md)
-
+### Capítulo IV: Product Design
+4.1. [Style Guidelines.](/Ruedarent-Report/feature/chapter04.md)
+4.1.1. [General Style Guidelines.](/Ruedarent-Report/feature/chapter04.md)
+4.1.2. [Web Style Guidelines.](/Ruedarent-Report/feature/chapter04.md)
+4.2. [Information Architecture.](/Ruedarent-Report/feature/chapter04.md)
+4.2.1. [Organization Systems.](/Ruedarent-Report/feature/chapter04.md)
+4.2.2. [Labeling Systems.](/Ruedarent-Report/feature/chapter04.md)
+4.2.3. [SEO Tags and Meta Tags.](/Ruedarent-Report/feature/chapter04.md)
+4.2.4. [Searching Systems.](/Ruedarent-Report/feature/chapter04.md)
+4.2.5. [Navigation Systems.](/Ruedarent-Report/feature/chapter04.md)
+4.3. Landing Page UI Design.
+4.3.1. [Landing Page Wireframe.](/Ruedarent-Report/feature/chapter04.md)
+4.3.2. [Landing Page Mock-up.](/Ruedarent-Report/feature/chapter04.md)
+4.4. [Web Applications UX/UI Design.](/Ruedarent-Report/feature/chapter04.md)
+4.4.1. [Web Applications Wireframes.](/Ruedarent-Report/feature/chapter04.md)
+4.4.2. [Web Applications Wireflow Diagrams.](/Ruedarent-Report/feature/chapter04.md)
+4.4.2. [Web Applications Mock-ups.](/Ruedarent-Report/feature/chapter04.md)
+4.4.3. [Web Applications User Flow Diagrams.](/Ruedarent-Report/feature/chapter04.md)
 4.5. [Web Applications Prototyping.](/Ruedarent-Report/feature/chapter04.md)
-
 4.6. [Domain-Driven Software Architecture.](/Ruedarent-Report/feature/chapter04.md)
+4.6.1. [Software Architecture Context Diagram.](/Ruedarent-Report/feature/chapter04.md)
+4.6.2. [Software Architecture Container Diagrams.](/Ruedarent-Report/feature/chapter04.md)
+4.6.3. [Software Architecture Components Diagrams.](/Ruedarent-Report/feature/chapter04.md)
+4.7. Software Object-Oriented Design.
+4.7.1. [Class Diagrams.](/Ruedarent-Report/feature/chapter04.md)
+4.7.2. [Class Dictionary.](/Ruedarent-Report/feature/chapter04.md)
+4.8. [Database Design.](//Ruedarent-Report/feature/chapter04.md)
+4.8.1. [Database Diagram.](/Ruedarent-Report/feature/chapter04.md)
 
-4.6.1. [Software Architecture Context Diagram](/Ruedarent-Report/feature/chapter04.md)
-
-4.6.2. [Software Architecture Container Diagrams](/Ruedarent-Report/feature/chapter04.md)
-
-4.6.3. [Software Architecture Components Diagrams](/Ruedarent-Report/feature/chapter04.md)
-
-4.7. Software Object-Oriented Design
-
-4.7.1. [Class Diagrams](/Ruedarent-Report/feature/chapter04.md)
-
-4.7.2. [Class Dictionary](/Ruedarent-Report/feature/chapter04.md)
-
-4.8. [Database Design](//Ruedarent-Report/feature/chapter04.md)
-
-4.8.1. [Database Diagram](/Ruedarent-Report/feature/chapter04.md)
-
-## Capítulo V: Product Implementation, Validation & Deployment
-
-5.1. [Software Configuration Management](/Ruedarent-Report/feature/chapter05.md)
-
-5.1.1. [Software Development Environment Configuration](/Ruedarent-Report/feature/chapter05.md)
-
-5.1.2. [Source Code Management](/Ruedarent-Report/feature/chapter05.md)
-
-5.1.3. [Source Code Style Guide & Conventions](/Ruedarent-Report/feature/chapter05.md)
-
-5.1.4. [Software Deployment Configuration](/Ruedarent-Report/feature/chapter05.md)
-
-5.2. Landing Page, Services & Applications Implementation
-
+### Capítulo V: Product Implementation, Validation & Deployment
+5.1. [Software Configuration Management.](/Ruedarent-Report/feature/chapter05.md)
+5.1.1. [Software Development Environment Configuration.](/Ruedarent-Report/feature/chapter05.md)
+5.1.2. [Source Code Management.](/Ruedarent-Report/feature/chapter05.md)
+5.1.3. [Source Code Style Guide & Conventions.](/Ruedarent-Report/feature/chapter05.md)
+5.1.4. [Software Deployment Configuration.](/Ruedarent-Report/feature/chapter05.md)
+5.2. Landing Page, Services & Applications Implementation.
 5.2.1. [Sprint 1](/Ruedarent-Report/feature/chapter05.md)
+5.2.1.1. [Sprint Planning 1.](/Ruedarent-Report/feature/chapter05.md)
+5.2.1.2. [Sprint Backlog 1.](/Ruedarent-Report/feature/chapter05.md)
+5.2.1.3. [Development Evidence for Sprint Review.](/Ruedarent-Report/feature/chapter05.md)
+5.2.1.4. [Testing Suite Evidence for Sprint Review.](/Ruedarent-Report/feature/chapter05.md)
+5.2.1.5. [Execution Evidence for Sprint Review.](/Ruedarent-Report/feature/chapter05.md)
+5.2.1.6. [Services Documentation Evidence for Sprint Review.](/Ruedarent-Report/feature/chapter05.md)
+5.2.1.7. [Software Deployment Evidence for Sprint Review.](/Ruedarent-Report/feature/chapter05.md)
+5.2.1.8. [Team Collaboration Insights during Sprint.](/Ruedarent-Report/feature/chapter05.md)
 
-5.2.1.1. [Sprint Planning 1](/Ruedarent-Report/feature/chapter05.md)
+##### Conclusiones
+##### Conclusiones y recomendaciones.
+##### Video About-the-Team.
+##### Bibliografía
+##### Anexos
 
-5.2.1.2. [Sprint Backlog 1](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.1.3. [Development Evidence for Sprint Review](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.1.4. [Testing Suite Evidence for Sprint Review](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.1.5. [Execution Evidence for Sprint Review](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.1.6. [Services Documentation Evidence for Sprint Review](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.1.7. [Software Deployment Evidence for Sprint Review](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.1.8. [Team Collaboration Insights during Sprint](/Ruedarent-Report/feature/chapter05.md)
-
+----
 # Student Outcome
 
 | Criterio Específico | Acciones realizadas | Conclusiones |
 |--------|---------|--------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Calisaya Sánchez, Juan Jesús**<br>TB1<br>Se llevo acabo, con la validadción del grupo, los siguientes puntos las estrategias frente a competidores, el diseño de entrevistas, entrevista, user stories, el impact mapping, product backlog, Apoyar en Wireframes, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review y Execution Evidence for Sprint Review. Todo esto se llevo a cabo gracias al trabajo en equipo.<br></br>**Gallo Quintana, David Ivanoff**<br>TB1<br>Se dividió en trabajo de manera equitativa, pero todos participando en cada decisión, para realizar el trabajo de la mejor manera posible y que sea cohesionado, asimismo, en cada parte nos ayudamos para poder entender el trabajo en cada parte del informe.<br></br>**Huarcaya Quispe, Niurka Lucero**<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>**La Rosa Rodríguez, Alejandro**<br>TB1<br>A lo largo del desarrollo de este proyecto, cada miembro del equipo ha trabajado en ramas separadas dentro del repositorio, siguiendo la división acordada previamente. Además, hemos coordinado nuestros progresos en el grupo y colaborado como equipo para implementar las correcciones sugeridas por nuestro profesor.<br></br>**Oneglio De Paz, Beth Shantal**<br>TB1<br>A lo largo del proyecto, he mantenido una comunicación continua con los miembros del equipo mediante reuniones semanales. Colaborativamente, hemos trabajado en cada sección del informe utilizando branches y GitHub para asegurar la organización y el control de versiones del trabajo. | TB1: Elegimos el tema del proyecto, se realizaron asimismo varias reuniones para conocer los puntos de vista de cada integrante y para que ninguno tenga ninguna duda. |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **Calisaya Sánchez, Juan Jesús**<br>TB1<br>Durante el desarrollo del proyecto, empleamos una variedad de técnicas para identificar y comprender todas las necesidades, aspectos, usuarios y características del negocio al que nos enfocamos. Utilizamos GitHub para registrar la información recolectada y los métodos implementados, asegurando que las versiones se guarden de forma ordenada. Llevamos a cabo entrevistas, diagramas, needfinding, user stories, entre otros métodos para obtener una visión completa y detallada.<br></br>**Gallo Quintana, David Ivanoff**<br>TB1<br>En este avance del trabajo, empleamos el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los bounded contexts y las entidades que se implementarán en el backend. Además, elaboramos diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente, utilizando diversos patrones de diseño.<br></br>**Huarcaya Quispe, Niurka Lucero**<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>**La Rosa Rodríguez, Alejandro**<br>TB1<br>ASe ha llevado a cabo la implementación del modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará más adelante en el backend. Además, se ha documentado todo el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles, específicamente Scrum.<br></br>**Oneglio De Paz, Beth Shantal**<br>TB1<br>En esta entrega, se llevaron a cabo entrevistas para analizar las preferencias de los segmentos de escritores, ilustradores y lectores. Además, se implementó un diseño UX/UI apropiado que se adapta a las necesidades de los usuarios. | TB1: En esta etapa del proyecto, se realizaron análisis exhaustivos de las preferencias de los escritores, ilustradores y lectores a través de entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, y se elaboraron diagramas de clase para representar la arquitectura del modelo backend. Se crearon diagramas de flujo de usuario y de trabajo para mejorar la experiencia del usuario, y se llevó a cabo el modelado de la base de datos. Finalmente, se documentó todo el trabajo realizado utilizando metodologías ágiles para garantizar un proceso transparente y colaborativo. |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Calisaya Sánchez, Juan Jesús<br>TB1<br>Se llevo acabo, con la validación del grupo, los siguientes puntos: Estrategias frente a competidores, el Diseño de Entrevistas, Entrevista, User Stories, el Impact Mapping, Product Backlog, Wireframes, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review y Execution Evidence for Sprint Review. Todo esto se llevo a cabo gracias al trabajo en equipo.<br></br>Gallo Quintana, David Ivanoff<br>TB1<br>Se dividió en trabajo de manera equitativa, pero todos participando en cada decisión, para realizar el trabajo de la mejor manera posible y que sea cohesionado, asimismo, en cada parte nos ayudamos para poder entender el trabajo en cada parte del informe.<br></br>Huarcaya Quispe, Niurka Lucero<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las Entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>La Rosa Rodríguez, Alejandro<br>TB1<br>A lo largo del desarrollo de este proyecto, cada miembro del equipo ha trabajado en ramas separadas dentro del repositorio, siguiendo la división acordada previamente. Además, hemos coordinado nuestros progresos en el grupo y colaborado como equipo para implementar las correcciones sugeridas por nuestro profesor.<br></br>Oneglio De Paz, Beth Shantal<br>TB1<br>A lo largo del proyecto, he mantenido una comunicación continua con los miembros del equipo mediante reuniones semanales. Colaborativamente, hemos trabajado en cada sección del informe utilizando branches y GitHub para asegurar la organización y el control de versiones del trabajo. | TB1: Elegimos el tema del proyecto, se realizaron asimismo varias reuniones para conocer los puntos de vista de cada integrante y para que ninguno tenga ninguna duda. |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Calisaya Sánchez, Juan Jesús<br>TB1<br>Durante el desarrollo del proyecto, empleamos una variedad de técnicas para identificar y comprender todas las necesidades, aspectos, usuarios y características del negocio al que nos enfocamos. Utilizamos GitHub para registrar la información recolectada y los métodos implementados, asegurando que las versiones se guarden de forma ordenada. Llevamos a cabo Entrevistas, Diagramas, Needfinding, User Stories, entre otros métodos para obtener una visión completa y detallada.<br></br>Gallo Quintana, David Ivanoff<br>TB1<br>En este avance del trabajo, empleamos el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los Bounded contexts y las entidades que se implementarán en el Backend. Además, elaboramos diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente, utilizando diversos Patrones de Diseño.<br></br>Huarcaya Quispe, Niurka Lucero<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>La Rosa Rodríguez, Alejandro<br>TB1<br>ASe ha llevado a cabo la implementación del modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará más adelante en el Backend. Además, se ha documentado todo el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles, específicamente Scrum.<br></br>Oneglio De Paz, Beth Shantal<br>TB1<br>En esta entrega, se llevaron a cabo entrevistas para analizar las preferencias de los segmentos de escritores, ilustradores y lectores. Además, se implementó un diseño UX/UI apropiado que se adapta a las necesidades de los usuarios. | TB1: En esta etapa del proyecto, se realizaron análisis exhaustivos de las preferencias de los escritores, ilustradores y lectores a través de Entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, y se elaboraron diagramas de clase para representar la arquitectura del modelo Backend. Se crearon Diagramas de Flujo de usuario y de trabajo para mejorar la experiencia del usuario, y se llevó a cabo el modelado de la base de datos. Finalmente, se documentó todo el trabajo realizado utilizando metodologías ágiles para garantizar un proceso transparente y colaborativo. |
 
+----
 # **Capítulo I: Introducción**
-
+----
 ## 1.1. Startup Profile
-
+----
 ### 1.1.1. Descripción de la Startup
 
 Ruedarent es una startup conformada por estudiantes de la Universidad Peruana de Ciencias Aplicadas (UPC) con la finalidad de facilitar una alternativa de movilidad urbana más ágil y flexible; asimismo, reducir la contaminación y alentar un estilo de vida más activo, a través de una aplicación web que ofrecerá el servicio de conectar a usuarios que deseen alquilar bicicletas, scooters, skateboards, motos eléctricas, entre otros, con aquellos que tengan los vehículos disponibles y así simplificar el proceso.
 
 - Nuestra misión es conectar a propietarios de vehículos personales con usuarios que buscan una manera de movilizarse más ágil, flexible y sostenible, promocionando un estilo de vida activo.
-
 - Nuestra visión es ser una plataforma líder de movilidad urbana en Lima y otras ciudades del Perú.
 
-### 1.1.2. Perfiles de integrantes del equipo
+### 1.1.2. Perfiles de los integrantes del equipo
 
-| <!-- -->      | <!-- -->        |
+| Photo | Description |
 |:-------------:|:---------------:|
 | ![Juan](https://i.ibb.co/hFBKX6R/Juan-Profile.png) |  Mi nombre es Juan Jesús Calisaya Sánchez - U202121935 y estoy inmerso en mi formación académica en Ingeniería de Software. Mi enfoque principal se centra en el desarrollo FullStack. Tengo conocimiento basicos en C++, SQL, Python, HTML/CSS, JavaScript, C# y MongoDB, topdas estas habilidades me ayudaran para realizar el proyecto de Aplicaciones Web.                                                                                                                               
 | ![David](https://i.ibb.co/QNwvHb8/David-foto.jpg) | Mi nombre es David Gallo Quintana con codigo de estudiante u20201e475, estudio la carrera de Ingeniería de Software. Actualmente estoy enfocando mi carrera hacia la rama de análisis de datos. De esta manera llevando cursos como SQL. Me gusta jugar videojuegos, leer distintos libros y salir con amigos. Me considero una persona que aprende rápido y perseverante, por esto mismo, y por el conocimiento adquirido a través de la carrera, considero que se me facilitará brindar ayuda de distintas formas con el aplicativo a desarrollar. Cuento con conocimientos básicos en C++, Python, SQL, Swift.                                                                                                                              |
@@ -236,14 +202,26 @@ Ruedarent es una startup conformada por estudiantes de la Universidad Peruana de
 | ![Niurka](https://i.ibb.co/XYMgnW2/foto.jpg) | Soy Niurka Huarcaya, con el código U20221B226, estudiante de Ingeniería de Software. Mi experiencia abarca varios lenguajes de programación, incluyendo C++, Python y HTML, así como bases de datos como MongoDB.
 
 ## 1.2. Solution Profile
+----
+Esta sección está compuesta por dos partes: 
 
-**Sección 1**: Antecedentes y Problemática<br>En esta sección se abordará la problemática que el proyecto tiene como objetivo abordar. Esto incluirá la exposición del problema, una descripción de los aspectos críticos que la solución debe atender, así como los objetivos y limitaciones del proyecto.
+- Antecedentes y Problemática:
+En esta sección se abordará la problemática que el proyecto tiene como objetivo abordar. Esto incluirá la exposición del problema, una descripción de los aspectos críticos que la solución debe atender, así como los objetivos y limitaciones del proyecto.
+<br>
 
-**Sección 2**: Proceso Lean UX<br>Esta sección aplicará el proceso Lean UX y detallará cómo se abordará la problemática a través del modelo de negocio.
+- Lean UX Process: <br>Esta sección aplicará el proceso Lean UX y detallará cómo se abordará la problemática a través del modelo de negocio.
 
 ### 1.2.1. Antecedentes y problemática
 
-**Problemática**<br>En los últimos años, el aumento del parque automotor, combinado con el incremento de la población en las principales ciudades del Perú ha producido un caos vehicular evidente, reflejado en los congestionamientos habituales en las vías. Esta situación no solo provoca más emisiones de gases contaminantes y prolonga el tiempo de desplazamiento, sino que también atrapa a los ciudadanos en el tráfico, lo que resulta en una pérdida de tiempo y productividad. Además, este escenario favorece el comportamiento sedentario, impactando negativamente en la vida diaria, la salud y el rendimiento de los habitantes que usan el transporte urbano.<br></br>**Aspectos a solucionar**<br>Abordar la problemática requiere promover el uso de medios de transporte alternativos como bicicletas, scooters, entre otros, así como fomentar un estilo de vida activo mediante la adopción de hábitos saludables. Igualmente, se debe mejorar la infraestructura vial y concientizar a las personas de la importancia de reducir la cantidad de uso de automóviles.<br></br>**Solución innovadora**<br>- La propuesta de Ruedarent a la problemática de la contaminación ambiental, caos vehicular y falta de actividad en la vida diaria de los ciudadanos, es ofrecer una alternativa de movilidad urbana más ágil y flexible, a través de una aplicación web que estará disponible en los navegadores más usados como Chrome, Firefox y Edge.<br>- Esta aplicación web proporcionará una forma conveniente y accesible para que los usuarios puedan encontrar y alquilar los vehículos que prefieran de forma sencilla y contará con un modelo de suscripciones que brindará beneficios adicionales a los usuarios como descuentos en el alquiler y bloqueo de anuncios.<br>- La implementación de esta solución aspira a reducir la dependencia a los autos personales y fomentar el uso de medios de transporte sostenibles y activos para que se adopte un estilo de vida más saludable entre los usuarios. Asimismo, se busca contribuir a la disminución de emisión de gases contaminantes y a la mejora de la calidad de aire en las zonas urbanas.<br>- El modelo de negocio se basa en la obtención de ganancias a través de las comisiones de los alquileres que se realizan en la plataforma, así como de los ingresos generados por publicidad y los precios de las suscripciones.<br></br>**Objetivos**<br>Aumentar el número de usuarios que hacen uso de transportes sostenibles como bicicletas, scooters y skateboards, mediante el alquiler ofrecido por la aplicación web.<br>Mejorar la accesibilidad al transporte urbano, proporcionando una alternativa ágil y flexible de movilización a los usuarios.<br>Desarrollar una aplicación web atractiva e intuitiva para que todos los usuarios puedan comprender rápidamente el funcionamiento y propósito de nuestra aplicación.<br></br>**Restricciones**<br>Ruedarent propone una solución prometedora para transformar la movilidad urbana, sin embargo pueden presentarse algunos desafíos como la seguridad y resistencia al cambio por parte de los ciudadanos, así como la baja disposición de recursos y financiamiento necesarios para el desarrollo completo del proyecto.
+- Antecedentes:<br>En los últimos años, el aumento del parque automotor, combinado con el incremento de la población en las principales ciudades del Perú ha producido un caos vehicular evidente, reflejado en los congestionamientos habituales en las vías. Esta situación no solo provoca más emisiones de gases contaminantes y prolonga el tiempo de desplazamiento, sino que también atrapa a los ciudadanos en el tráfico, lo que resulta en una pérdida de tiempo y productividad. Además, este escenario favorece el comportamiento sedentario, impactando negativamente en la vida diaria, la salud y el rendimiento de los habitantes que usan el transporte urbano.
+<br>
+- Aspectos a solucionar:<br>Abordar la problemática requiere promover el uso de medios de transporte alternativos como bicicletas, scooters, entre otros, así como fomentar un estilo de vida activo mediante la adopción de hábitos saludables. Igualmente, se debe mejorar la infraestructura vial y concientizar a las personas de la importancia de reducir la cantidad de uso de automóviles.
+<br>
+- Solución innovadora:<br>La propuesta de Ruedarent a la problemática de la contaminación ambiental, caos vehicular y falta de actividad en la vida diaria de los ciudadanos, es ofrecer una alternativa de movilidad urbana más ágil y flexible, a través de una aplicación web que estará disponible en los navegadores más usados como Chrome, Firefox y Edge. Esta aplicación web proporcionará una forma conveniente y accesible para que los usuarios puedan encontrar y alquilar los vehículos que prefieran de forma sencilla y contará con un modelo de suscripciones que brindará beneficios adicionales a los usuarios como descuentos en el alquiler y bloqueo de anuncios. La implementación de esta solución aspira a reducir la dependencia a los autos personales y fomentar el uso de medios de transporte sostenibles y activos para que se adopte un estilo de vida más saludable entre los usuarios. Asimismo, se busca contribuir a la disminución de emisión de gases contaminantes y a la mejora de la calidad de aire en las zonas urbanas. El modelo de negocio se basa en la obtención de ganancias a través de las comisiones de los alquileres que se realizan en la plataforma, así como de los ingresos generados por publicidad y los precios de las suscripciones.<br></br>
+
+- Objetivos:<br>Aumentar el número de usuarios que hacen uso de transportes sostenibles como bicicletas, scooters y skateboards, mediante el alquiler ofrecido por la aplicación web. Mejorar la accesibilidad al transporte urbano, proporcionando una alternativa ágil y flexible de movilización a los usuarios. Desarrollar una aplicación web atractiva e intuitiva para que todos los usuarios puedan comprender rápidamente el funcionamiento y propósito de nuestra aplicación.<br></br>
+
+- Restricciones:<br>Ruedarent propone una solución prometedora para transformar la movilidad urbana, sin embargo pueden presentarse algunos desafíos como la seguridad y resistencia al cambio por parte de los ciudadanos, así como la baja disposición de recursos y financiamiento necesarios para el desarrollo completo del proyecto.
 
 #### Uso de la técnica  The 5'W's w Y 2'H's
 
@@ -261,126 +239,217 @@ Ruedarent es una startup conformada por estudiantes de la Universidad Peruana de
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-Situación:<br>En el contexto actual, nos encontramos con un grupo de usuarios que se enfrentan a dificultades financieras significativas, lo que les impide realizar pagos inmediatos para acceder a la suscripción de nuestra aplicación.
-
-Problema:<br>La situación financiera desfavorable de estos usuarios está generando una barrera para que puedan aprovechar los beneficios y servicios que nuestra aplicación ofrece. Esta falta de acceso a la suscripción completa está limitando su capacidad para utilizar funcionalidades clave, como el alquiler de vehículos, lo que a su vez les está privando de una experiencia óptima con nuestra plataforma.
-
-Propuesta de Solución en Pregunta:<br>Nos enfrentamos al desafío de diseñar e implementar un modelo de pago flexible que se adapte a las necesidades y circunstancias financieras de estos usuarios. ¿Cómo podemos desarrollar un sistema que les permita acceder a nuestra aplicación y disfrutar de sus servicios, incluso si no pueden realizar el pago completo de la suscripción de manera inmediata?
+- Situación:<br>En el contexto actual, nos encontramos con un grupo de usuarios que se enfrentan a dificultades financieras significativas, lo que les impide realizar pagos inmediatos para acceder a la suscripción de nuestra aplicación.
+<br>
+- Problema:<br>La situación financiera desfavorable de estos usuarios está generando una barrera para que puedan aprovechar los beneficios y servicios que nuestra aplicación ofrece. Esta falta de acceso a la suscripción completa está limitando su capacidad para utilizar funcionalidades clave, como el alquiler de vehículos, lo que a su vez les está privando de una experiencia óptima con nuestra plataforma.
+<br>
+- Propuesta de Solución en Pregunta:<br>Nos enfrentamos al desafío de diseñar e implementar un modelo de pago flexible que se adapte a las necesidades y circunstancias financieras de estos usuarios. 
+**¿Cómo podemos desarrollar un sistema que les permita acceder a nuestra aplicación y disfrutar de sus servicios, incluso si no pueden realizar el pago completo de la suscripción de manera inmediata?**
 
 #### 1.2.2.2. Lean UX Assumptions
 
- Los usuarios prefieren tener varios métodos de pago al rentar su vehículo.
+Los usuarios prefieren tener varios métodos de pago al rentar su vehículo.
 
-**Features**
+**Features:**
+- Mejorar la experiencia del propietario: Simplificar el proceso de gestión de alquiler de vehículos para los propietarios, brindándoles herramientas intuitivas y eficientes para administrar sus listados.
+- Aumentar la oferta de vehículos disponibles: Alentar a más propietarios a listar sus vehículos en la plataforma, ampliando así la variedad de opciones disponibles para los potenciales arrendatarios y mejorando la competitividad del servicio.
+- Oportunidad de ingresos adicionales: Los propietarios pueden aprovechar sus vehículos para generar ingresos pasivos a través del alquiler.
+- Mayor diversidad de vehículos: La inclusión de más vehículos en la plataforma ofrece a los usuarios una amplia gama de opciones para satisfacer sus necesidades de alquiler.
+- Mejora de la satisfacción del usuario: Al proporcionar una amplia selección de vehículos y una experiencia de alquiler sin problemas, se mejora la satisfacción general del usuario.
 
-- **Facilitar la monetización de los vehículos:** Proporcionar a los propietarios una plataforma fácil de usar para alquilar sus vehículos, permitiendo así la generación de ingresos adicionales a través del alquiler.
-
-- **Mejorar la experiencia del propietario:** Simplificar el proceso de gestión de alquiler de vehículos para los propietarios, brindándoles herramientas intuitivas y eficientes para administrar sus listados.
-
-- **Aumentar la oferta de vehículos disponibles:** Alentar a más propietarios a listar sus vehículos en la plataforma, ampliando así la variedad de opciones disponibles para los potenciales arrendatarios y mejorando la competitividad del servicio.
-
-- **Oportunidad de ingresos adicionales:** Los propietarios pueden aprovechar sus vehículos para generar ingresos pasivos a través del alquiler.
-
-- **Mayor diversidad de vehículos:** La inclusión de más vehículos en la plataforma ofrece a los usuarios una amplia gama de opciones para satisfacer sus necesidades de alquiler.
-
-- **Mejora de la satisfacción del usuario:** Al proporcionar una amplia selección de vehículos y una experiencia de alquiler sin problemas, se mejora la satisfacción general del usuario.
-
-**Business Outcomes**
-
+**Business Outcomes:**
 - Aumento de la satisfacción del usuario a través de múltiples opciones de pago.
-
 - Implementar varios métodos de pago para alquilar vehículos para satisfacer las necesidades y preferencias de los usuarios, lo que debería resultar en una mayor satisfacción del cliente.
-
 - Incremento de la conversión de suscripciones mediante alternativas de pago variadas.
-
 - Ofrecer diversas alternativas de pago para las suscripciones de manera que aumente la probabilidad de conversión de usuarios interesados en suscribirse al servicio.
-
 - Mejora de la reputación de la marca a través del mantenimiento óptimo de los vehículos.
-
 - Garantizar que los vehículos estén siempre en buen estado y bien mantenidos para generar confianza en la marca y mejorar la percepción de los usuarios sobre la calidad del servicio.
 
-**Users**<br>Los principales usuarios de la plataforma serán principalmente aquellos que poseen vehículos y aquellos que desean alquilarlos, ya sea para su propio uso o para generar ingresos. Además de encontrar vehículos para alquilar o utilizar, estos usuarios estarán interesados en explorar una nueva plataforma y disfrutar de la experiencia de descubrimiento.
+**Users:** 
+Los principales usuarios de la plataforma serán principalmente aquellos que poseen vehículos y aquellos que desean alquilarlos, ya sea para su propio uso o para generar ingresos. Además de encontrar vehículos para alquilar o utilizar, estos usuarios estarán interesados en explorar una nueva plataforma y disfrutar de la experiencia de descubrimiento.
 
-**User Outcomes & Benefits**
-
-- **Propietarios de Vehículos:** 
-Posibilidad de utilizar plataformas de alquiler de vehículos para gestionar fácilmente las transacciones y garantizar la seguridad del proceso.
-
-- **Usuario que Alquila:**
-Flexibilidad para alquilar vehículos por períodos cortos o largos, según sus necesidades.
+**User Outcomes & Benefits:**
+- Propietarios de Vehículos: Posibilidad de utilizar plataformas de alquiler de vehículos para gestionar fácilmente las transacciones y garantizar la seguridad del proceso.<br>
+- Usuario que Alquila: Flexibilidad para alquilar vehículos por períodos cortos o largos, según sus necesidades.
 
 **User Assumptions:**
 
-- **¿Quién es el usuario?**<br>El usuario de nuestro producto es tanto el propietario de vehículos como el usuario que alquila.
+- **¿Quién es el usuario?** 
+El usuario de nuestro producto es tanto el propietario de vehículos como el usuario que alquila.
+<br>
+- **¿Dónde encaja nuestro producto en sus trabajos o vidas?**
+Nuestro producto encaja proporcionando una solución para satisfacer necesidades de transporte de manera temporal y flexible.
+<br>
+- **¿Qué problema resuelve nuestro producto?**
+Resuelve la necesidad de acceso a vehículos en momentos específicos sin la carga financiera y logística de la propiedad permanente de un automóvil.
+<br>
+- **¿Cuándo y cómo es usado nuestro producto?**
+Nuestro producto es usado cuando los usuarios necesitan un vehículo para desplazarse temporalmente, a través de una plataforma en línea o una aplicación móvil.
+<br>
+- **¿Qué características son importantes?**
+Características importantes incluyen un proceso de reserva fácil y seguro, una amplia variedad de vehículos para elegir, flexibilidad en los términos de alquiler y precios, sistema de calificación y reseñas, y soporte al cliente accesible.
+<br>
+- **¿Cómo debería verse y comportarse nuestro producto?**
+Debería tener una interfaz intuitiva y fácil de usar, presentar información clara sobre los vehículos disponibles, tarifas, disponibilidad y condiciones de alquiler, ser seguro y confiable con medidas de verificación de identidad y pagos seguros, y tener un aspecto visual atractivo, moderno y profesional.
+<br>
 
-- **¿Dónde encaja nuestro producto en sus trabajos o vidas?**<br>Nuestro producto encaja proporcionando una solución para satisfacer necesidades de transporte de manera temporal y flexible.
+**Business Assumptions**
 
-- **¿Qué problema resuelve nuestro producto?**<br>Resuelve la necesidad de acceso a vehículos en momentos específicos sin la carga financiera y logística de la propiedad permanente de un automóvil.
+- La principal necesidad que los clientes tienen de mi servicio es acceder a una opción de transporte flexible y conveniente sin la necesidad de poseer un vehículo permanentemente.
+- Obtendré la mayor parte de mis clientes mediante estrategias de marketing digital dirigidas a propietarios de vehículos interesados en generar ingresos adicionales y a usuarios que buscan alternativas de transporte temporal.
+- Generaré ingresos mediante comisiones por transacciones de alquiler de vehículos realizadas a través de la plataforma. Posiblemente, mediante membresías premium con beneficios adicionales para propietarios y usuarios.
+- El principal problema que puede afectar a mi producto es la falta de confianza de los usuarios en la seguridad y calidad de los vehículos disponibles para alquilar. Problemas técnicos o de seguridad en la plataforma que puedan afectar la experiencia del usuario.
+- Abordaremos esta situación implementando un riguroso proceso de verificación y evaluación de vehículos y propietarios.
 
-- **¿Cuándo y cómo es usado nuestro producto?**<br>Nuestro producto es usado cuando los usuarios necesitan un vehículo para desplazarse temporalmente, a través de una plataforma en línea o una aplicación móvil.
+#### 1.2.2.3. Lean UX Hypothesis Statements
 
-- **¿Qué características son importantes?**<br>Características importantes incluyen un proceso de reserva fácil y seguro, una amplia variedad de vehículos para elegir, flexibilidad en los términos de alquiler y precios, sistema de calificación y reseñas, y soporte al cliente accesible.
+**Primer hipótesis:**
+**Creemos que** al brindar nuevas formas de movilizarse a las personas, estas reducirán su huella de carbono.
+**Sabremos** que hemos tenido éxito,
+**cuando** notemos que más usuarios están prefiriendo optar por ese medio de transporte frente a otros que contaminan.
 
-- **¿Cómo debería verse y comportarse nuestro producto?**<br>Debería tener una interfaz intuitiva y fácil de usar, presentar información clara sobre los vehículos disponibles, tarifas, disponibilidad y condiciones de alquiler, ser seguro y confiable con medidas de verificación de identidad y pagos seguros, y tener un aspecto visual atractivo, moderno y profesional.
+**Segundo hipótesis:**
+**Creemos que** ayudaremos al medio ambiente.
+**Sabremos** que hemos tenido éxito, 
+**cuando** la base de usuarios se amplíe, y comiencen a recomendarse el uso de otro tipo de vehículos distinto a los tradicionales.
 
-**Bussiness Assumptions:**
+**Tercer hipótesis:**
+**Creemos que** al ofrecer distintos medios de transporte más sostenibles, fomentaremos un estilo de vida más ecoamigable.
+**Sabremos** que hemos tenido éxito,
+**cuando** en distintos distritos de Lima se tomen más en cuenta los carriles para vehículos como bicicletas, monopatines, entre otros.
 
-- **La principal necesidad que los clientes tienen de mi servicio es:**
-Acceder a una opción de transporte flexible y conveniente sin la necesidad de poseer un vehículo permanentemente.
+**Cuarta hipótesis:**
+**Creemos que** al proporcionar distintos tipos de vehículos más gente usará nuestra página.
+**Sabremos** que hemos tenido éxito,
+**cuando** nuestra base de clientes se amplíe después de esta adición.
 
-- **Obtendré la mayor parte de mis clientes mediante:**
-Estrategias de marketing digital dirigidas a propietarios de vehículos interesados en generar ingresos adicionales y a usuarios que buscan alternativas de transporte temporal.
-
-- **Generaré ingresos mediante:**
-Comisiones por transacciones de alquiler de vehículos realizadas a través de la plataforma.
-Posiblemente, mediante membresías premium con beneficios adicionales para propietarios y usuarios.
-
-- **El principal problema que puede afectar a mi producto es:**
-La falta de confianza de los usuarios en la seguridad y calidad de los vehículos disponibles para alquilar.
-Problemas técnicos o de seguridad en la plataforma que puedan afectar la experiencia del usuario.
-
-- **Abordaremos esta situación mediante:**
-Implementando un riguroso proceso de verificación y evaluación de vehículos y propietarios.
-Manteniendo una atención al cliente receptiva y resolutiva para abordar rápidamente cualquier problema técnico o de seguridad.
-Ofreciendo garantías y seguros para tranquilizar a los usuarios sobre la seguridad de sus transacciones.
-
-- #### 1.2.2.3. Lean UX Hypothesis Statements
-  
-* **Creemos que** al brindar nuevas formas de movilizarse a las personas, estas reducirán su huella de carbono.
-  * **Sabremos** que hemos tenido éxito,
-  * **Cuando** notemos que más usuarios están prefiriendo optar por ese medio de transporte frente a otros que contaminan.
-
-* **Creemos que** ayudaremos al medio ambiente.
-  * **Sabremos** que hemos tenido éxito,
-  * **Cuando** la base de usuarios se amplíe, y comiencen a recomendarse el uso de otro tipo de vehículos distinto a los tradicionales.
-
-* **Creemos que** al ofrecer distintos medios de transporte más sostenibles, fomentaremos un estilo de vida más ecoamigable.
-  * **Sabremos** que hemos tenido éxito,
-  * **Cuando** en distintos distritos de Lima se tomen más en cuenta los carriles para vehículos como bicicletas, monopatines, entre otros.
-
-* **Creemos que** al proporcionar distintos tipos de vehículos más gente usará nuestra página.
-  * **Sabremos** que hemos tenido éxito,
-  * **Cuando** nuestra base de clientes se amplíe después de esta adición.
-
-* **Creemos que** al ofrecer una interfaz amigable y simple, más gente tendrá en cuenta la página.
-  * **Sabremos** que hemos tenido éxito,
-  * **Cuando** logremos captar la atención de usuarios potenciales.
+**Quinta hipótesis:**
+**Creemos que** al ofrecer una interfaz amigable y simple, más gente tendrá en cuenta la página.
+**Sabremos** que hemos tenido éxito,
+**cuando** logremos captar la atención de usuarios potenciales.
       
 - #### 1.2.2.4. Lean UX Canvas
 
-| Business problem<br>Nuestro grupo enfrenta el reto de crear una página web que conecte personas con medios de transporte que ya no usen con usuarios que desean movilizarse sin altos gastos y reduciendo su huella de carbono, los cuales a su vez buscan tener una vida más saludable.                                                                                                                                                                                                                                                                                                                                                          | Solution ideas<br>-Pagina web que permita conectar usuarios que ya no usen sus medios de transporte con usuarios con necesidad de transportarse.<br>-Pagina web que brinde seguridad a los usuarios que desean alquilar sus transportes, por medio de seguros anti robos.<br>-Añadir funciones que brinden calificaciones de usuarios así como un sistema de recomendaciones.                                                                                                                                  | Business outcomes<br>-Que los usuarios declaren que la página funciona correctamente<br>-Promover una vida saludable a los usuarios.<br>-Reducir la huella de carbono de los usuarios que alquilen.<br>-Reducir el gasto en vehiculos de transporte, promoviendo el uso compartido de aquellos que ya no se usen.                                                                                                                                                                                        |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                       | |                                                                                                                                                         |
-| Users and customers<br>-El primer tipo de usuarios al que nos dirigimos es a aquellos que tengan algún medio de transporte como bicicletas, skates entre otros y no lo usen con frecuencia.<br>-El segundo tipo son aquellas personas que no poseen medio de transporte, que deseen un estilo de vida saluda y finalmente que deseen reducir su huella de carbono.                                                                                                                                                                                                                                                                                                                                                                  | User benefits<br>-Los usuarios serán más conscientes de la importancia del uso de distintos medios de transporte a los usuales.<br>-Los usuarios podrán ayudar al medio ambiente mediante el uso compartido.<br>-Los usuarios también recibirán información de como cuidar al medio ambiente.                                                                                                                                        | Hypotheses<br>-**Creemos que** al brindar nuevas formas de movilizarse a las personas, estas reducirán su huella de carbono, **Sabremos** que hemos tenido exito,  **Cuando** notemos que más usuarios están prefiriendo optar por ese medio de transporte frente a otros que contaminan.  <br>-**Creemos que** ayudaremos al medio ambiente **Sabremos** que hemos tenido exito **Cuando** la base de usuarios se amplie, y comiencen a recomendarse el uso de otro tipo de vehículos distinto a los tradicionales.<br>-**Creemos que** al ofrecer distintos medios de transporte más sostenibles, fomentaremos un estilo de vida más ecoamigable, **Sabremos** que hemos tenido exito **Cuando** en distintos distritos de Lima se tomen más en cuenta los carriles para vehículos como bicicletas, monopatínes, entre otros.                                                                     |
-|  | |  |
-| What's the most important thing we need to learn first?<br>-Conocer como podríamos asegurar las bicicletas, skates entre otros de nuestros usuarios propietarios.<br>Conocer el entorno de en qué lugares sería más seguro implementar este servicio.<br>Conocer nuevas maneras de informar a los usuarios acerca de la importancia de la reducción de huella de carbono.<br>Conocer nuevas formas de ayuda al medio ambiente y como hacer que llegue a los usuarios                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                                 | What's the least amount of work we need to do to learn the next most important thing?<br>-Identificar las nuevas necesidades de los usuarios<br>-Realizar entrevistas a los usuarios que hayan usado la página<br>-Mantenimiento de la página para su correcto funcionamiento                                                                                                                      |
+<table border>
+	<tr>
+		<td ROWSPAN=2>
+Lean UX Canvas
+</td>
+	    <td ROWSPAN=2></td> 
+        <td>
+Fecha: 10/04/2024
+</td> 
+	</tr>
+	<tr>
+		<td>
+Primera iteración
+</td> 
+	</tr>
+    <tr>
+		<td ROWSPAN>
 
+**Business Problem** 
+Nuestro grupo enfrenta el reto de crear una página web que conecte personas con medios de transporte que ya no usen, con usuarios que deseen movilizarse sin altos gastos y reduciendo su huella de carbono, los cuales a su vez buscan tener una vida más saludable.
+</td>
+	    	<td ROWSPAN=2>
+
+**Solutions**
+- Página web que permita conectar usuarios que ya no usen sus medios de transporte con usuarios con necesidad de transportarse.
+- Página web que brinde seguridad a los usuarios que desean alquilar sus transportes, por medio de seguros anti robos.
+- Añadir funciones que brinden calificaciones de usuarios así como un sistema de recomendaciones.
+</td> <td ROWSPAN=2>
+
+**Business Outcomes**
+- Que los usuarios declaren que la página funciona correctamente.
+- Promover una vida saludable entre los usuarios.
+- Reducir la huella de carbono de los usuarios que alquilen.
+- Reducir el gasto en vehículos de transporte, promoviendo el uso compartido de aquellos que ya no se usen.
+</td> 
+	</tr>
+	<tr>
+		<td>
+        
+**Users**
+- El primer tipo de usuarios al que nos dirigimos son aquellos que tengan algún medio de transporte como bicicletas, skates, entre otros, y no lo usen con frecuencia.
+- El segundo tipo son aquellas personas que no poseen medio de transporte, que deseen un estilo de vida saludable y, finalmente, que deseen reducir su huella de carbono.
+</td> 
+	</tr>
+    <tr>
+		<td ROWSPAN=2>
+
+**Hypotheses**
+- Creemos que al brindar nuevas formas de movilizarse a las personas, estas reducirán su huella de carbono. Sabremos que hemos tenido éxito cuando notemos que más usuarios están prefiriendo optar por ese medio de transporte frente a otros que contaminan.
+- Creemos que ayudaremos al medio ambiente. Sabremos que hemos tenido éxito cuando la base de usuarios se amplíe y comiencen a recomendarse el uso de otro tipo de vehículos distintos a los tradicionales.
+- Creemos que al ofrecer distintos medios de transporte más sostenibles, fomentaremos un estilo de vida más ecoamigable. Sabremos que hemos tenido éxito cuando en distintos distritos de Lima se tomen más en cuenta los carriles para vehículos como bicicletas, monopatines, entre otros.</td>
+
+<td ROWSPAN=2>
+
+**What's the most important thing we need to learn first?**
+- Conocer cómo podríamos asegurar las bicicletas, skates, entre otros, de nuestros usuarios propietarios.
+- Conocer el entorno y determinar en qué lugares sería más seguro implementar este servicio.
+- Conocer nuevas maneras de informar a los usuarios acerca de la importancia de la reducción de la huella de carbono.
+- Conocer nuevas formas de ayudar al medio ambiente y cómo hacer que lleguen a los usuarios.
+</td> 
+
+<td>
+
+**User Outcomes & Benefits**
+- Los usuarios serán más conscientes de la importancia del uso de distintos medios de transporte a los habituales.
+- Los usuarios podrán ayudar al medio ambiente mediante el uso compartido.
+- Los usuarios también recibirán información sobre cómo cuidar el medio ambiente.
+</td> 
+	</tr>
+	<tr>
+		<td>
+        
+**What's the least amount of work we need to do to learn the next most important?**
+
+- Soporte al Usuario: Responder rápidamente a las preguntas y consultas de los usuarios. Esto garantiza una buena experiencia y retención de usuarios.
+- Investigación de Competidores: Realizar un análisis rápido de las aplicaciones similares en el mercado. Esto nos ayudará a comprender las mejores prácticas y las oportunidades de mejora.
+- Validación de Idea: Crear prototipos o pruebas de concepto para validar nuestra idea antes de invertir en un desarrollo completo.
+- Plan de Marketing Básico: Diseñar un plan de marketing simple para promocionar la aplicación. Esto puede incluir estrategias de redes sociales y relaciones públicas.
+</td> 
+	</tr>
+</table>
 
 ## 1.3. Segmentos objetivo.
 
 Nuestra startup se enfoca en simplificar el proceso de alquiler de una variedad de vehículos eléctricos, como bicicletas, patinetes, monopatines, scooters y motos. Tenemos dos tipos de usuarios: emprendedores que ya están en el negocio de alquiler y personas interesadas en alquilar estos vehículos.
 
 Para los emprendedores, nuestra aplicación ofrece una plataforma intuitiva que les permite gestionar fácilmente reservas y mantener un control eficiente sobre su inventario. Por otro lado, para los usuarios que buscan alquilar, proporcionamos una amplia selección de opciones de transporte con condiciones transparentes. Además, les brindamos la oportunidad de dejar comentarios sobre sus experiencias, lo que ayuda a otros usuarios a tomar decisiones informadas.
+
+<table border>
+	<tr>
+		<td><b>Tipo de usuario</b></td><td><b>Geográfico</b></td><td><b>Psicográfico</b></td><td><b>Demográfico</b></td>
+</tr>
+	<tr>
+		<td>Propietario de Vehículo</td> <td>El propietario del vehículo puede residir en cualquier lugar del Perú.</td> 
+        <td>
+
+- Consciente del medio ambiente: Tienen una preocupación por reducir su huella de carbono y están dispuestos a utilizar medios de transporte más sostenibles cuando sea posible.
+- Poseedor de vehículo no utilizado regularmente: Tienen un medio de transporte, como bicicletas, skates u otros, pero no lo utilizan con frecuencia o están dispuestos a compartirlo para reducir su impacto ambiental y gastos.
+- Interés en promover estilos de vida saludables: Pueden estar interesados en llevar una vida activa y saludable, y ven el uso de medios de transporte alternativos como una forma de lograr este objetivo.   
+</td> 
+<td>
+
+- La edad de los propietarios de vehículos puede variar considerablemente, abarcando desde jóvenes hasta adultos mayores. 
+</td>
+	</tr>
+    <tr>
+		<td>Usuario que Alquila</td> <td>El propietario del vehículo puede residir en cualquier lugar del Perú.</td> 
+        <td>
+
+- Movilidad urbana: Utiliza el alquiler como una solución conveniente para desplazarse en entornos urbanos donde la movilidad puede ser un desafío.
+- Adaptabilidad: Está dispuesto a utilizar una variedad de medios de transporte según la situación, ya sea bicicletas, patinetes eléctricos, u otros, para satisfacer sus necesidades de desplazamiento.
+- Conciencia comunitaria: Valora la idea de compartir recursos y contribuir a una comunidad más sostenible al utilizar servicios de alquiler en lugar de poseer un vehículo individual.
+</td> <td>
+
+- La edad de los propietarios de vehículos puede variar considerablemente, abarcando desde jóvenes hasta adultos mayores. 
+</td>
+	</tr>
+</table>
+  
+----
 
 # **Capítulo II:  Requirements Elicitation & Analysis**
 ## 2.1. Competidores.
@@ -457,7 +526,7 @@ Para los emprendedores, nuestra aplicación ofrece una plataforma intuitiva que 
 </body>
 </html>
 
-### 2.1.2. Estrategias y tácticas frente a competidores.
+### 2.1.2. Estrategias y tácticas frente a competidores
 
 <table>
     <thead>
@@ -466,33 +535,35 @@ Para los emprendedores, nuestra aplicación ofrece una plataforma intuitiva que 
             <th colspan=2 align="center">EXTERNO</th>
         </tr>
         <tr>
-            <td>Oportunidades:<br>- Expansión de la flota de vehículos eléctricos para satisfacer la creciente demanda.<br>- Colaboración con empresas locales para promover la movilidad sostenible.<br>- Expansión a nuevos mercados geográficos con alta demanda de movilidad urbana.</td>
-            <td>Amenazas:<br>- Cambios regulatorios que afecten la operación de servicios de alquiler de vehículos eléctricos.<br>- Competencia de otras aplicaciones de movilidad urbana con servicios similares.<br>- Riesgo de accidentes o vandalismo que afecten la disponibilidad y seguridad de los vehículos.</td>
+            <td>Oportunidades:<br>Expansión de la flota de vehículos eléctricos para satisfacer la creciente demanda.<br> Colaboración con empresas locales para promover la movilidad sostenible.<br>Expansión a nuevos mercados geográficos con alta demanda de movilidad urbana.</td>
+            <td>Amenazas:<br>Cambios regulatorios que afecten la operación de servicios de alquiler de vehículos eléctricos.<br> Competencia de otras aplicaciones de movilidad urbana con servicios similares.<br>Riesgo de accidentes o vandalismo que afecten la disponibilidad y seguridad de los vehículos.</td>
         </tr>
     </thead>
     <tbody>
         <tr>
             <th rowspan=2 align="center">INTERNO</th>
-            <td>Fortalezas: <br> - Variedad de vehículos eléctricos disponibles para alquilar.<br>- Plataforma intuitiva para emprendedores que facilita la gestión de reservas y control de inventario.<br>- Experiencia de usuario fluida y atractiva en la aplicación web.</td>
-            <td>Estrategias FO:<br>- Diversificación y ampliación de la flota de vehículos eléctricos.<br>- Desarrollo de alianzas estratégicas con empresas locales.<br>- Expansión a nuevos mercados geográficos.</td>
-            <td>Estrategias FA:<br>- Promoción de la movilidad eléctrica y sostenible<br>- Plataforma intuitiva y la experiencia de usuario fluida y atractiva<br>- Implementación de GPS en los vehículos</td>
+            <td>Fortalezas: <br>Variedad de vehículos eléctricos disponibles para alquilar.<br>Plataforma intuitiva para emprendedores que facilita la gestión de reservas y control de inventario.<br>Experiencia de usuario fluida y atractiva en la aplicación web.</td>
+            <td>Estrategias FO:<br>Diversificación y ampliación de la flota de vehículos eléctricos.<br>Desarrollo de alianzas estratégicas con empresas locales.<br>Expansión a nuevos mercados geográficos.</td>
+            <td>Estrategias FA:<br>Promoción de la movilidad eléctrica y sostenible<br>Plataforma intuitiva y la experiencia de usuario fluida y atractiva<br>Implementación de GPS en los vehículos</td>
         </tr>
         <tr>
-            <td>Debilidades:<br>- Dependencia de la disponibilidad y mantenimiento de los vehículos eléctricos.<br>- Posible limitación en la infraestructura de carga en ciertas áreas.<br>- Competencia con empresas de alquiler de vehículos tradicionales.</td>
-            <td>Estrategias DO:<br>- Desarrollo de alianzas estratégicas para mejorar la disponibilidad y el mantenimiento de vehículos eléctricos<br>- Diferenciación del servicio para competir con empresas de alquiler de vehículos tradicionales.</td>
-            <td>Estrategias DA:<br>- Ofrecer servicios de transporte compartido<br> - Posible colaboración con empresas de turismo local.</td>
+            <td>Debilidades:<br>Dependencia de la disponibilidad y mantenimiento de los vehículos eléctricos.<br>Posible limitación en la infraestructura de carga en ciertas áreas.<br>Competencia con empresas de alquiler de vehículos tradicionales.</td>
+            <td>Estrategias DO:<br>Desarrollo de alianzas estratégicas para mejorar la disponibilidad y el mantenimiento de vehículos eléctricos<br>Diferenciación del servicio para competir con empresas de alquiler de vehículos tradicionales.</td>
+            <td>Estrategias DA:<br>Ofrecer servicios de transporte compartido<br>Posible colaboración con empresas de turismo local.</td>
         </tr>
     </tbody>
 </table>
 
-## 2.2. Entrevistas.
+## 2.2. Entrevistas
+----
 
 El objetivo de las entrevistas es obtener una comprensión profunda de las experiencias, perspectivas y opiniones de los segmentos de mercado seleccionados. Nuestra meta es recopilar información valiosa que nos permita entender mejor a nuestro público objetivo y mejorar nuestra comprensión de los usuarios. Estas conversaciones nos proporcionarán una visión más clara de las necesidades y deseos de nuestros usuarios, lo que nos ayudará a adaptar nuestros productos o servicios de manera más efectiva a sus requisitos.
 
-### 2.2.1. Diseño de entrevistas.
+### 2.2.1. Diseño de entrevistas
+
+En esta sección, se han establecido una serie de preguntas dirigidas a nuestros segmentos de interés con el objetivo de recopilar información cualitativa, como opiniones o descripciones. Esta información será invaluable para el desarrollo de nuestra solución.
 
 **Preguntas Generales:**
-
 - ¿Cuál es tu nombre?
 - ¿Cuántos años tienes?
 - ¿En qué distrito vives?
@@ -506,7 +577,7 @@ El objetivo de las entrevistas es obtener una comprensión profunda de las exper
 - ¿Qué funcionalidades o características adicionales te gustaría ver en una plataforma de alquiler de vehículos eléctricos o mecánicos como la nuestra para mejorar tu experiencia de usuario?
 - ¿Que tecnologias usas?
 
-**Preguntas para los “Propietarios de los Vehículos”:**
+**Preguntas para los “Propietarios de Vehículos”:**
 - ¿Qué tipo de vehículos posees actualmente?
 - ¿Has considerado alguna vez la posibilidad de alquilar tus vehículos?
 Si has pensado en alquilarlos, ¿qué factores te han impedido hacerlo hasta ahora?
@@ -525,90 +596,108 @@ Si has pensado en alquilarlos, ¿qué factores te han impedido hacerlo hasta aho
 ### Entrevista para el "Propietario de los vehículos":
 
 Entrevista N°1:
+
+**Entrevistada:** Ariana del Carpio Flores
 **Sexo:** Femenino
 **Edad:** 18 años
 **Ubicación:** San Martín de Porres
-**Entrevistada:** Ariana del Carpio Flores
 **Inicio de la Entrevista:** 0:03
 
 ![Entrevista_Seg01_ArianadelCarpio](https://i.ibb.co/tqbTdcp/image.png")
 
-**Resumen de la Entrevista**: La entrevistada menciona que normalmente no utiliza su scooter eléctrico, pero le gustaría encontrar una plataforma que le permita darle un uso óptimo en lugar de dejarlo en desuso. Considera que esta herramienta podría ser una oportunidad para contribuir a la reducción de la contaminación, especialmente porque se dirige regularmente a la universidad y no encuentra tiempo para utilizarlo.
-
 **Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EQh3NNNYUeROu-IXmUgcD_UBhGheSxjDGKPq25GKPsPARw?e=cCbJ49&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EQh3NNNYUeROu-IXmUgcD_UBhGheSxjDGKPq25GKPsPARw?e=cCbJ49&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
+**Resumen de la Entrevista**: La entrevistada menciona que normalmente no utiliza su scooter eléctrico, pero le gustaría encontrar una plataforma que le permita darle un uso óptimo en lugar de dejarlo en desuso. Considera que esta herramienta podría ser una oportunidad para contribuir a la reducción de la contaminación, especialmente porque se dirige regularmente a la universidad y no encuentra tiempo para utilizarlo.
+
 Entrevista N°2:
+
+**Entrevistada:** Nataly Huarcaya
 **Sexo:** Femenino
 **Edad:** 25 años
 **Ubicación:** Surco
-**Entrevistada:** Nataly Huarcaya
 **Inicio de la Entrevista:** 0:17
 
 ![Entrevista_Seg02_Nataly](https://i.ibb.co/ySQpzb7/entrevista1.png)<br>
 
-**Resumen De Entrevista:** La entrevistada indica que estaría interesada en alquilar su vehículo en una plataforma, ya que no lo usa constantemente y eso le daría más visibilidad, pero la plataforma de alquiler tendría que asegurar que los usuarios sean confiables para no arriesgar su vehículo y que la entrega o devolución no sea una experiencia frustrante.
+**Enlace:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EWhk4QtlBRtKrgwSuZ3xJXgBXqli_N4swEgt0B76K0I-MA?e=76cjaN><br>
 
-**Enlace:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EWhk4QtlBRtKrgwSuZ3xJXgBXqli_N4swEgt0B76K0I-MA?e=76cjaN> <br>
+**Resumen De Entrevista:** La entrevistada indica que estaría interesada en alquilar su vehículo en una plataforma, ya que no lo usa constantemente y eso le daría más visibilidad, pero la plataforma de alquiler tendría que asegurar que los usuarios sean confiables para no arriesgar su vehículo y que la entrega o devolución no sea una experiencia frustrante.
 
 Entrevista N°3:
 
+**Entrevistada:** Astrid Boronda
 **Sexo:** Femenino
 **Edad:** 19 años
 **Ubicación:** Surco
-**Entrevistada:** Astrid Boronda
 **Inicio de la Entrevista:** 0:05
 
 ![Entrevista_Seg02_Astrid](https://i.ibb.co/PYjDWND/foto-ent2.png)<br>
 
-**Resumen De Entrevista:** La entrevistada menciona que consideraría alquilar uno de sus dos vehículos (scooter), porque no estaría muy segura de cómo resultaría el alquiler de una bicicleta. Asimismo, resalta que la seguridad es un factor muy importante para tomar la decisión de alquilar su vehículo.
+**Enlace:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EXvE1_J-d_1KgTYSLpbwIIMB08uuWq-4JsMMNuejlKNK4g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n3UdsN><br>
 
-**Enlace:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EXvE1_J-d_1KgTYSLpbwIIMB08uuWq-4JsMMNuejlKNK4g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n3UdsN> <br>
+**Resumen De Entrevista:** La entrevistada menciona que consideraría alquilar uno de sus dos vehículos (scooter), porque no estaría muy segura de cómo resultaría el alquiler de una bicicleta. Asimismo, resalta que la seguridad es un factor muy importante para tomar la decisión de alquilar su vehículo.
 
 ### Entrevista para los "Usuarios que desean alquilar":
 
 Entrevista N°1:
 
+**Entrevistada:** Daniela Chavez
 **Sexo:** Femenino
 **Edad:** 21 años
 **Ubicación:** Magdalena del Mar
-**Entrevistada:** Daniela Chavez
 **Inicio de la Entrevista:** 0:01
 
 ![Entrevista_Seg02_DanielaChavez](/Ruedarent-Report/feature/assets/Registro_Entrevista_Seg02_DanielaChavez.png)<br>
 
-**Resumen De Entrevista:** Según las respuestas proporcionadas, la entrevistada comenta que usualmente se manifiesta por medio de transporte público, pero que estaba considerando ir en bicicleta o scooter eléctrico, este último debido a su velocidad. Comenta que cada vez en Lima, ve que cada vez más gente se moviliza por scooters y a su vez ve más gente usando ciclovías, lo cual considera que ayuda al medio ambiente además de que lo bueno de usar bicicletas sería el ejercicio. Además logras evitar el tráfico, asi como evitas pasarla mal en combi. Considera que si los precios son accesibles y favorecen a los usuarios podria ayudar a la obtención de nuevos hábitos.
-
 **Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+
+**Resumen De Entrevista:** Según las respuestas proporcionadas, la entrevistada comenta que usualmente se manifiesta por medio de transporte público, pero que estaba considerando ir en bicicleta o scooter eléctrico, este último debido a su velocidad. Comenta que cada vez en Lima, ve que cada vez más gente se moviliza por scooters y a su vez ve más gente usando ciclovías, lo cual considera que ayuda al medio ambiente además de que lo bueno de usar bicicletas sería el ejercicio. Además logras evitar el tráfico, asi como evitas pasarla mal en combi. Considera que si los precios son accesibles y favorecen a los usuarios podria ayudar a la obtención de nuevos hábitos.
 
 Entrevista N°2:
 
+**Entrevistada:** Francesca Frassinelli
 **Sexo:** Femenino
 **Edad:** 22 años
 **Ubicación:** Magdalena
-**Entrevistada:** Francesca Frassinelli
 **Inicio de la Entrevista:** 0:03
 
 ![Entrevista_Seg01_FrancescaFrassinelli](https://i.ibb.co/1rrRv8H/Screenshot-2024-04-06-at-08-36-12.png")
 
-**Resumen de la Entrevista**: La entrevistada menciona que el único vehículo electrico que ha usado han sido los scooters pero estaria dispuesta a probar una bicicleta o una moto ya que menciona que le da más seguridad. Para ella el costo es lo que es más importante a la hora de alquilar un vehículo.
-
 **Enlace:** <a href="https://upcedupe-my.sharepoint.com/personal/u202121935_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121935%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%20a%20rentador%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpControl%2Eview">https://upcedupe-my.sharepoint.com/personal/u202121935_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121935%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%20a%20rentador%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpControl%2Eview</a>
+
+**Resumen de la Entrevista**: La entrevistada menciona que el único vehículo electrico que ha usado han sido los scooters pero estaria dispuesta a probar una bicicleta o una moto ya que menciona que le da más seguridad. Para ella el costo es lo que es más importante a la hora de alquilar un vehículo.
 
 Entrevista N°3:
 
+**Entrevistada:** Favian Roman
 **Sexo:** Masculino
 **Edad:** 19 años
 **Ubicación:** Lurigancho, Chosica
-**Entrevistada:** Favian Roman
 **Inicio de la Entrevista:** 0:03
 
 ![Entrevista_Seg01_FavianRoman](https://i.ibb.co/fkfPjP8/fabian.png)<br>
 
-**Resumen De Entrevista:** El entrevistado nos menciona que por tendencia le gustaría utilizar monopatines, y seria una alternativa a para ya no usar auto y cuidar el medio ambiente. Tambien que lo primero que busca son los precios, para ver que si esta más acomodado a su presupuesto. Segundo, vería la facilidad para reservar estos vehículos y la garantía, seguridad de recibirlos, también que estén en buen estado para no tener problemas con el uso. Por último, que haya variedad. Lo que le motiva es el hecho de que pueda llegar más rápido a la universidad o salir con amigos o movilizarse por lugares donde el auto se le dificulta. Nos comenta que tiene licencia, pero solo usa el auto de su padre a veces y esta propuesta le resulta atractiva. Tambien nos dice, que quizás le preocupa el método de pago o que no se transaccione bien o que haga una transacción y no funcione o que no le den el servicio por algún fallo en la aplicación web. Le gustaría que la pagina sea fácil de utilizar, que sea accesible, la rapidez a la hora de escoger un vehículo, quizás a través de un filtro, tambien el diseño de la pagina como los colores, ya que sufre de la vista y que no tenga tantos colores.
-
 **Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
+**Resumen De Entrevista:** El entrevistado nos menciona que por tendencia le gustaría utilizar monopatines, y seria una alternativa a para ya no usar auto y cuidar el medio ambiente. Tambien que lo primero que busca son los precios, para ver que si esta más acomodado a su presupuesto. Segundo, vería la facilidad para reservar estos vehículos y la garantía, seguridad de recibirlos, también que estén en buen estado para no tener problemas con el uso. Por último, que haya variedad. Lo que le motiva es el hecho de que pueda llegar más rápido a la universidad o salir con amigos o movilizarse por lugares donde el auto se le dificulta. Nos comenta que tiene licencia, pero solo usa el auto de su padre a veces y esta propuesta le resulta atractiva. Tambien nos dice, que quizás le preocupa el método de pago o que no se transaccione bien o que haga una transacción y no funcione o que no le den el servicio por algún fallo en la aplicación web. Le gustaría que la pagina sea fácil de utilizar, que sea accesible, la rapidez a la hora de escoger un vehículo, quizás a través de un filtro, tambien el diseño de la pagina como los colores, ya que sufre de la vista y que no tenga tantos colores.
+
 ### 2.2.3. Análisis de entrevistas.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Propietario del vehículo:** Nuestro principal público objetivo son aquellos propietarios que desean ofrecer sus vehículos, como bicicletas, scooters y otros medios de transporte menores, con el objetivo de mantenerlos en uso y permitir a los usuarios probar nuestro servicio, generando confianza en él. Priorizamos la reducción del tráfico y contribuir al medio ambiente al promover el uso de medios de transporte más sostenibles. Además, buscamos facilitar una gestión eficiente y una colaboración mutua entre ambos segmentos de usuarios.
 
