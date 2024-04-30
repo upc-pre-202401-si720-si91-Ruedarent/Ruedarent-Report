@@ -286,7 +286,7 @@ Para este proyecto en particular, decidimos interactuar con potenciales usuarios
 ![Img_segmento1](https://i.ibb.co/HqjyJbG/photo-SE01.png")
 <br>
 - **Segundo segmento: Propietario de Vehículo**
-![Img_segmento2](https://i.ibb.co/hMv8q1v/photo-SE02.png)
+![Img_segmento2](https://i.ibb.co/hMv8q1v/photo-SE02.png")
 
 ### 2.3.2. User Task Matrix.
 
