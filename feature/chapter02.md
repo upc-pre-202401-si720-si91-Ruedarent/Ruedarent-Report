@@ -225,7 +225,7 @@ Entrevista N°3:
 
 **Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
-**Resumen De Entrevista:** El entrevistado nos menciona que por tendencia le gustaría utilizar monopatines, y seria una alternativa a para ya no usar auto y cuidar el medio ambiente. Tambien que lo primero que busca son los precios, para ver que si esta más acomodado a su presupuesto. Segundo, vería la facilidad para reservar estos vehículos y la garantía, seguridad de recibirlos, también que estén en buen estado para no tener problemas con el uso. Por último, que haya variedad. Lo que le motiva es el hecho de que pueda llegar más rápido a la universidad o salir con amigos o movilizarse por lugares donde el auto se le dificulta. Nos comenta que tiene licencia, pero solo usa el auto de su padre a veces y esta propuesta le resulta atractiva. Tambien nos dice, que quizás le preocupa el método de pago o que no se transaccione bien o que haga una transacción y no funcione o que no le den el servicio por algún fallo en la aplicación web. Le gustaría que la pagina sea fácil de utilizar, que sea accesible, la rapidez a la hora de escoger un vehículo, quizás a través de un filtro, tambien el diseño de la pagina como los colores, ya que sufre de la vista y que no tenga tantos colores.
+**Resumen de la Entrevista:** El entrevistado nos menciona que por tendencia le gustaría utilizar monopatines, y seria una alternativa a para ya no usar auto y cuidar el medio ambiente. Tambien que lo primero que busca son los precios, para ver que si esta más acomodado a su presupuesto. Segundo, vería la facilidad para reservar estos vehículos y la garantía, seguridad de recibirlos, también que estén en buen estado para no tener problemas con el uso. Por último, que haya variedad. Lo que le motiva es el hecho de que pueda llegar más rápido a la universidad o salir con amigos o movilizarse por lugares donde el auto se le dificulta. Nos comenta que tiene licencia, pero solo usa el auto de su padre a veces y esta propuesta le resulta atractiva. Tambien nos dice, que quizás le preocupa el método de pago o que no se transaccione bien o que haga una transacción y no funcione o que no le den el servicio por algún fallo en la aplicación web. Le gustaría que la pagina sea fácil de utilizar, que sea accesible, la rapidez a la hora de escoger un vehículo, quizás a través de un filtro, tambien el diseño de la pagina como los colores, ya que sufre de la vista y que no tenga tantos colores.
 
 ### 2.2.3. Análisis de entrevistas.
 
@@ -286,7 +286,7 @@ Para este proyecto en particular, decidimos interactuar con potenciales usuarios
 ![Img_segmento1](https://i.ibb.co/HqjyJbG/photo-SE01.png")
 <br>
 - **Segundo segmento: Propietario de Vehículo**
-![Img_segmento2](https://i.ibb.co/hMv8q1v/photo-SE02.png")
+<a href="https://ibb.co/pPpXmrp"><img src="https://i.ibb.co/hMv8q1v/photo-SE02.png" alt="photo-SE02" border="0"></a>
 
 ### 2.3.2. User Task Matrix.
 
