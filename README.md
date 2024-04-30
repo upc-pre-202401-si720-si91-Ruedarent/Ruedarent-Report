@@ -1,32 +1,56 @@
-<div>
-<p style = 'text-align:center;'>
-<img src="https://i.ibb.co/Rggky7F/UPC-logo-transparente.png" alt="JuveYell" width="170px">
+COURSE PROJECT
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas (UPC)</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Carrera de Ingeniería de Software</strong><br>
+    <strong>Aplicaciones Web - SI91</strong><br>
+    <br><strong>Profesor: Mori Paiva, Hugo Allan</strong><br>
+    <br><strong>INFORME<strong></br>
 </p>
-  
-## UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
-### FACULTAD DE INGENIERÍA - QUINTO CICLO
+<p align="center">
+    <strong>Startup del Proyecto: Ruedarent </strong><br>
+    <strong>Producto: Ruedarent </strong><br>
+    <br>Team Members:</br>
+</p>
 
-### CURSO: SI91 - Aplicaciones Web
+<html>
+<html>
+<head>
+    <style>
+        .center-table {
+            margin: 0 auto;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <table class= "center-table">
+        <tr>
+            <td>Member</td>
+            <td>Code</td>
+        </tr>
+        <tr>
+            <td>Calisaya Sánchez, Juan Jesús</td>
+            <td>U202121935</td>
+        </tr>
+        <tr>
+            <td>Gallo Quintana, David Ivanoff</td>
+            <td>U20201e475</td>
+        </tr>
+        <tr>
+            <td>Huarcaya Quispe, Niurka Lucero</td>
+            <td>U20221b226</td>
+        </tr>
+        <tr>
+            <td>La Rosa Rodríguez, Alejandro</td>
+            <td>U201911361</td>
+        </tr>
+        <tr>
+            <td>Oneglio De Paz, Beth Shantal</td>
+            <td>U202213423</td>
+        </tr>
+    </table>
+</body>
 
-### "INFORME DE TRABAJO FINAL"
-
-**Nombre de la Startup y el Producto:** 
-RUEDARENT  
-
-### Grupo: N°1
-
-| INTEGRANTES                     | Código      | CARRERA          |
-|---------------------------------|-------------|------------------|
-| Alejandro La Rosa Rodriguez     | U201911361  | Ingeniería de Software |
-| Beth Shantal Oneglio De Paz     | U202213423  | Ingeniería de Software |
-| David Ivanoff Gallo Quintana    | U20201e475  | Ingeniería de Software |
-| Juan Jesús Calisaya Sánchez     | U202121935  | Ingeniería de Software |
-| Niurka Lucero Huarcaya Quispe   | U20221b226  | Ingeniería de Software |
-
-#### DOCENTE: 
-Mori Paiva, Hugo Allan
-
-#### UPC, abril de 2024
-
-</div>
+<p align="center"> <strong>2024-01</strong></p>
