@@ -1544,7 +1544,7 @@ En esta sección, se aplicaron los sistemas de búsqueda como la barra de navega
 <br>
 **Principales Mock-ups:**
 
-- Registro<
+- Registro
 ![registro](https://i.ibb.co/HDf9r0h/registro.png)
 <br>
 - Inicio de sesión
@@ -1900,7 +1900,7 @@ Sección de contacto y footer con enlaces a redes sociales y un formulario de co
 
 ![contacto y footer](https://i.ibb.co/fqGymMs/contactoyfooter.png)
 
-Link de video explicativo del Landing Page de Ruedarent: [https://upcedupe-my.sharepoint.com/personal/u202121935_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121935%5Fupc%5Fedu%5Fpe%2FDocuments%2FDetalle%20del%20landing%20page%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview](https://upcedupe-my.sharepoint.com/personal/u202121935_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121935%5Fupc%5Fedu%5Fpe%2FDocuments%2FDetalle%20del%20landing%20page%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+Link del video explicativo del Landing Page de Ruedarent: [https://upcedupe-my.sharepoint.com/personal/u202121935_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121935%5Fupc%5Fedu%5Fpe%2FDocuments%2FDetalle%20del%20landing%20page%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview](https://upcedupe-my.sharepoint.com/personal/u202121935_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121935%5Fupc%5Fedu%5Fpe%2FDocuments%2FDetalle%20del%20landing%20page%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -1926,7 +1926,11 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 
 ## Bibliografía
 
+- Gutiérrez Flores, R. R., & Márquez Cabezas, J. L. (2020).       
+Análisis de los factores asociados al crecimiento del tráfico vehicular, mediante un método dinámico intertemporal en Lima Metropolitana, periodo 1990-2018. [Tesis de bachiller, Universidad San Ignacio de Loyola]. https://repositorio.usil.edu.pe/server/api/core/bitstreams/b88e8262-a3a3-411f-b89c-7d7014fa9a7a/content
 
+- Zegarra Velasquez, R. L., Castillo Guerrero, H. H., Bianchi 
+Rojas, A. J., & Muñoz Ruiz, V. P. (2022). Propuesta de uso de bicicletas en Lima Metropolitana como alternativa contra el caos vehicular. [Tesis de maestría, Pontificia Universidad Católica del Perú]. http://hdl.handle.net/20.500.12404/22044 
 
 ## Anexos
 
@@ -1934,7 +1938,7 @@ Para llevar a cabo este proyecto se usaron distintas herramientas como Visual St
 Presentación del Proyecto: https://www.canva.com/design/DAGCVM1sXj4/VNYTMKRbAUu-4MwGJqEtBA/edit?utm_content=DAGCVM1sXj4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 **Anexo 2:**
-Landing Page: https://upc-pre-202401-si720-si91-ruedarent.github.io/Ruedarent-Landing-Page/
+Landing Page:<br> https://upc-pre-202401-si720-si91-ruedarent.github.io/Ruedarent-Landing-Page/
 
 **Anexo 3:**
 Web Applications Mock-ups: https://www.figma.com/file/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=0%3A1&mode=design&t=oV4ZYw2Es2V34LBK-1 
