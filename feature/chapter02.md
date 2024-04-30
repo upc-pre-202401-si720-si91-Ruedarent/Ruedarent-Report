@@ -283,9 +283,11 @@ Para este proyecto en particular, decidimos interactuar con potenciales usuarios
 ### 2.3.1. User Personas.
 
 - **Primer segmento: Usuario que Alquila**
+
 ![Img_segmento1](https://i.ibb.co/HqjyJbG/photo-SE01.png")
 
 - **Segundo segmento: Propietario de Vehículo**
+
 <a href="https://ibb.co/pPpXmrp"><img src="https://i.ibb.co/hMv8q1v/photo-SE02.png" alt="photo-SE02" border="0"></a>
 
 ### 2.3.2. User Task Matrix.
