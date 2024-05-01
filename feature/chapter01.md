@@ -21,8 +21,8 @@ Ruedarent es una startup conformada por estudiantes de la Universidad Peruana de
 Esta sección está compuesta por dos partes: 
 
 - Antecedentes y Problemática:
-En esta sección se abordará la problemática que el proyecto tiene como objetivo abordar. Esto incluirá la exposición del problema, una descripción de los aspectos críticos que la solución debe atender, así como los objetivos y limitaciones del proyecto.
-<br>
+En esta sección se abordará la problemática que el proyecto tiene como objetivo abordar. Esto incluirá la exposición del problema, una descripción de los aspectos críticos que la solución debe atender, así como los objetivos y limitaciones del proyecto.<br></br>
+
 - Lean UX Process:
 Esta sección aplicará el proceso Lean UX y detallará cómo se abordará la problemática a través del modelo de negocio.
 
