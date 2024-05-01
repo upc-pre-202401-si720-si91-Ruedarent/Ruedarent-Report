@@ -299,13 +299,13 @@ En esta sección, se aplicaron los sistemas de búsqueda como la barra de navega
 ![registro](https://i.ibb.co/HDf9r0h/registro.png)<br></br>
 
 - Inicio de sesión
-![inicios](https://i.ibb.co/Xs0Mm0P/inicios.png)
-<br>
-- Perfil<br>
-![perfil](https://i.ibb.co/FxGjBfW/perfil.png)
-<br>
-- Búsqueda de vehículos<br>
-![busqueda](https://i.ibb.co/WxrLWP7/busqueda.png)
+![inicios](https://i.ibb.co/Xs0Mm0P/inicios.png)<br></br>
+
+- Perfil
+<a href="https://ibb.co/DK8PvV4"><img src="https://i.ibb.co/GPtf8x7/image.png" alt="image" border="0"></a><br></br>
+
+- Búsqueda de vehículos
+<a href="https://ibb.co/Hzs36Zj"><img src="https://i.ibb.co/T8Sd6ys/image.png" alt="image" border="0"></a><br></br>
 
 Enlace del Figma: [(https://www.figma.com/file/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=0%3A1&mode=design&t=oV4ZYw2Es2V34LBK-1](https://www.figma.com/file/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=0%3A1&mode=design&t=oV4ZYw2Es2V34LBK-1)
 
@@ -406,22 +406,22 @@ En esta sección, se mostrarán los distintos diagramas elaborados que represent
 
 #### 4.6.1. Software Architecture Context Diagram.
 
-![ContextDiagram](/Ruedarent-Report/feature/assets/dd1.png)
+<a href="https://ibb.co/m6WBPpc"><img src="https://i.ibb.co/RzwSJ8D/dd1.png" alt="dd1" border="0"></a>
 
 #### 4.6.2. Software Architecture Container Diagrams.
 
-![ContainerDiagram](/Ruedarent-Report/feature/assets/dd2.png)
+<a href="https://ibb.co/d706wNz"><img src="https://i.ibb.co/HXDYfck/dd2.png" alt="dd2" border="0"></a>
 
 #### 4.6.3. Software Architecture Components Diagrams.
 
 - En este primer caso se muestran las funcionalidades que tendrá nuestra aplicación web.
-![Component1](/Ruedarent-Report/feature/assets/dd3.png)
+<a href="https://ibb.co/5MrrGnZ"><img src="https://i.ibb.co/JBvvmyZ/dd3.png" alt="dd3" border="0"></a>
 
 - En este segundo caso se mostrarán los componentes necesarios para la seguridad.
-![Component2](/Ruedarent-Report/feature/assets/dd4.png)
+<a href="https://ibb.co/qJybVGm"><img src="https://i.ibb.co/rd7nNP5/dd4.png" alt="dd4" border="0"></a>
 
 - En este tercer caso se muestran los componentes necesarios para los comentarios.
-![Component3](/Ruedarent-Report/feature/assets/dd5.png)
+<a href="https://ibb.co/wsdTN5k"><img src="https://i.ibb.co/zJm1hqM/dd5.png" alt="dd5" border="0"></a>
 
 ### 4.7. Software Object-Oriented Design.
 #### 4.7.1. Class Diagrams.
