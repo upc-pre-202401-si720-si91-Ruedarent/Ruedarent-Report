@@ -277,22 +277,27 @@ Ruedarent es una startup conformada por estudiantes de la Universidad Peruana de
 Esta sección está compuesta por dos partes: 
 
 - Antecedentes y Problemática:
-En esta sección se abordará la problemática que el proyecto tiene como objetivo abordar. Esto incluirá la exposición del problema, una descripción de los aspectos críticos que la solución debe atender, así como los objetivos y limitaciones del proyecto.
-<br>
+En esta sección se abordará la problemática que el proyecto tiene como objetivo abordar. Esto incluirá la exposición del problema, una descripción de los aspectos críticos que la solución debe atender, así como los objetivos y limitaciones del proyecto.<br></br>
 
-- Lean UX Process: <br>Esta sección aplicará el proceso Lean UX y detallará cómo se abordará la problemática a través del modelo de negocio.
+- Lean UX Process:
+Esta sección aplicará el proceso Lean UX y detallará cómo se abordará la problemática a través del modelo de negocio.
 
 ### 1.2.1. Antecedentes y problemática
 
-- Antecedentes:<br>En los últimos años, el aumento del parque automotor, combinado con el incremento de la población en las principales ciudades del Perú ha producido un caos vehicular evidente, reflejado en los congestionamientos habituales en las vías. Esta situación no solo provoca más emisiones de gases contaminantes y prolonga el tiempo de desplazamiento, sino que también atrapa a los ciudadanos en el tráfico, lo que resulta en una pérdida de tiempo y productividad. Además, este escenario favorece el comportamiento sedentario, impactando negativamente en la vida diaria, la salud y el rendimiento de los habitantes que usan el transporte urbano.
-<br>
-- Aspectos a solucionar:<br>Abordar la problemática requiere promover el uso de medios de transporte alternativos como bicicletas, scooters, entre otros, así como fomentar un estilo de vida activo mediante la adopción de hábitos saludables. Igualmente, se debe mejorar la infraestructura vial y concientizar a las personas de la importancia de reducir la cantidad de uso de automóviles.
-<br>
-- Solución innovadora:<br>La propuesta de Ruedarent a la problemática de la contaminación ambiental, caos vehicular y falta de actividad en la vida diaria de los ciudadanos, es ofrecer una alternativa de movilidad urbana más ágil y flexible, a través de una aplicación web que estará disponible en los navegadores más usados como Chrome, Firefox y Edge. Esta aplicación web proporcionará una forma conveniente y accesible para que los usuarios puedan encontrar y alquilar los vehículos que prefieran de forma sencilla y contará con un modelo de suscripciones que brindará beneficios adicionales a los usuarios como descuentos en el alquiler y bloqueo de anuncios. La implementación de esta solución aspira a reducir la dependencia a los autos personales y fomentar el uso de medios de transporte sostenibles y activos para que se adopte un estilo de vida más saludable entre los usuarios. Asimismo, se busca contribuir a la disminución de emisión de gases contaminantes y a la mejora de la calidad de aire en las zonas urbanas. El modelo de negocio se basa en la obtención de ganancias a través de las comisiones de los alquileres que se realizan en la plataforma, así como de los ingresos generados por publicidad y los precios de las suscripciones.<br></br>
+- Antecedentes:
+En los últimos años, el aumento del parque automotor, combinado con el incremento de la población en las principales ciudades del Perú ha producido un caos vehicular evidente, reflejado en los congestionamientos habituales en las vías. Esta situación no solo provoca más emisiones de gases contaminantes y prolonga el tiempo de desplazamiento, sino que también atrapa a los ciudadanos en el tráfico, lo que resulta en una pérdida de tiempo y productividad. Además, este escenario favorece el comportamiento sedentario, impactando negativamente en la vida diaria, la salud y el rendimiento de los habitantes que usan el transporte urbano.<br></br>
 
-- Objetivos:<br>Aumentar el número de usuarios que hacen uso de transportes sostenibles como bicicletas, scooters y skateboards, mediante el alquiler ofrecido por la aplicación web. Mejorar la accesibilidad al transporte urbano, proporcionando una alternativa ágil y flexible de movilización a los usuarios. Desarrollar una aplicación web atractiva e intuitiva para que todos los usuarios puedan comprender rápidamente el funcionamiento y propósito de nuestra aplicación.<br></br>
+- Aspectos a solucionar:
+Abordar la problemática requiere promover el uso de medios de transporte alternativos como bicicletas, scooters, entre otros, así como fomentar un estilo de vida activo mediante la adopción de hábitos saludables. Igualmente, se debe mejorar la infraestructura vial y concientizar a las personas de la importancia de reducir la cantidad de uso de automóviles. <br></br>
 
-- Restricciones:<br>Ruedarent propone una solución prometedora para transformar la movilidad urbana, sin embargo pueden presentarse algunos desafíos como la seguridad y resistencia al cambio por parte de los ciudadanos, así como la baja disposición de recursos y financiamiento necesarios para el desarrollo completo del proyecto.
+- Solución innovadora:
+La propuesta de Ruedarent a la problemática de la contaminación ambiental, caos vehicular y falta de actividad en la vida diaria de los ciudadanos, es ofrecer una alternativa de movilidad urbana más ágil y flexible, a través de una aplicación web que estará disponible en los navegadores más usados como Chrome, Firefox y Edge. Esta aplicación web proporcionará una forma conveniente y accesible para que los usuarios puedan encontrar y alquilar los vehículos que prefieran de forma sencilla y contará con un modelo de suscripciones que brindará beneficios adicionales a los usuarios como descuentos en el alquiler y bloqueo de anuncios. La implementación de esta solución aspira a reducir la dependencia a los autos personales y fomentar el uso de medios de transporte sostenibles y activos para que se adopte un estilo de vida más saludable entre los usuarios. Asimismo, se busca contribuir a la disminución de emisión de gases contaminantes y a la mejora de la calidad de aire en las zonas urbanas. El modelo de negocio se basa en la obtención de ganancias a través de las comisiones de los alquileres que se realizan en la plataforma, así como de los ingresos generados por publicidad y los precios de las suscripciones. <br></br>
+
+- Objetivos:
+Aumentar el número de usuarios que hacen uso de transportes sostenibles como bicicletas, scooters y skateboards, mediante el alquiler ofrecido por la aplicación web. Mejorar la accesibilidad al transporte urbano, proporcionando una alternativa ágil y flexible de movilización a los usuarios. Desarrollar una aplicación web atractiva e intuitiva para que todos los usuarios puedan comprender rápidamente el funcionamiento y propósito de nuestra aplicación.<br></br>
+
+- Restricciones:
+Ruedarent propone una solución prometedora para transformar la movilidad urbana, sin embargo pueden presentarse algunos desafíos como la seguridad y resistencia al cambio por parte de los ciudadanos, así como la baja disposición de recursos y financiamiento necesarios para el desarrollo completo del proyecto.
 
 #### Uso de la técnica  The 5'W's w Y 2'H's
 
@@ -309,12 +314,15 @@ En esta sección se abordará la problemática que el proyecto tiene como objeti
 ### 1.2.2. Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 
-- Situación:<br>En el contexto actual, nos encontramos con un grupo de usuarios que se enfrentan a dificultades financieras significativas, lo que les impide realizar pagos inmediatos para acceder a la suscripción de nuestra aplicación.
-<br>
-- Problema:<br>La situación financiera desfavorable de estos usuarios está generando una barrera para que puedan aprovechar los beneficios y servicios que nuestra aplicación ofrece. Esta falta de acceso a la suscripción completa está limitando su capacidad para utilizar funcionalidades clave, como el alquiler de vehículos, lo que a su vez les está privando de una experiencia óptima con nuestra plataforma.
-<br>
-- Propuesta de Solución en Pregunta:<br>Nos enfrentamos al desafío de diseñar e implementar un modelo de pago flexible que se adapte a las necesidades y circunstancias financieras de estos usuarios. 
-**¿Cómo podemos desarrollar un sistema que les permita acceder a nuestra aplicación y disfrutar de sus servicios, incluso si no pueden realizar el pago completo de la suscripción de manera inmediata?**
+- Situación:
+En el contexto actual, nos encontramos con un grupo de usuarios que se enfrentan a dificultades financieras significativas, lo que les impide realizar pagos inmediatos para acceder a la suscripción de nuestra aplicación.<br></br>
+
+- Problema:
+La situación financiera desfavorable de estos usuarios está generando una barrera para que puedan aprovechar los beneficios y servicios que nuestra aplicación ofrece. Esta falta de acceso a la suscripción completa está limitando su capacidad para utilizar funcionalidades clave, como el alquiler de vehículos, lo que a su vez les está privando de una experiencia óptima con nuestra plataforma.<br></br>
+
+- Propuesta de Solución en Pregunta:
+Nos enfrentamos al desafío de diseñar e implementar un modelo de pago flexible que se adapte a las necesidades y circunstancias financieras de estos usuarios. 
+<b>¿Cómo podemos desarrollar un sistema que les permita acceder a nuestra aplicación y disfrutar de sus servicios, incluso si no pueden realizar el pago completo de la suscripción de manera inmediata?</b>
 
 #### 1.2.2.2. Lean UX Assumptions.
 
@@ -342,26 +350,25 @@ Los principales usuarios de la plataforma serán principalmente aquellos que pos
 - Propietarios de Vehículos: Posibilidad de utilizar plataformas de alquiler de vehículos para gestionar fácilmente las transacciones y garantizar la seguridad del proceso.<br>
 - Usuario que Alquila: Flexibilidad para alquilar vehículos por períodos cortos o largos, según sus necesidades.
 
-**User Assumptions:**
+User Assumptions:
 
 - **¿Quién es el usuario?** 
-El usuario de nuestro producto es tanto el propietario de vehículos como el usuario que alquila.
-<br>
+El usuario de nuestro producto es tanto el propietario de vehículos como el usuario que alquila.<br>
+
 - **¿Dónde encaja nuestro producto en sus trabajos o vidas?**
-Nuestro producto encaja proporcionando una solución para satisfacer necesidades de transporte de manera temporal y flexible.
-<br>
+Nuestro producto encaja proporcionando una solución para satisfacer necesidades de transporte de manera temporal y flexible.<br>
+
 - **¿Qué problema resuelve nuestro producto?**
-Resuelve la necesidad de acceso a vehículos en momentos específicos sin la carga financiera y logística de la propiedad permanente de un automóvil.
-<br>
+Resuelve la necesidad de acceso a vehículos en momentos específicos sin la carga financiera y logística de la propiedad permanente de un automóvil.<br>
+
 - **¿Cuándo y cómo es usado nuestro producto?**
-Nuestro producto es usado cuando los usuarios necesitan un vehículo para desplazarse temporalmente, a través de una plataforma en línea o una aplicación móvil.
-<br>
+Nuestro producto es usado cuando los usuarios necesitan un vehículo para desplazarse temporalmente, a través de una plataforma en línea o una aplicación móvil.<br>
+
 - **¿Qué características son importantes?**
-Características importantes incluyen un proceso de reserva fácil y seguro, una amplia variedad de vehículos para elegir, flexibilidad en los términos de alquiler y precios, sistema de calificación y reseñas, y soporte al cliente accesible.
-<br>
+Características importantes incluyen un proceso de reserva fácil y seguro, una amplia variedad de vehículos para elegir, flexibilidad en los términos de alquiler y precios, sistema de calificación y reseñas, y soporte al cliente accesible.<br>
+
 - **¿Cómo debería verse y comportarse nuestro producto?**
-Debería tener una interfaz intuitiva y fácil de usar, presentar información clara sobre los vehículos disponibles, tarifas, disponibilidad y condiciones de alquiler, ser seguro y confiable con medidas de verificación de identidad y pagos seguros, y tener un aspecto visual atractivo, moderno y profesional.
-<br>
+Debería tener una interfaz intuitiva y fácil de usar, presentar información clara sobre los vehículos disponibles, tarifas, disponibilidad y condiciones de alquiler, ser seguro y confiable con medidas de verificación de identidad y pagos seguros, y tener un aspecto visual atractivo, moderno y profesional.<br>
 
 **Business Assumptions**
 
@@ -689,7 +696,7 @@ Entrevista N°2:
 
 **Enlace:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EWhk4QtlBRtKrgwSuZ3xJXgBXqli_N4swEgt0B76K0I-MA?e=76cjaN><br>
 
-**Resumen De Entrevista:** La entrevistada indica que estaría interesada en alquilar su vehículo en una plataforma, ya que no lo usa constantemente y eso le daría más visibilidad, pero la plataforma de alquiler tendría que asegurar que los usuarios sean confiables para no arriesgar su vehículo y que la entrega o devolución no sea una experiencia frustrante.
+**Resumen de la Entrevista:** La entrevistada indica que estaría interesada en alquilar su vehículo en una plataforma, ya que no lo usa constantemente y eso le daría más visibilidad, pero la plataforma de alquiler tendría que asegurar que los usuarios sean confiables para no arriesgar su vehículo y que la entrega o devolución no sea una experiencia frustrante.
 
 Entrevista N°3:
 
@@ -703,7 +710,7 @@ Entrevista N°3:
 
 **Enlace:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EXvE1_J-d_1KgTYSLpbwIIMB08uuWq-4JsMMNuejlKNK4g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n3UdsN><br>
 
-**Resumen De Entrevista:** La entrevistada menciona que consideraría alquilar uno de sus dos vehículos (scooter), porque no estaría muy segura de cómo resultaría el alquiler de una bicicleta. Asimismo, resalta que la seguridad es un factor muy importante para tomar la decisión de alquilar su vehículo.
+**Resumen de la Entrevista:** La entrevistada menciona que consideraría alquilar uno de sus dos vehículos (scooter), porque no estaría muy segura de cómo resultaría el alquiler de una bicicleta. Asimismo, resalta que la seguridad es un factor muy importante para tomar la decisión de alquilar su vehículo.
 
 **Entrevista para los "Usuarios que desean alquilar":**
 
@@ -715,11 +722,11 @@ Entrevista N°1:
 **Ubicación:** Magdalena del Mar
 **Inicio de la Entrevista:** 0:01
 
-![Entrevista_Seg02_DanielaChavez](/Ruedarent-Report/feature/assets/Registro_Entrevista_Seg02_DanielaChavez.png)<br>
+![Entrevista_Seg02_DanielaChavez](https://i.ibb.co/J2sTVwh/Registro-Entrevista-Seg02-Daniela-Chavez.png)<br>
 
 **Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
-**Resumen De Entrevista:** Según las respuestas proporcionadas, la entrevistada comenta que usualmente se manifiesta por medio de transporte público, pero que estaba considerando ir en bicicleta o scooter eléctrico, este último debido a su velocidad. Comenta que cada vez en Lima, ve que cada vez más gente se moviliza por scooters y a su vez ve más gente usando ciclovías, lo cual considera que ayuda al medio ambiente además de que lo bueno de usar bicicletas sería el ejercicio. Además logras evitar el tráfico, asi como evitas pasarla mal en combi. Considera que si los precios son accesibles y favorecen a los usuarios podria ayudar a la obtención de nuevos hábitos.
+**Resumen de la Entrevista:** Según las respuestas proporcionadas, la entrevistada comenta que usualmente se manifiesta por medio de transporte público, pero que estaba considerando ir en bicicleta o scooter eléctrico, este último debido a su velocidad. Comenta que cada vez en Lima, ve que cada vez más gente se moviliza por scooters y a su vez ve más gente usando ciclovías, lo cual considera que ayuda al medio ambiente además de que lo bueno de usar bicicletas sería el ejercicio. Además logras evitar el tráfico, asi como evitas pasarla mal en combi. Considera que si los precios son accesibles y favorecen a los usuarios podria ayudar a la obtención de nuevos hábitos.
 
 Entrevista N°2:
 
@@ -737,7 +744,7 @@ Entrevista N°2:
 
 Entrevista N°3:
 
-**Entrevistada:** Favian Roman
+**Entrevistada:** Fabian Roman
 **Sexo:** Masculino
 **Edad:** 19 años
 **Ubicación:** Lurigancho, Chosica
@@ -747,7 +754,7 @@ Entrevista N°3:
 
 **Enlace:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
 
-**Resumen De Entrevista:** El entrevistado nos menciona que por tendencia le gustaría utilizar monopatines, y seria una alternativa a para ya no usar auto y cuidar el medio ambiente. Tambien que lo primero que busca son los precios, para ver que si esta más acomodado a su presupuesto. Segundo, vería la facilidad para reservar estos vehículos y la garantía, seguridad de recibirlos, también que estén en buen estado para no tener problemas con el uso. Por último, que haya variedad. Lo que le motiva es el hecho de que pueda llegar más rápido a la universidad o salir con amigos o movilizarse por lugares donde el auto se le dificulta. Nos comenta que tiene licencia, pero solo usa el auto de su padre a veces y esta propuesta le resulta atractiva. Tambien nos dice, que quizás le preocupa el método de pago o que no se transaccione bien o que haga una transacción y no funcione o que no le den el servicio por algún fallo en la aplicación web. Le gustaría que la pagina sea fácil de utilizar, que sea accesible, la rapidez a la hora de escoger un vehículo, quizás a través de un filtro, tambien el diseño de la pagina como los colores, ya que sufre de la vista y que no tenga tantos colores.
+**Resumen de la Entrevista:** El entrevistado nos menciona que por tendencia le gustaría utilizar monopatines, y seria una alternativa a para ya no usar auto y cuidar el medio ambiente. Tambien que lo primero que busca son los precios, para ver que si esta más acomodado a su presupuesto. Segundo, vería la facilidad para reservar estos vehículos y la garantía, seguridad de recibirlos, también que estén en buen estado para no tener problemas con el uso. Por último, que haya variedad. Lo que le motiva es el hecho de que pueda llegar más rápido a la universidad o salir con amigos o movilizarse por lugares donde el auto se le dificulta. Nos comenta que tiene licencia, pero solo usa el auto de su padre a veces y esta propuesta le resulta atractiva. Tambien nos dice, que quizás le preocupa el método de pago o que no se transaccione bien o que haga una transacción y no funcione o que no le den el servicio por algún fallo en la aplicación web. Le gustaría que la pagina sea fácil de utilizar, que sea accesible, la rapidez a la hora de escoger un vehículo, quizás a través de un filtro, tambien el diseño de la pagina como los colores, ya que sufre de la vista y que no tenga tantos colores.
 
 ### 2.2.3. Análisis de entrevistas.
 
@@ -805,10 +812,12 @@ Para este proyecto en particular, decidimos interactuar con potenciales usuarios
 ### 2.3.1. User Personas.
 
 - **Primer segmento: Usuario que Alquila**
-![Img_segmento1](/Ruedarent-Report/feature/assets/photo_SE01.png)
-<br>
+
+![Img_segmento1](https://i.ibb.co/HqjyJbG/photo-SE01.png")
+
 - **Segundo segmento: Propietario de Vehículo**
-![Img_segmento2](/Ruedarent-Report/feature/assets/photo_SE02.png)
+
+<a href="https://ibb.co/pPpXmrp"><img src="https://i.ibb.co/hMv8q1v/photo-SE02.png" alt="photo-SE02" border="0"></a>
 
 ### 2.3.2. User Task Matrix.
 
@@ -833,12 +842,12 @@ Para este proyecto en particular, decidimos interactuar con potenciales usuarios
 
 ### 2.3.4. Empathy Mapping.
 
-![Img_emphaty1](/Ruedarent-Report/feature/assets/emphaty1.png)
-![Img_emphaty2](/Ruedarent-Report/feature/assets/emphaty2.png)
+![Img_emphaty1](https://i.ibb.co/dBWgFV8/emphaty1.png)
+![Img_emphaty2](https://i.ibb.co/FgZQgd9/emphaty2.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
-![Img_asis](/Ruedarent-Report/feature/assets/scn.jpg)
+![Img_asis](https://i.ibb.co/S3LYQkx/scn.jpg")
 
 ## 2.4. Ubiquitous Language.
 
@@ -866,15 +875,6 @@ Para este proyecto en particular, decidimos interactuar con potenciales usuarios
 <a href="https://ibb.co/wWHHSVv"><img src="https://i.ibb.co/QNBBPL5/image.png" alt="image" border="0"></a>
 
 ## 3.2. User Stories.
-
-<style>
-    .red {
-    color: red;
-    }
-    span {
-    color: blue;
-    }
-</style>
 
 <table>
     <thead>
@@ -1258,44 +1258,45 @@ En este capítulo se aborda todo lo referente al diseño de la solución, lo cua
 En esta sección se establece el conjunto de normas y directrices para el formato y diseño de la solución.
 
 #### 4.1.1. General Style Guidelines.
-**Task**
+
+**Task:**
 Nos dedicamos a crear un espacio inclusivo y colaborativo que empodere a usuarios para alquilar sus vehículos en todo el Perú. Ofrecemos herramientas innovadoras que facilitan la gestión, distribución y monetización de este servicio.<br>
 
-**Insight**
+**Insight:**
 Aspiramos a ser la plataforma líder en alquiler de vehículos en Perú, reconocida por nuestra capacidad para conectar a propietarios de vehículos con aquellos que buscan alquilarlos. Nos esforzamos por ofrecer una experiencia de alquiler fácil, segura y conveniente para todos los usuarios.</br>
 
-**Branding**
+**Branding:**
 En este caso se decidio que el icono de la aplicación tenga un diseño sencillo. El fondo es de color verde, con un circulo en medio. Además se usó un logo con la letra R que representa RuedaRent.
 
-![Logo](/Ruedarent-Report/feature/assets/logo.png)<br>
+<a href="https://ibb.co/9VQMtNW"><img src="https://i.ibb.co/ww5vsR4/logo.png" alt="logo" border="0"></a>
 
-**Typography**
+**Typography:**
 Se escogió esta tipografía debido a que proyecta simplicidad, y un toque moderno el cual creemos que encaja con nuestro proyecto.
 
-![Typography](/Ruedarent-Report/feature/assets/type.png)<br>
+<a href="https://ibb.co/K6Jj1Bk"><img src="https://i.ibb.co/Q94F5hR/type.png" alt="type" border="0"></a>
 
-**Colors**
+**Colors:**
 En este caso se escogió el color verde, esto debido a que creemos que representa el ideal de nuestra empresa que es promover ayuda al medio ambiente.
 
-![Colors](/Ruedarent-Report/feature/assets/colors.png)<br>
+<a href="https://ibb.co/zn2T71f"><img src="https://i.ibb.co/4mSnYcN/colors.png" alt="colors" border="0"></a>
 
-**Spacing**
-<br>En este caso se escogió un espacio de 4px.
+**Spacing:**
+En este caso se escogió un espacio de 4px.
 
-![Space](/Ruedarent-Report/feature/assets/Scale.png)
+<a href="https://ibb.co/Gx6KGj8"><img src="https://i.ibb.co/kH7RzFw/Scale.png" alt="Scale" border="0"></a>
 
 En este caso el tono de comunicación elegido, por la naturaleza de la aplicación, será serio, formal y sereno.
 
-**Components**
+**Components:**
 Ademas los anteriores decidimos agregar algunos componentes que nos ayudarán a la elaboración del landing page.
 
-![Components](/Ruedarent-Report/feature/assets/components.png)<br>
+<a href="https://ibb.co/GvNT1cp"><img src="https://i.ibb.co/VW5mh29/components.png" alt="components" border="0"></a>
 
 #### 4.1.2. Web Style Guidelines.
 
 **Responsive Web Interface**
 
-![WebStyle](/Ruedarent-Report/feature/assets/WebStle.png)<br>
+<a href="https://ibb.co/hYCsbjL"><img src="https://i.ibb.co/CPWBgZm/WebStle.png" alt="WebStle" border="0"></a>
 
 El contenido que se prioriza son inscríbase, vehículos, y beneficios, ya que, en este caso nuestro objetivo principal es llegar a las personas de manera rapida ofreciendo información accesible. 
 
@@ -1310,10 +1311,10 @@ La tendencia web escogida fue de degradado y se optó por el patrón de diseño 
 
 El propósito del sistema de organización de la página es establecer la estructura visual del contenido y la navegación en la misma. En el caso de RuedaRent, el esquema de organización de contenido se divide en módulos y se enfoca en los siguientes temas:
 
-**Homepage**
+**Homepage:**
 La página se divide en distintas secciones que incluyen: Página principal, Acerca de nosotros, Inscríbase, Vehículos, Beneficios y Contacto.
 
-![SecciónArriba](/Ruedarent-Report/feature/assets/UpSection.png)<br>
+<a href="https://ibb.co/vzPbt6S"><img src="https://i.ibb.co/ZT83Zp0/Up-Section.png" alt="Up-Section" border="0"></a>
 
 En la parte superior de la página principal, se encuentran las opciones que conducen a otras secciones. Esto sigue un patrón de diseño F, diseñado para enfatizar la importancia de que el usuario conozca la empresa y todo lo que la página tiene para ofrecer. Finalmente, el usuario puede registrarse o iniciar sesión, lo cual está representado por botones en el extremo derecho.
 
@@ -1321,23 +1322,23 @@ Además, se muestra un botón de modo oscuro para permitir a los usuarios cambia
 
 #### 4.2.2. Labeling Systems.
 
-**Inscripción**
+**Inscripción:**
 La función de esta sección es llamar la atención principalmente de las personas propietarias para que renten sus vehículos, y puedan ganar una retribución económica, así como ayudar al medio ambiente.
 
-**Vehículos**
+**Vehículos:**
 La función de esta sección es mostrar a los usuarios los distintos medios de transporte que se pueden alquilar a través de la plataforma.
 
-**Beneficios**
+**Beneficios:**
 En esta sección, mostramos algunos de los beneficios tanto del uso como del alquiler de este tipo de vehículos. Algunos de estos beneficios son: reducir la huella de carbono, evitar el tráfico y llevar una vida más saludable.
 
-**Registro usuario**
+**Registro usuario:**
 Se han considerado dos pantallas para el módulo de registro de usuario: la página de inicio y el formulario de registro. En la pantalla de registro, se dará prioridad a los datos esenciales para crear una cuenta, como nombres, apellidos, correo electrónico y contraseña. La organización visual del contenido se realizará de manera jerárquica, colocando estos datos prioritarios en la parte superior de la pantalla. 
 
-**Sistema**
+**Sistema:**
 Para el sistema de mensajes de error y ayuda, se utilizará un método de resaltado del cuadro de texto en rojo cuando se ingrese un carácter no permitido. Si se envía la información sin corregir el error, aparecerá una ventana emergente que indicará el error cometido y se proporcionará la opción "Listo" para volver al formulario. En la página web o aplicación, se indicará el error cometido y se señalará lo que debe corregirse, como ingresar un carácter no permitido o proporcionar información faltante.
 
-![label](/Ruedarent-Report/feature/assets/label.png)
-![error](/Ruedarent-Report/feature/assets/correction.png)<br>
+<a href="https://ibb.co/HDTQRD6"><img src="https://i.ibb.co/mC57dCk/label.png" alt="label" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/QbYyDpK/correction.png" alt="correction" border="0"></a>
 
 #### 4.2.3. SEO Tags and Meta Tags
 
@@ -1379,18 +1380,18 @@ Para diversas páginas, como Inicio, Inscripción de vehículo, Alquiler y Conse
 
 - **Barra de Navegación Principal:**
 En la parte superior de la página se encuentra una barra de navegación que incluye enlaces a las secciones principales del sitio.
-Los enlaces principales son: "Página Principal", "Acerca de Nosotros", "Inscríbase", "Vehículos", "Beneficios" y "Contacto".
-<br>
+Los enlaces principales son: "Página Principal", "Acerca de Nosotros", "Inscríbase", "Vehículos", "Beneficios" y "Contacto".<br></br>
+
 - **Navegación Jerárquica:**
 La página principal sigue un patrón de diseño F, lo que enfatiza la importancia de que el usuario conozca la empresa y lo que ofrece.
-Las opciones de navegación están jerárquicamente organizadas, con las secciones más importantes y relevantes en la parte superior.
-<br>
+Las opciones de navegación están jerárquicamente organizadas, con las secciones más importantes y relevantes en la parte superior.<br></br>
+
 - **Enlaces Contextuales:**
-Dentro de cada sección, se incluyen botones que guían al usuario a contenido relacionado o información relevante. Un ejemplo de esto se puede dar en la sección "Inscríbase" en la cual al presionar el botón "More" se abrira una ventana en la cual se explique a mayor detalle información relevante para el usuario.
-<br>
+Dentro de cada sección, se incluyen botones que guían al usuario a contenido relacionado o información relevante. Un ejemplo de esto se puede dar en la sección "Inscríbase" en la cual al presionar el botón "More" se abrira una ventana en la cual se explique a mayor detalle información relevante para el usuario.<br></br>
+
 - **Navegación secuencial:**
-En el proceso de registro de usuario, se utiliza una navegación secuencial donde se guía al usuario paso a paso a través del proceso de creación de cuenta.
-<br>
+En el proceso de registro de usuario, se utiliza una navegación secuencial donde se guía al usuario paso a paso a través del proceso de creación de cuenta.<br></br>
+
 - **Sección Inferior:**
 En la parte inferior de la página, se incluye una navegación adicional que proporciona acceso rápido a información importante y complementaria, como "Contáctanos.
 
@@ -1399,8 +1400,8 @@ En la parte inferior de la página, se incluye una navegación adicional que pro
 Utilizaremos un sistema de navegación conocido como "Hamburger Menú" que consiste en un panel izquierdo de navegación. Este panel nos permitirá aplicar filtros y subfiltros durante la búsqueda, lo que nos ayudará a organizar y presentar varias opciones de navegación de forma clara y concisa, manteniendo así la aplicación ordenada y fácil de usar.
 Asimismo se usará la barra de búsqueda para que las personas busquen sus necesidades.
 
-![dropdown](/Ruedarent-Report/feature/assets/dropdown.png)
-![hambmenu](/Ruedarent-Report/feature/assets/hambmenu.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6Hn8pn2/dropdown.png" alt="dropdown" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/K2f3jrm/hambmenu.png" alt="hambmenu" border="0"></a>
 
 ### 4.3. Landing Page UI Design.
 
@@ -1408,23 +1409,23 @@ Se diseñó esta interfaz con simplicidad en mente, utilizando colores claros co
 
 #### 4.3.1. Landing Page Wireframe.
 
-![Wireframe1](/Ruedarent-Report/feature/assets/wireframe1.png)
-![Wireframe2](/Ruedarent-Report/feature/assets/wireframe2.png)
-![Wireframe3](/Ruedarent-Report/feature/assets/wireframe3.png)
-![Wireframe4](/Ruedarent-Report/feature/assets/wireframe4.png)
-![Wireframe5](/Ruedarent-Report/feature/assets/wireframe5.png)
-![Wireframe6](/Ruedarent-Report/feature/assets/wireframe6.png)
+<a href="https://ibb.co/CmBrCvZ"><img src="https://i.ibb.co/XjXw0pg/wireframe1.png" alt="wireframe1" border="0"></a>
+<a href="https://ibb.co/sHq0hTJ"><img src="https://i.ibb.co/cLQGPWX/wireframe2.png" alt="wireframe2" border="0"></a>
+<a href="https://ibb.co/Q6h2QBW"><img src="https://i.ibb.co/YtJzQ95/wireframe3.png" alt="wireframe3" border="0"></a>
+<a href="https://ibb.co/vvr5pGC"><img src="https://i.ibb.co/84R3qpn/wireframe3.png" alt="wireframe3" border="0"></a>
+<a href="https://ibb.co/crjhgjJ"><img src="https://i.ibb.co/FDF4xF6/wireframe5.png" alt="wireframe5" border="0"></a>
+<a href="https://ibb.co/KD0vdvW"><img src="https://i.ibb.co/1MvW1WT/wireframe6.png" alt="wireframe6" border="0"></a>
 
 Enlace de los Wireframes: https://www.figma.com/file/MYUgkXCBBiPkPT98q6F072/Untitled-(Copy)?type=design&node-id=28%3A910&mode=design&t=dwN8VALw3i3zrJ2y-1
 
 #### 4.3.2. Landing Page Mock-up.
 
-![Landingpage1](/Ruedarent-Report/feature/assets/land1.png)
-![Landingpage2](/Ruedarent-Report/feature/assets/land2.png)
-![Landingpage3](/Ruedarent-Report/feature/assets/land3.png)
-![Landingpage4](/Ruedarent-Report/feature/assets/land4.png)
-![Landingpage5](/Ruedarent-Report/feature/assets/land5.png)
-![Landingpage6](/Ruedarent-Report/feature/assets/land6.png)
+<a href="https://ibb.co/16Ljm1k"><img src="https://i.ibb.co/TLkdg6s/land1.png" alt="land1" border="0"></a>
+<a href="https://ibb.co/q9Xy0zS"><img src="https://i.ibb.co/WFqxDQh/land2.png" alt="land2" border="0"></a>
+<a href="https://ibb.co/2ZvsrdS"><img src="https://i.ibb.co/BnyrJBG/land3.png" alt="land3" border="0"></a>
+<a href="https://ibb.co/cgYhR0L"><img src="https://i.ibb.co/WxVv7Zt/land4.png" alt="land4" border="0"></a>
+<a href="https://ibb.co/ZTgfsSD"><img src="https://i.ibb.co/F7YhvXT/land5.png" alt="land5" border="0"></a>
+<a href="https://ibb.co/ypyZQDb"><img src="https://i.ibb.co/tzsvJSW/land6.png" alt="land6" border="0"></a>
 
 Enlace de los Mock-up: https://www.figma.com/file/MYUgkXCBBiPkPT98q6F072/Untitled-(Copy)?type=design&node-id=28%3A910&mode=design&t=dwN8VALw3i3zrJ2y-1
 
@@ -1542,19 +1543,20 @@ En esta sección, se aplicaron los sistemas de búsqueda como la barra de navega
 
 ![mockups](https://i.ibb.co/k2wyfbK/mockups.png)
 <br>
+
 **Principales Mock-ups:**
 
-- Registro
-![registro](https://i.ibb.co/HDf9r0h/registro.png)
-<br>
-- Inicio de sesión
-![inicios](https://i.ibb.co/Xs0Mm0P/inicios.png)
-<br>
+- Registro<br>
+![registro](https://i.ibb.co/HDf9r0h/registro.png)<br></br>
+
+- Inicio de sesión<br>
+![inicios](https://i.ibb.co/Xs0Mm0P/inicios.png)<br></br>
+
 - Perfil<br>
-![perfil](https://i.ibb.co/FxGjBfW/perfil.png)
-<br>
+<a href="https://ibb.co/DK8PvV4"><img src="https://i.ibb.co/GPtf8x7/image.png" alt="image" border="0"></a><br></br>
+
 - Búsqueda de vehículos<br>
-![busqueda](https://i.ibb.co/WxrLWP7/busqueda.png)
+<a href="https://ibb.co/Hzs36Zj"><img src="https://i.ibb.co/T8Sd6ys/image.png" alt="image" border="0"></a><br></br>
 
 Enlace del Figma: [(https://www.figma.com/file/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=0%3A1&mode=design&t=oV4ZYw2Es2V34LBK-1](https://www.figma.com/file/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=0%3A1&mode=design&t=oV4ZYw2Es2V34LBK-1)
 
@@ -1655,27 +1657,27 @@ En esta sección, se mostrarán los distintos diagramas elaborados que represent
 
 #### 4.6.1. Software Architecture Context Diagram.
 
-![ContextDiagram](/Ruedarent-Report/feature/assets/dd1.png)
+<a href="https://ibb.co/m6WBPpc"><img src="https://i.ibb.co/RzwSJ8D/dd1.png" alt="dd1" border="0"></a>
 
 #### 4.6.2. Software Architecture Container Diagrams.
 
-![ContainerDiagram](/Ruedarent-Report/feature/assets/dd2.png)
+<a href="https://ibb.co/d706wNz"><img src="https://i.ibb.co/HXDYfck/dd2.png" alt="dd2" border="0"></a>
 
 #### 4.6.3. Software Architecture Components Diagrams.
 
 - En este primer caso se muestran las funcionalidades que tendrá nuestra aplicación web.
-![Component1](/Ruedarent-Report/feature/assets/dd3.png)
+<a href="https://ibb.co/5MrrGnZ"><img src="https://i.ibb.co/JBvvmyZ/dd3.png" alt="dd3" border="0"></a>
 
 - En este segundo caso se mostrarán los componentes necesarios para la seguridad.
-![Component2](/Ruedarent-Report/feature/assets/dd4.png)
+<a href="https://ibb.co/qJybVGm"><img src="https://i.ibb.co/rd7nNP5/dd4.png" alt="dd4" border="0"></a>
 
 - En este tercer caso se muestran los componentes necesarios para los comentarios.
-![Component3](/Ruedarent-Report/feature/assets/dd5.png)
+<a href="https://ibb.co/wsdTN5k"><img src="https://i.ibb.co/zJm1hqM/dd5.png" alt="dd5" border="0"></a>
 
 ### 4.7. Software Object-Oriented Design.
 #### 4.7.1. Class Diagrams.
 
-![ClassDiagram](/Ruedarent-Report/feature/assets/ddd.jpeg)
+<a href="https://ibb.co/9bFwH2S"><img src="https://i.ibb.co/LxLQd6H/ddd.jpg" alt="ddd" border="0"></a>
 
 #### 4.7.2. Class Dictionary.
 
@@ -1697,16 +1699,16 @@ En esta sección, se mostrarán los distintos diagramas elaborados que represent
 En esta sección especificaremos y detallaremos las plataformas y software que usamos como equipo para la realización de nuestro startup.
 
 - GitHub: En esta plataforma es donde crearemos nuestro repositorio donde realizaremos los avances de nuestro startup. Además, nos ayuda a tener un mejor control en el trabajo de equipo debido a que se puede visualizar el avance de cada integrante a través de los commits.
-https://github.com
-<br>
+https://github.com<br></br>
+
 - Whatsapp: Es una aplicación de mensajería instantánea multiplataforma que permite a los usuarios enviar mensajes de texto, voz y multimedia, así como realizar llamadas y videollamadas gratuitas a través de una conexión a Internet. Con una interfaz intuitiva y amplia disponibilidad en dispositivos móviles y de escritorio, WhatsApp se ha convertido en una herramienta omnipresente para la comunicación personal y empresarial en todo el mundo.
-https://whatsapp.com/
-<br>
+https://whatsapp.com/<br></br>
+
 - Visual Studio Code: Es un editor de código fuente ligero pero potente, desarrollado por Microsoft, que ofrece una amplia gama de características para programadores. Con soporte para múltiples lenguajes de programación, extensiones personalizables, integración con control de versiones y depuración, así como una interfaz intuitiva y altamente personalizable, Visual Studio Code se ha convertido en una opción popular para desarrolladores de software en todo el mundo.
-https://code.visualstudio.com/
-<br>
+https://code.visualstudio.com/<br></br>
+
 - Git: Sistema de control de versiones más usado, es un requisito para poder realizar los commits en Github.
-https://git-scm.com/downloads
+https://git-scm.com/downloads<br></br>
 
 #### 5.1.2. Source Code Management.
 ##### Gestión del Código Fuente: 
