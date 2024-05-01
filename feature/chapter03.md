@@ -11,15 +11,6 @@
 
 ## 3.2. User Stories.
 
-<style>
-    .red {
-    color: red;
-    }
-    span {
-    color: blue;
-    }
-</style>
-
 <table>
     <thead>
         <tr>
