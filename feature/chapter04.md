@@ -7,35 +7,36 @@ En este capítulo se aborda todo lo referente al diseño de la solución, lo cua
 En esta sección se establece el conjunto de normas y directrices para el formato y diseño de la solución.
 
 #### 4.1.1. General Style Guidelines.
-**Task**
+
+**Task:**
 Nos dedicamos a crear un espacio inclusivo y colaborativo que empodere a usuarios para alquilar sus vehículos en todo el Perú. Ofrecemos herramientas innovadoras que facilitan la gestión, distribución y monetización de este servicio.<br>
 
-**Insight**
+**Insight:**
 Aspiramos a ser la plataforma líder en alquiler de vehículos en Perú, reconocida por nuestra capacidad para conectar a propietarios de vehículos con aquellos que buscan alquilarlos. Nos esforzamos por ofrecer una experiencia de alquiler fácil, segura y conveniente para todos los usuarios.</br>
 
-**Branding**
+**Branding:**
 En este caso se decidio que el icono de la aplicación tenga un diseño sencillo. El fondo es de color verde, con un circulo en medio. Además se usó un logo con la letra R que representa RuedaRent.
 
 <a href="https://ibb.co/9VQMtNW"><img src="https://i.ibb.co/ww5vsR4/logo.png" alt="logo" border="0"></a>
 
-**Typography**
+**Typography:**
 Se escogió esta tipografía debido a que proyecta simplicidad, y un toque moderno el cual creemos que encaja con nuestro proyecto.
 
 <a href="https://ibb.co/K6Jj1Bk"><img src="https://i.ibb.co/Q94F5hR/type.png" alt="type" border="0"></a>
 
-**Colors**
+**Colors:**
 En este caso se escogió el color verde, esto debido a que creemos que representa el ideal de nuestra empresa que es promover ayuda al medio ambiente.
 
 <a href="https://ibb.co/zn2T71f"><img src="https://i.ibb.co/4mSnYcN/colors.png" alt="colors" border="0"></a>
 
-**Spacing**
-<br>En este caso se escogió un espacio de 4px.
+**Spacing:**
+En este caso se escogió un espacio de 4px.
 
 <a href="https://ibb.co/Gx6KGj8"><img src="https://i.ibb.co/kH7RzFw/Scale.png" alt="Scale" border="0"></a>
 
 En este caso el tono de comunicación elegido, por la naturaleza de la aplicación, será serio, formal y sereno.
 
-**Components**
+**Components:**
 Ademas los anteriores decidimos agregar algunos componentes que nos ayudarán a la elaboración del landing page.
 
 <a href="https://ibb.co/GvNT1cp"><img src="https://i.ibb.co/VW5mh29/components.png" alt="components" border="0"></a>
@@ -59,7 +60,7 @@ La tendencia web escogida fue de degradado y se optó por el patrón de diseño 
 
 El propósito del sistema de organización de la página es establecer la estructura visual del contenido y la navegación en la misma. En el caso de RuedaRent, el esquema de organización de contenido se divide en módulos y se enfoca en los siguientes temas:
 
-**Homepage**
+**Homepage:**
 La página se divide en distintas secciones que incluyen: Página principal, Acerca de nosotros, Inscríbase, Vehículos, Beneficios y Contacto.
 
 <a href="https://ibb.co/vzPbt6S"><img src="https://i.ibb.co/ZT83Zp0/Up-Section.png" alt="Up-Section" border="0"></a>
@@ -70,19 +71,19 @@ Además, se muestra un botón de modo oscuro para permitir a los usuarios cambia
 
 #### 4.2.2. Labeling Systems.
 
-**Inscripción**
+**Inscripción:**
 La función de esta sección es llamar la atención principalmente de las personas propietarias para que renten sus vehículos, y puedan ganar una retribución económica, así como ayudar al medio ambiente.
 
-**Vehículos**
+**Vehículos:**
 La función de esta sección es mostrar a los usuarios los distintos medios de transporte que se pueden alquilar a través de la plataforma.
 
-**Beneficios**
+**Beneficios:**
 En esta sección, mostramos algunos de los beneficios tanto del uso como del alquiler de este tipo de vehículos. Algunos de estos beneficios son: reducir la huella de carbono, evitar el tráfico y llevar una vida más saludable.
 
-**Registro usuario**
+**Registro usuario:**
 Se han considerado dos pantallas para el módulo de registro de usuario: la página de inicio y el formulario de registro. En la pantalla de registro, se dará prioridad a los datos esenciales para crear una cuenta, como nombres, apellidos, correo electrónico y contraseña. La organización visual del contenido se realizará de manera jerárquica, colocando estos datos prioritarios en la parte superior de la pantalla. 
 
-**Sistema**
+**Sistema:**
 Para el sistema de mensajes de error y ayuda, se utilizará un método de resaltado del cuadro de texto en rojo cuando se ingrese un carácter no permitido. Si se envía la información sin corregir el error, aparecerá una ventana emergente que indicará el error cometido y se proporcionará la opción "Listo" para volver al formulario. En la página web o aplicación, se indicará el error cometido y se señalará lo que debe corregirse, como ingresar un carácter no permitido o proporcionar información faltante.
 
 <a href="https://ibb.co/HDTQRD6"><img src="https://i.ibb.co/mC57dCk/label.png" alt="label" border="0"></a>
@@ -128,18 +129,18 @@ Para diversas páginas, como Inicio, Inscripción de vehículo, Alquiler y Conse
 
 - **Barra de Navegación Principal:**
 En la parte superior de la página se encuentra una barra de navegación que incluye enlaces a las secciones principales del sitio.
-Los enlaces principales son: "Página Principal", "Acerca de Nosotros", "Inscríbase", "Vehículos", "Beneficios" y "Contacto".
-<br>
+Los enlaces principales son: "Página Principal", "Acerca de Nosotros", "Inscríbase", "Vehículos", "Beneficios" y "Contacto".<br></br>
+
 - **Navegación Jerárquica:**
 La página principal sigue un patrón de diseño F, lo que enfatiza la importancia de que el usuario conozca la empresa y lo que ofrece.
-Las opciones de navegación están jerárquicamente organizadas, con las secciones más importantes y relevantes en la parte superior.
-<br>
+Las opciones de navegación están jerárquicamente organizadas, con las secciones más importantes y relevantes en la parte superior.<br></br>
+
 - **Enlaces Contextuales:**
-Dentro de cada sección, se incluyen botones que guían al usuario a contenido relacionado o información relevante. Un ejemplo de esto se puede dar en la sección "Inscríbase" en la cual al presionar el botón "More" se abrira una ventana en la cual se explique a mayor detalle información relevante para el usuario.
-<br>
+Dentro de cada sección, se incluyen botones que guían al usuario a contenido relacionado o información relevante. Un ejemplo de esto se puede dar en la sección "Inscríbase" en la cual al presionar el botón "More" se abrira una ventana en la cual se explique a mayor detalle información relevante para el usuario.<br></br>
+
 - **Navegación secuencial:**
-En el proceso de registro de usuario, se utiliza una navegación secuencial donde se guía al usuario paso a paso a través del proceso de creación de cuenta.
-<br>
+En el proceso de registro de usuario, se utiliza una navegación secuencial donde se guía al usuario paso a paso a través del proceso de creación de cuenta.<br></br>
+
 - **Sección Inferior:**
 En la parte inferior de la página, se incluye una navegación adicional que proporciona acceso rápido a información importante y complementaria, como "Contáctanos.
 
@@ -291,19 +292,20 @@ En esta sección, se aplicaron los sistemas de búsqueda como la barra de navega
 
 ![mockups](https://i.ibb.co/k2wyfbK/mockups.png)
 <br>
+
 **Principales Mock-ups:**
 
-- Registro
-![registro](https://i.ibb.co/HDf9r0h/registro.png)
-<br>
-- Inicio de sesión
-![inicios](https://i.ibb.co/Xs0Mm0P/inicios.png)
-<br>
+- Registro<br>
+![registro](https://i.ibb.co/HDf9r0h/registro.png)<br></br>
+
+- Inicio de sesión<br>
+![inicios](https://i.ibb.co/Xs0Mm0P/inicios.png)<br></br>
+
 - Perfil<br>
-![perfil](https://i.ibb.co/FxGjBfW/perfil.png)
-<br>
+<a href="https://ibb.co/DK8PvV4"><img src="https://i.ibb.co/GPtf8x7/image.png" alt="image" border="0"></a><br></br>
+
 - Búsqueda de vehículos<br>
-![busqueda](https://i.ibb.co/WxrLWP7/busqueda.png)
+<a href="https://ibb.co/Hzs36Zj"><img src="https://i.ibb.co/T8Sd6ys/image.png" alt="image" border="0"></a><br></br>
 
 Enlace del Figma: [(https://www.figma.com/file/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=0%3A1&mode=design&t=oV4ZYw2Es2V34LBK-1](https://www.figma.com/file/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=0%3A1&mode=design&t=oV4ZYw2Es2V34LBK-1)
 
@@ -404,22 +406,22 @@ En esta sección, se mostrarán los distintos diagramas elaborados que represent
 
 #### 4.6.1. Software Architecture Context Diagram.
 
-![ContextDiagram](/Ruedarent-Report/feature/assets/dd1.png)
+<a href="https://ibb.co/m6WBPpc"><img src="https://i.ibb.co/RzwSJ8D/dd1.png" alt="dd1" border="0"></a>
 
 #### 4.6.2. Software Architecture Container Diagrams.
 
-![ContainerDiagram](/Ruedarent-Report/feature/assets/dd2.png)
+<a href="https://ibb.co/d706wNz"><img src="https://i.ibb.co/HXDYfck/dd2.png" alt="dd2" border="0"></a>
 
 #### 4.6.3. Software Architecture Components Diagrams.
 
 - En este primer caso se muestran las funcionalidades que tendrá nuestra aplicación web.
-![Component1](/Ruedarent-Report/feature/assets/dd3.png)
+<a href="https://ibb.co/5MrrGnZ"><img src="https://i.ibb.co/JBvvmyZ/dd3.png" alt="dd3" border="0"></a>
 
 - En este segundo caso se mostrarán los componentes necesarios para la seguridad.
-![Component2](/Ruedarent-Report/feature/assets/dd4.png)
+<a href="https://ibb.co/qJybVGm"><img src="https://i.ibb.co/rd7nNP5/dd4.png" alt="dd4" border="0"></a>
 
 - En este tercer caso se muestran los componentes necesarios para los comentarios.
-![Component3](/Ruedarent-Report/feature/assets/dd5.png)
+<a href="https://ibb.co/wsdTN5k"><img src="https://i.ibb.co/zJm1hqM/dd5.png" alt="dd5" border="0"></a>
 
 ### 4.7. Software Object-Oriented Design.
 #### 4.7.1. Class Diagrams.
