@@ -16,35 +16,35 @@ Aspiramos a ser la plataforma líder en alquiler de vehículos en Perú, reconoc
 **Branding**
 En este caso se decidio que el icono de la aplicación tenga un diseño sencillo. El fondo es de color verde, con un circulo en medio. Además se usó un logo con la letra R que representa RuedaRent.
 
-![Logo](/Ruedarent-Report/feature/assets/logo.png)<br>
+<a href="https://ibb.co/9VQMtNW"><img src="https://i.ibb.co/ww5vsR4/logo.png" alt="logo" border="0"></a>
 
 **Typography**
 Se escogió esta tipografía debido a que proyecta simplicidad, y un toque moderno el cual creemos que encaja con nuestro proyecto.
 
-![Typography](/Ruedarent-Report/feature/assets/type.png)<br>
+<a href="https://ibb.co/K6Jj1Bk"><img src="https://i.ibb.co/Q94F5hR/type.png" alt="type" border="0"></a>
 
 **Colors**
 En este caso se escogió el color verde, esto debido a que creemos que representa el ideal de nuestra empresa que es promover ayuda al medio ambiente.
 
-![Colors](/Ruedarent-Report/feature/assets/colors.png)<br>
+<a href="https://ibb.co/zn2T71f"><img src="https://i.ibb.co/4mSnYcN/colors.png" alt="colors" border="0"></a>
 
 **Spacing**
 <br>En este caso se escogió un espacio de 4px.
 
-![Space](/Ruedarent-Report/feature/assets/Scale.png)
+<a href="https://ibb.co/Gx6KGj8"><img src="https://i.ibb.co/kH7RzFw/Scale.png" alt="Scale" border="0"></a>
 
 En este caso el tono de comunicación elegido, por la naturaleza de la aplicación, será serio, formal y sereno.
 
 **Components**
 Ademas los anteriores decidimos agregar algunos componentes que nos ayudarán a la elaboración del landing page.
 
-![Components](/Ruedarent-Report/feature/assets/components.png)<br>
+<a href="https://ibb.co/GvNT1cp"><img src="https://i.ibb.co/VW5mh29/components.png" alt="components" border="0"></a>
 
 #### 4.1.2. Web Style Guidelines.
 
 **Responsive Web Interface**
 
-![WebStyle](/Ruedarent-Report/feature/assets/WebStle.png)<br>
+<a href="https://ibb.co/hYCsbjL"><img src="https://i.ibb.co/CPWBgZm/WebStle.png" alt="WebStle" border="0"></a>
 
 El contenido que se prioriza son inscríbase, vehículos, y beneficios, ya que, en este caso nuestro objetivo principal es llegar a las personas de manera rapida ofreciendo información accesible. 
 
@@ -62,7 +62,7 @@ El propósito del sistema de organización de la página es establecer la estruc
 **Homepage**
 La página se divide en distintas secciones que incluyen: Página principal, Acerca de nosotros, Inscríbase, Vehículos, Beneficios y Contacto.
 
-![SecciónArriba](/Ruedarent-Report/feature/assets/UpSection.png)<br>
+<a href="https://ibb.co/vzPbt6S"><img src="https://i.ibb.co/ZT83Zp0/Up-Section.png" alt="Up-Section" border="0"></a>
 
 En la parte superior de la página principal, se encuentran las opciones que conducen a otras secciones. Esto sigue un patrón de diseño F, diseñado para enfatizar la importancia de que el usuario conozca la empresa y todo lo que la página tiene para ofrecer. Finalmente, el usuario puede registrarse o iniciar sesión, lo cual está representado por botones en el extremo derecho.
 
@@ -85,8 +85,8 @@ Se han considerado dos pantallas para el módulo de registro de usuario: la pág
 **Sistema**
 Para el sistema de mensajes de error y ayuda, se utilizará un método de resaltado del cuadro de texto en rojo cuando se ingrese un carácter no permitido. Si se envía la información sin corregir el error, aparecerá una ventana emergente que indicará el error cometido y se proporcionará la opción "Listo" para volver al formulario. En la página web o aplicación, se indicará el error cometido y se señalará lo que debe corregirse, como ingresar un carácter no permitido o proporcionar información faltante.
 
-![label](/Ruedarent-Report/feature/assets/label.png)
-![error](/Ruedarent-Report/feature/assets/correction.png)<br>
+<a href="https://ibb.co/HDTQRD6"><img src="https://i.ibb.co/mC57dCk/label.png" alt="label" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/QbYyDpK/correction.png" alt="correction" border="0"></a>
 
 #### 4.2.3. SEO Tags and Meta Tags
 
@@ -148,8 +148,8 @@ En la parte inferior de la página, se incluye una navegación adicional que pro
 Utilizaremos un sistema de navegación conocido como "Hamburger Menú" que consiste en un panel izquierdo de navegación. Este panel nos permitirá aplicar filtros y subfiltros durante la búsqueda, lo que nos ayudará a organizar y presentar varias opciones de navegación de forma clara y concisa, manteniendo así la aplicación ordenada y fácil de usar.
 Asimismo se usará la barra de búsqueda para que las personas busquen sus necesidades.
 
-![dropdown](/Ruedarent-Report/feature/assets/dropdown.png)
-![hambmenu](/Ruedarent-Report/feature/assets/hambmenu.png)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6Hn8pn2/dropdown.png" alt="dropdown" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/K2f3jrm/hambmenu.png" alt="hambmenu" border="0"></a>
 
 ### 4.3. Landing Page UI Design.
 
@@ -157,23 +157,23 @@ Se diseñó esta interfaz con simplicidad en mente, utilizando colores claros co
 
 #### 4.3.1. Landing Page Wireframe.
 
-![Wireframe1](/Ruedarent-Report/feature/assets/wireframe1.png)
-![Wireframe2](/Ruedarent-Report/feature/assets/wireframe2.png)
-![Wireframe3](/Ruedarent-Report/feature/assets/wireframe3.png)
-![Wireframe4](/Ruedarent-Report/feature/assets/wireframe4.png)
-![Wireframe5](/Ruedarent-Report/feature/assets/wireframe5.png)
-![Wireframe6](/Ruedarent-Report/feature/assets/wireframe6.png)
+<a href="https://ibb.co/CmBrCvZ"><img src="https://i.ibb.co/XjXw0pg/wireframe1.png" alt="wireframe1" border="0"></a>
+<a href="https://ibb.co/sHq0hTJ"><img src="https://i.ibb.co/cLQGPWX/wireframe2.png" alt="wireframe2" border="0"></a>
+<a href="https://ibb.co/Q6h2QBW"><img src="https://i.ibb.co/YtJzQ95/wireframe3.png" alt="wireframe3" border="0"></a>
+<a href="https://ibb.co/vvr5pGC"><img src="https://i.ibb.co/84R3qpn/wireframe3.png" alt="wireframe3" border="0"></a>
+<a href="https://ibb.co/crjhgjJ"><img src="https://i.ibb.co/FDF4xF6/wireframe5.png" alt="wireframe5" border="0"></a>
+<a href="https://ibb.co/KD0vdvW"><img src="https://i.ibb.co/1MvW1WT/wireframe6.png" alt="wireframe6" border="0"></a>
 
 Enlace de los Wireframes: https://www.figma.com/file/MYUgkXCBBiPkPT98q6F072/Untitled-(Copy)?type=design&node-id=28%3A910&mode=design&t=dwN8VALw3i3zrJ2y-1
 
 #### 4.3.2. Landing Page Mock-up.
 
-![Landingpage1](/Ruedarent-Report/feature/assets/land1.png)
-![Landingpage2](/Ruedarent-Report/feature/assets/land2.png)
-![Landingpage3](/Ruedarent-Report/feature/assets/land3.png)
-![Landingpage4](/Ruedarent-Report/feature/assets/land4.png)
-![Landingpage5](/Ruedarent-Report/feature/assets/land5.png)
-![Landingpage6](/Ruedarent-Report/feature/assets/land6.png)
+<a href="https://ibb.co/16Ljm1k"><img src="https://i.ibb.co/TLkdg6s/land1.png" alt="land1" border="0"></a>
+<a href="https://ibb.co/q9Xy0zS"><img src="https://i.ibb.co/WFqxDQh/land2.png" alt="land2" border="0"></a>
+<a href="https://ibb.co/2ZvsrdS"><img src="https://i.ibb.co/BnyrJBG/land3.png" alt="land3" border="0"></a>
+<a href="https://ibb.co/cgYhR0L"><img src="https://i.ibb.co/WxVv7Zt/land4.png" alt="land4" border="0"></a>
+<a href="https://ibb.co/ZTgfsSD"><img src="https://i.ibb.co/F7YhvXT/land5.png" alt="land5" border="0"></a>
+<a href="https://ibb.co/ypyZQDb"><img src="https://i.ibb.co/tzsvJSW/land6.png" alt="land6" border="0"></a>
 
 Enlace de los Mock-up: https://www.figma.com/file/MYUgkXCBBiPkPT98q6F072/Untitled-(Copy)?type=design&node-id=28%3A910&mode=design&t=dwN8VALw3i3zrJ2y-1
 
@@ -424,7 +424,7 @@ En esta sección, se mostrarán los distintos diagramas elaborados que represent
 ### 4.7. Software Object-Oriented Design.
 #### 4.7.1. Class Diagrams.
 
-![ClassDiagram](/Ruedarent-Report/feature/assets/ddd.jpeg)
+<a href="https://ibb.co/9bFwH2S"><img src="https://i.ibb.co/LxLQd6H/ddd.jpg" alt="ddd" border="0"></a>
 
 #### 4.7.2. Class Dictionary.
 
