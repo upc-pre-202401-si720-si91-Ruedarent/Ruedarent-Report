@@ -295,16 +295,16 @@ En esta sección, se aplicaron los sistemas de búsqueda como la barra de navega
 
 **Principales Mock-ups:**
 
-- Registro
+- Registro<br>
 ![registro](https://i.ibb.co/HDf9r0h/registro.png)<br></br>
 
-- Inicio de sesión
+- Inicio de sesión<br>
 ![inicios](https://i.ibb.co/Xs0Mm0P/inicios.png)<br></br>
 
-- Perfil
+- Perfil<br>
 <a href="https://ibb.co/DK8PvV4"><img src="https://i.ibb.co/GPtf8x7/image.png" alt="image" border="0"></a><br></br>
 
-- Búsqueda de vehículos
+- Búsqueda de vehículos<br>
 <a href="https://ibb.co/Hzs36Zj"><img src="https://i.ibb.co/T8Sd6ys/image.png" alt="image" border="0"></a><br></br>
 
 Enlace del Figma: [(https://www.figma.com/file/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=0%3A1&mode=design&t=oV4ZYw2Es2V34LBK-1](https://www.figma.com/file/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=0%3A1&mode=design&t=oV4ZYw2Es2V34LBK-1)
