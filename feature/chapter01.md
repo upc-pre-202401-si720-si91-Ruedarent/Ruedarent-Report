@@ -21,22 +21,27 @@ Ruedarent es una startup conformada por estudiantes de la Universidad Peruana de
 Esta sección está compuesta por dos partes: 
 
 - Antecedentes y Problemática:
-En esta sección se abordará la problemática que el proyecto tiene como objetivo abordar. Esto incluirá la exposición del problema, una descripción de los aspectos críticos que la solución debe atender, así como los objetivos y limitaciones del proyecto.
-<br>
+En esta sección se abordará la problemática que el proyecto tiene como objetivo abordar. Esto incluirá la exposición del problema, una descripción de los aspectos críticos que la solución debe atender, así como los objetivos y limitaciones del proyecto.<br></br>
 
-- Lean UX Process: <br>Esta sección aplicará el proceso Lean UX y detallará cómo se abordará la problemática a través del modelo de negocio.
+- Lean UX Process:
+Esta sección aplicará el proceso Lean UX y detallará cómo se abordará la problemática a través del modelo de negocio.
 
 ### 1.2.1. Antecedentes y problemática
 
-- Antecedentes:<br>En los últimos años, el aumento del parque automotor, combinado con el incremento de la población en las principales ciudades del Perú ha producido un caos vehicular evidente, reflejado en los congestionamientos habituales en las vías. Esta situación no solo provoca más emisiones de gases contaminantes y prolonga el tiempo de desplazamiento, sino que también atrapa a los ciudadanos en el tráfico, lo que resulta en una pérdida de tiempo y productividad. Además, este escenario favorece el comportamiento sedentario, impactando negativamente en la vida diaria, la salud y el rendimiento de los habitantes que usan el transporte urbano.
-<br>
-- Aspectos a solucionar:<br>Abordar la problemática requiere promover el uso de medios de transporte alternativos como bicicletas, scooters, entre otros, así como fomentar un estilo de vida activo mediante la adopción de hábitos saludables. Igualmente, se debe mejorar la infraestructura vial y concientizar a las personas de la importancia de reducir la cantidad de uso de automóviles.
-<br>
-- Solución innovadora:<br>La propuesta de Ruedarent a la problemática de la contaminación ambiental, caos vehicular y falta de actividad en la vida diaria de los ciudadanos, es ofrecer una alternativa de movilidad urbana más ágil y flexible, a través de una aplicación web que estará disponible en los navegadores más usados como Chrome, Firefox y Edge. Esta aplicación web proporcionará una forma conveniente y accesible para que los usuarios puedan encontrar y alquilar los vehículos que prefieran de forma sencilla y contará con un modelo de suscripciones que brindará beneficios adicionales a los usuarios como descuentos en el alquiler y bloqueo de anuncios. La implementación de esta solución aspira a reducir la dependencia a los autos personales y fomentar el uso de medios de transporte sostenibles y activos para que se adopte un estilo de vida más saludable entre los usuarios. Asimismo, se busca contribuir a la disminución de emisión de gases contaminantes y a la mejora de la calidad de aire en las zonas urbanas. El modelo de negocio se basa en la obtención de ganancias a través de las comisiones de los alquileres que se realizan en la plataforma, así como de los ingresos generados por publicidad y los precios de las suscripciones.<br></br>
+- Antecedentes:
+En los últimos años, el aumento del parque automotor, combinado con el incremento de la población en las principales ciudades del Perú ha producido un caos vehicular evidente, reflejado en los congestionamientos habituales en las vías. Esta situación no solo provoca más emisiones de gases contaminantes y prolonga el tiempo de desplazamiento, sino que también atrapa a los ciudadanos en el tráfico, lo que resulta en una pérdida de tiempo y productividad. Además, este escenario favorece el comportamiento sedentario, impactando negativamente en la vida diaria, la salud y el rendimiento de los habitantes que usan el transporte urbano.<br></br>
 
-- Objetivos:<br>Aumentar el número de usuarios que hacen uso de transportes sostenibles como bicicletas, scooters y skateboards, mediante el alquiler ofrecido por la aplicación web. Mejorar la accesibilidad al transporte urbano, proporcionando una alternativa ágil y flexible de movilización a los usuarios. Desarrollar una aplicación web atractiva e intuitiva para que todos los usuarios puedan comprender rápidamente el funcionamiento y propósito de nuestra aplicación.<br></br>
+- Aspectos a solucionar:
+Abordar la problemática requiere promover el uso de medios de transporte alternativos como bicicletas, scooters, entre otros, así como fomentar un estilo de vida activo mediante la adopción de hábitos saludables. Igualmente, se debe mejorar la infraestructura vial y concientizar a las personas de la importancia de reducir la cantidad de uso de automóviles. <br></br>
 
-- Restricciones:<br>Ruedarent propone una solución prometedora para transformar la movilidad urbana, sin embargo pueden presentarse algunos desafíos como la seguridad y resistencia al cambio por parte de los ciudadanos, así como la baja disposición de recursos y financiamiento necesarios para el desarrollo completo del proyecto.
+- Solución innovadora:
+La propuesta de Ruedarent a la problemática de la contaminación ambiental, caos vehicular y falta de actividad en la vida diaria de los ciudadanos, es ofrecer una alternativa de movilidad urbana más ágil y flexible, a través de una aplicación web que estará disponible en los navegadores más usados como Chrome, Firefox y Edge. Esta aplicación web proporcionará una forma conveniente y accesible para que los usuarios puedan encontrar y alquilar los vehículos que prefieran de forma sencilla y contará con un modelo de suscripciones que brindará beneficios adicionales a los usuarios como descuentos en el alquiler y bloqueo de anuncios. La implementación de esta solución aspira a reducir la dependencia a los autos personales y fomentar el uso de medios de transporte sostenibles y activos para que se adopte un estilo de vida más saludable entre los usuarios. Asimismo, se busca contribuir a la disminución de emisión de gases contaminantes y a la mejora de la calidad de aire en las zonas urbanas. El modelo de negocio se basa en la obtención de ganancias a través de las comisiones de los alquileres que se realizan en la plataforma, así como de los ingresos generados por publicidad y los precios de las suscripciones. <br></br>
+
+- Objetivos:
+Aumentar el número de usuarios que hacen uso de transportes sostenibles como bicicletas, scooters y skateboards, mediante el alquiler ofrecido por la aplicación web. Mejorar la accesibilidad al transporte urbano, proporcionando una alternativa ágil y flexible de movilización a los usuarios. Desarrollar una aplicación web atractiva e intuitiva para que todos los usuarios puedan comprender rápidamente el funcionamiento y propósito de nuestra aplicación.<br></br>
+
+- Restricciones:
+Ruedarent propone una solución prometedora para transformar la movilidad urbana, sin embargo pueden presentarse algunos desafíos como la seguridad y resistencia al cambio por parte de los ciudadanos, así como la baja disposición de recursos y financiamiento necesarios para el desarrollo completo del proyecto.
 
 #### Uso de la técnica  The 5'W's w Y 2'H's
 
@@ -53,12 +58,15 @@ En esta sección se abordará la problemática que el proyecto tiene como objeti
 ### 1.2.2. Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 
-- Situación:<br>En el contexto actual, nos encontramos con un grupo de usuarios que se enfrentan a dificultades financieras significativas, lo que les impide realizar pagos inmediatos para acceder a la suscripción de nuestra aplicación.
-<br>
-- Problema:<br>La situación financiera desfavorable de estos usuarios está generando una barrera para que puedan aprovechar los beneficios y servicios que nuestra aplicación ofrece. Esta falta de acceso a la suscripción completa está limitando su capacidad para utilizar funcionalidades clave, como el alquiler de vehículos, lo que a su vez les está privando de una experiencia óptima con nuestra plataforma.
-<br>
-- Propuesta de Solución en Pregunta:<br>Nos enfrentamos al desafío de diseñar e implementar un modelo de pago flexible que se adapte a las necesidades y circunstancias financieras de estos usuarios. 
-**¿Cómo podemos desarrollar un sistema que les permita acceder a nuestra aplicación y disfrutar de sus servicios, incluso si no pueden realizar el pago completo de la suscripción de manera inmediata?**
+- Situación:
+En el contexto actual, nos encontramos con un grupo de usuarios que se enfrentan a dificultades financieras significativas, lo que les impide realizar pagos inmediatos para acceder a la suscripción de nuestra aplicación.<br></br>
+
+- Problema:
+La situación financiera desfavorable de estos usuarios está generando una barrera para que puedan aprovechar los beneficios y servicios que nuestra aplicación ofrece. Esta falta de acceso a la suscripción completa está limitando su capacidad para utilizar funcionalidades clave, como el alquiler de vehículos, lo que a su vez les está privando de una experiencia óptima con nuestra plataforma.<br></br>
+
+- Propuesta de Solución en Pregunta:
+Nos enfrentamos al desafío de diseñar e implementar un modelo de pago flexible que se adapte a las necesidades y circunstancias financieras de estos usuarios. 
+<b>¿Cómo podemos desarrollar un sistema que les permita acceder a nuestra aplicación y disfrutar de sus servicios, incluso si no pueden realizar el pago completo de la suscripción de manera inmediata?</b>
 
 #### 1.2.2.2. Lean UX Assumptions.
 
@@ -89,23 +97,22 @@ Los principales usuarios de la plataforma serán principalmente aquellos que pos
 User Assumptions:
 
 - **¿Quién es el usuario?** 
-El usuario de nuestro producto es tanto el propietario de vehículos como el usuario que alquila.
-<br>
+El usuario de nuestro producto es tanto el propietario de vehículos como el usuario que alquila.<br>
+
 - **¿Dónde encaja nuestro producto en sus trabajos o vidas?**
-Nuestro producto encaja proporcionando una solución para satisfacer necesidades de transporte de manera temporal y flexible.
-<br>
+Nuestro producto encaja proporcionando una solución para satisfacer necesidades de transporte de manera temporal y flexible.<br>
+
 - **¿Qué problema resuelve nuestro producto?**
-Resuelve la necesidad de acceso a vehículos en momentos específicos sin la carga financiera y logística de la propiedad permanente de un automóvil.
-<br>
+Resuelve la necesidad de acceso a vehículos en momentos específicos sin la carga financiera y logística de la propiedad permanente de un automóvil.<br>
+
 - **¿Cuándo y cómo es usado nuestro producto?**
-Nuestro producto es usado cuando los usuarios necesitan un vehículo para desplazarse temporalmente, a través de una plataforma en línea o una aplicación móvil.
-<br>
+Nuestro producto es usado cuando los usuarios necesitan un vehículo para desplazarse temporalmente, a través de una plataforma en línea o una aplicación móvil.<br>
+
 - **¿Qué características son importantes?**
-Características importantes incluyen un proceso de reserva fácil y seguro, una amplia variedad de vehículos para elegir, flexibilidad en los términos de alquiler y precios, sistema de calificación y reseñas, y soporte al cliente accesible.
-<br>
+Características importantes incluyen un proceso de reserva fácil y seguro, una amplia variedad de vehículos para elegir, flexibilidad en los términos de alquiler y precios, sistema de calificación y reseñas, y soporte al cliente accesible.<br>
+
 - **¿Cómo debería verse y comportarse nuestro producto?**
-Debería tener una interfaz intuitiva y fácil de usar, presentar información clara sobre los vehículos disponibles, tarifas, disponibilidad y condiciones de alquiler, ser seguro y confiable con medidas de verificación de identidad y pagos seguros, y tener un aspecto visual atractivo, moderno y profesional.
-<br>
+Debería tener una interfaz intuitiva y fácil de usar, presentar información clara sobre los vehículos disponibles, tarifas, disponibilidad y condiciones de alquiler, ser seguro y confiable con medidas de verificación de identidad y pagos seguros, y tener un aspecto visual atractivo, moderno y profesional.<br>
 
 **Business Assumptions**
 
