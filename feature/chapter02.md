@@ -167,7 +167,7 @@ Entrevista N°2:
 
 **Enlace:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EWhk4QtlBRtKrgwSuZ3xJXgBXqli_N4swEgt0B76K0I-MA?e=76cjaN><br>
 
-**Resumen De Entrevista:** La entrevistada indica que estaría interesada en alquilar su vehículo en una plataforma, ya que no lo usa constantemente y eso le daría más visibilidad, pero la plataforma de alquiler tendría que asegurar que los usuarios sean confiables para no arriesgar su vehículo y que la entrega o devolución no sea una experiencia frustrante.
+**Resumen de la Entrevista:** La entrevistada indica que estaría interesada en alquilar su vehículo en una plataforma, ya que no lo usa constantemente y eso le daría más visibilidad, pero la plataforma de alquiler tendría que asegurar que los usuarios sean confiables para no arriesgar su vehículo y que la entrega o devolución no sea una experiencia frustrante.
 
 Entrevista N°3:
 
@@ -181,7 +181,7 @@ Entrevista N°3:
 
 **Enlace:** <https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EXvE1_J-d_1KgTYSLpbwIIMB08uuWq-4JsMMNuejlKNK4g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n3UdsN><br>
 
-**Resumen De Entrevista:** La entrevistada menciona que consideraría alquilar uno de sus dos vehículos (scooter), porque no estaría muy segura de cómo resultaría el alquiler de una bicicleta. Asimismo, resalta que la seguridad es un factor muy importante para tomar la decisión de alquilar su vehículo.
+**Resumen de la Entrevista:** La entrevistada menciona que consideraría alquilar uno de sus dos vehículos (scooter), porque no estaría muy segura de cómo resultaría el alquiler de una bicicleta. Asimismo, resalta que la seguridad es un factor muy importante para tomar la decisión de alquilar su vehículo.
 
 **Entrevista para los "Usuarios que desean alquilar":**
 
@@ -283,9 +283,11 @@ Para este proyecto en particular, decidimos interactuar con potenciales usuarios
 ### 2.3.1. User Personas.
 
 - **Primer segmento: Usuario que Alquila**
+
 ![Img_segmento1](https://i.ibb.co/HqjyJbG/photo-SE01.png")
 
 - **Segundo segmento: Propietario de Vehículo**
+
 <a href="https://ibb.co/pPpXmrp"><img src="https://i.ibb.co/hMv8q1v/photo-SE02.png" alt="photo-SE02" border="0"></a>
 
 ### 2.3.2. User Task Matrix.
