@@ -359,6 +359,216 @@
     </tbody>
 </table>
 
+<table>
+    <thead>
+        <tr>
+            <th class= "red">Epic/Story ID</th>
+            <th class= "red">US14</th>
+            <th class= "red">Relacionado con (Epic ID)</th>
+            <th class= "red">EP4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class= "red">Título</td>
+            <th colspan=3 align= "justify">Pago de plan de suscripción</th>
+        </tr>
+        <tr>
+            <td class= "red">Descripción</td>
+            <th colspan=3 align= "justify">Como propietario quiero realizar el pago de un plan para acceder a características y beneficios adicionales</th>
+        </tr>
+        <tr> 
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b>
+            <br><b><span>Scenario 1:</span></b> Pago exitoso
+            <br><b><span>Dado que</b></span> el propietario desea adquirir un plan de suscripción 
+            <br><b><span>Cuando</b></span> elige un plan de suscripción
+            <br><b><span>Y</b></span> va a la sección de detalles del pedido
+             <br><b><span>Y</b></span> selecciona el botón de pagar con PayPal
+             <br><b><span>Y</b></span> confirma el pago en la plataforma de PayPal
+            <br><b><span>Entonces</b></span> el sistema procesa con éxito el pago.
+             <br><b><span>Y</b></span> se actualiza la cuenta del propietario
+          	 <br><b><span>Y</b></span> el sistema concede acceso a las características y beneficios adicionales asociados al plan
+               <br><b><span>Scenario 2:</span></b> Pago fallido
+            <br><b><span>Dado que</b></span> el propietario desea adquirir un plan de suscripción 
+            <br><b><span>Cuando</b></span> elige un plan de suscripción
+            <br><b><span>Y</b></span> va a la sección de detalles del pedido
+             <br><b><span>Y</b></span> selecciona el botón de pagar con PayPal
+             <br><b><span>Y</b></span> intenta realizar el pago en la plataforma de PayPal
+              <br><b><span>Y</b></span> el pago falla debido a problemas con PayPal
+            <br><b><span>Entonces</b></span> el sistema muestra un mensaje de error
+          </td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th class= "red">Epic/Story ID</th>
+            <th class= "red">US15</th>
+            <th class= "red">Relacionado con (Epic ID)</th>
+            <th class= "red">EP4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class= "red">Título</td>
+            <th colspan=3 align= "justify">Información de pedido</th>
+        </tr>
+        <tr>
+            <td class= "red">Descripción</td>
+            <th colspan=3 align= "justify">Como propietario quiero visualizar la información del pedido para revisar los detalles antes de realizar el pago</th>
+        </tr>
+        <tr> 
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b>
+            <br><b><span>Scenario :</span></b> Visualización de Información del Pedido
+            <br><b><span>Dado que</b></span> el propietario desea adquirir un plan de suscripción 
+            <br><b><span>Cuando</b></span> el propietario elige un plan de suscripción
+            <br><b><span>Entonces</b></span> el propietario va a la sección de detalles del pedido
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th class= "red">Epic/Story ID</th>
+            <th class= "red">US16</th>
+            <th class= "red">Relacionado con (Epic ID)</th>
+            <th class= "red">EP4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class= "red">Título</td>
+            <th colspan=3 align= "justify">Personalización de perfil de propietario</th>
+        </tr>
+        <tr>
+            <td class= "red">Descripción</td>
+            <th colspan=3 align= "justify">Como propietario de vehículos, quiero poder personalizar mi perfil para mostrar información relevante y mejorar mi visibilidad dentro de la plataforma</th>
+        </tr>
+        <tr> 
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b>
+            <br><b><span>Scenario 1:</span></b> Acceso a la Sección de Mi de Perfil
+            <br><b><span>Dado que</b></span> el propietario se ha registrado en la plataforma 
+             <br><b><span>Y</b></span> se encuentra en la página principal de la aplicación
+            <br><b><span>Cuando</b></span> desea personalizar su perfil
+            <br><b><span>Entonces</b></span> el propietario puede acceder fácilmente a la sección de mi perfil desde el menú de navegación principal
+               <br><b><span>Scenario 2:</span></b> Edición de Información del Perfil
+            <br><b><span>Dado que</b></span> el propietario está en la sección de mi perfil
+            <br><b><span>Cuando</b></span> desea actualizar su información 
+            <br><b><span>Y</b></span> realiza los cambios
+            <br><b><span>Entonces</b></span> los cambios se guardan automáticamente
+              <br><b><span>Y</b></span> el perfil se actualiza con la nueva información proporcionada
+          </td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th class= "red">Epic/Story ID</th>
+            <th class= "red">US17</th>
+            <th class= "red">Relacionado con (Epic ID)</th>
+            <th class= "red">EP4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class= "red">Título</td>
+            <th colspan=3 align= "justify">Personalización de perfil del usuario que desea alquilar</th>
+        </tr>
+        <tr>
+            <td class= "red">Descripción</td>
+            <th colspan=3 align= "justify">Como usuario que desea alquilar, deseo poder personalizar mi perfil para reflejar mis preferencias y necesidades</th>
+        </tr>
+        <tr> 
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b>
+            <br><b><span>Scenario 1:</span></b> Acceso a la Sección de Mi Perfil
+            <br><b><span>Dado que</b></span> el usuario que desea alquilar se ha registrado en la plataforma 
+             <br><b><span>Y</b></span> se encuentra en la página principal de la aplicación
+            <br><b><span>Cuando</b></span> desea personalizar su perfil
+            <br><b><span>Entonces</b></span> el usuario que desea alquilar puede acceder fácilmente a la sección de mi perfil desde el menú de navegación principal
+               <br><b><span>Scenario 2:</span></b> Edición de Información del Perfil
+            <br><b><span>Dado que</b></span> el usuario que desea alquilar está en la sección de mi perfil
+            <br><b><span>Cuando</b></span> desea actualizar su información 
+            <br><b><span>Y</b></span> realiza los cambios
+            <br><b><span>Entonces</b></span> los cambios se guardan automáticamente
+              <br><b><span>Y</b></span> el perfil se actualiza con la nueva información proporcionada
+          </td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th class= "red">Epic/Story ID</th>
+            <th class= "red">US18</th>
+            <th class= "red">Relacionado con (Epic ID)</th>
+            <th class= "red">EP4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class= "red">Título</td>
+            <th colspan=3 align= "justify">Comunicación con el propietario</th>
+        </tr>
+        <tr>
+            <td class= "red">Descripción</td>
+            <th colspan=3 align= "justify">Como usuario que desea alquilar quiero comunicarme con el propietario del vehículo para coordinar más detalles sobre el alquiler</th>
+        </tr>
+        <tr> 
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b>
+            <br><b><span>Scenario 1:</span></b> Selección de Vehículo y Navegación a la Página de Rent Vehicle
+            <br><b><span>Dado que</b></span> el usuario que desea alquilar un vehículo busca un vehículo
+            <br><b><span>Cuando</b></span> selecciona un vehículo específico de la lista de vehículos disponibles
+            <br><b><span>Entonces</b></span> es redirigido a una página que muestra información detallada sobre el vehículo seleccionado
+               <br><b><span>Scenario 2:</span></b> Comunicación con el Propietario
+            <br><b><span>Dado que</b></span> el usuario que desea alquilar está en la página de Rent Vehicle
+               <br><b><span>Y</b></span> desea obtener más detalles o realizar consultas adicionales al propietario
+            <br><b><span>Cuando</b></span> hace clic en el botón de contacto por WhatsApp
+            <br><b><span>Entonces</b></span> se abre la aplicación de WhatsApp en su dispositivo con el número del propietario
+          </td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <thead>
+        <tr>
+            <th class= "red">Epic/Story ID</th>
+            <th class= "red">US19</th>
+            <th class= "red">Relacionado con (Epic ID)</th>
+            <th class= "red">EP4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class= "red">Título</td>
+            <th colspan=3 align= "justify">Ver recomendaciones de vehículos</th>
+        </tr>
+        <tr>
+            <td class= "red">Descripción</td>
+            <th colspan=3 align= "justify">Como usuario que desea alquilar quiero ver recomendaciones de los vehículos más usados para poder tomar decisiones fácilmente</th>
+        </tr>
+        <tr> 
+            <td colspan=4><b class= "red">Criterios de Aceptación:</b>
+            <br><b><span>Scenario 1:</span></b> Acceso a la Sección de Recomendaciones
+            <br><b><span>Dado que</b></span> el usuario que desea alquilar un vehículo está navegando por la plataforma
+            <br><b><span>Cuando</b></span> desea obtener recomendaciones de vehículos populares
+            <br><b><span>Entonces</b></span> puede acceder fácilmente a la sección de recomendaciones desde el menú de navegación
+               <br><b><span>Scenario 2:</span></b> Visualización de Vehículos Recomendados
+            <br><b><span>Dado que</b></span> el usuario que desea alquilar está en la sección de recomendaciones de vehículos 
+            <br><b><span>Cuando</b></span> navega por la galería de vehículos recomendados
+              <br><b><span>Y</b></span> presiona el botón Ver más
+            <br><b><span>Entonces</b></span> es redirigido a la página de visualización de más vehículos disponibles
+          </td>
+        </tr>
+    </tbody>
+</table>
+
 ## 3.3. Impact Mapping.
 
 En esta sección, debemos identificar los "Business Goals" para nuestra aplicación web, la cual conecta a personas que desean alquilar un vehículo con propietarios que desean ofrecer sus vehículos. Estos usuarios nos ayudarán a cumplir estos objetivos. Hemos identificado el "Impact" o impacto que deseamos lograr, y luego estableceremos los "Deliverables" que nos permitirán como negocio digital alcanzar estos impactos. Finalmente, incluiremos las "User Stories" para obtener las características o funcionalidades que ayudarán a producir los Deliverables.
