@@ -2056,7 +2056,7 @@ Link de Trello: https://trello.com/invite/b/QrkkbMZh/ATTI99d4f743d468b1e75466f74
 
 | Repository | Branch | Commit ID | Commit Message | Commit Message (Body) | Commited on (Date) |
 |------------|--------|-----------|----------------|------------------------|--------------------|
-| Frontend   | main   | fa41cc3   | feat: added proyect via commit |                          | 26/04/2024         |
+| Frontend   | main   | fa41cc3   | feat: added project via commit |                          | 26/04/2024         |
 | Frontend   | main   | 049e961   | chore(primevue): added primevue into the public/components branch |                          | 26/04/2024         |
 | Frontend   | main   | 202fee1   | chore(primeflex): added primeflex into the public/components branch |                          | 26/04/2024         |
 | Frontend   | main   | a798094   | feat(navbar)/chore(main.js): added navbar content and iconfield and inputicon components |                          | 26/04/2024         |
@@ -2067,9 +2067,11 @@ Link de Trello: https://trello.com/invite/b/QrkkbMZh/ATTI99d4f743d468b1e75466f74
 Durante este sprint, se llevaron a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar las pruebas de aceptación en el siguiente enlace: https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Acceptance-Tests
 
 Barra de navegación-Feature
+
 <img src="https://i.ibb.co/4TjvPsC/image.png">
 
 Sección de contactos-Feature
+
 <img src="https://i.ibb.co/Z8SRgX9/image.png">
 
 ### 5.2.2.5 Execution Evidence for Sprint Review.
@@ -2118,12 +2120,15 @@ Tabla de integrantes:
 A continuación se mostrarán los gráficos de insights durante el sprint:
 
 Anexo: Flujo de trabajo entre las ramas.
+
 <img src="https://i.ibb.co/ZGRWccW/image.png">
 
 Anexo: Tablas de commits en el periodo de 1 mes.
+
 <img src="https://i.ibb.co/bvjTZmj/image.png">
 
 Anexo: Flujo de trabajo en el periodo de 1 mes.
+
 <img src="https://i.ibb.co/m4srS07/image.png">
 
 ## Conclusiones
@@ -2149,52 +2154,95 @@ Rojas, A. J., & Muñoz Ruiz, V. P. (2022). Propuesta de uso de bicicletas en Lim
 ## Anexos
 
 **Anexo 1:**
-Entrevistas Propietarios: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EQh3NNNYUeROu-IXmUgcD_UBhGheSxjDGKPq25GKPsPARw?e=cCbJ49&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Entrevistas Propietarios: 
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EQh3NNNYUeROu-IXmUgcD_UBhGheSxjDGKPq25GKPsPARw?e=cCbJ49&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EWhk4QtlBRtKrgwSuZ3xJXgBXqli_N4swEgt0B76K0I-MA?e=76cjaN
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221b226_upc_edu_pe/EXvE1_J-d_1KgTYSLpbwIIMB08uuWq-4JsMMNuejlKNK4g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=n3UdsN
 
-Entrevistas usuarios: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Entrevistas usuarios: 
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 https://upcedupe-my.sharepoint.com/personal/u202121935_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121935%5Fupc%5Fedu%5Fpe%2FDocuments%2Fentrevista%20a%20rentador%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpControl%2Eview
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e475_upc_edu_pe/EYx2pVo5UL9Bo3dJ6odmiQYBCXzDww46iPP-WgpJU6sw5Q?e=xfadMp&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Anexo 2:**
-Landing Page Wireframe: https://www.figma.com/file/MYUgkXCBBiPkPT98q6F072/Untitled-(Copy)?type=design&node-id=28%3A910&mode=design&t=dwN8VALw3i3zrJ2y-1
+
+Landing Page Wireframe:
+
+https://www.figma.com/file/MYUgkXCBBiPkPT98q6F072/Untitled-(Copy)?type=design&node-id=28%3A910&mode=design&t=dwN8VALw3i3zrJ2y-1
 
 **Anexo 3:**
-Landing Page Mock-up: https://www.figma.com/file/MYUgkXCBBiPkPT98q6F072/Untitled-(Copy)?type=design&node-id=28%3A910&mode=design&t=dwN8VALw3i3zrJ2y-1
+
+Landing Page Mock-up:
+
+https://www.figma.com/file/MYUgkXCBBiPkPT98q6F072/Untitled-(Copy)?type=design&node-id=28%3A910&mode=design&t=dwN8VALw3i3zrJ2y-1
 
 **Anexo 4:**
-Web Applications Wireframes: https://www.figma.com/file/XDy8vGTBGd3DL1JC70g3tB/Web-Applications-UX%2FUI-Design-(RUEDARENT)?type=design&node-id=0%3A1&mode=design&t=tpiOdHEYpH5ImO24-1
+
+Web Applications Wireframes: 
+
+https://www.figma.com/file/XDy8vGTBGd3DL1JC70g3tB/Web-Applications-UX%2FUI-Design-(RUEDARENT)?type=design&node-id=0%3A1&mode=design&t=tpiOdHEYpH5ImO24-1
 
 **Anexo 5:**
-Web Applications Wireflow Diagrams: https://www.figma.com/file/XDy8vGTBGd3DL1JC70g3tB/Web-Applications-UX%2FUI-Design-(RUEDARENT)?type=design&node-id=0%3A1&mode=design&t=tpiOdHEYpH5ImO24-1
+
+Web Applications Wireflow Diagrams: 
+
+https://www.figma.com/file/XDy8vGTBGd3DL1JC70g3tB/Web-Applications-UX%2FUI-Design-(RUEDARENT)?type=design&node-id=0%3A1&mode=design&t=tpiOdHEYpH5ImO24-1
 
 **Anexo 6:**
-Web Applications Mock-ups: https://www.figma.com/file/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=0%3A1&mode=design&t=oV4ZYw2Es2V34LBK-1
+
+Web Applications Mock-ups:
+
+https://www.figma.com/file/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=0%3A1&mode=design&t=oV4ZYw2Es2V34LBK-1
 
 **Anexo 7:**
-Web Applications User Flow Diagrams User Flow Diagrams: https://lucid.app/lucidchart/a0dc8ccb-ef3b-4c25-8f79-2efc89ef8625/edit?viewport_loc=-983%2C-866%2C9408%2C4170%2C0_0&invitationId=inv_f85cdc16-2676-47f1-9345-823708b345ff
 
-User Flow Diagrams Mock-up: https://www.figma.com/file/nfXqgNf4Eizwfp65Yiv3ba/user-flow?type=design&node-id=0%3A1&mode=design&t=XCduDDTARssNA94K-1
+Web Applications User Flow Diagrams User Flow Diagrams:
+
+https://lucid.app/lucidchart/a0dc8ccb-ef3b-4c25-8f79-2efc89ef8625/edit?viewport_loc=-983%2C-866%2C9408%2C4170%2C0_0&invitationId=inv_f85cdc16-2676-47f1-9345-823708b345ff
+
+User Flow Diagrams Mock-up: 
+
+https://www.figma.com/file/nfXqgNf4Eizwfp65Yiv3ba/user-flow?type=design&node-id=0%3A1&mode=design&t=XCduDDTARssNA94K-1
 
 **Anexo 8:**
-Web Applications Prototyping: https://www.figma.com/proto/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=1-32&t=7qjDnHX0VVyGVsSJ-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A32&show-proto-sidebar=1&mode=design
+
+Web Applications Prototyping: 
+
+https://www.figma.com/proto/WATKX4mlDctquazhZwgUB9/mockups?type=design&node-id=1-32&t=7qjDnHX0VVyGVsSJ-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A32&show-proto-sidebar=1&mode=design
 
 **Anexo 9:**
-Repositorio en GitHub para el Landing Page: https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Landing-Page 
+
+Repositorio en GitHub para el Landing Page: 
+
+https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Landing-Page 
 
 **Anexo 10:**
-Testing Suite Evidence for Sprint Review: https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Acceptance-Tests
+
+Testing Suite Evidence for Sprint Review:
+
+https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Acceptance-Tests
 
 **Anexo 11:**
-Execution Evidence for Sprint Review: https://upc-pre-202401-si720-si91-ruedarent.github.io/Ruedarent-Landing-Page/
+
+Execution Evidence for Sprint Review: 
+
+https://upc-pre-202401-si720-si91-ruedarent.github.io/Ruedarent-Landing-Page/
 
 **Anexo 12:**
-Link del video explicativo del Landing Page de Ruedarent: https://upcedupe-my.sharepoint.com/personal/u202121935_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121935%5Fupc%5Fedu%5Fpe%2FDocuments%2FDetalle%20del%20landing%20page%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+
+Link del video explicativo del Landing Page de Ruedarent: 
+
+https://upcedupe-my.sharepoint.com/personal/u202121935_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202121935%5Fupc%5Fedu%5Fpe%2FDocuments%2FDetalle%20del%20landing%20page%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
 
 **Anexo 13:**
-Presentación del Proyecto: https://www.canva.com/design/DAGCVM1sXj4/VNYTMKRbAUu-4MwGJqEtBA/edit?utm_content=DAGCVM1sXj4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Presentación del Proyecto: 
+
+https://www.canva.com/design/DAGCVM1sXj4/VNYTMKRbAUu-4MwGJqEtBA/edit?utm_content=DAGCVM1sXj4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
