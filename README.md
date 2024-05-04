@@ -87,7 +87,6 @@ Se redactaron y diagramaron los contenidos asignados a cada integrante en format
 Además, se han generado los artefactos necesarios utilizando las herramientas recomendadas, y se llevaron a cabo reuniones periódicas para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 2, centrado en el desarrollo de la aplicación web.
 
 <img src= "https://i.ibb.co/t8WKDMr/image.png">
-----
 
 # Contenido 
 ## Tabla de contenidos
