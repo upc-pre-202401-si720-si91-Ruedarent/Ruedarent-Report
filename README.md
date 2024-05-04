@@ -60,6 +60,8 @@
 | Versión | Fecha | Autor | Descripción de la modificación |
 |----------|----------|----------|----------|
 | TB1   | 14/04/2024  | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición de los Capítulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
+| TP1 | 03/05/2024 | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición del Capítulo V: 5.2.2., 5.2.2.1., 5.2.2.2., 5.2.2.3., 5.2.2.4., 5.2.2.5., 5.2.2.6., 5.2.2.7., 5.2.2.8. |
+
 
 ----
 # Project Report Collaboration Insights
@@ -78,180 +80,108 @@ Durante la fase de elaboración del informe, se realizaron las siguientes activi
 ![network](https://i.ibb.co/WgxKswV/network.png)
 ![people](https://i.ibb.co/5kwrmNJ/people.png)
 
+Las tareas asignadas para la entrega del TP1 han sido completadas y documentadas de manera exhaustiva en el repositorio de GitHub de la organización del equipo: [https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Report.git](https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Report.git).
+
+Se redactaron y diagramaron los contenidos asignados a cada integrante en formato Markdown, con commits regulares para mantener un seguimiento preciso del progreso en el repositorio.
+
+Además, se han generado los artefactos necesarios utilizando las herramientas recomendadas, y se llevaron a cabo reuniones periódicas para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 2, centrado en el desarrollo de la aplicación web.
+
+<img src= "https://i.ibb.co/t8WKDMr/image.png">
 ----
-## Contenido
-
-### Tabla de contenidos
-
-### Capítulo I: Introducción
-
-*1.1. Startup Profile*
-
-1.1.1. [Descripción de la Startup](/Ruedarent-Report/feature/chapter01.md#111-descripción-de-la-startup)
-
-1.1.2. [Perfiles de integrantes del equipo](/Ruedarent-Report/feature/chapter01.md#112-perfiles-de-integrantes-del-equipo)
-
-1.2. Solution Profile
-
-1.2.1 [Antecedentes y problemática](/Ruedarent-Report/feature/chapter01.md#121-antecedentes-y-problemática)
-
-1.2.2 Lean UX Process.
-
-1.2.2.1. [Lean UX Problem Statements.](/Ruedarent-Report/feature/chapter01.md#1221-lean-ux-problem-statements)
-
-1.2.2.2. [Lean UX Assumptions.](/Ruedarent-Report/feature/chapter01.md#1222-lean-ux-assumptions)
-
-1.2.2.3. [Lean UX Hypothesis Statements.](/Ruedarent-Report/feature/chapter01.md#1223-lean-ux-hypothesis-statements)
-
-1.2.2.4. [Lean UX Canvas.](/Ruedarent-Report/feature/chapter01.md#1224-lean-ux-canvas)
-
-1.3. [Segmentos objetivo.](/Ruedarent-Report/feature/chapter01.md#13-segmentos-objetivo)
-
-### Capítulo II: Requirements Elicitation & Analysis
-
-2.1. [Competidores.](/Ruedarent-Report/feature/chapter02.md#21-competidores)
-
-2.1.1. [Análisis competitivo.](/Ruedarent-Report/feature/chapter02.md#211-análisis-competitivo)
-
-2.1.2. [Estrategias y tácticas frente a competidores.](/Ruedarent-Report/feature/chapter02.md#212-estrategias-y-tácticas-frente-a-competidores)
-
-2.2. Entrevistas.
-
-2.2.1. [Diseño de entrevistas.](/Ruedarent-Report/feature/chapter02.md#221-diseño-de-entrevistas)
-
-2.2.2. [Registro de entrevistas.](/Ruedarent-Report/feature/chapter02.md#222-registro-de-entrevistas)
-
-2.2.3. [Análisis de entrevistas.](/Ruedarent-Report/feature/chapter02.md#223-análisis-de-entrevistas)
-
-2.3. Needfinding.
-
-2.3.1. [User Personas.](/Ruedarent-Report/feature/chapter02.md#231-user-personas)
-
-2.3.2. [User Task Matrix.](/Ruedarent-Report/feature/chapter02.md#232-user-task-matrix)
-
-2.3.3. [User Journey Mapping.](/Ruedarent-Report/feature/chapter02.md#233-user-journey-mapping)
-
-2.3.4. [Empathy Mapping.](/Ruedarent-Report/feature/chapter02.md#234-empathy-mapping)
-
-2.3.5. [As-is Scenario Mapping.](//Ruedarent-Report/feature/chapter02.md#235-as-is-scenario-mapping)
-
-2.4. Ubiquitous Language.
-
-### Capítulo III: Requirements Specification
-
-3.1. [To-Be Scenario Mapping.](/Ruedarent-Report/feature/chapter03.md#31-to-be-scenario-mapping)
-
-3.2. [User Stories.](/Ruedarent-Report/feature/chapter03.md#32-user-stories)
-
-3.3. [Impact Mapping.](/Ruedarent-Report/feature/chapter03.md#33-impact-mapping)
-
-3.4. [Product Backlog.](/Ruedarent-Report/feature/chapter03.md#34-product-backlog)
-
-### Capítulo IV: Product Design
-
-4.1. [Style Guidelines.](/Ruedarent-Report/feature/chapter04.md)
-
-4.1.1. [General Style Guidelines.](/Ruedarent-Report/feature/chapter04.md)
-
-4.1.2. [Web Style Guidelines.](/Ruedarent-Report/feature/chapter04.md)
-
-4.2. [Information Architecture.](/Ruedarent-Report/feature/chapter04.md)
-
-4.2.1. [Organization Systems.](/Ruedarent-Report/feature/chapter04.md)
-
-4.2.2. [Labeling Systems.](/Ruedarent-Report/feature/chapter04.md)
-
-4.2.3. [SEO Tags and Meta Tags.](/Ruedarent-Report/feature/chapter04.md)
-
-4.2.4. [Searching Systems.](/Ruedarent-Report/feature/chapter04.md)
-
-4.2.5. [Navigation Systems.](/Ruedarent-Report/feature/chapter04.md)
-
-4.3. Landing Page UI Design.
-
-4.3.1. [Landing Page Wireframe.](/Ruedarent-Report/feature/chapter04.md)
-
-4.3.2. [Landing Page Mock-up.](/Ruedarent-Report/feature/chapter04.md)
-
-4.4. [Web Applications UX/UI Design.](/Ruedarent-Report/feature/chapter04.md)
-
-4.4.1. [Web Applications Wireframes.](/Ruedarent-Report/feature/chapter04.md)
-
-4.4.2. [Web Applications Wireflow Diagrams.](/Ruedarent-Report/feature/chapter04.md)
-
-4.4.2. [Web Applications Mock-ups.](/Ruedarent-Report/feature/chapter04.md)
-
-4.4.3. [Web Applications User Flow Diagrams.](/Ruedarent-Report/feature/chapter04.md)
-
-4.5. [Web Applications Prototyping.](/Ruedarent-Report/feature/chapter04.md)
-
-4.6. [Domain-Driven Software Architecture.](/Ruedarent-Report/feature/chapter04.md)
-
-4.6.1. [Software Architecture Context Diagram.](/Ruedarent-Report/feature/chapter04.md)
-
-4.6.2. [Software Architecture Container Diagrams.](/Ruedarent-Report/feature/chapter04.md)
-
-4.6.3. [Software Architecture Components Diagrams.](/Ruedarent-Report/feature/chapter04.md)
-
-4.7. Software Object-Oriented Design.
-
-4.7.1. [Class Diagrams.](/Ruedarent-Report/feature/chapter04.md)
-
-4.7.2. [Class Dictionary.](/Ruedarent-Report/feature/chapter04.md)
-
-4.8. [Database Design.](//Ruedarent-Report/feature/chapter04.md)
-
-4.8.1. [Database Diagram.](/Ruedarent-Report/feature/chapter04.md)
-
-### Capítulo V: Product Implementation, Validation & Deployment
-
-5.1. [Software Configuration Management.](/Ruedarent-Report/feature/chapter05.md)
-
-5.1.1. [Software Development Environment Configuration.](/Ruedarent-Report/feature/chapter05.md)
-
-5.1.2. [Source Code Management.](/Ruedarent-Report/feature/chapter05.md)
-
-5.1.3. [Source Code Style Guide & Conventions.](/Ruedarent-Report/feature/chapter05.md)
-
-5.1.4. [Software Deployment Configuration.](/Ruedarent-Report/feature/chapter05.md)
-
-5.2. Landing Page, Services & Applications Implementation.
-
-5.2.1. [Sprint 1](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.1.1. [Sprint Planning 1.](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.1.2. [Sprint Backlog 1.](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.1.3. [Development Evidence for Sprint Review.](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.1.4. [Testing Suite Evidence for Sprint Review.](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.1.5. [Execution Evidence for Sprint Review.](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.1.6. [Services Documentation Evidence for Sprint Review.](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.1.7. [Software Deployment Evidence for Sprint Review.](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.1.8. [Team Collaboration Insights during Sprint.](/Ruedarent-Report/feature/chapter05.md)
-
-5.2.2. Sprint 2
-
-5.2.2.1. Sprint Planning 2.
-
-5.2.2.2. Sprint Backlog 2.
-
-5.2.2.3. Development Evidence for Sprint Review.
-
-5.2.2.4. Testing Suite Evidence for Sprint Review.
-
-5.2.2.5. Execution Evidence for Sprint Review.
-
-5.2.2.6. Services Documentation Evidence for Sprint Review.
-
-5.2.2.7. Software Deployment Evidence for Sprint Review.
-
-5.2.2.8. Team Collaboration Insights during Sprint.
+# Contenido 
+## Tabla de contenidos
+### Registro de versiones del informe
+### Project Report Collaboration Insights
+### Student Outcome
+## Capítulo I: Introducción
+- 1.1. Startup Profile
+  - 1.1.1. Descripción de la Startup
+  - 1.1.2. Perfiles de integrantes del equipo
+- 1.2. Solution Profile
+  - 1.2.1 Antecedentes y problemática
+  - 1.2.2 Lean UX Process
+    - 1.2.2.1. Lean UX Problem Statements
+    - 1.2.2.2. Lean UX Assumptions
+    - 1.2.2.3. Lean UX Hypothesis Statements
+    - 1.2.2.4. Lean UX Canvas
+- 1.3. Segmentos objetivo
+
+## Capítulo II: Requirements Elicitation & Analysis]
+- 2.1. Competidores
+  - 2.1.1. Análisis competitivo
+  - 2.1.2. Estrategias y tácticas frente a competidores
+- 2.2. Entrevistas
+  - 2.2.1. Diseño de entrevistas
+  - 2.2.2. Registro de entrevistas
+  - 2.2.3. Análisis de entrevistas
+- 2.3. Needfinding
+  - 2.3.1. User Personas
+  - 2.3.2. User Task Matrix
+  - 2.3.3. User Journey Mapping
+  - 2.3.4. Empathy Mapping
+  - 2.3.5. As-is Scenario Mapping
+- 2.4. Ubiquitous Language
+
+
+## Capítulo III: Requirements Specification
+- 3.1. To-Be Scenario Mapping
+- 3.2. User Stories
+- 3.3. Impact Mapping
+- 3.4. Product Backlog
+
+## Capítulo IV: Product Design
+- 4.1. Style Guidelines
+  - 4.1.1. General Style Guidelines
+  - 4.1.2. Web Style Guidelines
+- 4.2. Information Architecture
+  - 4.2.1. Organization Systems
+  - 4.2.2. Labeling Systems
+  - 4.2.3. SEO Tags and Meta Tags
+  - 4.2.4. Searching Systems
+  - 4.2.5. Navigation Systems
+- 4.3. Landing Page UI Design
+  - 4.3.1. Landing Page Wireframe
+  - 4.3.2. Landing Page Mock-up
+- 4.4. Web Applications UX/UI Design
+  - 4.4.1. Web Applications Wireframes
+  - 4.4.2. Web Applications Wireflow Diagrams
+  - 4.4.3. Web Applications Mock-ups
+  - 4.4.4. Web Applications User Flow Diagrams
+- 4.5. Web Applications Prototyping
+- 4.6. Domain-Driven Software Architecture
+  - 4.6.1. Software Architecture Context Diagram
+  - 4.6.2. Software Architecture Container Diagrams
+  - 4.6.3. Software Architecture Components Diagrams
+- 4.7. Software Object-Oriented Design
+  - 4.7.1. Class Diagrams
+  - 4.7.2. Class Dictionary
+- 4.8. Database Design
+  - 4.8.1. Database
+
+## Capítulo V: Product Implementation, Validation & Deployment
+- 5.1. Software Configuration Management
+  - 5.1.1. Software Development Environment Configuration
+  - 5.1.2. Source Code Management
+  - 5.1.3. Source Code Style Guide & Conventions
+  - 5.1.4. Software Deployment Configuration
+- 5.2. Landing Page, Services & Applications Implementation
+  - 5.2.1. Sprint 1
+    - 5.2.1.1. Sprint Planning 1
+    - 5.2.1.2. Sprint Backlog 1
+    - 5.2.1.3. Development Evidence for Sprint Review
+    - 5.2.1.4. Testing Suite Evidence for Sprint Review
+    - 5.2.1.5. Execution Evidence for Sprint Review
+    - 5.2.1.6. Services Documentation Evidence for Sprint Review
+    - 5.2.1.7. Software Deployment Evidence for Sprint Review
+    - 5.2.1.8. Team Collaboration Insights during Sprint
+    - 5.2.2.1. Sprint Planning 2
+    - 5.2.2.2. Sprint Backlog 2
+    - 5.2.2.3. Development Evidence for Sprint Review
+    - 5.2.2.4. Testing Suite Evidence for Sprint Review
+    - 5.2.2.5. Execution Evidence for Sprint Review
+    - 5.2.2.6. Services Documentation Evidence for Sprint Review
+    - 5.2.2.7. Software Deployment Evidence for Sprint Review
+    - 5.2.2.8. Team Collaboration Insights during Sprint
 
 ##### Conclusiones
 
@@ -268,9 +198,8 @@ Durante la fase de elaboración del informe, se realizaron las siguientes activi
 
 | Criterio Específico | Acciones realizadas | Conclusiones |
 |--------|---------|--------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Calisaya Sánchez, Juan Jesús<br>TB1<br>Se llevo acabo, con la validación del grupo, los siguientes puntos: Estrategias frente a competidores, el Diseño de Entrevistas, Entrevista, User Stories, el Impact Mapping, Product Backlog, Wireframes, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review y Execution Evidence for Sprint Review. Todo esto se llevo a cabo gracias al trabajo en equipo.<br></br>Gallo Quintana, David Ivanoff<br>TB1<br>Se dividió en trabajo de manera equitativa, pero todos participando en cada decisión, para realizar el trabajo de la mejor manera posible y que sea cohesionado, asimismo, en cada parte nos ayudamos para poder entender el trabajo en cada parte del informe.<br></br>Huarcaya Quispe, Niurka Lucero<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las Entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>La Rosa Rodríguez, Alejandro<br>TB1<br>A lo largo del desarrollo de este proyecto, cada miembro del equipo ha trabajado en ramas separadas dentro del repositorio, siguiendo la división acordada previamente. Además, hemos coordinado nuestros progresos en el grupo y colaborado como equipo para implementar las correcciones sugeridas por nuestro profesor.<br></br>Oneglio De Paz, Beth Shantal<br>TB1<br>A lo largo del proyecto, he mantenido una comunicación continua con los miembros del equipo mediante reuniones semanales. Colaborativamente, hemos trabajado en cada sección del informe utilizando branches y GitHub para asegurar la organización y el control de versiones del trabajo. | TB1: Elegimos el tema del proyecto, se realizaron asimismo varias reuniones para conocer los puntos de vista de cada integrante y para que ninguno tenga ninguna duda. |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Calisaya Sánchez, Juan Jesús<br>TB1<br>Durante el desarrollo del proyecto, empleamos una variedad de técnicas para identificar y comprender todas las necesidades, aspectos, usuarios y características del negocio al que nos enfocamos. Utilizamos GitHub para registrar la información recolectada y los métodos implementados, asegurando que las versiones se guarden de forma ordenada. Llevamos a cabo Entrevistas, Diagramas, Needfinding, User Stories, entre otros métodos para obtener una visión completa y detallada.<br></br>Gallo Quintana, David Ivanoff<br>TB1<br>En este avance del trabajo, empleamos el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los Bounded contexts y las entidades que se implementarán en el Backend. Además, elaboramos diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente, utilizando diversos Patrones de Diseño.<br></br>Huarcaya Quispe, Niurka Lucero<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>La Rosa Rodríguez, Alejandro<br>TB1<br>ASe ha llevado a cabo la implementación del modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará más adelante en el Backend. Además, se ha documentado todo el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles, específicamente Scrum.<br></br>Oneglio De Paz, Beth Shantal<br>TB1<br>En esta entrega, se llevaron a cabo entrevistas para analizar las preferencias de los segmentos de escritores, ilustradores y lectores. Además, se implementó un diseño UX/UI apropiado que se adapta a las necesidades de los usuarios. | TB1: En esta etapa del proyecto, se realizaron análisis exhaustivos de las preferencias de los escritores, ilustradores y lectores a través de Entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, y se elaboraron diagramas de clase para representar la arquitectura del modelo Backend. Se crearon Diagramas de Flujo de usuario y de trabajo para mejorar la experiencia del usuario, y se llevó a cabo el modelado de la base de datos. Finalmente, se documentó todo el trabajo realizado utilizando metodologías ágiles para garantizar un proceso transparente y colaborativo. |
-
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Calisaya Sánchez, Juan Jesús<br>TB1<br>Se llevo acabo, con la validación del grupo, los siguientes puntos: Estrategias frente a competidores, el Diseño de Entrevistas, Entrevista, User Stories, el Impact Mapping, Product Backlog, Wireframes, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review y Execution Evidence for Sprint Review. Todo esto se llevo a cabo gracias al trabajo en equipo.<br><br>TP1<br>Mi liderazgo se caracterizó por promover la organización y mejorar la capacidad de respuesta del landing page. Además, jugué un papel fundamental en el desarrollo de los aspectos visuales y funcionales del frontend, como los filtros de búsqueda y la experiencia del usuario en la plataforma de alquiler.<br></br>Gallo Quintana, David Ivanoff<br>TB1<br>Se dividió en trabajo de manera equitativa, pero todos participando en cada decisión, para realizar el trabajo de la mejor manera posible y que sea cohesionado, asimismo, en cada parte nos ayudamos para poder entender el trabajo en cada parte del informe.<br><br>TP1<br>Desarrollé los componentes OwnerProfile, OwnerPlans y OwnerOrder, junto con el registro de vehículos del propietario, todo integrado en Vue.js. Además, implementé enrutamiento para una navegación fluida.<br></br>Huarcaya Quispe, Niurka Lucero<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las Entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br><br>TP1<br>Mi contribución principal se centró en la implementación de la sección de recomendaciones e interfaz de la sección de alquiler de vehículos para mostrar la información relevante del vehículo y proporcionar un botón para contactar al propietario.<br></br>La Rosa Rodríguez, Alejandro<br>TB1<br>A lo largo del desarrollo de este proyecto, cada miembro del equipo ha trabajado en ramas separadas dentro del repositorio, siguiendo la división acordada previamente. Además, hemos coordinado nuestros progresos en el grupo y colaborado como equipo para implementar las correcciones sugeridas por nuestro profesor.<br><br>TP1<br>En mi rol de desarrollo del frontend, asumí la responsabilidad de concebir y elaborar tanto la página de inicio de sesión como la de registro. Para la página de inicio de sesión, me aseguré de diseñar una interfaz intuitiva y accesible, que permitiera a los usuarios ingresar sus credenciales de manera rápida y segura.<br></br>Oneglio De Paz, Beth Shantal<br>TB1<br>A lo largo del proyecto, he mantenido una comunicación continua con los miembros del equipo mediante reuniones semanales. Colaborativamente, hemos trabajado en cada sección del informe utilizando branches y GitHub para asegurar la organización y el control de versiones del trabajo.<br><br>TP1<br>En mi participación en el proyecto, me dediqué a elaborar historias de usuario y a desarrollar los frontends correspondientes a cada una de ellas. Por ejemplo, trabajé en la implementación de la funcionalidad que permite a los usuarios ver el perfil del arrendatario, así como en la visualización de los vehículos disponibles por parte de dicho usuario. | TP1: Elegimos el tema del proyecto, se realizaron asimismo varias reuniones para conocer los puntos de vista de cada integrante y para que ninguno tenga ninguna duda. |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Calisaya Sánchez, Juan Jesús<br>TB1<br>Durante el desarrollo del proyecto, empleamos una variedad de técnicas para identificar y comprender todas las necesidades, aspectos, usuarios y características del negocio al que nos enfocamos. Utilizamos GitHub para registrar la información recolectada y los métodos implementados, asegurando que las versiones se guarden de forma ordenada. Llevamos a cabo Entrevistas, Diagramas, Needfinding, User Stories, entre otros métodos para obtener una visión completa y detallada.<br><br>TP1<br>En el segundo avance del trabajo, se cumplieron los requisitos establecidos al avanzar de manera significativa con el desarrollo del frontend de la aplicación web.<br></br>Gallo Quintana, David Ivanoff<br>TB1<br>En este avance del trabajo, empleamos el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los Bounded contexts y las entidades que se implementarán en el Backend. Además, elaboramos diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente, utilizando diversos Patrones de Diseño.<br><br>TP1<br>Se logró desplegar la aplicación de forma efectiva, asegurando su disponibilidad para los usuarios finales. Asimismo, se completó la creación de una API, lo que permite una comunicación eficiente y segura.<br></br>Huarcaya Quispe, Niurka Lucero<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>La Rosa Rodríguez, Alejandro<br>TB1<br>Se ha llevado a cabo la implementación del modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará más adelante en el Backend. Además, se ha documentado todo el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles, específicamente Scrum.<br></br>Oneglio De Paz, Beth Shantal<br>TB1<br>En esta entrega, se llevaron a cabo entrevistas para analizar las preferencias de los segmentos de escritores, ilustradores y lectores. Además, se implementó un diseño UX/UI apropiado que se adapta a las necesidades de los usuarios.<br><br>TP1<br>Durante el sprint 2, mi responsabilidad fue abordar tareas relacionadas con el consumo y funcionamiento de la API, además de encargarme de la estilización de componentes y la organización de carpetas, aplicando un enfoque DDD.<br> | TP1: En esta etapa del proyecto, se realizaron análisis exhaustivos de las preferencias de los escritores, ilustradores y lectores a través de Entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, y se elaboraron diagramas de clase para representar la arquitectura del modelo Backend. Se crearon Diagramas de Flujo de usuario y de trabajo para mejorar la experiencia del usuario, y se llevó a cabo el modelado de la base de datos. Finalmente, se documentó todo el trabajo realizado utilizando metodologías ágiles para garantizar un proceso transparente y colaborativo. |
 ----
 # **Capítulo I: Introducción**
 ## 1.1. Startup Profile
