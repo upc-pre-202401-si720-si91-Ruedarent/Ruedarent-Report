@@ -2420,3 +2420,17 @@ https://upcedupe-my.sharepoint.com/personal/u202121935_upc_edu_pe/_layouts/15/st
 Presentación del Proyecto: 
 
 https://www.canva.com/design/DAGCVM1sXj4/VNYTMKRbAUu-4MwGJqEtBA/edit?utm_content=DAGCVM1sXj4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+**Anexo 14:**
+
+Entrevista Propietarios:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EYT2GZlP_4tNi4--jr1Le_kBsT03GeErpfax63BLILlNzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WHszfs 
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EZC4iVqYmlZFpTNrDQpbKN4B7LYWxwF3OuelKHN7zMr75g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aB5Pbx
+
+Entrevista Usuario:
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EStNoTKKz09Kr2TwGlRrc9oB0N9smK74o7k8JajflMKHSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zEkFdc
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/ERSPXqh6JdhEr9P9KUP-K6sBoF4uXSHKGMw0ojuHJDlDRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=524k8r
