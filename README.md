@@ -192,8 +192,8 @@ Además, se han generado los artefactos necesarios utilizando las herramientas r
     - 5.2.3.8. Team Collaboration Insights during Sprint
 - 5.3. Validation Interviews
   - 5.3.1. Diseño de Entrevistas
-  - Registro de Entrevistas
-  - Evaluaciones según heurísticas
+  - 5.3.2. Registro de Entrevistas
+  - 5.3.3. Evaluaciones según heurísticas
 - 5.4. Video About-the-Product
     
 ##### Conclusiones
@@ -2205,31 +2205,37 @@ Para validar nuestro proyecto, hemos preparado una serie de entrevistas para rec
 
 Entrevista N°1:
 
-**Entrevistado:**
-**Sexo:**
-**Edad:**
-**Ubicación:**
-**Inicio de la Entrevista:**
+**Entrevistado:** Néstor Velarde Gonzales
+**Sexo:** Masculino
+**Edad:** 26
+**Ubicación:** Lima, Perú
+**Inicio de la Entrevista:** 00:02:50
 
-**Foto adjunta**
+<a href="https://ibb.co/8jm7LNt"><img src="https://i.ibb.co/fCXxzqL/image.png" alt="image" border="0"></a>
 
-**Enlace:**
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EYT2GZlP_4tNi4--jr1Le_kBsT03GeErpfax63BLILlNzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WHszfs 
 
 **Resumen de la Entrevista:**
+Néstor Velarde Gonzales, un joven de 26 años que trabaja de forma remota en Claro y es egresado de ingeniería informática, nos cuenta que es propietario de un vehículo y recientemente ha empezado a usar una aplicación para alquilarlo. Según Néstor, la aplicación es fácil de usar, intuitiva y ofrece un alto nivel de seguridad para quienes desean generar ingresos con bienes que no utilizan.
+
+Néstor aprecia mucho la interfaz de la aplicación, aunque sugiere que se podrían usar colores menos brillantes y aumentar el tamaño de las letras para mejorar la visualización y la experiencia de usuario. Le encantan los detalles y la innovación de la aplicación, destacando que es única y elogiando al grupo que la desarrolló por su creatividad y originalidad.
 
 Entrevista N°2:
 
-**Entrevistado:**
-**Sexo:**
-**Edad:**
-**Ubicación:**
-**Inicio de la Entrevista:**
+**Entrevistado:** Rodrigo García
+**Sexo:** Masculino
+**Edad:** 21
+**Ubicación:** La Molina, Lima
+**Inicio de la Entrevista:** 00:01:14
 
-**Foto adjunta**
+<a href="https://ibb.co/M6WnbVp"><img src="https://i.ibb.co/RyZ210P/image.png" alt="image" border="0"></a>
 
-**Enlace:**
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EZC4iVqYmlZFpTNrDQpbKN4B7LYWxwF3OuelKHN7zMr75g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aB5Pbx
 
 **Resumen de la Entrevista:**
+Se entrevistó a Rodrigo García, un joven de 21 años que reside en La Molina, Lima, y es propietario de vehículos de Ruedarent. Rodrigo es un entusiasta de los vehículos y viaja frecuentemente desde La Molina al Callao, donde actualmente se encuentra. Le gusta la aplicación por lo interactiva y fácil de usar que es, y aprecia poder generar ingresos desde la comodidad de su hogar, sin importar dónde se encuentre.
+
+Rodrigo busca una plataforma fácil de usar e intuitiva, que le permita contactar fácilmente con quienes desean alquilar su vehículo. Además, sugiere que el menú de la aplicación esté en español y que haya un botón para cambiar entre español e inglés, facilitando su uso a los turistas que no hablan español.
 
 Entrevista N°3:
 
@@ -2249,31 +2255,37 @@ Entrevista N°3:
 
 Entrevista N°1:
 
-**Entrevistado:**
-**Sexo:**
-**Edad:**
-**Ubicación:**
-**Inicio de la Entrevista:**
+**Entrevistado:** Kevin Arnold Espinoza Lava
+**Sexo:** Masculino
+**Edad:** 22
+**Ubicación:** San Juan de Lurigancho, Lima
+**Inicio de la Entrevista:** 00:02:05
 
-**Foto adjunta**
+<a href="https://ibb.co/QPrpjY2"><img src="https://i.ibb.co/tq8QPY7/image.png" alt="image" border="0"></a>
 
-**Enlace:**
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EStNoTKKz09Kr2TwGlRrc9oB0N9smK74o7k8JajflMKHSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zEkFdc
 
 **Resumen de la Entrevista:**
+Se entrevistó a Kevin Arnold Espinoza Lava, un joven de 22 años y estudiante que no posee un vehículo. Kevin ha encontrado muy útil esta aplicación, especialmente cuando quiso salir con sus amigos y necesitaba una bicicleta. Descubrió la aplicación a través de sus amigos y decidió usarla.
+
+Kevin menciona que la aplicación no le parece complicada de usar; la considera muy útil, fácil y creativa. Sin embargo, subraya la importancia de evaluar la seguridad de la misma. Además, sugiere agregar un botón para iniciar sesión con Apple en la parte de registro e inicio de sesión, para aquellos que no cuentan con cuentas de Google o Microsoft.
 
 Entrevista N°2:
 
-**Entrevistado:**
-**Sexo:**
-**Edad:**
-**Ubicación:**
-**Inicio de la Entrevista:**
+**Entrevistado:** José Daniel Rodríguez Durand
+**Sexo:** Masculino 
+**Edad:** 21
+**Ubicación:** Lima, Perú
+**Inicio de la Entrevista:** 00:02:00
 
-**Foto adjunta**
+<a href="https://ibb.co/JqbYfLd"><img src="https://i.ibb.co/qC4HtGn/image.png" alt="image" border="0"></a>
 
-**Enlace:**
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/ERSPXqh6JdhEr9P9KUP-K6sBoF4uXSHKGMw0ojuHJDlDRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=524k8r
 
 **Resumen de la Entrevista:**
+Se entrevistó a José, un joven de 21 años que actualmente trabaja en Lima. A José le interesa usar vehículos para salir con amigos y le parece genial esta aplicación. Comenta que al elegir un vehículo, le gusta poder ver información sobre el propietario y los detalles de la compra. Sin embargo, sugiere agregar Yape o Plin como métodos de pago, ya que no todos tienen PayPal.
+
+Finalmente, José menciona que estaría dispuesto a ser un usuario recurrente de la plataforma, ya que encuentra la propuesta interesante. Le gustaría tener acceso exclusivo y sugiere implementar un buen método de marketing para atraer y retener usuarios.
 
 Entrevista N°3:
 
