@@ -57,12 +57,11 @@
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha | Autor | Descripción de la modificación |
-|----------|----------|----------|----------|
-| TB1   | 14/04/2024  | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición de los Capítulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
-| TP1 | 03/05/2024 | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición del Capítulo V: 5.2.2., 5.2.2.1., 5.2.2.2., 5.2.2.3., 5.2.2.4., 5.2.2.5., 5.2.2.6., 5.2.2.7., 5.2.2.8. |
-
-
+| Versión | Fecha      | Autor | Descripción de la modificación                                                                                                                                                              |
+|---------|------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| TB1     | 14/04/2024 | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición de los Capítulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
+| TP1     | 3/05/2024  | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición del Capítulo V: 5.2.2., 5.2.2.1., 5.2.2.2., 5.2.2.3., 5.2.2.4., 5.2.2.5., 5.2.2.6., 5.2.2.7., 5.2.2.8.                                                                              |
+| TB3     | 4/06/2024  |Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal| Adición del Capítulo: 5.2.3., 5.2.3.1., 5.2.3.2., 5.2.3.3., 5.2.3.4., 5.2.3.5., 5.2.3.6., 5.2.3.7., 5.2.3.8., 5.3., 5.3.1., 5.3.2., 5.3.3., 5.4.                                            |
 ----
 # Project Report Collaboration Insights
 
@@ -182,7 +181,21 @@ Además, se han generado los artefactos necesarios utilizando las herramientas r
     - 5.2.2.6. Services Documentation Evidence for Sprint Review
     - 5.2.2.7. Software Deployment Evidence for Sprint Review
     - 5.2.2.8. Team Collaboration Insights during Sprint
-
+  - 5.2.3. Sprint 3
+    - 5.2.3.1. Spring Planning 3
+    - 5.2.3.2. Sprint Backlog 3
+    - 5.2.3.3. Development Evidence for Sprint Review
+    - 5.2.3.4. Testing Suite Evidence for Sprint Review
+    - 5.2.3.5. Execution Evidence for Sprint Review
+    - 5.2.3.6. Services Documentation Evidence for Sprint Review
+    - 5.2.3.7. Software Deployment Evidence for Sprint Review
+    - 5.2.3.8. Team Collaboration Insights during Sprint
+- 5.3. Validation Interviews
+  - 5.3.1. Diseño de Entrevistas
+  - Registro de Entrevistas
+  - Evaluaciones según heurísticas
+- 5.4. Video About-the-Product
+    
 ##### Conclusiones
 
 ##### Conclusiones y recomendaciones.
@@ -200,6 +213,11 @@ Además, se han generado los artefactos necesarios utilizando las herramientas r
 |--------|---------|--------|
 | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Calisaya Sánchez, Juan Jesús<br>TB1<br>Se llevo acabo, con la validación del grupo, los siguientes puntos: Estrategias frente a competidores, el Diseño de Entrevistas, Entrevista, User Stories, el Impact Mapping, Product Backlog, Wireframes, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review y Execution Evidence for Sprint Review. Todo esto se llevo a cabo gracias al trabajo en equipo.<br><br>TP1<br>Mi liderazgo se caracterizó por promover la organización y mejorar la capacidad de respuesta del landing page. Además, jugué un papel fundamental en el desarrollo de los aspectos visuales y funcionales del frontend, como los filtros de búsqueda y la experiencia del usuario en la plataforma de alquiler.<br></br>Gallo Quintana, David Ivanoff<br>TB1<br>Se dividió en trabajo de manera equitativa, pero todos participando en cada decisión, para realizar el trabajo de la mejor manera posible y que sea cohesionado, asimismo, en cada parte nos ayudamos para poder entender el trabajo en cada parte del informe.<br><br>TP1<br>Desarrollé los componentes OwnerProfile, OwnerPlans y OwnerOrder, junto con el registro de vehículos del propietario, todo integrado en Vue.js. Además, implementé enrutamiento para una navegación fluida.<br></br>Huarcaya Quispe, Niurka Lucero<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las Entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br><br>TP1<br>Mi contribución principal se centró en la implementación de la sección de recomendaciones e interfaz de la sección de alquiler de vehículos para mostrar la información relevante del vehículo y proporcionar un botón para contactar al propietario.<br></br>La Rosa Rodríguez, Alejandro<br>TB1<br>A lo largo del desarrollo de este proyecto, cada miembro del equipo ha trabajado en ramas separadas dentro del repositorio, siguiendo la división acordada previamente. Además, hemos coordinado nuestros progresos en el grupo y colaborado como equipo para implementar las correcciones sugeridas por nuestro profesor.<br><br>TP1<br>En mi rol de desarrollo del frontend, asumí la responsabilidad de concebir y elaborar tanto la página de inicio de sesión como la de registro. Para la página de inicio de sesión, me aseguré de diseñar una interfaz intuitiva y accesible, que permitiera a los usuarios ingresar sus credenciales de manera rápida y segura.<br></br>Oneglio De Paz, Beth Shantal<br>TB1<br>A lo largo del proyecto, he mantenido una comunicación continua con los miembros del equipo mediante reuniones semanales. Colaborativamente, hemos trabajado en cada sección del informe utilizando branches y GitHub para asegurar la organización y el control de versiones del trabajo.<br><br>TP1<br>En mi participación en el proyecto, me dediqué a elaborar historias de usuario y a desarrollar los frontends correspondientes a cada una de ellas. Por ejemplo, trabajé en la implementación de la funcionalidad que permite a los usuarios ver el perfil del arrendatario, así como en la visualización de los vehículos disponibles por parte de dicho usuario. | TP1: Elegimos el tema del proyecto, se realizaron asimismo varias reuniones para conocer los puntos de vista de cada integrante y para que ninguno tenga ninguna duda. |
 | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Calisaya Sánchez, Juan Jesús<br>TB1<br>Durante el desarrollo del proyecto, empleamos una variedad de técnicas para identificar y comprender todas las necesidades, aspectos, usuarios y características del negocio al que nos enfocamos. Utilizamos GitHub para registrar la información recolectada y los métodos implementados, asegurando que las versiones se guarden de forma ordenada. Llevamos a cabo Entrevistas, Diagramas, Needfinding, User Stories, entre otros métodos para obtener una visión completa y detallada.<br><br>TP1<br>En el segundo avance del trabajo, se cumplieron los requisitos establecidos al avanzar de manera significativa con el desarrollo del frontend de la aplicación web.<br></br>Gallo Quintana, David Ivanoff<br>TB1<br>En este avance del trabajo, empleamos el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los Bounded contexts y las entidades que se implementarán en el Backend. Además, elaboramos diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente, utilizando diversos Patrones de Diseño.<br><br>TP1<br>Se logró desplegar la aplicación de forma efectiva, asegurando su disponibilidad para los usuarios finales. Asimismo, se completó la creación de una API, lo que permite una comunicación eficiente y segura.<br></br>Huarcaya Quispe, Niurka Lucero<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>La Rosa Rodríguez, Alejandro<br>TB1<br>Se ha llevado a cabo la implementación del modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará más adelante en el Backend. Además, se ha documentado todo el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles, específicamente Scrum.<br></br>Oneglio De Paz, Beth Shantal<br>TB1<br>En esta entrega, se llevaron a cabo entrevistas para analizar las preferencias de los segmentos de escritores, ilustradores y lectores. Además, se implementó un diseño UX/UI apropiado que se adapta a las necesidades de los usuarios.<br><br>TP1<br>Durante el sprint 2, mi responsabilidad fue abordar tareas relacionadas con el consumo y funcionamiento de la API, además de encargarme de la estilización de componentes y la organización de carpetas, aplicando un enfoque DDD.<br> | TP1: En esta etapa del proyecto, se realizaron análisis exhaustivos de las preferencias de los escritores, ilustradores y lectores a través de Entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, y se elaboraron diagramas de clase para representar la arquitectura del modelo Backend. Se crearon Diagramas de Flujo de usuario y de trabajo para mejorar la experiencia del usuario, y se llevó a cabo el modelado de la base de datos. Finalmente, se documentó todo el trabajo realizado utilizando metodologías ágiles para garantizar un proceso transparente y colaborativo. |
+
+| Criterio Específico | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                             |
+|--------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Conozco al menos un sector empresarial o dominio de aplicación de soluciones de software, como el comercio electrónico, la atención médica, la educación en línea, la gestión financiera, la logística y el transporte, y el entretenimiento digital.| **Calisaya Sánchez, Juan Jesús**<br>TB3<br>En esta ocasión, me encargué de realizar las evaluaciones según las heurísticas establecidas por otro grupo de la clase. También creé un video sobre el producto, destacando todas sus características. Además, desarrollé el backend del módulo de Payment context y parte del módulo de Vehicle context.<br></br>**Gallo Quintana, David Ivanoff**</br>TB3<br>Me encargué del Sprint 3, la planificación del sprint y la gestión del backlog. Además, desarrollé el backend de la sección de gestión de vehículos (Vehicle Management).</br><br>**Huarcaya Quispe, Niurka Lucero**</br>TB3<br>Realicé la documentación de servicios como evidencia para la revisión del sprint, así como la evidencia de la implementación del software para la misma revisión. Además, desarrollé el backend del módulo de Orders context.<br></br>**La Rosa Rodríguez, Alejandro**<br>TB3</br>Realicé la evidencia de desarrollo para la revisión del sprint, la evidencia del conjunto de pruebas para la revisión del sprint y su ejecución. Además, desarrollé el backend del módulo de Profile context.<br></br>**Oneglio De Paz, Beth Shantal**<br>TB3</br>Contribuí en el diseño y registro de entrevistas, en parte de la organización del reporte, y desarrollé el backend del módulo de Plan context. | TB3: Reconocer las habilidades de cada integrante y saber cómo aprovecharlas nos ha beneficiado como equipo. Además, es fundamental mantenernos actualizados constantemente, especialmente en áreas como el despliegue de nuevas herramientas y el uso más efectivo de herramientas existentes como Git. Esta mejora continua nos permite aumentar nuestra eficiencia y calidad en el trabajo en equipo. |
+
 ----
 # **Capítulo I: Introducción**
 ## 1.1. Startup Profile
@@ -2076,8 +2094,6 @@ Sección de contactos-Feature
 
 ### 5.2.2.5 Execution Evidence for Sprint Review.
 
-
-
 ### 5.2.2.6 Services Documentation Evidence for Sprint Review.
 
 En el alcance del sprint 2, se ha dado prioridad al desarrollo del frontend de la aplicación web, lo que significa que en este sprint no se observa la utilización de servicios web.
@@ -2130,6 +2146,152 @@ Anexo: Tablas de commits en el periodo de 1 mes.
 Anexo: Flujo de trabajo en el periodo de 1 mes.
 
 <img src="https://i.ibb.co/m4srS07/image.png">
+
+### 5.2.2. Sprint 3
+
+#### 5.2.3.1. Spring Planning 3
+
+#### 5.2.3.2. Sprint Backlog 3
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint
+
+## 5.3. Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+Para validar nuestro proyecto, hemos preparado una serie de entrevistas para recoger opiniones de nuestros usuarios. A continuación se encuentran las preguntas que se formularán durante las entrevistas:
+
+**Preguntas Generales:**
+- ¿Cúal es tu nombre?
+- ¿Cuántos años tienes?
+- ¿En qué distrito vives?
+- ¿Cuál es tu ocupación?
+
+**Preguntas para los "Usuarios que Alquilan":**
+- ¿Qué opinión tienes sobre la interfaz de usuario de la aplicación web? ¿Te resulta fácil de navegar?
+- ¿Consideras que las funciones de la aplicación web son intuitivas y sencillas de usar?
+- ¿Hay alguna función que te gustaría ver en la aplicación web y que actualmente no esté disponible?
+- ¿Cómo calificarías tu experiencia general al utilizar la aplicación web?
+- ¿Qué es lo que más te gusta y lo que menos te gusta de la aplicación web?
+- ¿Te sentirías cómodo usando nuestra aplicación web de manera regular?
+- ¿Cómo comparas nuestra aplicación web con otras similares que hayas utilizado?
+- ¿Hay algo en la aplicación web que te confunda o te resulte difícil de entender?
+- ¿Recomendarías nuestra aplicación web a tus amigos o familiares?
+- ¿Tienes alguna sugerencia para mejorar la experiencia del usuario en nuestra aplicación web?
+
+**Preguntas para los "Propietarios de Vehículos":**
+- ¿Qué opinas de la interfaz de usuario de la aplicación web? ¿Es fácil de navegar para ti?
+- ¿Encuentras que las funciones de la aplicación web para gestionar tus vehículos son intuitivas y fáciles de usar?
+- ¿Hay alguna función que te gustaría tener en la aplicación web que actualmente no esté disponible?
+- ¿Cómo calificarías tu experiencia general de uso de la aplicación web para gestionar tus vehículos?
+- ¿Qué es lo que más te gusta y lo que menos te gusta de la aplicación web como propietario de vehículos?
+- ¿Te sentirías cómodo usando nuestra aplicación web de manera regular para gestionar tus vehículos?
+- ¿Cómo crees que nuestra aplicación web se compara con otras plataformas similares que hayas utilizado para gestionar tus vehículos?
+- ¿Hay algo en la aplicación web que te resulte confuso o difícil de entender como propietario de vehículos?
+
+### 5.3.2. Registro de Entrevistas
+
+**Entrevista para el "Propietario de los vehículos":**
+
+Entrevista N°1:
+
+**Entrevistado:**
+**Sexo:**
+**Edad:**
+**Ubicación:**
+**Inicio de la Entrevista:**
+
+**Foto adjunta**
+
+**Enlace:**
+
+**Resumen de la Entrevista:**
+
+Entrevista N°2:
+
+**Entrevistado:**
+**Sexo:**
+**Edad:**
+**Ubicación:**
+**Inicio de la Entrevista:**
+
+**Foto adjunta**
+
+**Enlace:**
+
+**Resumen de la Entrevista:**
+
+Entrevista N°3:
+
+**Entrevistado:**
+**Sexo:**
+**Edad:**
+**Ubicación:**
+**Inicio de la Entrevista:**
+
+**Foto adjunta**
+
+**Enlace:**
+
+**Resumen de la Entrevista:**
+
+**Entrevista para los "Usuarios que desean alquilar":**
+
+Entrevista N°1:
+
+**Entrevistado:**
+**Sexo:**
+**Edad:**
+**Ubicación:**
+**Inicio de la Entrevista:**
+
+**Foto adjunta**
+
+**Enlace:**
+
+**Resumen de la Entrevista:**
+
+Entrevista N°2:
+
+**Entrevistado:**
+**Sexo:**
+**Edad:**
+**Ubicación:**
+**Inicio de la Entrevista:**
+
+**Foto adjunta**
+
+**Enlace:**
+
+**Resumen de la Entrevista:**
+
+Entrevista N°3:
+
+**Entrevistado:**
+**Sexo:**
+**Edad:**
+**Ubicación:**
+**Inicio de la Entrevista:**
+
+**Foto adjunta**
+
+**Enlace:**
+
+**Resumen de la Entrevista:**
+
+### 5.3.3. Evaluaciones según heurísticas
+
+## 5.4. Video About-the-Product
 
 ## Conclusiones
 
