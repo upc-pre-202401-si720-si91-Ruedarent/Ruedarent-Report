@@ -2358,7 +2358,7 @@ Entrevista N°3:
 
 **PROBLEMA #1:** Incluye el botón de "Regístrate con Google" pero este no funciona
 
-**Severidad:** 2
+**Severidad:** 2</br>
 **Heurística violada:** Usability: Libertad y control del usuario
 
 **Problema:**</br>
@@ -2373,7 +2373,7 @@ Hacer utilizable el botón de "Regístrate con Google"
 
 **PROBLEMA #2:** No se incluye el botón de Retorno al momento de ingresar en la sección de "Vehículos"
 
-**Severidad:** 3
+**Severidad:** 3</br>
 **Heurística violada:** Information Architecture: Is it usable?
 
 **Problema:**</br>
@@ -2388,7 +2388,7 @@ Agrega un botón de retorno en la sección de "Vehículos".
 
 **PROBLEMA #3:** No existe opción para el usuario de Recuperar Contraseña en caso la olvide/pierda
 
-**Severidad:** 4
+**Severidad:** 4</br>
 **Heurística violada:** Information Architecture: Is it findable?
 
 **Problema:**</br>
@@ -2403,7 +2403,7 @@ Crear un apartado de “Recuperar contraseña”.
 
 **PROBLEMA #4:** No hay un control que permita regresar al menú de Inicio al ingresar a la sección “Preguntas Frecuentes”
 
-**Severidad:** 3
+**Severidad:** 3</br>
 **Heurística violada:** Usabilidad - Libertad y control del usuario
 
 **Problema:**</br>
@@ -2420,7 +2420,7 @@ para ser propietario. Únete ahora!”.
 
 **PROBLEMA #5:** Incluye el botón de “Ver más” pero este no funciona
 
-**Severidad:** 2
+**Severidad:** 2</br>
 **Heurística violada:** Usability: Libertad y control del usuario
 
 **Problema:**</br>
@@ -2435,7 +2435,7 @@ Hacer utilizable el botón de “Ver más”.
 
 **PROBLEMA #6:** Presencia de errores ortográficos que afectan la comprensión.
 
-**Severidad:** 1
+**Severidad:** 1</br>
 **Heurística violada:** Usabilidad -- Diseño estético y minimalista
 
 **Problema:**</br>
