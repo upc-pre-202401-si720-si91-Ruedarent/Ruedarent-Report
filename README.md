@@ -2308,10 +2308,10 @@ Entrevista N°3:
 #### UX Heuristics & Principles Evaluation
 #### Usability – Inclusive Design – Information ArchitectureUsability – Inclusive Design – Information Architecture
 
-**CARRERA: Ingeniería de Software**
-**CURSO: Aplicaciones Web**
-**PROFESORES: Todos**
-**AUDITOR:** Grupo 1 - Calisaya/Gallo/Huarcaya/La Rosa/Oneglio
+**CARRERA: Ingeniería de Software**</br>
+**CURSO: Aplicaciones Web**</br>
+**PROFESORES: Todos**</br>
+**AUDITOR:** Grupo 1 - Calisaya/Gallo/Huarcaya/La Rosa/Oneglio</br>
 **CLIENTE:** Grupo 1 - Calisaya/Gallo/Huarcaya/La Rosa/Oneglio
 
 #### SITE o APP A EVALUAR:
