@@ -2356,80 +2356,78 @@ Entrevista N°3:
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
-**PROBLEMA #1:**
+**PROBLEMA #1:** Incluye el botón de "Regístrate con Google" pero este no funciona
 
-**Severidad:**
-**Heurística violada:**
+**Severidad:** 2
+**Heurística violada:** Usability: Libertad y control del usuario
 
-**Problema:**
+**Problema:**</br>
+En la pantalla de “Regístrate” el botón de “Regístrate con Google” no es un botón funcional, ya que no permite la acción mencionada en ese botón.
 
-**FOTO ADJUNTA**
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/8Kz6xss/image.png" alt="image" border="0"></a>
 
-**Recomendación:**
+**Recomendación:** Hacer utilizable el botón de "Regístrate con Google"
 
-----------
+**PROBLEMA #2:** No se incluye el botón de Retorno al momento de ingresar en la sección de "Vehículos"
 
-**PROBLEMA #2:**
+**Severidad:** 3
+**Heurística violada:** Information Architecture: Is it usable?
 
-**Severidad:**
-**Heurística violada:**
+**Problema:**</br>
+Al momento de ingresar a la sección “Vehículos”, no existe la posibilidad de regresar al menú de "Lo más destacado" dado a que no hay botón alguno que nos permita salir de la sección, por lo que el usuario debe forzar el cierre de la aplicación para volver al Inicio.
 
-**Problema:**
+<a href="https://ibb.co/hmHRL0v"><img src="https://i.ibb.co/gRwMmYC/image.png" alt="image" border="0"></a>
 
-**FOTO ADJUNTA**
+**Recomendación:** Agrega un botón de retorno en la sección de "Vehículos".
 
-**Recomendación:**
+**PROBLEMA #3:** No existe opción para el usuario de Recuperar Contraseña en caso la olvide/pierda
 
-----------
+**Severidad:** 4
+**Heurística violada:** Information Architecture: Is it findable?
 
-**PROBLEMA #3:**
+**Problema:**</br>
+No existe un apartado de “Recuperar contraseña” en caso de que el usuario se olvidara la contraseña, al no existir una opción para ese caso , el usuario se ve en la obligación de crear otra cuenta o ya no poder usar más la App.
 
-**Severidad:**
-**Heurística violada:**
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/QcxzX4K/image.png" alt="image" border="0"></a>
 
-**Problema:**
+**Recomendación:** Crear un apartado de “Recuperar contraseña”.
 
-**FOTO ADJUNTA**
+**PROBLEMA #4:** No hay un control que permita regresar al menú de Inicio al ingresar a la sección “Preguntas Frecuentes”
 
-**Recomendación:**
+**Severidad:** 3
+**Heurística violada:** Usabilidad - Libertad y control del usuario
 
-----------------
-**PROBLEMA #4:**
+**Problema:** Al momento de ingresar a la sección “Explora nuestros planes
+para ser propietario. Únete ahora!”, no existe la posibilidad de regresar al menú de Inicio dado a que no hay botón alguno que nos permita salir de la sección, por lo que el usuario debe forzar el cierre de la aplicación para volver al Inicio.
 
-**Severidad:**
-**Heurística violada:**
+<a href="https://ibb.co/nzT1CTD"><img src="https://i.ibb.co/PwRWQR5/image.png" alt="image" border="0"></a>
 
-**Problema:**
+**Recomendación:** Agregar un botón de retorno en la sección de “Explora nuestros planes
+para ser propietario. Únete ahora!”.
 
-**FOTO ADJUNTA**
+**PROBLEMA #5:** Incluye el botón de “Ver más” pero este no funciona
 
-**Recomendación:**
+**Severidad:** 2
+**Heurística violada:** Usability: Libertad y control del usuario
 
------------
+**Problema:**</br>
+En la pantalla de "Lo más destacado” el botón de “Ver más” no es un botón funcional, ya que no permite la acción mencionada en ese botón.
 
-**PROBLEMA #5:**
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6WYwMRT/image.png" alt="image" border="0"></a>
 
-**Severidad:**
-**Heurística violada:**
+**Recomendación:** Hacer utilizable el botón de “Ver más”.
 
-**Problema:**
+**PROBLEMA #6:** Presencia de errores ortográficos que afectan la comprensión.
 
-**FOTO ADJUNTA**
+**Severidad:** 1
+**Heurística violada:** Usabilidad -- Diseño estético y minimalista
 
-**Recomendación:**
+**Problema:**</br>
+El frontend presenta errores ortográficos que afectan la claridad y comprensión del plan, lo que puede generar confusión en los usuarios.
 
---------------
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/25KK9YR/image.png" alt="image" border="0"></a>
 
-**PROBLEMA #6:**
-
-**Severidad:**
-**Heurística violada:**
-
-**Problema:**
-
-**FOTO ADJUNTA**
-
-**Recomendación:**
+**Recomendación:** Es necesario realizar una revisión ortográfica del prototipo para identificar y corregir los errores de forma inmediata, asegurando así una mejor comprensión por parte de los usuarios al utilizar el plan.
 
 ## 5.4. Video About-the-Product
 
