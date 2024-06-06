@@ -2305,6 +2305,132 @@ Entrevista N°3:
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+#### UX Heuristics & Principles Evaluation
+#### Usability – Inclusive Design – Information ArchitectureUsability – Inclusive Design – Information Architecture
+
+**CARRERA: Ingeniería de Software**
+**CURSO: Aplicaciones Web**
+**PROFESORES: Todos**
+**AUDITOR:** Grupo 1 - Calisaya/Gallo/Huarcaya/La Rosa/Oneglio
+**CLIENTE:** Grupo 1 - Calisaya/Gallo/Huarcaya/La Rosa/Oneglio
+
+#### SITE o APP A EVALUAR:
+*Ruedarent*
+
+#### TAREAS A EVALUAR:
+*El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:*
+- *Registro de un usuario nuevo*
+- *Inicio de Sesión*
+- *Programación de una adopción*
+- *Programación de una adopción programada*
+- *Búsqueda a una adopción programada*
+- *Ingresar a una adopción programada*
+- *Etc.*
+
+*No están incluidas en esta versión de la evaluación las siguientes tareas:*
+
+- *Cancelación de adopción*
+- *Solicitud de adopción de cita*
+- *Un chat privado para comunicarse con el doctor, para consultar dudas pequeñas.*
+- *Etc.*
+
+**ESCALA DE SEVERIDAD:**
+*Los errores serán puntuados tomando en cuenta la siguiente escala de severidad*
+
+|*Nivel*|*Descripcióm*|
+|---------|------------|
+|*1*|*Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.*|
+|*2*|*Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.*|
+|*3*|*Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.*|
+|*4*|*Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.*|
+
+**TABLA RESUMEN:**
+
+|#|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+|---------|------------|---------|------------|
+|*1*|*No hay un control que permita regresar al menú de Inicio al ingresar a la sección “Preguntas Frecuentes”*|*3*|*Usability: Libertad y control del usuario*|
+|*2*|*Incluye el botón de “Iniciar sesión” pero este no funciona*|*3*|*Usability: Libertad y control del usuario*|
+|*3*|*Presencia de errores ortográficos*|*1*|*Usability: Diseño estético y minimalista*|
+|*4*|*No se incluye un botón de Retorno al momento de ingresar en la sección “Donaciones”*|*3*|*Information Architecture: Is it usable?*|
+|*5*|*No existe opción para el usuario de Recuperar Contraseña en caso la olvide/pierda*|*4*|*Information Architecture: Is it findable?*|
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:**
+
+**Severidad:**
+**Heurística violada:**
+
+**Problema:**
+
+**FOTO ADJUNTA**
+
+**Recomendación:**
+
+----------
+
+**PROBLEMA #2:**
+
+**Severidad:**
+**Heurística violada:**
+
+**Problema:**
+
+**FOTO ADJUNTA**
+
+**Recomendación:**
+
+----------
+
+**PROBLEMA #3:**
+
+**Severidad:**
+**Heurística violada:**
+
+**Problema:**
+
+**FOTO ADJUNTA**
+
+**Recomendación:**
+
+----------------
+**PROBLEMA #4:**
+
+**Severidad:**
+**Heurística violada:**
+
+**Problema:**
+
+**FOTO ADJUNTA**
+
+**Recomendación:**
+
+-----------
+
+**PROBLEMA #5:**
+
+**Severidad:**
+**Heurística violada:**
+
+**Problema:**
+
+**FOTO ADJUNTA**
+
+**Recomendación:**
+
+--------------
+
+**PROBLEMA #6:**
+
+**Severidad:**
+**Heurística violada:**
+
+**Problema:**
+
+**FOTO ADJUNTA**
+
+**Recomendación:**
+
 ## 5.4. Video About-the-Product
 
 ## Conclusiones
