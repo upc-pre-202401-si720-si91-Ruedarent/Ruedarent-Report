@@ -2239,17 +2239,19 @@ Rodrigo busca una plataforma fácil de usar e intuitiva, que le permita contacta
 
 Entrevista N°3:
 
-**Entrevistado:**
-**Sexo:**
-**Edad:**
-**Ubicación:**
-**Inicio de la Entrevista:**
+**Entrevistado:** Francesca Frassinelli Fernandez
+**Sexo:** Femenino
+**Edad:** 22
+**Ubicación:** Magdalena, Lima
+**Inicio de la Entrevista:** 0:00
 
-**Foto adjunta**
+<a href="https://ibb.co/ThHxvkW"><img src="https://i.ibb.co/YjtFR30/image.png" alt="image" border="0"></a>
 
-**Enlace:**
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911361_upc_edu_pe/EVFqwc0h6HlGho390P9Wi3kBMKJ_jB2oaP3b7IY_YZtrTA?e=B6YljQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**Resumen de la Entrevista:**
+**Resumen de la Entrevista:** 
+
+Francesca, quien simultáneamente estudia y trabaja en una empresa bancaria, muestra gran interés en nuestra aplicación, valorándola con un perfecto 10/10 por su facilidad de uso. Destaca la excelente interfaz que le permite navegar y encontrar los géneros de manera rápida y sencilla. Sin embargo, señala que la sección del menú puede resultar un tanto tediosa debido a la abundancia de opciones. Aunque reconoce que la versión actual del aplicativo está bien desarrollada, espera con expectación futuras actualizaciones que añadan aún más funcionalidades para mejorar su experiencia de usuario.
 
 **Entrevista para los "Usuarios que desean alquilar":**
 
