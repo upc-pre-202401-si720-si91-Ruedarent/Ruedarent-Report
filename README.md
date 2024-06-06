@@ -2306,7 +2306,7 @@ Entrevista N°3:
 ### 5.3.3. Evaluaciones según heurísticas
 
 ### UX Heuristics & Principles Evaluation </br>
-### Usability – Inclusive Design – Information ArchitectureUsability – Inclusive Design – Information Architecture
+### Usability – Inclusive Design – Information Architecture
 
 **CARRERA: Ingeniería de Software**</br>
 **CURSO: Aplicaciones Web**</br>
