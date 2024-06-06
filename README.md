@@ -2205,103 +2205,103 @@ Para validar nuestro proyecto, hemos preparado una serie de entrevistas para rec
 
 Entrevista N°1:
 
-**Entrevistado:** Néstor Velarde Gonzales
-**Sexo:** Masculino
-**Edad:** 26
-**Ubicación:** Lima, Perú
+**Entrevistado:** Néstor Velarde Gonzales</br>
+**Sexo:** Masculino</br>
+**Edad:** 26</br>
+**Ubicación:** Lima, Perú</br>
 **Inicio de la Entrevista:** 00:02:50
 
 <a href="https://ibb.co/8jm7LNt"><img src="https://i.ibb.co/fCXxzqL/image.png" alt="image" border="0"></a>
 
 **Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EYT2GZlP_4tNi4--jr1Le_kBsT03GeErpfax63BLILlNzQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=WHszfs 
 
-**Resumen de la Entrevista:**
+**Resumen de la Entrevista:**</br>
 Néstor Velarde Gonzales, un joven de 26 años que trabaja de forma remota en Claro y es egresado de ingeniería informática, nos cuenta que es propietario de un vehículo y recientemente ha empezado a usar una aplicación para alquilarlo. Según Néstor, la aplicación es fácil de usar, intuitiva y ofrece un alto nivel de seguridad para quienes desean generar ingresos con bienes que no utilizan.
 
 Néstor aprecia mucho la interfaz de la aplicación, aunque sugiere que se podrían usar colores menos brillantes y aumentar el tamaño de las letras para mejorar la visualización y la experiencia de usuario. Le encantan los detalles y la innovación de la aplicación, destacando que es única y elogiando al grupo que la desarrolló por su creatividad y originalidad.
 
 Entrevista N°2:
 
-**Entrevistado:** Rodrigo García
-**Sexo:** Masculino
-**Edad:** 21
-**Ubicación:** La Molina, Lima
+**Entrevistado:** Rodrigo García</br>
+**Sexo:** Masculino</br>
+**Edad:** 21</br>
+**Ubicación:** La Molina, Lima</br>
 **Inicio de la Entrevista:** 00:01:14
 
 <a href="https://ibb.co/M6WnbVp"><img src="https://i.ibb.co/RyZ210P/image.png" alt="image" border="0"></a>
 
 **Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EZC4iVqYmlZFpTNrDQpbKN4B7LYWxwF3OuelKHN7zMr75g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=aB5Pbx
 
-**Resumen de la Entrevista:**
+**Resumen de la Entrevista:**</br>
 Se entrevistó a Rodrigo García, un joven de 21 años que reside en La Molina, Lima, y es propietario de vehículos de Ruedarent. Rodrigo es un entusiasta de los vehículos y viaja frecuentemente desde La Molina al Callao, donde actualmente se encuentra. Le gusta la aplicación por lo interactiva y fácil de usar que es, y aprecia poder generar ingresos desde la comodidad de su hogar, sin importar dónde se encuentre.
 
 Rodrigo busca una plataforma fácil de usar e intuitiva, que le permita contactar fácilmente con quienes desean alquilar su vehículo. Además, sugiere que el menú de la aplicación esté en español y que haya un botón para cambiar entre español e inglés, facilitando su uso a los turistas que no hablan español.
 
 Entrevista N°3:
 
-**Entrevistado:** Francesca Frassinelli Fernandez
-**Sexo:** Femenino
-**Edad:** 22
-**Ubicación:** Magdalena, Lima
+**Entrevistado:** Francesca Frassinelli Fernandez</br>
+**Sexo:** Femenino</br>
+**Edad:** 22</br>
+**Ubicación:** Magdalena, Lima</br>
 **Inicio de la Entrevista:** 0:00
 
 <a href="https://ibb.co/ThHxvkW"><img src="https://i.ibb.co/YjtFR30/image.png" alt="image" border="0"></a>
 
 **Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201911361_upc_edu_pe/EVFqwc0h6HlGho390P9Wi3kBMKJ_jB2oaP3b7IY_YZtrTA?e=B6YljQ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**Resumen de la Entrevista:** 
-
+**Resumen de la Entrevista:**</br>
 Francesca, quien simultáneamente estudia y trabaja en una empresa bancaria, muestra gran interés en nuestra aplicación, valorándola con un perfecto 10/10 por su facilidad de uso. Destaca la excelente interfaz que le permite navegar y encontrar los géneros de manera rápida y sencilla. Sin embargo, señala que la sección del menú puede resultar un tanto tediosa debido a la abundancia de opciones. Aunque reconoce que la versión actual del aplicativo está bien desarrollada, espera con expectación futuras actualizaciones que añadan aún más funcionalidades para mejorar su experiencia de usuario.
 
 **Entrevista para los "Usuarios que desean alquilar":**
 
 Entrevista N°1:
 
-**Entrevistado:** Kevin Arnold Espinoza Lava
-**Sexo:** Masculino
-**Edad:** 22
-**Ubicación:** San Juan de Lurigancho, Lima
-**Inicio de la Entrevista:** 00:02:05
+**Entrevistado:** Kevin Arnold Espinoza Lava</br>
+**Sexo:** Masculino</br>
+**Edad:** 22</br>
+**Ubicación:** San Juan de Lurigancho, Lima</br>
+**Inicio de la Entrevista:** 00:02:05</br>
 
 <a href="https://ibb.co/QPrpjY2"><img src="https://i.ibb.co/tq8QPY7/image.png" alt="image" border="0"></a>
 
 **Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EStNoTKKz09Kr2TwGlRrc9oB0N9smK74o7k8JajflMKHSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zEkFdc
 
-**Resumen de la Entrevista:**
+**Resumen de la Entrevista:**</br>
 Se entrevistó a Kevin Arnold Espinoza Lava, un joven de 22 años y estudiante que no posee un vehículo. Kevin ha encontrado muy útil esta aplicación, especialmente cuando quiso salir con sus amigos y necesitaba una bicicleta. Descubrió la aplicación a través de sus amigos y decidió usarla.
 
 Kevin menciona que la aplicación no le parece complicada de usar; la considera muy útil, fácil y creativa. Sin embargo, subraya la importancia de evaluar la seguridad de la misma. Además, sugiere agregar un botón para iniciar sesión con Apple en la parte de registro e inicio de sesión, para aquellos que no cuentan con cuentas de Google o Microsoft.
 
 Entrevista N°2:
 
-**Entrevistado:** José Daniel Rodríguez Durand
-**Sexo:** Masculino 
-**Edad:** 21
-**Ubicación:** Lima, Perú
+**Entrevistado:** José Daniel Rodríguez Durand</br>
+**Sexo:** Masculino</br>
+**Edad:** 21</br>
+**Ubicación:** Lima, Perú</br>
 **Inicio de la Entrevista:** 00:02:00
 
 <a href="https://ibb.co/JqbYfLd"><img src="https://i.ibb.co/qC4HtGn/image.png" alt="image" border="0"></a>
 
 **Enlace:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/ERSPXqh6JdhEr9P9KUP-K6sBoF4uXSHKGMw0ojuHJDlDRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=524k8r
 
-**Resumen de la Entrevista:**
+**Resumen de la Entrevista:**</br>
 Se entrevistó a José, un joven de 21 años que actualmente trabaja en Lima. A José le interesa usar vehículos para salir con amigos y le parece genial esta aplicación. Comenta que al elegir un vehículo, le gusta poder ver información sobre el propietario y los detalles de la compra. Sin embargo, sugiere agregar Yape o Plin como métodos de pago, ya que no todos tienen PayPal.
 
 Finalmente, José menciona que estaría dispuesto a ser un usuario recurrente de la plataforma, ya que encuentra la propuesta interesante. Le gustaría tener acceso exclusivo y sugiere implementar un buen método de marketing para atraer y retener usuarios.
 
 Entrevista N°3:
 
-**Entrevistado:**
-**Sexo:**
-**Edad:**
-**Ubicación:**
-**Inicio de la Entrevista:**
+**Entrevistado:** Natalie Huarcaya</br>
+**Sexo:** Femenino</br>
+**Edad:** 26</br>
+**Ubicación:** Santiago de Surco, Lima</br>
+**Inicio de la Entrevista:** 0:00
 
-**Foto adjunta**
+<a href="https://ibb.co/v4qYB5z"><img src="https://i.ibb.co/ch3Lv5T/image.png" alt="image" border="0"></a>
 
-**Enlace:**
+**Enlace:** https://upcedupe-my.sharepoint.com/:v:/r/personal/u20221b226_upc_edu_pe/Documents/universidad/aplicaciones%20web/upc-pre-202401-si730-si91-ruedarent-needfinding-sprint-3.mp4?csf=1&web=1&e=xc0Bjc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**Resumen de la Entrevista:**
+**Resumen de la Entrevista:**</br>
+Natalie, una estudiante con aspiraciones de convertirse en una usuaria activa de nuestra aplicación, tiene una crítica constructiva. Aunque aprecia la estética y la disposición de los botones centrados, siente que la aplicación carece de contenido y se percibe como vacía. Sin embargo, menciona que si la aplicación tuviera más contenido y una interfaz atractiva, la utilizaría con entusiasmo y la recomendaría a amigos y familiares. Su sugerencia es agregar una sección de preguntas frecuentes para mejorar la experiencia del usuario.
 
 ### 5.3.3. Evaluaciones según heurísticas
 
