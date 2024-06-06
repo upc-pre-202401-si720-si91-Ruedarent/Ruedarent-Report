@@ -2366,7 +2366,10 @@ En la pantalla de “Regístrate” el botón de “Regístrate con Google” no
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/8Kz6xss/image.png" alt="image" border="0"></a>
 
-**Recomendación:** Hacer utilizable el botón de "Regístrate con Google"
+**Recomendación:**</br>
+Hacer utilizable el botón de "Regístrate con Google"
+
+----
 
 **PROBLEMA #2:** No se incluye el botón de Retorno al momento de ingresar en la sección de "Vehículos"
 
@@ -2378,7 +2381,10 @@ Al momento de ingresar a la sección “Vehículos”, no existe la posibilidad 
 
 <a href="https://ibb.co/hmHRL0v"><img src="https://i.ibb.co/gRwMmYC/image.png" alt="image" border="0"></a>
 
-**Recomendación:** Agrega un botón de retorno en la sección de "Vehículos".
+**Recomendación:**</br>
+Agrega un botón de retorno en la sección de "Vehículos".
+
+----
 
 **PROBLEMA #3:** No existe opción para el usuario de Recuperar Contraseña en caso la olvide/pierda
 
@@ -2390,20 +2396,27 @@ No existe un apartado de “Recuperar contraseña” en caso de que el usuario s
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/QcxzX4K/image.png" alt="image" border="0"></a>
 
-**Recomendación:** Crear un apartado de “Recuperar contraseña”.
+**Recomendación:**</br>
+Crear un apartado de “Recuperar contraseña”.
+
+----
 
 **PROBLEMA #4:** No hay un control que permita regresar al menú de Inicio al ingresar a la sección “Preguntas Frecuentes”
 
 **Severidad:** 3
 **Heurística violada:** Usabilidad - Libertad y control del usuario
 
-**Problema:** Al momento de ingresar a la sección “Explora nuestros planes
+**Problema:**</br>
+Al momento de ingresar a la sección “Explora nuestros planes
 para ser propietario. Únete ahora!”, no existe la posibilidad de regresar al menú de Inicio dado a que no hay botón alguno que nos permita salir de la sección, por lo que el usuario debe forzar el cierre de la aplicación para volver al Inicio.
 
 <a href="https://ibb.co/nzT1CTD"><img src="https://i.ibb.co/PwRWQR5/image.png" alt="image" border="0"></a>
 
-**Recomendación:** Agregar un botón de retorno en la sección de “Explora nuestros planes
+**Recomendación:**</br>
+Agregar un botón de retorno en la sección de “Explora nuestros planes
 para ser propietario. Únete ahora!”.
+
+----
 
 **PROBLEMA #5:** Incluye el botón de “Ver más” pero este no funciona
 
@@ -2415,7 +2428,10 @@ En la pantalla de "Lo más destacado” el botón de “Ver más” no es un bot
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/6WYwMRT/image.png" alt="image" border="0"></a>
 
-**Recomendación:** Hacer utilizable el botón de “Ver más”.
+**Recomendación:**</br>
+Hacer utilizable el botón de “Ver más”.
+
+----
 
 **PROBLEMA #6:** Presencia de errores ortográficos que afectan la comprensión.
 
@@ -2427,7 +2443,8 @@ El frontend presenta errores ortográficos que afectan la claridad y comprensió
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/25KK9YR/image.png" alt="image" border="0"></a>
 
-**Recomendación:** Es necesario realizar una revisión ortográfica del prototipo para identificar y corregir los errores de forma inmediata, asegurando así una mejor comprensión por parte de los usuarios al utilizar el plan.
+**Recomendación:**</br>
+Es necesario realizar una revisión ortográfica del prototipo para identificar y corregir los errores de forma inmediata, asegurando así una mejor comprensión por parte de los usuarios al utilizar el plan.
 
 ## 5.4. Video About-the-Product
 
