@@ -1839,8 +1839,6 @@ Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando 
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-
-
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 En esta entrega, nos enfocamos en Landing page, por lo que no fue necesario ningún servicio adicional.
