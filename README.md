@@ -180,8 +180,49 @@ Además, se han generado los artefactos necesarios utilizando las herramientas r
     - 5.2.1.1. Sprint Planning 1
     - 5.2.1.2. Sprint Backlog 1
     - 5.2.1.3. Development Evidence for Sprint Review
+    <table>
+      <thead>
+        <tr>
+          <td>Repository</td>
+          <td>Branch</td>
+          <td>Commit Id</td>
+          <td>Commit Message</td>
+          <td>Commit Message Body</td>
+          <td>Commited on (Date)</td>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>Ruedarent-Landing-Page</td>
+          <td>833e5f8</td>
+          <td>feat: merged sections</td>
+          <td>14/04/24</td>
+        </tr>
+        <tr>
+          <td>Ruedarent-Landing-Page</td>
+          <td>04043ab</td>
+          <td>feat: added/section-vehicles</td>
+          <td>12/04/24</td>
+        </tr>
+        <tr>
+          <td>Ruedarent-Landing-Page</td>
+          <td>33c1fdd</td>
+          <td>feat: added section benefits</td>
+          <td>12/04/24</td>
+        </tr>
+        <tr>
+          <td>Ruedarent-Landing-Page</td>
+          <td>8e00870</td>
+          <td>Add: Alert section</td>
+          <td>13/04/24</td>
+        </tr>
+      </tbody>
+    </table>
     - 5.2.1.4. Testing Suite Evidence for Sprint Review
+      \nEn esta entrega, no se incluyeron los componentes relacionados con los servicios web, ya que en este caso solo se implemento la Landing Page.
     - 5.2.1.5. Execution Evidence for Sprint Review
+      \nSe puede visualizar el video en el siguiente enlace: https://...
     - 5.2.1.6. Services Documentation Evidence for Sprint Review
     - 5.2.1.7. Software Deployment Evidence for Sprint Review
     - 5.2.1.8. Team Collaboration Insights during Sprint
