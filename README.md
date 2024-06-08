@@ -2613,6 +2613,7 @@ En esta sección se encuentra el Video Sobre el Producto, donde promocionamos la
 ![alt text](/feature/assets/about-the-product-s3.png)
 
 **La duración del video es de 6 minutos con 18 segundos.**
+
 Enlace al video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121935_upc_edu_pe/EVFGE3BOUDVPqDC-mFVhmHwBDp9NNeShuzPHuod5JND3mQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=33Cqds 
 
 
