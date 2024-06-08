@@ -197,55 +197,11 @@ Además, se han generado los artefactos necesarios utilizando las herramientas r
     - 5.2.3.1. Spring Planning 3
     - 5.2.3.2. Sprint Backlog 3
     - 5.2.3.3. Development Evidence for Sprint Review
-      <table>
-      <thead>
-        <tr>
-          <td>Repository</td>
-          <td>Branch</td>
-          <td>Commit Id</td>
-          <td>Commit Message</td>
-        </tr>
-      </thead>
-
-      <tbody>
-        <tr>
-          <td>Frontend</td>
-          <td>develop</td>
-          <td>21d4fa99</td>
-          <td>feat: added project via commit</td>
-        </tr>
-        <tr>
-          <td>Frontend</td>
-          <td>develop</td>
-          <td>07d18634</td>
-          <td>feat: added Login form</td>
-        </tr>
-        <tr>
-          <td>Frontend</td>
-          <td>develop</td>
-          <td>3cb88a13</td>
-          <td>added register form</td>
-        </tr>
-        <tr>
-          <td>Frontend</td>
-          <td>develop</td>
-          <td>648b7193</td>
-          <td>feat: added Renter profile</td>
-        </tr>
-        <tr>
-          <td>Frontend</td>
-          <td>develop</td>
-          <td>90c7efc2</td>
-          <td>feat: added vehicle display</td>
-        </tr>
-      </tbody>
-    </table>
-    
-  - 5.2.3.4. Testing Suite Evidence for Sprint Review
-  - 5.2.3.5. Execution Evidence for Sprint Review
-  - 5.2.3.6. Services Documentation Evidence for Sprint Review
-  - 5.2.3.7. Software Deployment Evidence for Sprint Review
-  - 5.2.3.8. Team Collaboration Insights during Sprint
+    - 5.2.3.4. Testing Suite Evidence for Sprint Review
+    - 5.2.3.5. Execution Evidence for Sprint Review
+    - 5.2.3.6. Services Documentation Evidence for Sprint Review
+    - 5.2.3.7. Software Deployment Evidence for Sprint Review
+    - 5.2.3.8. Team Collaboration Insights during Sprint
 - 5.3. Validation Interviews
   - 5.3.1. Diseño de Entrevistas
   - 5.3.2. Registro de Entrevistas
@@ -2336,7 +2292,30 @@ En este sección, están las reuniones que se realizaron para llevar a cabo la W
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
-- En esta entrega, no se incluyeron los componentes relacionados con los servicios web, ya que en este caso solo se implemento la Landing Page.
+<table>
+      <thead>
+        <tr>
+          <td>Repository</td>
+          <td>Branch</td>
+          <td>Commit Id</td>
+          <td>Commit Message</td>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Acceptance-Test</td>
+          <td>main</td>
+          <td>04899bb</td>
+          <td>feat: added acceptance tests epic02 and epic03</td>
+        </tr>
+        <tr>
+          <td>Acceptance-Test</td>
+          <td>main</td>
+          <td>04899bb</td>
+          <td>feat: added acceptance tests epic02 and epic03</td>
+        </tr>
+      </tbody>
+    </table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
