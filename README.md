@@ -2319,7 +2319,9 @@ En este sección, están las reuniones que se realizaron para llevar a cabo la W
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-- Se puede visualizar el video en el siguiente enlace:
+<a href="https://ibb.co/C6Sh7JQ"><img src="https://i.ibb.co/YXVpkDh/Screenshot-2024-06-08-at-5-19-09-PM.png" alt="Screenshot-2024-06-08-at-5-19-09-PM" border="0" /></a>
+<a href="https://ibb.co/zHxF5Gb"><img src="https://i.ibb.co/84sbB62/Screenshot-2024-06-08-at-5-19-48-PM.png" alt="Screenshot-2024-06-08-at-5-19-48-PM" border="0" /></a>
+<a href="https://ibb.co/zHxF5Gb"><img src="https://i.ibb.co/84sbB62/Screenshot-2024-06-08-at-5-19-48-PM.png" alt="Screenshot-2024-06-08-at-5-19-48-PM" border="0" /></a>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
