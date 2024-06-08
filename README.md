@@ -2255,7 +2255,32 @@ Anexo: Flujo de trabajo en el periodo de 1 mes.
 
 #### 5.2.3.1. Spring Planning 3
 
+En este sección, están las reuniones que se realizaron para llevar a cabo la Web Service
+
+| Sprint #                       | Sprint #3                                                                                                           |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background     |
+| Date                           | 2024-05-26                                                                                                          |
+| Time                           | 07:40 PM                                                                                                            |
+| Location                       | Google Meet (virtual)                                                                                               |
+| Prepared by                    | Gallo Quintana, David Ivanoff                                                                                       |
+| Attendes (to planning meeting) | Gallo Quintana, David Ivanoff / La Rosa, Alejandro / Calisaya Sánchez, Juan Jesús / Oneglio, Beth / Huarcaya Niurka |
+| Sprint Goal & User Stories     |                                                                                                                     |
+| Sprint 2 Goal                  | Corrección de errores, así como elaboración y desplegue de Web Service                                              |
+| Sprint 1 Velocity              | 45                                                                                                                  |
+| Sum of Story Points            | 40                                                                                                                  |
+
 #### 5.2.3.2. Sprint Backlog 3
+
+
+| id   | Title                | Id   | Title          | Description               | Estimations(Hours) | Assigned To | Status(To-do /InProcess/ToReview/Done) |
+| ---- | -------------------- | ---- | -------------- | ------------------------- | ------------------ | --------| -------------------------------------- |
+| EP2-US08  | Inicio de Sesion                  | W20 | Inicialización en la página (C#) | Implementación de User Login           | 12                  | Beth      | Done                                            |
+| EP3-US10 | Filtro de búsqueda de vehículos    | W21 | Filtro de busqueda         | Implementación de metodo de busqueda mediante get(C#) | 12                  | David  | Done                                   |
+| EP3-US09 | Ver vehiculos disponibles          | W22 | Obtención de datos de los vehiculos disponibles (C#)     | Implementación de Get mediante un List     | 9          | Alejandro     | Done                                   |
+| EP2-US06  | Registro de Cuenta     |W23|Implementación de registro de cuenta con auth      | Implementación de Registro de cuenta(c#)    | 12                  | Niurka      | Done                                   |
+| EP4-US13  | Sección de testimonios                 | W24 | Sección de testimonios implementada (C#)            | Implementación de testimonios por vehiculos    | 12                  | Juan        | Done                                   |
+
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
@@ -2319,6 +2344,19 @@ Anexo: Flujo de trabajo en el periodo de 1 mes.
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint
+
+
+
+En esta entrega se estructuro el trabajo en distintas ramas basadas en los endpoints y distribuciones en las que nos dividimos, esto permitiendo manejar cada sección de manera separada, reduciendo posibles conflictos durante la implementación de WebService. Ademas se implementaron las convenciones de Gitflow, creando distintas ramas segun las necesidades, asi como se siguieron de manera adecuada los conventional commits. A continuación se mostraran los distintos commits realizados por los integrantes:
+
+|Integrante | Actividad|
+|-----------|----------|
+| Alejandro La Rosa Rodriguez      | Endpoints de los puntos relacionados a Profile Context|
+| Beth Shantal Oneglio De Paz      | Endpoints de los puntos relacionados a Plan Context   |
+| David Ivanoff Gallo Quintana     | Endpoints de los puntos relacionados a Vehicle Context|
+| Niurka Lucero Huarcaya Quispe    | Endpoints de los puntos relacionados a Orders Context |
+| Juan Jesus Calisaya Sanchez      | Enpoints de los puntos relacionados a Payment Context |
+
 
 ## 5.3. Validation Interviews
 
