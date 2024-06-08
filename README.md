@@ -2609,6 +2609,12 @@ El frontend presenta errores ortográficos que afectan la claridad y comprensió
 Es necesario realizar una revisión ortográfica del prototipo para identificar y corregir los errores de forma inmediata, asegurando así una mejor comprensión por parte de los usuarios al utilizar el plan.
 
 ## 5.4. Video About-the-Product
+En esta sección se encuentra el Video Sobre el Producto, donde promocionamos la aplicación mostrando las características principales de Ruedarent. Este video incluye una introducción, explica nuestro modelo de negocio, detalla las funcionalidades de la app, resalta los beneficios y presenta testimonios de los principales usuarios de cada segmento.
+![alt text](/feature/assets/about-the-product-s3.png)
+
+**La duración del video es de 6 minutos con 18 segundos.**
+Enlace al video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121935_upc_edu_pe/EVFGE3BOUDVPqDC-mFVhmHwBDp9NNeShuzPHuod5JND3mQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=33Cqds 
+
 
 ## Conclusiones
 
@@ -2739,3 +2745,8 @@ Entrevista Usuario:
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/EStNoTKKz09Kr2TwGlRrc9oB0N9smK74o7k8JajflMKHSQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=zEkFdc
 
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213423_upc_edu_pe/ERSPXqh6JdhEr9P9KUP-K6sBoF4uXSHKGMw0ojuHJDlDRg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=524k8r
+
+**Anexo 15:**
+
+Video About the Product:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121935_upc_edu_pe/EVFGE3BOUDVPqDC-mFVhmHwBDp9NNeShuzPHuod5JND3mQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=33Cqds 
