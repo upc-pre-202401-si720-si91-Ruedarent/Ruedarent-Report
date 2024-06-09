@@ -159,14 +159,14 @@ En este sección, están las reuniones que se realizaron para llevar a cabo la L
 | Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
 |:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
 | [Ruedarent <br>Landing Page](https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Landing-Page) | main | 878eb379530bba34ba873c65bd1910058b1a443e | Initial commit |  | 30/03/2024 |
-|  | feat/section-vehicles | 04043ab2c41e879a1395a62d32e81746de41bb5e | feat: added/section-vehicles |  | 12/04/2024 |
-|  | feat/section-vehicles | 87ae681f43e7832d266ccaf06d5b59ce40495ea4 | feat: added Section vehicles |  | 12/04/2024 |
-|  | feat/section-benefits | 33c1fdd6a89424db5ef9e429383daf02934dc0d8 | feat: added section benefits |  | 12/04/2024 |
-|  | feat/section-alertas | 8e00870b2827fa0be585af6e162d2bf5c2d3d568 | Add: Alert section |  | 13/04/2024 |
-|  | feat/section-us | e6d0b79d5946afc4a1c93e31e76dcf0843435738 | feat: added us index.html |  | 13/04/2024 |
-|  | feat/section-us  | 0b339e0a7775226891d44434ae18e753b4e910a4 | feat: added us style.css |  | 13/04/2024 |
-|  | feat/section-alertas | 42929bb5d7ba742ed1fa44a54e9e4953c3f0f291 | Merge branch 'feat/section-benefits' into feat/section-alertas |  | 14/04/2024 |
-|  | releases | 833e5f8391bedb6dea5e81c17ba3736486e57e4e | feat: merged sections |  | 14/04/2024 |
+| Landing | feat/section-vehicles | 04043ab2c41e879a1395a62d32e81746de41bb5e | feat: added/section-vehicles |  | 12/04/2024 |
+| Landing | feat/section-vehicles | 87ae681f43e7832d266ccaf06d5b59ce40495ea4 | feat: added Section vehicles |  | 12/04/2024 |
+| Landing | feat/section-benefits | 33c1fdd6a89424db5ef9e429383daf02934dc0d8 | feat: added section benefits |  | 12/04/2024 |
+| Landing | feat/section-alertas | 8e00870b2827fa0be585af6e162d2bf5c2d3d568 | Add: Alert section |  | 13/04/2024 |
+| Landing | feat/section-us | e6d0b79d5946afc4a1c93e31e76dcf0843435738 | feat: added us index.html |  | 13/04/2024 |
+| Landing | feat/section-us  | 0b339e0a7775226891d44434ae18e753b4e910a4 | feat: added us style.css |  | 13/04/2024 |
+| Landing | feat/section-alertas | 42929bb5d7ba742ed1fa44a54e9e4953c3f0f291 | Merge branch 'feat/section-benefits' into feat/section-alertas |  | 14/04/2024 |
+| Landing | releases | 833e5f8391bedb6dea5e81c17ba3736486e57e4e | feat: merged sections |  | 14/04/2024 |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
