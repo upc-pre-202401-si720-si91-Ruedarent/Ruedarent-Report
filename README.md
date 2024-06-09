@@ -2210,118 +2210,216 @@ Anexo: Flujo de trabajo en el periodo de 1 mes.
 
 <img src="https://i.ibb.co/m4srS07/image.png">
 
-### 5.2.2. Sprint 3
+### 5.2.3. Sprint 3
 
 #### 5.2.3.1. Spring Planning 3
 
-En este sección, están las reuniones que se realizaron para llevar a cabo la Web Service
+Esta sección contiene detalles sobre las reuniones que se llevaron a cabo con el propósito de desarrollar el servicio web.
 
-| Sprint #                       | Sprint #3                                                                                                           |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| Sprint Planning Background     |
-| Date                           | 2024-05-26                                                                                                          |
-| Time                           | 07:40 PM                                                                                                            |
-| Location                       | Google Meet (virtual)                                                                                               |
-| Prepared by                    | Gallo Quintana, David Ivanoff                                                                                       |
-| Attendes (to planning meeting) | Gallo Quintana, David Ivanoff / La Rosa, Alejandro / Calisaya Sánchez, Juan Jesús / Oneglio, Beth / Huarcaya Niurka |
-| Sprint Goal & User Stories     |                                                                                                                     |
-| Sprint 2 Goal                  | Corrección de errores, así como elaboración y desplegue de Web Service                                              |
-| Sprint 1 Velocity              | 45                                                                                                                  |
-| Sum of Story Points            | 40                                                                                                                  |
+| Sprint # | Sprint #3 |
+|----------| --------- |
+| **Sprint Planning Background** |
+| **Date** | 24/05/2024 |
+| **Time** | 13:00 horas (GMT-5) |
+| **Location** | Google Meet |
+| **Prepared by** | Gallo Quintana, David Ivanoff |
+| **Attendes (to planning meeting)** | Calisaya Sánchez, Juan Jesús<br>Gallo Quintana, David Ivanoff<br>Huarcaya Quispe, Niurka Lucero<br>La Rosa Rodríguez, Alejandro<br> Oneglio De Paz, Beth Shantal |
+| **Sprint 2 Review Summary** | Durante el desarrollo del Sprint 2, se logró implementar con éxito la aplicación web, la cual fue desplegada satisfactoriamente. Se logró cumplir con todos los requisitos funcionales establecidos para este Sprint. |
+| **Sprint 2 Retrospective Summary** | El Sprint 2 se completó satisfactoriamente. Sin embargo, identificamos áreas de mejora, como realizar el merge con mayor anticipación para evitar inconvenientes. |
+
+<table>
+<tr>
+   <td style="font-weight: bold;" colspan="7">Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Goal</td>
+          <td>Para este sprint, nuestro objetivo es realizar una implementación parcial del backend, asegurándonos de cumplir con todos los requisitos de la aplicación y siguiendo las pautas establecidas en las historias de usuario correspondientes a cada funcionalidad.<td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 3 Velocity</td>
+          <td>45<td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points</td>
+          <td>40<td>
+      </tr>
+  </table>
 
 #### 5.2.3.2. Sprint Backlog 3
 
+En esta sección se detallarán las tareas llevadas a cabo durante el presente sprint, junto con capturas de pantalla y el enlace al tablero de tareas en la plataforma Trello. Puedes encontrar el enlace de Trello aquí: https://trello.com/invite/b/asdWkojU/ATTIb75549054b60d64c15dfa5616cc5e36e8CEA7BB9/ruedarent-sprint-3
 
-| id   | Title                | Id   | Title          | Description               | Estimations(Hours) | Assigned To | Status(To-do /InProcess/ToReview/Done) |
-| ---- | -------------------- | ---- | -------------- | ------------------------- | ------------------ | --------| -------------------------------------- |
-| EP2-US08  | Inicio de Sesion                  | W20 | Inicialización en la página (C#) | Implementación de User Login           | 12                  | Beth      | Done                                            |
-| EP3-US10 | Filtro de búsqueda de vehículos    | W21 | Filtro de busqueda         | Implementación de metodo de busqueda mediante get(C#) | 12                  | David  | Done                                   |
-| EP3-US09 | Ver vehiculos disponibles          | W22 | Obtención de datos de los vehiculos disponibles (C#)     | Implementación de Get mediante un List     | 9          | Alejandro     | Done                                   |
-| EP2-US06  | Registro de Cuenta     |W23|Implementación de registro de cuenta con auth      | Implementación de Registro de cuenta(c#)    | 12                  | Niurka      | Done                                   |
-| EP4-US13  | Sección de testimonios                 | W24 | Sección de testimonios implementada (C#)            | Implementación de testimonios por vehiculos    | 12                  | Juan        | Done                                   |
+<a href="https://ibb.co/d2hGRcL"><img src="https://i.ibb.co/J7h59dy/image.png" alt="image" border="0"></a>
 
+<table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4">Sprint #</th>
+      <th colspan="7">Sprint 3</th>
+   </tr>
+   <tr>
+     <th colspan="4">User Story</th>
+     <th colspan="7">Work-Item/Task</th>
+   </tr>
+   <tr>
+     <th>Id</th>
+     <th colspan="3">Title</th>
+     <th>Id</th>
+     <th>Title</th>
+     <th>Description</th>
+     <th>Estimation (Hours)</th>
+     <th>Assigned To</th> 
+     <th>Status (To-do/In-Process/To-Review/Done)</th>
+   </tr>
+     <tr>
+      <th>EP2-US08</th>
+     <th colspan="3">Inicio de Sesión</th>
+      <th>W20</th>
+     <th>Inicialización en la página (C#)</th>
+      <th>Implementación de User Login 
+      </th>
+     <th>12</th>
+     <th>Beth Oneglio</th>
+     <th>Done</th> 
+   </tr>
+    <tr>
+      <th>EP3-US10</th>
+     <th colspan="3">Filtro de búsqueda de vehículos</th>
+      <th>W21</th>
+     <th>Obtención de datos de los vehículos disponibles (C#)</th>
+     <th>Implementación de método de búsqueda mediante Get (C#)</th>
+     <th>12</th>
+     <th>David Quintana</th> 
+     <th>Done</th>
+   </tr>
+    <tr>
+      <th>EP3-US09</th>
+     <th colspan="3">Ver vehículos disponibles (C#)</th>
+      <th>W22</th>
+     <th>Obtención de datos de los vehículos disponibles (C#)</th>
+     <th>Implementación del Get mediante un List</th>
+     <th>9</th>
+     <th>Alejandro la Rosa</th> 
+     <th>Done</th>
+   </tr>
+     <tr>
+      <th>EP2-US06</th>
+     <th colspan="3">Registro de Cuenta</th>
+      <th>W23</th>
+     <th>Implementación de registro de cuenta con Auth</th>
+     <th>Implementación de Registro de Cuenta (C#)</th>
+     <th>12</th>
+     <th>Niurka Huarcaya</th> 
+     <th>Done</th>
+   </tr>
+     <tr>
+      <th>EP4-US13</th>
+     <th colspan="3">Sección de testimonios</th>
+      <th>W24</th>
+     <th>Sección de testimonios implementada (C#)</th>
+     <th>Implementación de testimonios por vehículos</th>
+     <th>12</th>
+     <th>Juan Calisaya</th> 
+     <th>Done</th>
+</table>
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
-   <table>
-      <thead>
-        <tr>
-          <td>Repository</td>
-          <td>Branch</td>
-          <td>Commit Id</td>
-          <td>Commit Message</td>
-          <td>Commit Message Body</td>
-          <td>Commited on (Date)</td>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Ruedarent-Landing-Page</td>
-          <td>Main</td>
-          <td>833e5f8</td>
-          <td>feat: merged sections</td>
-          <td>-</td>
-          <td>14/04/24</td>
-        </tr>
-        <tr>
-          <td>Ruedarent-Landing-Page</td>
-          <td>Main</td>
-          <td>04043ab</td>
-          <td>feat: added/section-vehicles</td>
-          <td>-</td>
-          <td>12/04/24</td>
-        </tr>
-        <tr>
-          <td>Ruedarent-Landing-Page</td>
-          <td>Main</td>
-          <td>33c1fdd</td>
-          <td>feat: added section benefits</td>
-          <td>-</td>
-          <td>12/04/24</td>
-        </tr>
-        <tr>
-          <td>Ruedarent-Landing-Page</td>
-          <td>Main</td>
-          <td>8e00870</td>
-          <td>Add: Alert section</td>
-          <td>-</td>
-          <td>13/04/24</td>
-        </tr>
-      </tbody>
-    </table>
+En esta sección se presentará la tabla de commits desarrollados durante el sprint actual.
+
+<table>
+  <tr>
+    <th> <strong>Repository</strong> </th>
+    <th> <strong>Branch</strong> </th>
+    <th> <strong>Commit ID</strong> </th>
+    <th> <strong>Commit Message</strong> </th>
+     <th> <strong>Commit Message (Body)</strong> </th>
+     <th> <strong>Commited on (Date)</strong> </th>
+ </tr>
+
+ <tr> 
+   <th> </th>
+   <th>develop</th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+ </tr>
+
+ <tr> 
+   <th> </th>
+   <th>develop</th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+ </tr>
+
+  <tr> 
+   <th> </th>
+   <th>develop</th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+ </tr>
+
+  <tr> 
+   <th> </th>
+   <th>develop</th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+ </tr>
+
+   <tr> 
+   <th> </th>
+   <th>develop</th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+ </tr>
+
+ <tr> 
+   <th> </th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+   <th> </th>
+ </tr>
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+Durante este sprint, se llevaron a cabo las pruebas de aceptación utilizando la herramienta correspondiente. Puedes encontrar las pruebas de aceptación en el siguiente enlace: https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Acceptance-Tests
+
 <table>
-      <thead>
-        <tr>
-          <td>Repository</td>
-          <td>Branch</td>
-          <td>Commit Id</td>
-          <td>Commit Message</td>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Acceptance-Test</td>
-          <td>main</td>
-          <td>04899bb</td>
-          <td>feat: added acceptance tests epic02 and epic03</td>
-        </tr>
-        <tr>
-          <td>Acceptance-Test</td>
-          <td>main</td>
-          <td>04899bb</td>
-          <td>feat: added acceptance tests epic02 and epic03</td>
-        </tr>
-      </tbody>
-    </table>
+  <tr>
+    <th> <strong>Repository</strong> </th>
+    <th> <strong>Branch</strong> </th>
+    <th> <strong>Commit ID</strong> </th>
+    <th> <strong>Commit Message</strong> </th>
+    <th> <strong>Commit Message (Body)</strong> </th>
+    <th> <strong>Commited on (Date)</strong> </th>
+ </tr>
+
+ <tr>
+   <th> <strong>Acceptance-Test </strong> </th>
+    <th> <strong>main</strong> </th>
+    <th> <strong>04899bb</strong> </th>
+    <th> <strong>feat: added acceptance tests epic02 and epic03</strong> </th>
+    <th> <strong> </strong> </th>
+    <th> <strong>06/06/2024</strong> </th>
+ </tr>
+
+</table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 
-<a href="https://ibb.co/C6Sh7JQ"><img src="https://i.ibb.co/YXVpkDh/Screenshot-2024-06-08-at-5-19-09-PM.png" alt="Screenshot-2024-06-08-at-5-19-09-PM" border="0" /></a>
-<a href="https://ibb.co/zHxF5Gb"><img src="https://i.ibb.co/84sbB62/Screenshot-2024-06-08-at-5-19-48-PM.png" alt="Screenshot-2024-06-08-at-5-19-48-PM" border="0" /></a>
-<a href="https://ibb.co/zHxF5Gb"><img src="https://i.ibb.co/84sbB62/Screenshot-2024-06-08-at-5-19-48-PM.png" alt="Screenshot-2024-06-08-at-5-19-48-PM" border="0" /></a>
+Durante este sprint, hemos realizado todos los cambios en el frontend, ya que cumplimos con todos los requisitos funcionales en el sprint anterior. Puedes acceder a la aplicación web a través del siguiente enlace: https://ruedarent.netlify.app/
+
+En el landing page se han incorporado dos videos: uno sobre el producto y otro sobre el equipo. Esto nos permite presentar de manera más efectiva nuestro producto mediante un video promocional, así como también dar a conocer a nuestro equipo: https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Landing-Page/deployments
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
@@ -2329,18 +2427,34 @@ En este sección, están las reuniones que se realizaron para llevar a cabo la W
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint
 
-
-
-En esta entrega se estructuro el trabajo en distintas ramas basadas en los endpoints y distribuciones en las que nos dividimos, esto permitiendo manejar cada sección de manera separada, reduciendo posibles conflictos durante la implementación de WebService. Ademas se implementaron las convenciones de Gitflow, creando distintas ramas segun las necesidades, asi como se siguieron de manera adecuada los conventional commits. A continuación se mostraran los distintos commits realizados por los integrantes:
+En esta entrega, se ha estructurado el trabajo en diferentes ramas, basadas en los endpoints y distribuciones en las que nos dividimos. Esto nos ha permitido manejar cada sección de manera separada, reduciendo posibles conflictos durante la implementación del WebService. Además, se han implementado las convenciones de Gitflow, creando distintas ramas según las necesidades, y se ha seguido adecuadamente el formato de conventional commits. A continuación se mostrarán los distintos commits realizados por los integrantes:
 
 |Integrante | Actividad|
 |-----------|----------|
-| Alejandro La Rosa Rodriguez      | Endpoints de los puntos relacionados a Profile Context|
-| Beth Shantal Oneglio De Paz      | Endpoints de los puntos relacionados a Plan Context   |
-| David Ivanoff Gallo Quintana     | Endpoints de los puntos relacionados a Vehicle Context|
-| Niurka Lucero Huarcaya Quispe    | Endpoints de los puntos relacionados a Orders Context |
-| Juan Jesus Calisaya Sanchez      | Enpoints de los puntos relacionados a Payment Context |
+| Alejandro, La Rosa Rodriguez | Endpoints de los puntos relacionados a Profile Context. |
+| Beth Shantal, Oneglio De Paz | Endpoints de los puntos relacionados a Plan Context. |
+| David Ivanoff, Gallo Quintana | Endpoints de los puntos relacionados a Vehicle Context. |
+| Niurka Lucero, Huarcaya Quispe    | Endpoints de los puntos relacionados a Orders Context. |
+| Juan Jesús, Calisaya Sanchez      | Enpoints de los puntos relacionados a Payment Context. |
 
+Hemos colaborado en el desarrollo mediante commits que abordan la corrección de bugs, fusiones entre ramas, adición de secciones y correcciones en el código fuente.
+
+A continuación, se presentará una tabla con los colaboradores en el repositorio de GitHub para identificar a cada miembro del equipo.
+
+Tabla de integrantes:
+
+|**Username (GitHub)**|**Nombres**|
+|----|----|
+| JuanCali999 | Calisaya Sánchez, Juan Jesús |
+| DavidRm1911 | Gallo Quintana, David Ivanoff |
+| NLH18 | Huarcaya Quispe, Niurka Lucero |
+| Alejandro1709 | La Rosa Rodríguez, Alejandro |
+| bethnlg | Oneglio De Paz, Beth Shantal |
+
+
+A continuación, se mostrarán los gráficos de insights durante el sprint:
+
+Anexo: Flujo de trabajo entre las ramas: <img src="https://i.ibb.co/sQBMxPY/image.png" alt="image" border="0"></a>
 
 ## 5.3. Validation Interviews
 
@@ -2489,54 +2603,44 @@ Natalie, una estudiante con aspiraciones de convertirse en una usuaria activa de
 
 ### Usability – Inclusive Design – Information Architecture
 
-**CARRERA: Ingeniería de Software**</br>
-**CURSO: Aplicaciones Web**</br>
-**PROFESORES: Todos**</br>
+**CARRERA: Ingeniería de Software**
+
+**CURSO: Aplicaciones Web**
+
+**PROFESORES: Todos**
+
 **AUDITOR:** Grupo 1 - Calisaya/Gallo/Huarcaya/La Rosa/Oneglio</br>
 **CLIENTE:** Grupo 1 - Calisaya/Gallo/Huarcaya/La Rosa/Oneglio
 
 #### SITE o APP A EVALUAR:
+*Ruedarent*
 
-_Ruedarent_
+#### TAREAS A EVALUAR
+Web Application
+- Registro de un nuevo usuario
+- Inicio de sesión de usuario existente
+- Registro de un nuevo vehículo
+- Adaptabilidad a dispositivos móviles
 
-#### TAREAS A EVALUAR:
+#### ESCALA DE SEVERIDAD
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
-_El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:_
+|**Nivel:**|**Descripción**|
+| :- | :- |
+|**1**|<p>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</p>|
+|**2**|<p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</p>|
+|**3**|<p>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</p>|
+|**4**|<p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento</p>|
 
-- _Registro de un usuario nuevo_
-- _Inicio de Sesión_
-- _Programación de una adopción_
-- _Programación de una adopción programada_
-- _Búsqueda a una adopción programada_
-- _Ingresar a una adopción programada_
-- _Etc._
+#### TABLA RESUMEN
 
-_No están incluidas en esta versión de la evaluación las siguientes tareas:_
-
-- _Cancelación de adopción_
-- _Solicitud de adopción de cita_
-- _Un chat privado para comunicarse con el doctor, para consultar dudas pequeñas._
-- _Etc._
-
-**ESCALA DE SEVERIDAD:**
-_Los errores serán puntuados tomando en cuenta la siguiente escala de severidad_
-
-| _Nivel_ | _Descripcióm_                                                                                                                                                                                     |
-| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| _1_     | _Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo._                    |
-| _2_     | _Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase._ |
-| _3_     | _Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta._                                 |
-| _4_     | _Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento._                               |
-
-**TABLA RESUMEN:**
-
-| #   | _Problema_                                                                                                 | _Escala de severidad_ | _Heurística/Principio violada(o)_           |
-| --- | ---------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------- |
-| _1_ | _No hay un control que permita regresar al menú de Inicio al ingresar a la sección “Preguntas Frecuentes”_ | _3_                   | _Usability: Libertad y control del usuario_ |
-| _2_ | _Incluye el botón de “Iniciar sesión” pero este no funciona_                                               | _3_                   | _Usability: Libertad y control del usuario_ |
-| _3_ | _Presencia de errores ortográficos_                                                                        | _1_                   | _Usability: Diseño estético y minimalista_  |
-| _4_ | _No se incluye un botón de Retorno al momento de ingresar en la sección “Donaciones”_                      | _3_                   | _Information Architecture: Is it usable?_   |
-| _5_ | _No existe opción para el usuario de Recuperar Contraseña en caso la olvide/pierda_                        | _4_                   | _Information Architecture: Is it findable?_ |
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*|*No notifica cuando una cuenta fue creada.*|*2*|*It is usable?*|
+|*2*|*Problemas en la adaptabilidad en dispositivos móviles, la pantalla de registro de cuentas no se adapta correctamente en dispositivos móviles, lo que impide el registro de una nueva cuenta.*|*4*|*Libertad de uso y control*|
+|*3*|*Algunas pantallas no se adaptan bien en dispositivos móviles.*|*1*|*Libertad de uso y control*|
+|*4*|*No hay opción para volver a la página de inicio desde la pantalla de registro.*|*3*|*Usability - Libertad y control del usuario*|
+|*5*|*No se actualiza la página con los vehículos registrados*|*4*|*Information Architecture: Is it usable?*|
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
@@ -2548,7 +2652,7 @@ _Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 **Problema:**</br>
 En la pantalla de “Regístrate” el botón de “Regístrate con Google” no es un botón funcional, ya que no permite la acción mencionada en ese botón.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/8Kz6xss/image.png" alt="image" border="0"></a>
+<img src="https://i.ibb.co/8Kz6xss/image.png" alt="image" border="0"></a>
 
 **Recomendación:**</br>
 Hacer utilizable el botón de "Regístrate con Google"
@@ -2563,7 +2667,7 @@ Hacer utilizable el botón de "Regístrate con Google"
 **Problema:**</br>
 Al momento de ingresar a la sección “Vehículos”, no existe la posibilidad de regresar al menú de "Lo más destacado" dado a que no hay botón alguno que nos permita salir de la sección, por lo que el usuario debe forzar el cierre de la aplicación para volver al Inicio.
 
-<a href="https://ibb.co/hmHRL0v"><img src="https://i.ibb.co/gRwMmYC/image.png" alt="image" border="0"></a>
+<img src="https://i.ibb.co/gRwMmYC/image.png" alt="image" border="0"></a>
 
 **Recomendación:**</br>
 Agrega un botón de retorno en la sección de "Vehículos".
@@ -2578,7 +2682,7 @@ Agrega un botón de retorno en la sección de "Vehículos".
 **Problema:**</br>
 No existe un apartado de “Recuperar contraseña” en caso de que el usuario se olvidara la contraseña, al no existir una opción para ese caso , el usuario se ve en la obligación de crear otra cuenta o ya no poder usar más la App.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/QcxzX4K/image.png" alt="image" border="0"></a>
+<img src="https://i.ibb.co/QcxzX4K/image.png" alt="image" border="0"></a>
 
 **Recomendación:**</br>
 Crear un apartado de “Recuperar contraseña”.
@@ -2594,7 +2698,7 @@ Crear un apartado de “Recuperar contraseña”.
 Al momento de ingresar a la sección “Explora nuestros planes
 para ser propietario. Únete ahora!”, no existe la posibilidad de regresar al menú de Inicio dado a que no hay botón alguno que nos permita salir de la sección, por lo que el usuario debe forzar el cierre de la aplicación para volver al Inicio.
 
-<a href="https://ibb.co/nzT1CTD"><img src="https://i.ibb.co/PwRWQR5/image.png" alt="image" border="0"></a>
+<img src="https://i.ibb.co/PwRWQR5/image.png" alt="image" border="0"></a>
 
 **Recomendación:**</br>
 Agregar un botón de retorno en la sección de “Explora nuestros planes
@@ -2610,7 +2714,7 @@ para ser propietario. Únete ahora!”.
 **Problema:**</br>
 En la pantalla de "Lo más destacado” el botón de “Ver más” no es un botón funcional, ya que no permite la acción mencionada en ese botón.
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/6WYwMRT/image.png" alt="image" border="0"></a>
+<img src="https://i.ibb.co/6WYwMRT/image.png" alt="image" border="0"></a>
 
 **Recomendación:**</br>
 Hacer utilizable el botón de “Ver más”.
@@ -2631,13 +2735,14 @@ El frontend presenta errores ortográficos que afectan la claridad y comprensió
 Es necesario realizar una revisión ortográfica del prototipo para identificar y corregir los errores de forma inmediata, asegurando así una mejor comprensión por parte de los usuarios al utilizar el plan.
 
 ## 5.4. Video About-the-Product
-En esta sección se encuentra el Video Sobre el Producto, donde promocionamos la aplicación mostrando las características principales de Ruedarent. Este video incluye una introducción, explica nuestro modelo de negocio, detalla las funcionalidades de la app, resalta los beneficios y presenta testimonios de los principales usuarios de cada segmento.
-![alt text](/feature/assets/about-the-product-s3.png)
 
-**La duración del video es de 6 minutos con 18 segundos.**
+En esta sección se encuentra el Video Sobre el Producto, donde promocionamos la aplicación mostrando las características principales de Ruedarent. Este video incluye una introducción, explica nuestro modelo de negocio, detalla las funcionalidades de la app, resalta los beneficios y presenta testimonios de los principales usuarios de cada segmento.
+
+<img src="https://i.ibb.co/DtytYjG/image.png" alt="image" border="0"></a>
+
+Duración del video: 6:18
 
 Enlace al video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121935_upc_edu_pe/EVFGE3BOUDVPqDC-mFVhmHwBDp9NNeShuzPHuod5JND3mQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=33Cqds 
-
 
 ## Conclusiones
 
