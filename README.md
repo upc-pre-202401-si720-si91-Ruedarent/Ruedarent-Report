@@ -2651,6 +2651,12 @@ Enlace al video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202121935_up
 
 - Por otro lado, la implementación y validación del producto se llevaron a cabo mediante un enfoque ágil, dividido en sprints manejables, lo que permitió una iteración rápida y la incorporación de retroalimentación constante. La gestión de la configuración del software garantizó que nuestro entorno de desarrollo estuviera optimizado y bien gestionado, mientras que la implementación de la página de inicio, servicios y aplicaciones se realizó de manera organizada y eficiente, con cada sprint planificado y ejecutado de forma transparente.
 
+- Nuestro proyecto se fundamenta en un análisis detallado de las necesidades de nuestros usuarios, respaldado por entrevistas y estudios exhaustivos. Hemos identificado áreas clave para mejorar y formulado hipótesis sólidas que orientarán nuestro enfoque hacia el éxito de la plataforma.
+
+- Entre las estrategias identificadas para mejorar la experiencia del usuario y aumentar su participación y retención, se encuentran la simplificación del proceso de registro, la mejora de la colaboración creativa, el destacar las mejores obras, proporcionar métricas claras sobre el rendimiento y la implementación de un sistema de suscripción premium. Además de estas características, nuestro proyecto abarca una amplia variedad de elementos, como el diseño de la interfaz de usuario, el desarrollo de funciones específicas, la implementación de estrategias de marketing y la evaluación continua del rendimiento y la retroalimentación de los usuarios.
+
+- Por otro lado, la implementación y validación del producto se llevaron a cabo mediante un enfoque ágil, dividido en sprints manejables, lo que permitió una rápida iteración e incorporación de retroalimentación continua. La gestión de la configuración del software aseguró un entorno de desarrollo optimizado y bien gestionado, mientras que la implementación de la página de inicio, servicios y aplicaciones se realizó de manera organizada y eficiente, con cada sprint planificado y ejecutado de forma transparente.
+
 ## Bibliografía
 
 - Gutiérrez Flores, R. R., & Márquez Cabezas, J. L. (2020).  
