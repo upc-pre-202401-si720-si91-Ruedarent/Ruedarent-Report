@@ -39,10 +39,6 @@
             <td>U20221b226</td>
         </tr>
         <tr>
-            <td>La Rosa Rodríguez, Alejandro</td>
-            <td>U201911361</td>
-        </tr>
-        <tr>
             <td>Oneglio De Paz, Beth Shantal</td>
             <td>U202213423</td>
         </tr>
@@ -58,11 +54,11 @@
 
 # Registro de Versiones del Informe
 
-| Versión | Fecha      | Autor                                                                                                                                                                                   | Descripción de la modificación                                                                                                                                                              |
-| ------- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| TB1     | 14/04/2024 | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición de los Capítulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
-| TP1     | 3/05/2024  | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición del Capítulo V: 5.2.2., 5.2.2.1., 5.2.2.2., 5.2.2.3., 5.2.2.4., 5.2.2.5., 5.2.2.6., 5.2.2.7., 5.2.2.8.                                                                              |
-| TB3     | 4/06/2024  | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición del Capítulo: 5.2.3., 5.2.3.1., 5.2.3.2., 5.2.3.3., 5.2.3.4., 5.2.3.5., 5.2.3.6., 5.2.3.7., 5.2.3.8., 5.3., 5.3.1., 5.3.2., 5.3.3., 5.4.                                            |
+| Versión | Fecha | Autor | Descripción de la modificación |
+|----|----|----|----|
+| TB1 | 14/04/2024 | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición de los Capítulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
+| TP1 | 3/05/2024 | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br>La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición del Capítulo V: 5.2.2., 5.2.2.1., 5.2.2.2., 5.2.2.3., 5.2.2.4., 5.2.2.5., 5.2.2.6., 5.2.2.7., 5.2.2.8. |
+| TB2 | 4/06/2024 | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición del Capítulo: 5.2.3., 5.2.3.1., 5.2.3.2., 5.2.3.3., 5.2.3.4., 5.2.3.5., 5.2.3.6., 5.2.3.7., 5.2.3.8., 5.3., 5.3.1., 5.3.2., 5.3.3., 5.4. |
 
 ---
 
@@ -88,7 +84,15 @@ Se redactaron y diagramaron los contenidos asignados a cada integrante en format
 
 Además, se han generado los artefactos necesarios utilizando las herramientas recomendadas, y se llevaron a cabo reuniones periódicas para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 2, centrado en el desarrollo de la aplicación web.
 
-<img src= "https://i.ibb.co/t8WKDMr/image.png">
+<img src= "https://i.ibb.co/t8WKDMr/image.png"><br>
+
+**TB2**: Las tareas asignadas para la entrega del TB2 han sido completadas y debidamente documentadas en el repositorio de GitHub del equipo.
+
+- Se redactaron y diagramaron los contenidos asignados a cada integrante en formato Markdown, seguido de commits para asegurar el seguimiento del progreso en el repositorio. 
+- Se generaron los artefactos necesarios utilizando las herramientas recomendadas. 
+- Se llevaron a cabo reuniones para coordinar el avance de los elementos del informe y comunicar los progresos del Sprint 3, enfocado en el desarrollo de la API.
+
+<img src="https://i.ibb.co/L5nr86z/image.png" alt="image" border="0"></a>
 
 # Contenido
 
@@ -222,14 +226,14 @@ Además, se han generado los artefactos necesarios utilizando las herramientas r
 
 # Student Outcome
 
-| Criterio Específico                                                                                                                                  | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Calisaya Sánchez, Juan Jesús<br>TB1<br>Se llevo acabo, con la validación del grupo, los siguientes puntos: Estrategias frente a competidores, el Diseño de Entrevistas, Entrevista, User Stories, el Impact Mapping, Product Backlog, Wireframes, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review y Execution Evidence for Sprint Review. Todo esto se llevo a cabo gracias al trabajo en equipo.<br><br>TP1<br>Mi liderazgo se caracterizó por promover la organización y mejorar la capacidad de respuesta del landing page. Además, jugué un papel fundamental en el desarrollo de los aspectos visuales y funcionales del frontend, como los filtros de búsqueda y la experiencia del usuario en la plataforma de alquiler.<br></br>Gallo Quintana, David Ivanoff<br>TB1<br>Se dividió en trabajo de manera equitativa, pero todos participando en cada decisión, para realizar el trabajo de la mejor manera posible y que sea cohesionado, asimismo, en cada parte nos ayudamos para poder entender el trabajo en cada parte del informe.<br><br>TP1<br>Desarrollé los componentes OwnerProfile, OwnerPlans y OwnerOrder, junto con el registro de vehículos del propietario, todo integrado en Vue.js. Además, implementé enrutamiento para una navegación fluida.<br></br>Huarcaya Quispe, Niurka Lucero<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las Entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br><br>TP1<br>Mi contribución principal se centró en la implementación de la sección de recomendaciones e interfaz de la sección de alquiler de vehículos para mostrar la información relevante del vehículo y proporcionar un botón para contactar al propietario.<br></br>La Rosa Rodríguez, Alejandro<br>TB1<br>A lo largo del desarrollo de este proyecto, cada miembro del equipo ha trabajado en ramas separadas dentro del repositorio, siguiendo la división acordada previamente. Además, hemos coordinado nuestros progresos en el grupo y colaborado como equipo para implementar las correcciones sugeridas por nuestro profesor.<br><br>TP1<br>En mi rol de desarrollo del frontend, asumí la responsabilidad de concebir y elaborar tanto la página de inicio de sesión como la de registro. Para la página de inicio de sesión, me aseguré de diseñar una interfaz intuitiva y accesible, que permitiera a los usuarios ingresar sus credenciales de manera rápida y segura.<br></br>Oneglio De Paz, Beth Shantal<br>TB1<br>A lo largo del proyecto, he mantenido una comunicación continua con los miembros del equipo mediante reuniones semanales. Colaborativamente, hemos trabajado en cada sección del informe utilizando branches y GitHub para asegurar la organización y el control de versiones del trabajo.<br><br>TP1<br>En mi participación en el proyecto, me dediqué a elaborar historias de usuario y a desarrollar los frontends correspondientes a cada una de ellas. Por ejemplo, trabajé en la implementación de la funcionalidad que permite a los usuarios ver el perfil del arrendatario, así como en la visualización de los vehículos disponibles por parte de dicho usuario. | TP1: Elegimos el tema del proyecto, se realizaron asimismo varias reuniones para conocer los puntos de vista de cada integrante y para que ninguno tenga ninguna duda.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | Calisaya Sánchez, Juan Jesús<br>TB1<br>Durante el desarrollo del proyecto, empleamos una variedad de técnicas para identificar y comprender todas las necesidades, aspectos, usuarios y características del negocio al que nos enfocamos. Utilizamos GitHub para registrar la información recolectada y los métodos implementados, asegurando que las versiones se guarden de forma ordenada. Llevamos a cabo Entrevistas, Diagramas, Needfinding, User Stories, entre otros métodos para obtener una visión completa y detallada.<br><br>TP1<br>En el segundo avance del trabajo, se cumplieron los requisitos establecidos al avanzar de manera significativa con el desarrollo del frontend de la aplicación web.<br></br>Gallo Quintana, David Ivanoff<br>TB1<br>En este avance del trabajo, empleamos el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los Bounded contexts y las entidades que se implementarán en el Backend. Además, elaboramos diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente, utilizando diversos Patrones de Diseño.<br><br>TP1<br>Se logró desplegar la aplicación de forma efectiva, asegurando su disponibilidad para los usuarios finales. Asimismo, se completó la creación de una API, lo que permite una comunicación eficiente y segura.<br></br>Huarcaya Quispe, Niurka Lucero<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>La Rosa Rodríguez, Alejandro<br>TB1<br>Se ha llevado a cabo la implementación del modelado de la base de datos para representar visualmente la arquitectura del modelo que se implementará más adelante en el Backend. Además, se ha documentado todo el trabajo realizado durante el sprint utilizando el enfoque de metodologías ágiles, específicamente Scrum.<br></br>Oneglio De Paz, Beth Shantal<br>TB1<br>En esta entrega, se llevaron a cabo entrevistas para analizar las preferencias de los segmentos de escritores, ilustradores y lectores. Además, se implementó un diseño UX/UI apropiado que se adapta a las necesidades de los usuarios.<br><br>TP1<br>Durante el sprint 2, mi responsabilidad fue abordar tareas relacionadas con el consumo y funcionamiento de la API, además de encargarme de la estilización de componentes y la organización de carpetas, aplicando un enfoque DDD.<br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | TP1: En esta etapa del proyecto, se realizaron análisis exhaustivos de las preferencias de los escritores, ilustradores y lectores a través de Entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, y se elaboraron diagramas de clase para representar la arquitectura del modelo Backend. Se crearon Diagramas de Flujo de usuario y de trabajo para mejorar la experiencia del usuario, y se llevó a cabo el modelado de la base de datos. Finalmente, se documentó todo el trabajo realizado utilizando metodologías ágiles para garantizar un proceso transparente y colaborativo. |
+| Criterio específico | Acciones realizadas | Conclusiones |
+|----|----|----|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Calisaya Sánchez, Juan Jesús<br>TB1<br>Se llevo acabo, con la validación del grupo, los siguientes puntos: Estrategias frente a competidores, el Diseño de Entrevistas, Entrevista, User Stories, el Impact Mapping, Product Backlog, Wireframes, Development Evidence for Sprint Review, Testing Suite Evidence for Sprint Review y Execution Evidence for Sprint Review. Todo esto se llevo a cabo gracias al trabajo en equipo.<br><br>TP1<br>Mi liderazgo se caracterizó por promover la organización y mejorar la capacidad de respuesta del landing page. Además, jugué un papel fundamental en el desarrollo de los aspectos visuales y funcionales del frontend, como los filtros de búsqueda y la experiencia del usuario en la plataforma de alquiler.<br></br>Gallo Quintana, David Ivanoff<br>TB1<br>Se dividió en trabajo de manera equitativa, pero todos participando en cada decisión, para realizar el trabajo de la mejor manera posible y que sea cohesionado, asimismo, en cada parte nos ayudamos para poder entender el trabajo en cada parte del informe.<br><br>TP1<br>Desarrollé los componentes OwnerProfile, OwnerPlans y OwnerOrder, junto con el registro de vehículos del propietario, todo integrado en Vue.js. Además, implementé enrutamiento para una navegación fluida.<br></br>Huarcaya Quispe, Niurka Lucero<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las Entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br><br>TP1<br>Mi contribución principal se centró en la implementación de la sección de recomendaciones e interfaz de la sección de alquiler de vehículos para mostrar la información relevante del vehículo y proporcionar un botón para contactar al propietario.<br></br>Oneglio De Paz, Beth Shantal<br>TB1<br>A lo largo del proyecto, he mantenido una comunicación continua con los miembros del equipo mediante reuniones semanales. Colaborativamente, hemos trabajado en cada sección del informe utilizando branches y GitHub para asegurar la organización y el control de versiones del trabajo.<br><br>TP1<br>En mi participación en el proyecto, me dediqué a elaborar historias de usuario y a desarrollar los frontends correspondientes a cada una de ellas. Por ejemplo, trabajé en la implementación de la funcionalidad que permite a los usuarios ver el perfil del arrendatario, así como en la visualización de los vehículos disponibles por parte de dicho usuario. | TP1: Elegimos el tema del proyecto, se realizaron asimismo varias reuniones para conocer los puntos de vista de cada integrante y para que ninguno tenga ninguna duda. |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | Calisaya Sánchez, Juan Jesús<br>TB1<br>Durante el desarrollo del proyecto, empleamos una variedad de técnicas para identificar y comprender todas las necesidades, aspectos, usuarios y características del negocio al que nos enfocamos. Utilizamos GitHub para registrar la información recolectada y los métodos implementados, asegurando que las versiones se guarden de forma ordenada. Llevamos a cabo Entrevistas, Diagramas, Needfinding, User Stories, entre otros métodos para obtener una visión completa y detallada.<br><br>TP1<br>En el segundo avance del trabajo, se cumplieron los requisitos establecidos al avanzar de manera significativa con el desarrollo del frontend de la aplicación web.<br></br>Gallo Quintana, David Ivanoff<br>TB1<br>En este avance del trabajo, empleamos el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, así como los Bounded contexts y las entidades que se implementarán en el Backend. Además, elaboramos diagramas de clase para representar visualmente la arquitectura del modelo que se implementará posteriormente, utilizando diversos Patrones de Diseño.<br><br>TP1<br>Se logró desplegar la aplicación de forma efectiva, asegurando su disponibilidad para los usuarios finales. Asimismo, se completó la creación de una API, lo que permite una comunicación eficiente y segura.<br></br>Huarcaya Quispe, Niurka Lucero<br>TB1<br>El trabajo se completó de manera equitativa entre todos los miembros del equipo, con cada uno encargado de una sección específica. Además, aspectos como las entrevistas, la evidencia de desarrollo y la evidencia de pruebas fueron abordados de forma colaborativa por todos.<br></br>TP1<br>Realicé la evidencia de desarrollo para la revisión del sprint, la evidencia del conjunto de pruebas para la revisión del sprint y su ejecución. Además, desarrollé el backend del módulo de Profile context.</br><br>Oneglio De Paz, Beth Shantal<br>TB1<br>En esta entrega, se llevaron a cabo entrevistas para analizar las preferencias de los segmentos de escritores, ilustradores y lectores. Además, se implementó un diseño UX/UI apropiado que se adapta a las necesidades de los usuarios.<br><br>TP1<br>Durante el sprint 2, mi responsabilidad fue abordar tareas relacionadas con el consumo y funcionamiento de la API, además de encargarme de la estilización de componentes y la organización de carpetas, aplicando un enfoque DDD.<br> | TP1: En esta etapa del proyecto, se realizaron análisis exhaustivos de las preferencias de los escritores, ilustradores y lectores a través de Entrevistas. Se aplicó un diseño UX/UI adecuado para satisfacer las necesidades de los usuarios. Además, se utilizó el enfoque de Domain Driven Design (DDD) para identificar los dominios de la aplicación, y se elaboraron diagramas de clase para representar la arquitectura del modelo Backend. Se crearon Diagramas de Flujo de usuario y de trabajo para mejorar la experiencia del usuario, y se llevó a cabo el modelado de la base de datos. Finalmente, se documentó todo el trabajo realizado utilizando metodologías ágiles para garantizar un proceso transparente y colaborativo. |
 
-| Criterio Específico                                                                                                                                                                                                                                   | Acciones realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Conozco al menos un sector empresarial o dominio de aplicación de soluciones de software, como el comercio electrónico, la atención médica, la educación en línea, la gestión financiera, la logística y el transporte, y el entretenimiento digital. | **Calisaya Sánchez, Juan Jesús**<br>TB3<br>En esta ocasión, me encargué de realizar las evaluaciones según las heurísticas establecidas por otro grupo de la clase. También creé un video sobre el producto, destacando todas sus características. Además, desarrollé el backend del módulo de Payment context y parte del módulo de Vehicle context.<br></br>**Gallo Quintana, David Ivanoff**</br>TB3<br>Me encargué del Sprint 3, la planificación del sprint y la gestión del backlog. Además, desarrollé el backend de la sección de gestión de vehículos (Vehicle Management).</br><br>**Huarcaya Quispe, Niurka Lucero**</br>TB3<br>Realicé la documentación de servicios como evidencia para la revisión del sprint, así como la evidencia de la implementación del software para la misma revisión. Además, desarrollé el backend del módulo de Orders context.<br></br>**La Rosa Rodríguez, Alejandro**<br>TB3</br>Realicé la evidencia de desarrollo para la revisión del sprint, la evidencia del conjunto de pruebas para la revisión del sprint y su ejecución. Además, desarrollé el backend del módulo de Profile context.<br></br>**Oneglio De Paz, Beth Shantal**<br>TB3</br>Contribuí en el diseño y registro de entrevistas, en parte de la organización del reporte, y desarrollé el backend del módulo de Plan context. | TB3: Reconocer las habilidades de cada integrante y saber cómo aprovecharlas nos ha beneficiado como equipo. Además, es fundamental mantenernos actualizados constantemente, especialmente en áreas como el despliegue de nuevas herramientas y el uso más efectivo de herramientas existentes como Git. Esta mejora continua nos permite aumentar nuestra eficiencia y calidad en el trabajo en equipo. |
+| Criterio Específico |  Acciones realizadas | Conclusiones |
+|-----|----|----|
+| Conozco al menos un sector empresarial o dominio de aplicación de soluciones de software, como el comercio electrónico, la atención médica, la educación en línea, la gestión financiera, la logística y el transporte, y el entretenimiento digital. | Calisaya Sánchez, Juan Jesús<br>TB2<br>En esta ocasión, me encargué de realizar las evaluaciones según las heurísticas establecidas por otro grupo de la clase. También creé un video sobre el producto, destacando todas sus características. Además, desarrollé el backend del módulo de Payment context y parte del módulo de Vehicle context.<br></br>Gallo Quintana, David Ivanoff</br>TB2<br>Me encargué del Sprint 3, la planificación del sprint y la gestión del backlog. Además, desarrollé el backend de la sección de gestión de vehículos (Vehicle Management).</br><br>Huarcaya Quispe, Niurka Lucero</br>TB2<br>Realicé la documentación de servicios como evidencia para la revisión del sprint, así como la evidencia de la implementación del software para la misma revisión. Además, desarrollé el backend del módulo de Orders context.<br></br>Oneglio De Paz, Beth Shantal<br>TB2</br>Contribuí en el diseño y registro de entrevistas, en parte de la organización del reporte, y desarrollé el backend del módulo de Plan context. | TB2: Reconocer las habilidades de cada integrante y saber cómo aprovecharlas nos ha beneficiado como equipo. Además, es fundamental mantenernos actualizados constantemente, especialmente en áreas como el despliegue de nuevas herramientas y el uso más efectivo de herramientas existentes como Git. Esta mejora continua nos permite aumentar nuestra eficiencia y calidad en el trabajo en equipo. |
 
 ---
 
@@ -246,7 +250,7 @@ Ruedarent es una startup conformada por estudiantes de la Universidad Peruana de
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
-|                       Photo                        |                                                                                                                                                                                                                                                                                                    Description                                                                                                                                                                                                                                                                                                    |
+|                    Photo                        |                                                                                                                                                                                                                                                                                                    Description                                                                                                                                                                                                                                                                                                    |
 | :------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![Juan](https://i.ibb.co/hFBKX6R/Juan-Profile.png) |                                                                                                                           Mi nombre es Juan Jesús Calisaya Sánchez - U202121935 y estoy inmerso en mi formación académica en Ingeniería de Software. Mi enfoque principal se centra en el desarrollo FullStack. Tengo conocimiento basicos en C++, SQL, Python, HTML/CSS, JavaScript, C# y MongoDB, topdas estas habilidades me ayudaran para realizar el proyecto de Aplicaciones Web.                                                                                                                           |
 | ![David](https://i.ibb.co/QNwvHb8/David-foto.jpg)  | Mi nombre es David Gallo Quintana con codigo de estudiante u20201e475, estudio la carrera de Ingeniería de Software. Actualmente estoy enfocando mi carrera hacia la rama de análisis de datos. De esta manera llevando cursos como SQL. Me gusta jugar videojuegos, leer distintos libros y salir con amigos. Me considero una persona que aprende rápido y perseverante, por esto mismo, y por el conocimiento adquirido a través de la carrera, considero que se me facilitará brindar ayuda de distintas formas con el aplicativo a desarrollar. Cuento con conocimientos básicos en C++, Python, SQL, Swift. |
@@ -2337,58 +2341,32 @@ En esta sección se presentará la tabla de commits desarrollados durante el spr
  </tr>
 
  <tr> 
-   <th> </th>
-   <th>develop</th>
-   <th> </th>
-   <th> </th>
+   <th>ruedarent.API</th>
+   <th> develop </th>
    <th> </th>
    <th> </th>
+   <th> </th>
+   <th>9/06/2024</th>
  </tr>
 
  <tr> 
-   <th> </th>
-   <th>develop</th>
-   <th> </th>
-   <th> </th>
+   <th>ruedarent.API</th>
+   <th> develop </th>
    <th> </th>
    <th> </th>
+   <th> </th>
+   <th>9/06/2024</th>
  </tr>
 
   <tr> 
-   <th> </th>
-   <th>develop</th>
-   <th> </th>
-   <th> </th>
+   <th>ruedarent.API</th>
+   <th> develop </th>
    <th> </th>
    <th> </th>
+   <th> </th>
+   <th>9/06/2024</th>
  </tr>
-
-  <tr> 
-   <th> </th>
-   <th>develop</th>
-   <th> </th>
-   <th> </th>
-   <th> </th>
-   <th> </th>
- </tr>
-
-   <tr> 
-   <th> </th>
-   <th>develop</th>
-   <th> </th>
-   <th> </th>
-   <th> </th>
-   <th> </th>
- </tr>
-
- <tr> 
-   <th> </th>
-   <th> </th>
-   <th> </th>
-   <th> </th>
-   <th> </th>
-   <th> </th>
- </tr>
+ </table>
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
@@ -2423,7 +2401,9 @@ En el landing page se han incorporado dos videos: uno sobre el producto y otro s
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-En esta sección se presentarán los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros métodos realizados en OpenApi. En el alcance del sprint, se han avanzado los bounded context de profile, plan, vehicle, order y payment.
+En esta sección se mostrarán los endpoints desarrollados durante el sprint actual, junto con capturas de pantalla que ilustran las acciones CRUD y otros métodos implementados en OpenAPI. Durante este sprint, se ha avanzado en los bounded contexts de profile, plan, vehicle, order y payment.
+
+Link del repositorio de la API en GitHub: https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Backend/tree/master
 
 <table>
   <tr>
@@ -2467,18 +2447,15 @@ En esta sección se presentarán los endpoints desarrollados en el presente spri
     <th style="text-align:center;"> <strong> api/v1/payment </strong> </th>
     <th> </th>
 </tr>
-
 </table>
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
-Para el presente sprint, se ha desarrollado el API de la web application teniendo en cuenta los diferentes bounded context. Para lo cual se emplearon las siguientes herramientas.
-<ul>
-<li> Git: Sistema de control de versiones que utilizamos para trabajar de forma colaborativa y monitorear las versiones de la aplicación web en un repositorio remoto. </li>
-<li> Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la colaboración en el desarrollo. </li>
-<li> GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto. </li>
-<li> Swagger Ui: herramienta que facilita la realización de pruebas de funcionamiento y documentación de nuestra API de software. </li>
-</ul>
+Durante el sprint actual, se desarrolló el API de la aplicación web utilizando las siguientes herramientas. Sin embargo, es importante destacar que el despliegue del API no está dentro del alcance de este sprint.
+
+- Git: Se utilizó como sistema de control de versiones para trabajar de manera colaborativa y rastrear las versiones de la aplicación web en un repositorio remoto.
+- Gitflow: Este flujo de trabajo colaborativo nos permitió dividir el trabajo en ramas dentro de nuestro repositorio, facilitando así la colaboración en el desarrollo.
+- GitHub: Utilizamos esta plataforma para crear nuestro repositorio y almacenar las versiones de nuestro proyecto.
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint
 
@@ -2486,7 +2463,6 @@ En esta entrega, se ha estructurado el trabajo en diferentes ramas, basadas en l
 
 |Integrante | Actividad|
 |-----------|----------|
-| Alejandro, La Rosa Rodriguez | Endpoints de los puntos relacionados a Profile Context. |
 | Beth Shantal, Oneglio De Paz | Endpoints de los puntos relacionados a Plan Context. |
 | David Ivanoff, Gallo Quintana | Endpoints de los puntos relacionados a Vehicle Context. |
 | Niurka Lucero, Huarcaya Quispe    | Endpoints de los puntos relacionados a Orders Context. |
@@ -2503,7 +2479,6 @@ Tabla de integrantes:
 | JuanCali999 | Calisaya Sánchez, Juan Jesús |
 | DavidRm1911 | Gallo Quintana, David Ivanoff |
 | NLH18 | Huarcaya Quispe, Niurka Lucero |
-| Alejandro1709 | La Rosa Rodríguez, Alejandro |
 | bethnlg | Oneglio De Paz, Beth Shantal |
 
 
@@ -2771,22 +2746,22 @@ En la pantalla de "Lo más destacado” el botón de “Ver más” no es un bot
 
 <img src="https://i.ibb.co/6WYwMRT/image.png" alt="image" border="0"></a>
 
-**Recomendación:**</br>
+**Recomendación:**
 Hacer utilizable el botón de “Ver más”.
 
 ---
 
 **PROBLEMA #6:** Presencia de errores ortográficos que afectan la comprensión.
 
-**Severidad:** 1</br>
+**Severidad:** 1<br>
 **Heurística violada:** Usabilidad -- Diseño estético y minimalista
 
-**Problema:**</br>
+**Problema:**
 El frontend presenta errores ortográficos que afectan la claridad y comprensión del plan, lo que puede generar confusión en los usuarios.
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/25KK9YR/image.png" alt="image" border="0"></a>
 
-**Recomendación:**</br>
+**Recomendación:**
 Es necesario realizar una revisión ortográfica del prototipo para identificar y corregir los errores de forma inmediata, asegurando así una mejor comprensión por parte de los usuarios al utilizar el plan.
 
 ## 5.4. Video About-the-Product
