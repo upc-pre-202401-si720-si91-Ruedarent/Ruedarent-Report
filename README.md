@@ -2401,7 +2401,7 @@ En el landing page se han incorporado dos videos: uno sobre el producto y otro s
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
-En esta sección se mostrarán los endpoints desarrollados durante el sprint actual, junto con capturas de pantalla que ilustran las acciones CRUD y otros métodos implementados en OpenAPI. Durante este sprint, se ha avanzado en los bounded contexts de user, plan, vehicle, order y payment.
+En esta sección se mostrarán los endpoints desarrollados durante el sprint actual, junto con capturas de pantalla que ilustran las acciones CRUD y otros métodos implementados en OpenAPI. Durante este sprint, se ha avanzado en los bounded contexts de user, vehicle y order.
 
 Link del repositorio de la API en GitHub: https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Backend/tree/master
 
@@ -2423,13 +2423,6 @@ Link del repositorio de la API en GitHub: https://github.com/upc-pre-202401-si72
     <th> <img src="https://i.ibb.co/zVjqSBg/Imagen-de-Whats-App-2024-06-10-a-las-01-19-25-0a4c941e.jpg"> </th>
   </tr>
 
-
-  <tr>
-   <th style="text-align:center;"> <strong> Plan Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> api/v1/plan </strong> </th>
-    <th> </th>
-  </tr>
-
   <tr>
    <th style="text-align:center;"> <strong> Vehicle Bounded Context </strong> </th>
     <th style="text-align:center;"> <strong> api/v1/vehicle </strong> </th>
@@ -2442,11 +2435,6 @@ Link del repositorio de la API en GitHub: https://github.com/upc-pre-202401-si72
     <th> <img src="https://i.ibb.co/c3wgGst/order.jpg" alt="order" border="0"> </th>
   </tr>
 
-<tr>
-   <th style="text-align:center;"> <strong> Payment Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> api/v1/payment </strong> </th>
-    <th> </th>
-</tr>
 </table>
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
