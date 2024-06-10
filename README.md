@@ -2331,6 +2331,8 @@ En esta sección se detallarán las tareas llevadas a cabo durante el presente s
 En esta sección se presentará la tabla de commits desarrollados durante el sprint actual.
 
 <table>
+
+
   <tr>
     <th> <strong>Repository</strong> </th>
     <th> <strong>Branch</strong> </th>
@@ -2340,32 +2342,71 @@ En esta sección se presentará la tabla de commits desarrollados durante el spr
      <th> <strong>Commited on (Date)</strong> </th>
  </tr>
 
+  <tr>
+  <th>ruedarent.API</th>
+  <th>master</th>
+  <th>73fd842b8</th>
+  <th>feat: added file</th>
+  <th>feat: added file</th>
+  <th>07/06/2024</th>
+</tr>
+
+<tr>
+  <th>ruedarent.API</th>
+  <th>master</th>
+  <th>a232f02</th>
+  <th>chore: Initial config</th>
+  <th>chore: Initial config</th>
+  <th>07/06/2024</th>
+</tr>
+
  <tr> 
    <th>ruedarent.API</th>
-   <th> develop </th>
-   <th> </th>
-   <th> </th>
-   <th> </th>
+   <th> master </th>
+   <th> f043c68</th>
+   <th> feat:added vehicle section back end</th>
+   <th> feat: added vehicle section</th>
    <th>9/06/2024</th>
  </tr>
 
  <tr> 
    <th>ruedarent.API</th>
-   <th> develop </th>
-   <th> </th>
-   <th> </th>
-   <th> </th>
+   <th> master </th>
+   <th> 1503d674</th>
+   <th> feat: renamed vehicle documents</th>
+   <th> feat: renamed vehicle documents</th>
    <th>9/06/2024</th>
+ </tr>
+
+ <tr> 
+   <th>ruedarent.API</th>
+   <th> master </th>
+   <th> 1013023</th>
+   <th> feat: added user profile</th>
+   <th> feat: added user profile</th>
+   <th>10/06/2024</th>
+ </tr>
+
+   <tr> 
+   <th>ruedarent.API</th>
+   <th> develop </th>
+   <th> 8beb56e5</th>
+   <th> feat: added orders</th>
+   <th> feat: added orders</th>
+   <th>10/06/2024</th>
  </tr>
 
   <tr> 
    <th>ruedarent.API</th>
    <th> develop </th>
-   <th> </th>
-   <th> </th>
-   <th> </th>
-   <th>9/06/2024</th>
+   <th> 76bc262</th>
+   <th> feat: fixed orders</th>
+   <th> feat: fixed orders section</th>
+   <th>10/06/2024</th>
  </tr>
+
+
+
  </table>
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
@@ -2390,6 +2431,7 @@ Durante este sprint, se llevaron a cabo las pruebas de aceptación utilizando la
     <th> <strong> </strong> </th>
     <th> <strong>06/06/2024</strong> </th>
  </tr>
+
 
 </table>
 
