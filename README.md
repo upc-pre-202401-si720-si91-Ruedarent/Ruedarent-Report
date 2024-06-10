@@ -2423,6 +2423,53 @@ En el landing page se han incorporado dos videos: uno sobre el producto y otro s
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+En esta sección se presentarán los endpoints desarrollados en el presente sprint y se adjuntan capturas de pantalla de las acciones Crud y otros métodos realizados en OpenApi. En el alcance del sprint, se han avanzado los bounded context de profile, plan, vehicle, order y payment.
+
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Endpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Profile Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/profile </strong> </th>
+    <th>  </th>
+  </tr>
+
+
+  <tr>
+   <th style="text-align:center;"> <strong> Plan Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/plan </strong> </th>
+    <th>  </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Vehicle Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/vehicle </strong> </th>
+    <th>  </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Order Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/order </strong> </th>
+    <th>  </th>
+  </tr>
+
+<tr>
+   <th style="text-align:center;"> <strong> Payment Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/payment </strong> </th>
+    <th> </th>
+</tr>
+
+</table>
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint
