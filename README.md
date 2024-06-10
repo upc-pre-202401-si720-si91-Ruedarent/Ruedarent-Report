@@ -2472,6 +2472,14 @@ En esta sección se presentarán los endpoints desarrollados en el presente spri
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
 
+Para el presente sprint, se ha desarrollado el API de la web application teniendo en cuenta los diferentes bounded context. Para lo cual se emplearon las siguientes herramientas.
+<ul>
+<li> Git: Sistema de control de versiones que utilizamos para trabajar de forma colaborativa y monitorear las versiones de la aplicación web en un repositorio remoto. </li>
+<li> Gitflow: Este flujo de trabajo colaborativo nos ha permitido dividir el trabajo en ramas dentro de nuestro repositorio, lo que facilita la colaboración en el desarrollo. </li>
+<li> GitHub: La plataforma que nos proporcionó la herramienta para crear nuestro repositorio y almacenar las versiones de nuestro proyecto. </li>
+<li> Swagger Ui: herramienta que facilita la realización de pruebas de funcionamiento y documentación de nuestra API de software. </li>
+</ul>
+
 #### 5.2.3.8.Team Collaboration Insights during Sprint
 
 En esta entrega, se ha estructurado el trabajo en diferentes ramas, basadas en los endpoints y distribuciones en las que nos dividimos. Esto nos ha permitido manejar cada sección de manera separada, reduciendo posibles conflictos durante la implementación del WebService. Además, se han implementado las convenciones de Gitflow, creando distintas ramas según las necesidades, y se ha seguido adecuadamente el formato de conventional commits. A continuación se mostrarán los distintos commits realizados por los integrantes:
