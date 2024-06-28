@@ -1680,22 +1680,22 @@ En esta sección, se mostrarán los distintos diagramas elaborados que represent
 
 #### 4.6.1. Software Architecture Context Diagram.
 
-<a href="https://ibb.co/m6WBPpc"><img src="https://i.ibb.co/RzwSJ8D/dd1.png" alt="dd1" border="0"></a>
+<a href="https://ibb.co/xh9VTdF"><img src="https://i.ibb.co/tBjyrFL/Captura-de-pantalla-2024-06-28-a-la-s-3-39-06-p-m.png" alt="dd1" border="0"></a>
 
 #### 4.6.2. Software Architecture Container Diagrams.
 
-<a href="https://ibb.co/d706wNz"><img src="https://i.ibb.co/HXDYfck/dd2.png" alt="dd2" border="0"></a>
+<a href="https://ibb.co/FYfWBkK"><img src="https://i.ibb.co/2ML6j0y/Captura-de-pantalla-2024-06-28-a-la-s-3-48-33-p-m.png" alt="dd2" border="0"></a>
 
 #### 4.6.3. Software Architecture Components Diagrams.
 
 - En este primer caso se muestran las funcionalidades que tendrá nuestra aplicación web.
-  <a href="https://ibb.co/5MrrGnZ"><img src="https://i.ibb.co/JBvvmyZ/dd3.png" alt="dd3" border="0"></a>
+  <a href="https://ibb.co/R3ZMms8"><img src="https://i.ibb.co/7n8T5Zh/Captura-de-pantalla-2024-06-28-a-la-s-3-48-38-p-m.png" alt="dd3" border="0"></a>
 
 - En este segundo caso se mostrarán los componentes necesarios para la seguridad.
-  <a href="https://ibb.co/qJybVGm"><img src="https://i.ibb.co/rd7nNP5/dd4.png" alt="dd4" border="0"></a>
+  <a href="https://ibb.co/5khXdxx"><img src="https://i.ibb.co/f9dVbGG/Captura-de-pantalla-2024-06-28-a-la-s-3-49-00-p-m.png" alt="dd4" border="0"></a>
 
-- En este tercer caso se muestran los componentes necesarios para los comentarios.
-  <a href="https://ibb.co/wsdTN5k"><img src="https://i.ibb.co/zJm1hqM/dd5.png" alt="dd5" border="0"></a>
+- En este tercer caso se muestran los componentes necesarios para los vehiculos.
+  <a href="https://ibb.co/StBm19t"><img src="https://i.ibb.co/x16gcR1/Captura-de-pantalla-2024-06-28-a-la-s-3-48-43-p-m.png" alt="dd5" border="0"></a>
 
 ### 4.7. Software Object-Oriented Design.
 
