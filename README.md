@@ -2528,7 +2528,7 @@ Tabla de integrantes:
 A continuación, se mostrarán los gráficos de insights durante el sprint:
 <br>
 Anexo: Flujo de trabajo entre las ramas: <img src="https://i.ibb.co/sQBMxPY/image.png" alt="image" border="0"></a>
-
+<br>
 
 ### 5.2.4 Sprint 4
 
