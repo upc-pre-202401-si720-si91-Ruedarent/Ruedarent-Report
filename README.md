@@ -2526,7 +2526,7 @@ Tabla de integrantes:
 
 
 A continuación, se mostrarán los gráficos de insights durante el sprint:
-
+<br>
 Anexo: Flujo de trabajo entre las ramas: <img src="https://i.ibb.co/sQBMxPY/image.png" alt="image" border="0"></a>
 
 
@@ -2734,13 +2734,10 @@ Durante este sprint, se llevaron a cabo las pruebas de aceptación utilizando la
 
  #### 5.2.4.5 Execution Evidence for Sprint Review.
 
- En el presente trabajo, no se realizaron cambios para el front-end, dado que estos puntos fueron culminados en el anterior sprint. De cualquier forma se puede acceder mediante el siguiente link:
+En el presente trabajo, no se realizaron cambios para el front-end, dado que estos puntos fueron culminados en el anterior sprint. De cualquier forma se puede acceder mediante el siguiente link:
 https://ruedarent.netlify.app/
  
-
  Para ver el despliegue del back-end se ver mediante este link:
-
- (Falta Link)
 
  #### 5.2.4.6 Services Documentation Evidence for Sprint Review.
 
