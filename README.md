@@ -35,10 +35,6 @@
             <td>U20221b226</td>
         </tr>
         <tr>
-            <td>La Rosa Rodríguez, Alejandro</td>
-            <td>U201911361</td>
-        </tr>
-        <tr>
             <td>Oneglio De Paz, Beth Shantal</td>
             <td>U202213423</td>
         </tr>
