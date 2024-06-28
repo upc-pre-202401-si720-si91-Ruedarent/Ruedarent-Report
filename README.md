@@ -59,8 +59,8 @@
 | TB1 | 14/04/2024 | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición de los Capítulos I: Introduction, II: Requirements Elicitation & Analysis, III: Requirements Specification, IV: Product Design, V: Product Implementation, Validation & Deployment. |
 | TP1 | 3/05/2024 | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br>La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición del Capítulo V: 5.2.2., 5.2.2.1., 5.2.2.2., 5.2.2.3., 5.2.2.4., 5.2.2.5., 5.2.2.6., 5.2.2.7., 5.2.2.8. |
 | TB2 | 4/06/2024 | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br> La Rosa Rodríguez, Alejandro<br></br> Oneglio De Paz, Beth Shantal | Adición del Capítulo: 5.2.3., 5.2.3.1., 5.2.3.2., 5.2.3.3., 5.2.3.4., 5.2.3.5., 5.2.3.6., 5.2.3.7., 5.2.3.8., 5.3., 5.3.1., 5.3.2., 5.3.3., 5.4. |
+| TF | 27/06/2024 | Calisaya Sánchez, Juan Jesús<br></br> Gallo Quintana, David Ivanoff<br></br> Huarcaya Quispe, Niurka Lucero<br></br><br> Oneglio De Paz, Beth Shantal | Adición del Capítulo: 5.2.4., 5.2.4.1., 5.2.4.2., 5.2.4.3., 5.2.4.4., 5.2.4.5., 5.2.4.6., 5.2.4.7., 5.2.4.8. |
 
----
 
 # Project Report Collaboration Insights
 
@@ -2519,6 +2519,236 @@ Tabla de integrantes:
 A continuación, se mostrarán los gráficos de insights durante el sprint:
 
 Anexo: Flujo de trabajo entre las ramas: <img src="https://i.ibb.co/sQBMxPY/image.png" alt="image" border="0"></a>
+
+
+### 5.2.4 Sprint 4
+
+#### 5.2.4.1 Sprint Planning 4
+
+Esta sección contiene detalles sobre las reuniones que se llevaron a cabo con el propósito de culminar el servicio web y la implementación de la conexión entre esta y la front end.
+
+| Sprint # | Sprint #4 |
+|----------| --------- |
+| **Sprint Planning Background** |
+| **Date** | 25/06/2024 |
+| **Time** | 15:00 horas (GMT-5) |
+| **Location** | Google Meet |
+| **Prepared by** | Gallo Quintana, David Ivanoff |
+| **Attendes (to planning meeting)** | Calisaya Sánchez, Juan Jesús<br>Gallo Quintana, David Ivanoff<br>Huarcaya Quispe, Niurka Lucero<br> Oneglio De Paz, Beth Shantal |
+| **Sprint 2 Review Summary** | Durante el desarrollo del Sprint 3, se logró implementar con éxito el servicio web. Se logró cumplir con todos los requisitos funcionales establecidos para este Sprint. Lastimosamente durante el anterior sprint no se termino de desplegar el back-end. |
+| **Sprint 2 Retrospective Summary** | El Sprint 3 se completó en su mayoría satisfactoriamente. Sin embargo, identificamos áreas de mejora, como realizar el merge con mayor anticipación para evitar inconvenientes. |
+
+<table>
+<tr>
+   <td style="font-weight: bold;" colspan="7">Sprint Goal & User Stories</td>
+     </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 4 Goal</td>
+          <td>Para este sprint tenemos como objetivo terminar realizar la implementación del backend, cumpliendo con los requisitos de la aplicación y siguiendo lo estimulado en las historias de usuario correspondientes a cada funcionalidad, así como el despligue y conexión para el correcto funcionamiento de la página.<td>
+      </tr>
+       <tr>
+          <td style="font-weight: bold;"> Sprint 4 Velocity</td>
+          <td>30<td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points</td>
+          <td>32<td>
+      </tr>
+  </table>
+
+### 5.2.4.2 Sprint Backlog 4
+En esta sección se muestran las tareas realizadas durante este sprint, se adjunta una captura de pantalla ademas de el link de la plataforma Trello:
+https://trello.com/b/h5zaAUmD/ruedarent-sprint-4
+
+
+<a href="https://ibb.co/8KtDm4g"><img src="https://i.ibb.co/M2QDg5k/image-2024-06-27-205523360.png" alt="image" border="0"></a>
+
+
+<table style="width:400px; height:100px;"> 
+   <tr>
+      <th colspan="4">Sprint #</th>
+      <th colspan="7">Sprint 4</th>
+   </tr>
+   <tr>
+     <th colspan="4">User Story</th>
+     <th colspan="7">Work-Item/Task</th>
+   </tr>
+   <tr>
+     <th>Id</th>
+     <th colspan="3">Title</th>
+     <th>Id</th>
+     <th>Title</th>
+     <th>Description</th>
+     <th>Estimation (Hours)</th>
+     <th>Assigned To</th> 
+     <th>Status (To-do/In-Process/To-Review/Done)</th>
+   </tr>
+     <tr>
+      <th>EP6-US16</th>
+     <th colspan="3">Vehicle Service Back-End</th>
+      <th>W25</th>
+     <th>Implementación de base de datos de endpoint vehicle (C#)</th>
+      <th>Implementación de Vehicle Services
+      </th>
+     <th>12</th>
+     <th>David Gallo</th>
+     <th>Done</th> 
+   </tr>
+    <tr>
+      <th>EP6-US17</th>
+     <th colspan="3">Profile Service Back-End</th>
+      <th>W26</th>
+     <th>Obtención y finalización de profile Service (C#)</th>
+     <th>Implementación de método de búsqueda mediante Get (C#)</th>
+     <th>12</th>
+     <th>Beth Oneglio/th> 
+     <th>Done</th>
+   </tr>
+    <tr>
+      <th>EP6-US18</th>
+     <th colspan="3">Uso De IAM (C#)</th>
+      <th>W27</th>
+     <th>Uso de IAM para el manejo de sesión (C#)</th>
+     <th>Manejo de sesión</th>
+     <th>9</th>
+     <th>Juan Calisaya</th> 
+     <th>Done</th>
+   </tr>
+     <tr>
+      <th>EP6-US19</th>
+     <th colspan="3">Uso de Payment Service</th>
+      <th>W28</th>
+     <th>Uso de Payment Service con paypal</th>
+     <th>Implementación de los servicios asociados a Payment (C#)</th>
+     <th>12</th>
+     <th>Niurka Huarcaya</th> 
+     <th>Done</th>
+   </tr>
+   </tr>
+</table>
+
+#### 5.2.4.3 Development Evidence for Sprint Review.
+
+En esta sección se mostrará una tabla de las evidencias del desarrollo del sprint:
+(FALTAN AGREGAR COMMITS)
+
+#### 5.2.4.4 Testing Suite Evidence for Sprint Review.
+Durante este sprint, se llevaron a cabo las pruebas de aceptación utilizando la herramienta correspondiente. Puedes encontrar las pruebas de aceptación en el siguiente enlace: https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Acceptance-Tests
+
+<table>
+  <tr>
+    <th> <strong>Repository</strong> </th>
+    <th> <strong>Branch</strong> </th>
+    <th> <strong>Commit ID</strong> </th>
+    <th> <strong>Commit Message</strong> </th>
+    <th> <strong>Commit Message (Body)</strong> </th>
+    <th> <strong>Commited on (Date)</strong> </th>
+ </tr>
+
+ <tr>
+   <th> <strong>Acceptance-Test </strong> </th>
+    <th> <strong>main</strong> </th>
+    <th> <strong>04899bb</strong> </th>
+    <th> <strong>feat: added acceptance tests for api features</strong> </th>
+    <th> <strong> </strong> </th>
+    <th> <strong>24/06/2024</strong> </th>
+ </tr>
+
+ #### 5.2.4.5 Execution Evidence for Sprint Review.
+
+ En el presente trabajo, no se realizaron cambios para el front-end, dado que estos puntos fueron culminados en el anterior sprint. De cualquier forma se puede acceder mediante el siguiente link:
+
+ (FALTA LINK)
+
+ Para ver el despliegue del back-end se ver mediante este link:
+
+ (Falta Link)
+
+ #### 5.2.4.6 Services Documentation Evidence for Sprint Review.
+
+ Durante este punto se mostrarán los endpoints dados por el servicio web, esto gracias a OpenApi.
+ Durante este trabajo se realizaron los puntos, Profile, Vehicle, Payment, Authentication, etc.
+
+(ADJUNTAR TABLA CON IMAGENES)
+<table>
+  <tr>
+   <th style="text-align:center;"><strong> Bounded Context </strong> </th>
+    <th colspan="2" style="text-align:center;">   </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Entity </strong> </th>
+    <th style="text-align:center;"> <strong> Enpoint Url </strong> </th>
+    <th style="text-align:center;"> <strong> Swagger </strong> </th>
+  </tr>
+
+
+  <tr>
+   <th style="text-align:center;"> <strong> Vehicle Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/users/monetization/Commision </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124030865440878/image.png?ex=667c4e05&is=667afc85&hm=a8aab795a7630008307b5e7c5e449ff1914a909c4a352a34f4a65af9a924b18b&=&format=webp&quality=lossless&width=1440&height=328"> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Profile Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/collaboration/Comment </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124078282047540/image.png?ex=667c4e10&is=667afc90&hm=330fbf6acb9b13a58134117d32ef6a7ba78f3217bb4696f4633a28da910f3104&=&format=webp&quality=lossless&width=1440&height=322"> </th>
+  </tr>
+
+<tr>
+   <th style="text-align:center;"> <strong> Payment Bounded Context </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/monetization/Subscription </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124128999309312/image.png?ex=6678599c&is=6677081c&hm=4add512222972dddd744e5721c3f877d10a56c1c663d4c151a70e51650b8c6a9&=&format=webp&quality=lossless&width=1440&height=331"> </th>
+  </tr>
+
+  <tr>
+   <th style="text-align:center;"> <strong> Authentication </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/authentication </strong> </th>
+    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254128616766312609/image.png?ex=667c524a&is=667b00ca&hm=f197348a15aec9eaf9500b45bfa7a0c626b3c0dd71fe4c2b4a4135b951d0ff83&=&format=webp&quality=lossless&width=1440&height=148"> </th>
+  </tr>
+
+</table>
+
+#### 5.2.4.7 Software Deployment Evidence for Sprint Review.
+
+Para la culminación del trabajo, fue necesario trabajar con estas herramientas.
+
+<ul>
+<li> Git: Sistema de control de versiones</li>
+<li> Gitflow: Flujo de trabajo colaborativo</li>
+<li> GitHub: Plataforma que nos brinda la posiblidad de crear nuestro repositorio y trabajar de manera colaborativa</li>
+<li> Google Meet: Plataforma donde se hizo uso de llamadas y reuniones para coordinar.</li>
+<li> Swagger UI: Herramienta para poder probar y documentar nuestro API</li>
+</ul>
+
+#### 5.2.4.8 Team Collaboration Insights during Sprint.
+A continuación se mostrarán los papeles de cada integrante durante este sprint, cada acción basada en una historia de usuario.
+
+|Integrante | Actividad|
+|-----------|----------|
+| Beth Shantal, Oneglio De Paz | Endpoints de los puntos relacionados a Plan Context. |
+| David Ivanoff, Gallo Quintana | Endpoints de los puntos relacionados a Vehicle Context. |
+| Niurka Lucero, Huarcaya Quispe    | Endpoints de los puntos relacionados a Orders Context. |
+| Juan Jesús, Calisaya Sanchez      | Enpoints de los puntos relacionados a Payment Context. |
+
+Hemos colaborado en el desarrollo mediante commits que abordan la corrección de bugs, fusiones entre ramas, adición de secciones y correcciones en el código fuente.
+
+A continuación, se presentará una tabla con los colaboradores en el repositorio de GitHub para identificar a cada miembro del equipo.
+
+Tabla de integrantes:
+
+|**Username (GitHub)**|**Nombres**|
+|----|----|
+| JuanCali999 | Calisaya Sánchez, Juan Jesús |
+| DavidRm1911 | Gallo Quintana, David Ivanoff |
+| NLH18 | Huarcaya Quispe, Niurka Lucero |
+| bethnlg | Oneglio De Paz, Beth Shantal |
+
+
+A continuación, se mostrarán los gráficos de insights durante el sprint:
+
+Anexo: Flujo de trabajo entre las ramas: <img src="https://i.ibb.co/sQBMxPY/image.png" alt="image" border="0"></a>
+
 
 ## 5.3. Validation Interviews
 
