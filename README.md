@@ -2726,8 +2726,8 @@ Durante este sprint, se llevaron a cabo las pruebas de aceptación utilizando la
  #### 5.2.4.5 Execution Evidence for Sprint Review.
 
  En el presente trabajo, no se realizaron cambios para el front-end, dado que estos puntos fueron culminados en el anterior sprint. De cualquier forma se puede acceder mediante el siguiente link:
-
- (FALTA LINK)
+https://ruedarent.netlify.app/
+ 
 
  Para ver el despliegue del back-end se ver mediante este link:
 
@@ -2738,7 +2738,6 @@ Durante este sprint, se llevaron a cabo las pruebas de aceptación utilizando la
  Durante este punto se mostrarán los endpoints dados por el servicio web, esto gracias a OpenApi.
  Durante este trabajo se realizaron los puntos, Profile, Vehicle, Payment, Authentication, etc.
 
-(ADJUNTAR TABLA CON IMAGENES)
 
 
 <table>
