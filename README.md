@@ -2630,7 +2630,76 @@ https://trello.com/b/h5zaAUmD/ruedarent-sprint-4
 #### 5.2.4.3 Development Evidence for Sprint Review.
 
 En esta sección se mostrará una tabla de las evidencias del desarrollo del sprint:
-(FALTAN AGREGAR COMMITS)
+
+<table>
+
+
+  <tr>
+    <th> <strong>Repository</strong> </th>
+    <th> <strong>Branch</strong> </th>
+    <th> <strong>Commit ID</strong> </th>
+    <th> <strong>Commit Message</strong> </th>
+     <th> <strong>Commit Message (Body)</strong> </th>
+     <th> <strong>Commited on (Date)</strong> </th>
+ </tr>
+
+  <tr>
+  <th>ruedarent.Back-end</th>
+  <th>main</th>
+  <th>fe2eca4</th>
+  <th>feat: refactoring code</th>
+  <th>feat: refactoring code</th>
+  <th>28/06/2024</th>
+</tr>
+
+<tr>
+  <th>ruedarent.Back-end</th>
+  <th>main</th>
+  <th>64f93c4</th>
+  <th>feat: image updated</th>
+  <th>feat: image updated</th>
+  <th>28/06/2024</th>
+</tr>
+
+ <tr> 
+   <th>ruedarent.Back-end</th>
+   <th> main </th>
+   <th> b55e123</th>
+   <th> feat: names changed</th>
+   <th> feat: names changed</th>
+   <th>28/06/2024</th>
+ </tr>
+
+ <tr> 
+   <th>ruedarent.API</th>
+   <th> master </th>
+   <th> 1503d674</th>
+   <th> feat: renamed vehicle documents</th>
+   <th> feat: renamed vehicle documents</th>
+   <th>9/06/2024</th>
+ </tr>
+
+ <tr> 
+   <th>ruedarent-backend</th>
+   <th> IAMVehicle </th>
+   <th> 914e87f</th>
+   <th> feat: added AIM, Vehicle and Profile</th>
+   <th> feat: added AIM, Vehicle and Profile</th>
+   <th>28/06/2024</th>
+ </tr>
+
+   <tr> 
+   <th>ruedarent-backend</th>
+   <th> payment-section </th>
+   <th> afc6058</th>
+   <th> feat: added payment-section</th>
+   <th> feat: added payment-section</th>
+   <th>28/06/2024</th>
+ </tr>
+
+
+
+ </table>
 
 #### 5.2.4.4 Testing Suite Evidence for Sprint Review.
 Durante este sprint, se llevaron a cabo las pruebas de aceptación utilizando la herramienta correspondiente. Puedes encontrar las pruebas de aceptación en el siguiente enlace: https://github.com/upc-pre-202401-si720-si91-Ruedarent/Ruedarent-Acceptance-Tests
@@ -2670,6 +2739,8 @@ Durante este sprint, se llevaron a cabo las pruebas de aceptación utilizando la
  Durante este trabajo se realizaron los puntos, Profile, Vehicle, Payment, Authentication, etc.
 
 (ADJUNTAR TABLA CON IMAGENES)
+
+
 <table>
   <tr>
    <th style="text-align:center;"><strong> Bounded Context </strong> </th>
@@ -2685,26 +2756,34 @@ Durante este sprint, se llevaron a cabo las pruebas de aceptación utilizando la
 
   <tr>
    <th style="text-align:center;"> <strong> Vehicle Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> api/v1/users/monetization/Commision </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124030865440878/image.png?ex=667c4e05&is=667afc85&hm=a8aab795a7630008307b5e7c5e449ff1914a909c4a352a34f4a65af9a924b18b&=&format=webp&quality=lossless&width=1440&height=328"> </th>
+    <th style="text-align:center;"> <strong> api/v1/vehicles </strong> </th>
+    <th> <img src="https://i.ibb.co/GRr9Z2j/Whats-App-Image-2024-06-28-at-16-29-17.jpg"> </th>
   </tr>
 
   <tr>
    <th style="text-align:center;"> <strong> Profile Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> api/v1/collaboration/Comment </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124078282047540/image.png?ex=667c4e10&is=667afc90&hm=330fbf6acb9b13a58134117d32ef6a7ba78f3217bb4696f4633a28da910f3104&=&format=webp&quality=lossless&width=1440&height=322"> </th>
+    <th style="text-align:center;"> <strong> api/v1/profiles </strong> </th>
+    <th> <img src="https://i.ibb.co/WH4xkRh/Whats-App-Image-2024-06-28-at-16-29-06.jpg"> </th>
   </tr>
 
-<tr>
-   <th style="text-align:center;"> <strong> Payment Bounded Context </strong> </th>
-    <th style="text-align:center;"> <strong> api/v1/monetization/Subscription </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254124128999309312/image.png?ex=6678599c&is=6677081c&hm=4add512222972dddd744e5721c3f877d10a56c1c663d4c151a70e51650b8c6a9&=&format=webp&quality=lossless&width=1440&height=331"> </th>
-  </tr>
+
 
   <tr>
    <th style="text-align:center;"> <strong> Authentication </strong> </th>
     <th style="text-align:center;"> <strong> api/v1/authentication </strong> </th>
-    <th> <img src="https://media.discordapp.net/attachments/1235639705157107720/1254128616766312609/image.png?ex=667c524a&is=667b00ca&hm=f197348a15aec9eaf9500b45bfa7a0c626b3c0dd71fe4c2b4a4135b951d0ff83&=&format=webp&quality=lossless&width=1440&height=148"> </th>
+    <th> <img src="https://i.ibb.co/5MpDjJn/Whats-App-Image-2024-06-28-at-16-28-47.jpg"> </th>
+  </tr>
+
+   <tr>
+   <th style="text-align:center;"> <strong> User </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/users </strong> </th>
+    <th> <img src="https://i.ibb.co/KzLnyNF/Whats-App-Image-2024-06-28-at-16-29-11.jpg"> </th>
+  </tr>
+
+    <tr>
+   <th style="text-align:center;"> <strong> Categories </strong> </th>
+    <th style="text-align:center;"> <strong> api/v1/categories </strong> </th>
+    <th> <img src="https://i.ibb.co/YNLFBkR/Whats-App-Image-2024-06-28-at-16-28-59.jpg"> </th>
   </tr>
 
 </table>
@@ -2727,7 +2806,7 @@ A continuación se mostrarán los papeles de cada integrante durante este sprint
 |Integrante | Actividad|
 |-----------|----------|
 | Beth Shantal, Oneglio De Paz | Endpoints de los puntos relacionados a Plan Context. |
-| David Ivanoff, Gallo Quintana | Endpoints de los puntos relacionados a Vehicle Context. |
+| David Ivanoff, Gallo Quintana | Endpoints de los puntos relacionados a Vehicle Context, IAM, y Profile |
 | Niurka Lucero, Huarcaya Quispe    | Endpoints de los puntos relacionados a Orders Context. |
 | Juan Jesús, Calisaya Sanchez      | Enpoints de los puntos relacionados a Payment Context. |
 
@@ -2747,7 +2826,7 @@ Tabla de integrantes:
 
 A continuación, se mostrarán los gráficos de insights durante el sprint:
 
-Anexo: Flujo de trabajo entre las ramas: <img src="https://i.ibb.co/sQBMxPY/image.png" alt="image" border="0"></a>
+Anexo: Flujo de trabajo entre las ramas: <img src="https://i.ibb.co/txNp1QJ/Captura-de-pantalla-2024-06-28-a-la-s-4-35-34-p-m.png" alt="image" border="0"></a>
 
 
 ## 5.3. Validation Interviews
