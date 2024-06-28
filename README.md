@@ -2744,8 +2744,6 @@ https://ruedarent.netlify.app/
  Durante este punto se mostrarán los endpoints dados por el servicio web, esto gracias a OpenApi.
  Durante este trabajo se realizaron los puntos, Profile, Vehicle, Payment, Authentication, etc.
 
-
-
 <table>
   <tr>
    <th style="text-align:center;"><strong> Bounded Context </strong> </th>
@@ -2831,7 +2829,8 @@ Tabla de integrantes:
 
 A continuación, se mostrarán los gráficos de insights durante el sprint:
 
-Anexo: Flujo de trabajo entre las ramas: <img src="https://i.ibb.co/txNp1QJ/Captura-de-pantalla-2024-06-28-a-la-s-4-35-34-p-m.png" alt="image" border="0"></a>
+Anexo: Flujo de trabajo entre las ramas:<br>
+<img src="https://i.ibb.co/txNp1QJ/Captura-de-pantalla-2024-06-28-a-la-s-4-35-34-p-m.png" alt="image" border="0"></a>
 
 
 ## 5.3. Validation Interviews
